@@ -1,1 +1,357 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VTeW5jRXh0ZXJuYWxTdG9yZSB9IGZyb20gInJlYWN0IjsKaW1wb3J0IHBvc3Rob2cgZnJvbSAicG9zdGhvZy1qcyI7CgovKiDilIDilIDilIAgZGF0YSDilIDilIDilIAgKi8KY29uc3QgSFlEUkFfVVJMID0gImh0dHBzOi8vYml0Lmx5LzNTdmF1djQiOwpjb25zdCBCTE9GSU5fVVJMID0gImh0dHBzOi8vYml0Lmx5LzRheUhsOHIiOwoKLyogYnJva2VyIGFjY2VudCBjb2xvcnMg4oCUIHNjb3BlZCB0byB0aGlzIHBhZ2Ugb25seSAqLwpjb25zdCBIWURSQSA9ICIjQzZGNTZCIjsKY29uc3QgQkxPRklOID0gIiNGRjdBMUEiOwoKLyog4pSA4pSA4pSAIExvZ28g4pSA4pSA4pSAICovCmZ1bmN0aW9uIExvZ28oeyBocmVmIH06IHsgaHJlZjogc3RyaW5nIH0pIHsKICByZXR1cm4gKAogICAgPGEgaHJlZj17aHJlZn0gc3R5bGU9e3sgZGlzcGxheTogImZsZXgiLCBhbGlnbkl0ZW1zOiAiY2VudGVyIiwgZ2FwOiAxMiwgZmxleFNocmluazogMCB9fT4KICAgICAgPHN2ZyB3aWR0aD0iMjIiIGhlaWdodD0iMjIiIHZpZXdCb3g9IjAgMCAyMiAyMiIgc3R5bGU9e3sgZmxleFNocmluazogMCB9fT4KICAgICAgICA8cmVjdCB4PSIxIiB5PSIxIiB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIGZpbGw9Im5vbmUiIHN0cm9rZT0idmFyKC0tYWNpZCkiIHN0cm9rZVdpZHRoPSIxLjQiIC8+CiAgICAgICAgPHJlY3QgeD0iNiIgeT0iNiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSJ2YXIoLS1hY2lkKSIgLz4KICAgICAgICA8cmVjdCB4PSI5IiB5PSI5IiB3aWR0aD0iNCIgaGVpZ2h0PSI0IiBmaWxsPSJ2YXIoLS1iZykiIC8+CiAgICAgIDwvc3ZnPgogICAgICA8c3BhbiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1kaXNwbGF5KSIsIGZvbnRTaXplOiAxNiwgZm9udFdlaWdodDogNjAwLCBjb2xvcjogInZhcigtLWJvbmUpIiwgbGV0dGVyU3BhY2luZzogIi0wLjAyZW0iLCB3aGl0ZVNwYWNlOiAibm93cmFwIiBhcyBjb25zdCB9fT4KICAgICAgICBRdWFudHVtIENpcGhlcgogICAgICA8L3NwYW4+CiAgICA8L2E+CiAgKTsKfQoKLyog4pSA4pSA4pSAIE1vbm8gbGFiZWwg4pSA4pSA4pSAICovCmZ1bmN0aW9uIE1vbm8oeyBjaGlsZHJlbiwgY29sb3IgPSAidmFyKC0tYWNpZCkiLCBzdHlsZSB9OiB7IGNoaWxkcmVuOiBSZWFjdC5SZWFjdE5vZGU7IGNvbG9yPzogc3RyaW5nOyBzdHlsZT86IFJlYWN0LkNTU1Byb3BlcnRpZXMgfSkgewogIHJldHVybiAoCiAgICA8ZGl2IHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LW1vbm8pIiwgZm9udFNpemU6IDExLCBmb250V2VpZ2h0OiA3MDAsIGxldHRlclNwYWNpbmc6ICIwLjIyZW0iLCB0ZXh0VHJhbnNmb3JtOiAidXBwZXJjYXNlIiBhcyBjb25zdCwgY29sb3IsIC4uLnN0eWxlIH19PgogICAgICB7Y2hpbGRyZW59CiAgICA8L2Rpdj4KICApOwp9CgovKiDilIDilIDilIAgRmVhdHVyZSBidWxsZXQg4pSA4pSA4pSAICovCmZ1bmN0aW9uIEZlYXQoeyBhY2NlbnQsIGNoaWxkcmVuIH06IHsgYWNjZW50OiBzdHJpbmc7IGNoaWxkcmVuOiBSZWFjdC5SZWFjdE5vZGUgfSkgewogIHJldHVybiAoCiAgICA8ZGl2IHN0eWxlPXt7IGRpc3BsYXk6ICJmbGV4IiwgYWxpZ25JdGVtczogImZsZXgtc3RhcnQiLCBnYXA6IDEzIH19PgogICAgICA8c3BhbiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1kaXNwbGF5KSIsIGZvbnRTaXplOiAxNywgZm9udFdlaWdodDogNzAwLCBsaW5lSGVpZ2h0OiAxLjI1LCBtaW5XaWR0aDogMTYsIGNvbG9yOiBhY2NlbnQgfX0+Kzwvc3Bhbj4KICAgICAgPHNwYW4gc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtYm9keSkiLCBmb250U2l6ZTogMTUsIGxpbmVIZWlnaHQ6IDEuNDUsIGNvbG9yOiAidmFyKC0tYm9uZSkiLCBmb250V2VpZ2h0OiA0MDAsIGZsZXg6ICIxIDEgYXV0byIsIG1pbldpZHRoOiAwIH19PntjaGlsZHJlbn08L3NwYW4+CiAgICA8L2Rpdj4KICApOwp9CgovKiDilIDilIDilIAgQnJva2VyIGNhcmQg4pSA4pSA4pSAICovCmZ1bmN0aW9uIEJyb2tlckNhcmQoewogIGFjY2VudCwgZ2xvd1NpZGUsIGV5ZWJyb3csIHRpdGxlLCBkZXNjLCBsb2dvLCBmZWF0dXJlcywgY2hpcCwgY3RhLAp9OiB7CiAgYWNjZW50OiBzdHJpbmc7CiAgZ2xvd1NpZGU6ICJsZWZ0IiB8ICJyaWdodCI7CiAgZXllYnJvdzogc3RyaW5nOwogIHRpdGxlOiBSZWFjdC5SZWFjdE5vZGU7CiAgZGVzYzogc3RyaW5nOwogIGxvZ286IHsgc3JjOiBzdHJpbmc7IGFsdDogc3RyaW5nOyBoZWlnaHQ6IG51bWJlcjsgdGFnOiBzdHJpbmc7IHRhZ1RyYWNraW5nOiBzdHJpbmcgfTsKICBmZWF0dXJlczogc3RyaW5nW107CiAgY2hpcDogeyBsYWJlbDogc3RyaW5nOyBsaW5lOiBzdHJpbmc7IGJveDogc3RyaW5nOyBib3hUcmFja2luZzogc3RyaW5nIH07CiAgY3RhOiB7IGxhYmVsOiBzdHJpbmc7IGhyZWY6IHN0cmluZzsgYnRuQ2xhc3M6IHN0cmluZzsgZm9vdG5vdGU6IHN0cmluZzsgYnJva2VyOiBzdHJpbmcgfTsKfSkgewogIGNvbnN0IGdsb3cgPSBnbG93U2lkZSA9PT0gImxlZnQiCiAgICA/IGByYWRpYWwtZ3JhZGllbnQoNjIwcHggMzAwcHggYXQgMCUgMCUsICR7YWNjZW50ID09PSBIWURSQSA/ICJyZ2JhKDE5OCwyNDUsMTA3LDAuMDcpIiA6ICJyZ2JhKDI1NSwxMjIsMjYsMC4wOSkifSwgdHJhbnNwYXJlbnQgNjAlKWAKICAgIDogYHJhZGlhbC1ncmFkaWVudCg2MjBweCAzMDBweCBhdCAxMDAlIDAlLCAke2FjY2VudCA9PT0gSFlEUkEgPyAicmdiYSgxOTgsMjQ1LDEwNywwLjA3KSIgOiAicmdiYSgyNTUsMTIyLDI2LDAuMDkpIn0sIHRyYW5zcGFyZW50IDYwJSlgOwogIGNvbnN0IHRpbnQgPSBhY2NlbnQgPT09IEhZRFJBID8gInJnYmEoMTk4LDI0NSwxMDcsMC4wNCkiIDogInJnYmEoMjU1LDEyMiwyNiwwLjA0KSI7CiAgY29uc3QgY2hpcFRpbnQgPSBhY2NlbnQgPT09IEhZRFJBID8gInJnYmEoMTk4LDI0NSwxMDcsMC4wNSkiIDogInJnYmEoMjU1LDEyMiwyNiwwLjA1KSI7CgogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0iYmstY2FyZCIgc3R5bGU9e3sgcG9zaXRpb246ICJyZWxhdGl2ZSIsIGJhY2tncm91bmQ6ICJ2YXIoLS1iZy0xKSIsIGJvcmRlcjogIjFweCBzb2xpZCB2YXIoLS1saW5lKSIsIGJvcmRlclRvcDogYDJweCBzb2xpZCAke2FjY2VudH1gLCBkaXNwbGF5OiAiZmxleCIsIGZsZXhEaXJlY3Rpb246ICJjb2x1bW4iLCBvdmVyZmxvdzogImhpZGRlbiIgfX0+CiAgICAgIDxkaXYgc3R5bGU9e3sgcG9zaXRpb246ICJhYnNvbHV0ZSIsIGluc2V0OiAwLCBwb2ludGVyRXZlbnRzOiAibm9uZSIsIGJhY2tncm91bmQ6IGdsb3cgfX0gLz4KICAgICAgPGRpdiBzdHlsZT17eyBwb3NpdGlvbjogInJlbGF0aXZlIiwgZGlzcGxheTogImZsZXgiLCBmbGV4RGlyZWN0aW9uOiAiY29sdW1uIiwgaGVpZ2h0OiAiMTAwJSIgfX0+CiAgICAgICAgPE1vbm8gY29sb3I9e2FjY2VudH0gc3R5bGU9e3sgbWFyZ2luQm90dG9tOiAyMiwgd2hpdGVTcGFjZTogIm5vd3JhcCIgYXMgY29uc3QgfX0+e2V5ZWJyb3d9PC9Nb25vPgoKICAgICAgICA8aDIgY2xhc3NOYW1lPSJiay1jYXJkLXRpdGxlIiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1kaXNwbGF5KSIsIGZvbnRXZWlnaHQ6IDYwMCwgbGluZUhlaWdodDogMC45OCwgbGV0dGVyU3BhY2luZzogIi0wLjAzNWVtIiwgY29sb3I6ICJ2YXIoLS1ib25lKSIsIG1hcmdpbjogIjAgMCAxNnB4IiB9fT4KICAgICAgICAgIHt0aXRsZX0KICAgICAgICA8L2gyPgogICAgICAgIDxwIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LWJvZHkpIiwgZm9udFNpemU6IDE2LCBsaW5lSGVpZ2h0OiAxLjU1LCBjb2xvcjogInZhcigtLWFzaCkiLCBtYXJnaW46ICIwIDAgMjZweCIgfX0+e2Rlc2N9PC9wPgoKICAgICAgICB7LyogYnJhbmQgbG9ja3VwICovfQogICAgICAgIDxkaXYgc3R5bGU9e3sgZGlzcGxheTogImZsZXgiLCBhbGlnbkl0ZW1zOiAiY2VudGVyIiwgZ2FwOiAxNCwgcGFkZGluZzogIjE4cHggMjBweCIsIGJvcmRlcjogIjFweCBzb2xpZCB2YXIoLS1saW5lLTIpIiwgYmFja2dyb3VuZDogdGludCwgbWFyZ2luQm90dG9tOiAyNCB9fT4KICAgICAgICAgIHsvKiBlc2xpbnQtZGlzYWJsZS1uZXh0LWxpbmUgQG5leHQvbmV4dC9uby1pbWctZWxlbWVudCAqL30KICAgICAgICAgIDxpbWcgc3JjPXtsb2dvLnNyY30gYWx0PXtsb2dvLmFsdH0gc3R5bGU9e3sgaGVpZ2h0OiBsb2dvLmhlaWdodCwgd2lkdGg6ICJhdXRvIiwgZGlzcGxheTogImJsb2NrIiB9fSAvPgogICAgICAgICAgPHNwYW4gc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtbW9ubykiLCBmb250U2l6ZTogOSwgZm9udFdlaWdodDogNzAwLCBsZXR0ZXJTcGFjaW5nOiBsb2dvLnRhZ1RyYWNraW5nLCB0ZXh0VHJhbnNmb3JtOiAidXBwZXJjYXNlIiBhcyBjb25zdCwgY29sb3I6ICJ2YXIoLS1hc2gpIiB9fT57bG9nby50YWd9PC9zcGFuPgogICAgICAgIDwvZGl2PgoKICAgICAgICB7LyogZmVhdHVyZXMgKi99CiAgICAgICAgPGRpdiBzdHlsZT17eyBkaXNwbGF5OiAiZmxleCIsIGZsZXhEaXJlY3Rpb246ICJjb2x1bW4iLCBnYXA6IDEzLCBtYXJnaW5Cb3R0b206IDI2IH19PgogICAgICAgICAge2ZlYXR1cmVzLm1hcCgoZiwgaSkgPT4gPEZlYXQga2V5PXtpfSBhY2NlbnQ9e2FjY2VudH0+e2Z9PC9GZWF0Pil9CiAgICAgICAgPC9kaXY+CgogICAgICAgIHsvKiBwcm9tbyAvIHJld2FyZCBjaGlwICovfQogICAgICAgIDxkaXYgc3R5bGU9e3sgYm9yZGVyOiBgMXB4IGRhc2hlZCAke2FjY2VudH1gLCBiYWNrZ3JvdW5kOiBjaGlwVGludCwgcGFkZGluZzogIjE2cHggMThweCIsIG1hcmdpbkJvdHRvbTogMjQsIGRpc3BsYXk6ICJmbGV4IiwgYWxpZ25JdGVtczogImNlbnRlciIsIGp1c3RpZnlDb250ZW50OiAic3BhY2UtYmV0d2VlbiIsIGdhcDogMTYsIGZsZXhXcmFwOiAid3JhcCIgYXMgY29uc3QgfX0+CiAgICAgICAgICA8ZGl2PgogICAgICAgICAgICA8TW9ubyBjb2xvcj0idmFyKC0tYXNoKSIgc3R5bGU9e3sgZm9udFNpemU6IDksIGxldHRlclNwYWNpbmc6ICIwLjJlbSIsIG1hcmdpbkJvdHRvbTogNiB9fT57Y2hpcC5sYWJlbH08L01vbm8+CiAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtYm9keSkiLCBmb250U2l6ZTogMTMsIGNvbG9yOiAidmFyKC0tYm9uZSkiLCBmb250V2VpZ2h0OiA1MDAgfX0+e2NoaXAubGluZX08L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1tb25vKSIsIGZvbnRTaXplOiAxOSwgZm9udFdlaWdodDogNzAwLCBsZXR0ZXJTcGFjaW5nOiBjaGlwLmJveFRyYWNraW5nLCBjb2xvcjogYWNjZW50LCBwYWRkaW5nOiAiOHB4IDE0cHgiLCBib3JkZXI6IGAxcHggc29saWQgJHthY2NlbnR9YCwgYmFja2dyb3VuZDogInJnYmEoNiw3LDEwLDAuNSkiLCB3aGl0ZVNwYWNlOiAibm93cmFwIiBhcyBjb25zdCB9fT4KICAgICAgICAgICAge2NoaXAuYm94fQogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CgogICAgICAgIHsvKiBDVEEg4oCUIHBpbm5lZCB0byBib3R0b20gZm9yIGVxdWFsLWhlaWdodCBjYXJkcyAqL30KICAgICAgICA8ZGl2IHN0eWxlPXt7IG1hcmdpblRvcDogImF1dG8iIH19PgogICAgICAgICAgPGEKICAgICAgICAgICAgaHJlZj17Y3RhLmhyZWZ9CiAgICAgICAgICAgIHRhcmdldD0iX2JsYW5rIgogICAgICAgICAgICByZWw9Im5vb3BlbmVyIG5vcmVmZXJyZXIgc3BvbnNvcmVkIgogICAgICAgICAgICBjbGFzc05hbWU9e2Biay1idG4gJHtjdGEuYnRuQ2xhc3N9YH0KICAgICAgICAgICAgb25DbGljaz17KCkgPT4gcG9zdGhvZy5jYXB0dXJlKCJicm9rZXJfb2ZmZXJfY2xpY2tlZCIsIHsgYnJva2VyOiBjdGEuYnJva2VyIH0pfQogICAgICAgICAgPgogICAgICAgICAgICB7Y3RhLmxhYmVsfQogICAgICAgICAgPC9hPgogICAgICAgICAgPE1vbm8gY29sb3I9InZhcigtLW11dGVkKSIgc3R5bGU9e3sgZm9udFNpemU6IDksIG1hcmdpblRvcDogMTIsIHRleHRBbGlnbjogImNlbnRlciIgYXMgY29uc3QsIGxldHRlclNwYWNpbmc6ICIwLjE4ZW0iIH19PntjdGEuZm9vdG5vdGV9PC9Nb25vPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0KCi8qIOKUgOKUgOKUgCBQYWdlIOKUgOKUgOKUgCAqLwpjb25zdCBlbXB0eVN1YnNjcmliZSA9ICgpID0+ICgpID0+IHt9OwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gQnJva2VyT2ZmZXJzKCkgewogIC8vIEhvc3QtYXdhcmUgaW4tZnVubmVsIHBhdGhzIOKAlCBvbiBmcmVlLnF1YW50dW1jaXBoZXJsYWIuY29tIHRoZSBwcm94eSBzdHJpcHMKICAvLyB0aGUgL2ZyZWUtY291cnNlIHByZWZpeCwgb24gdGhlIG1haW4gZG9tYWluIGl0IHN0YXlzLiBTZXJ2ZXIgc25hcHNob3QgaXMKICAvLyBmYWxzZSBzbyBTU1IvaHlkcmF0aW9uIHJlbmRlciB0aGUgbWFpbi1kb21haW4gcGF0aHMsIHRoZW4gdGhlIHJlYWwgaG9zdAogIC8vIGtpY2tzIGluIHJpZ2h0IGFmdGVyIGh5ZHJhdGlvbi4KICBjb25zdCBvbkZyZWVIb3N0ID0gdXNlU3luY0V4dGVybmFsU3RvcmUoCiAgICBlbXB0eVN1YnNjcmliZSwKICAgICgpID0+IHdpbmRvdy5sb2NhdGlvbi5ob3N0bmFtZS5pbmNsdWRlcygiZnJlZS4iKSwKICAgICgpID0+IGZhbHNlLAogICk7CiAgY29uc3QgcGF0aHMgPSBvbkZyZWVIb3N0CiAgICA/IHsgaG9tZTogIi8iLCBjb25maXJtOiAiL2NvbmZpcm0iIH0KICAgIDogeyBob21lOiAiL2ZyZWUtY291cnNlIiwgY29uZmlybTogIi9mcmVlLWNvdXJzZS9jb25maXJtIiB9OwoKICB1c2VFZmZlY3QoKCkgPT4gewogICAgcG9zdGhvZy5jYXB0dXJlKCJicm9rZXJfb2ZmZXJzX3ZpZXdlZCIpOwogIH0sIFtdKTsKCiAgcmV0dXJuICgKICAgIDw+CiAgICAgIDxzdHlsZT57YAogICAgICAgIC5iay13cmFwIHsgbWF4LXdpZHRoOiAxMzIwcHg7IG1hcmdpbjogMCBhdXRvOyBwYWRkaW5nOiAwIDQ4cHg7IH0KICAgICAgICAuYmstaDEgeyBmb250LXNpemU6IDcycHg7IH0KICAgICAgICAuYmstY2FyZC10aXRsZSB7IGZvbnQtc2l6ZTogNDBweDsgfQogICAgICAgIC5iay1jYXJkIHsgcGFkZGluZzogNDBweCA0MHB4IDM2cHg7IH0KICAgICAgICAuYmstc3BsaXQgeyBkaXNwbGF5OiBncmlkOyBncmlkLXRlbXBsYXRlLWNvbHVtbnM6IDFmciAxZnI7IGdhcDogMTZweDsgYWxpZ24taXRlbXM6IHN0cmV0Y2g7IH0KICAgICAgICAuYmstc3RhdHMgeyBkaXNwbGF5OiBncmlkOyBncmlkLXRlbXBsYXRlLWNvbHVtbnM6IHJlcGVhdCgzLCAxZnIpOyBnYXA6IDI0cHg7IH0KICAgICAgICAuYmstc2tpcCB7IGRpc3BsYXk6IGdyaWQ7IGdyaWQtdGVtcGxhdGUtY29sdW1uczogMWZyIGF1dG87IGdhcDogMzJweDsgYWxpZ24taXRlbXM6IGNlbnRlcjsgfQogICAgICAgIC5iay1za2lwLWJ0biB7IG1pbi13aWR0aDogMjgwcHg7IH0KCiAgICAgICAgLmJrLWJ0biB7CiAgICAgICAgICBkaXNwbGF5OiBpbmxpbmUtZmxleDsgYWxpZ24taXRlbXM6IGNlbnRlcjsganVzdGlmeS1jb250ZW50OiBjZW50ZXI7IGdhcDogMTJweDsKICAgICAgICAgIHdpZHRoOiAxMDAlOwogICAgICAgICAgcGFkZGluZzogMjBweCAyOHB4OwogICAgICAgICAgZm9udC1mYW1pbHk6IHZhcigtLWZvbnQtbW9ubyk7IGZvbnQtc2l6ZTogMTNweDsgZm9udC13ZWlnaHQ6IDcwMDsKICAgICAgICAgIGxldHRlci1zcGFjaW5nOiAwLjEyZW07IHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7IHdoaXRlLXNwYWNlOiBub3dyYXA7CiAgICAgICAgICBib3JkZXI6IDA7IGJvcmRlci1yYWRpdXM6IDJweDsgY3Vyc29yOiBwb2ludGVyOwogICAgICAgICAgdHJhbnNpdGlvbjogdHJhbnNmb3JtIDE2MG1zIGVhc2UsIGJveC1zaGFkb3cgMTYwbXMgZWFzZTsKICAgICAgICB9CiAgICAgICAgLmJrLWJ0bi1oeWRyYSB7CiAgICAgICAgICBiYWNrZ3JvdW5kOiAke0hZRFJBfTsgY29sb3I6ICMxQjJBMDY7CiAgICAgICAgICBib3gtc2hhZG93OiAwIDAgMCAxcHggJHtIWURSQX0sIDAgMCAzNnB4IHJnYmEoMTk4LDI0NSwxMDcsMC4yMik7CiAgICAgICAgfQogICAgICAgIC5iay1idG4taHlkcmE6aG92ZXIgewogICAgICAgICAgdHJhbnNmb3JtOiB0cmFuc2xhdGVZKC0ycHgpOwogICAgICAgICAgYm94LXNoYWRvdzogMCAwIDAgMXB4ICR7SFlEUkF9LCAwIDAgNjBweCByZ2JhKDE5OCwyNDUsMTA3LDAuNDIpOwogICAgICAgIH0KICAgICAgICAuYmstYnRuLWJsb2ZpbiB7CiAgICAgICAgICBiYWNrZ3JvdW5kOiAke0JMT0ZJTn07IGNvbG9yOiAjMkExNDAwOwogICAgICAgICAgYm94LXNoYWRvdzogMCAwIDAgMXB4ICR7QkxPRklOfSwgMCAwIDM2cHggcmdiYSgyNTUsMTIyLDI2LDAuMjQpOwogICAgICAgIH0KICAgICAgICAuYmstYnRuLWJsb2Zpbjpob3ZlciB7CiAgICAgICAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVkoLTJweCk7CiAgICAgICAgICBib3gtc2hhZG93OiAwIDAgMCAxcHggJHtCTE9GSU59LCAwIDAgNjBweCByZ2JhKDI1NSwxMjIsMjYsMC40NCk7CiAgICAgICAgfQogICAgICAgIC5iay1idG4tZ2hvc3QgewogICAgICAgICAgYmFja2dyb3VuZDogdHJhbnNwYXJlbnQ7IGNvbG9yOiB2YXIoLS1ib25lKTsKICAgICAgICAgIGJveC1zaGFkb3c6IDAgMCAwIDFweCB2YXIoLS1saW5lLTIpOwogICAgICAgIH0KICAgICAgICAuYmstYnRuLWdob3N0OmhvdmVyIHsgYm94LXNoYWRvdzogMCAwIDAgMXB4IHZhcigtLWFjaWQpOyBjb2xvcjogdmFyKC0tYWNpZCk7IH0KCiAgICAgICAgQG1lZGlhIChtYXgtd2lkdGg6IDkyMHB4KSB7CiAgICAgICAgICAuYmstd3JhcCB7IHBhZGRpbmc6IDAgMjJweDsgfQogICAgICAgICAgLmJrLWgxIHsgZm9udC1zaXplOiA0MnB4OyB9CiAgICAgICAgICAuYmstY2FyZC10aXRsZSB7IGZvbnQtc2l6ZTogMzJweDsgfQogICAgICAgICAgLmJrLWNhcmQgeyBwYWRkaW5nOiAzMnB4IDI2cHggMzBweDsgfQogICAgICAgICAgLmJrLXNwbGl0IHsgZ3JpZC10ZW1wbGF0ZS1jb2x1bW5zOiAxZnI7IGdhcDogMThweDsgfQogICAgICAgICAgLmJrLXN0YXRzIHsgZ3JpZC10ZW1wbGF0ZS1jb2x1bW5zOiAxZnIgMWZyOyB9CiAgICAgICAgICAuYmstYnJhbmNoIHsgZGlzcGxheTogbm9uZTsgfQogICAgICAgICAgLmJrLXNraXAgeyBncmlkLXRlbXBsYXRlLWNvbHVtbnM6IDFmcjsgZ2FwOiAyNHB4OyB9CiAgICAgICAgICAuYmstc2tpcC1idG4geyBtaW4td2lkdGg6IDA7IHdpZHRoOiAxMDAlOyB9CiAgICAgICAgICAuYmstYnRuIHsgd2hpdGUtc3BhY2U6IG5vcm1hbDsgdGV4dC1hbGlnbjogY2VudGVyOyBwYWRkaW5nOiAxOHB4IDIwcHg7IH0KICAgICAgICB9CiAgICAgICAgQG1lZGlhIChwcmVmZXJzLXJlZHVjZWQtbW90aW9uOiByZWR1Y2UpIHsKICAgICAgICAgIC5iay1idG4geyB0cmFuc2l0aW9uOiBub25lOyB9CiAgICAgICAgICAuYmstYnRuOmhvdmVyIHsgdHJhbnNmb3JtOiBub25lOyB9CiAgICAgICAgICAucHVsc2UgeyBhbmltYXRpb246IG5vbmU7IH0KICAgICAgICB9CiAgICAgIGB9PC9zdHlsZT4KCiAgICAgIDxtYWluIGNsYXNzTmFtZT0iZ3JpZC1iZyIgc3R5bGU9e3sgbWluSGVpZ2h0OiAiMTAwdmgiLCBiYWNrZ3JvdW5kOiAidmFyKC0tYmcpIiwgY29sb3I6ICJ2YXIoLS1ib25lKSIgfX0+CgogICAgICAgIHsvKiDilIDilIAgSEVBREVSIOKUgOKUgCAqL30KICAgICAgICA8aGVhZGVyIHN0eWxlPXt7IGJvcmRlckJvdHRvbTogIjFweCBzb2xpZCB2YXIoLS1saW5lKSIgfX0+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYmstd3JhcCIgc3R5bGU9e3sgcGFkZGluZ1RvcDogMjIsIHBhZGRpbmdCb3R0b206IDIyLCBkaXNwbGF5OiAiZmxleCIsIGFsaWduSXRlbXM6ICJjZW50ZXIiLCBqdXN0aWZ5Q29udGVudDogInNwYWNlLWJldHdlZW4iLCBnYXA6IDI0LCBmbGV4V3JhcDogIndyYXAiIGFzIGNvbnN0IH19PgogICAgICAgICAgICA8TG9nbyBocmVmPXtwYXRocy5ob21lfSAvPgogICAgICAgICAgICA8ZGl2IHN0eWxlPXt7IGRpc3BsYXk6ICJmbGV4IiwgYWxpZ25JdGVtczogImNlbnRlciIsIGdhcDogMTQgfX0+CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJwdWxzZSIgc3R5bGU9e3sgd2lkdGg6IDYsIGhlaWdodDogNiwgYmFja2dyb3VuZDogInZhcigtLWFjaWQpIiwgZGlzcGxheTogImlubGluZS1ibG9jayIsIGZsZXhTaHJpbms6IDAgfX0gLz4KICAgICAgICAgICAgICA8TW9ubyBjb2xvcj0idmFyKC0tYXNoKSIgc3R5bGU9e3sgd2hpdGVTcGFjZTogIm5vd3JhcCIgYXMgY29uc3QgfX0+wrcgU3RlcCAyIG9mIDMgwrcgQ291cnNlIGFjY2VzcyBjb25maXJtZWQgwrc8L01vbm8+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9oZWFkZXI+CgogICAgICAgIHsvKiDilIDilIAgSEVSTyDilIDilIAgKi99CiAgICAgICAgPHNlY3Rpb24gc3R5bGU9e3sgcG9zaXRpb246ICJyZWxhdGl2ZSIsIHBhZGRpbmc6ICI1NnB4IDAgOHB4Iiwgb3ZlcmZsb3c6ICJoaWRkZW4iIH19PgogICAgICAgICAgPGRpdiBzdHlsZT17eyBwb3NpdGlvbjogImFic29sdXRlIiwgaW5zZXQ6IDAsIHBvaW50ZXJFdmVudHM6ICJub25lIiwgYmFja2dyb3VuZDogInJhZGlhbC1ncmFkaWVudCg5MDBweCA1MjBweCBhdCA1MCUgLTglLCByZ2JhKDE5MSwyNTAsNzAsMC4wOCksIHRyYW5zcGFyZW50IDYyJSkiIH19IC8+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYmstd3JhcCIgc3R5bGU9e3sgcG9zaXRpb246ICJyZWxhdGl2ZSIsIHRleHRBbGlnbjogImNlbnRlciIgfX0+CgogICAgICAgICAgICB7LyogY29uZmlybWF0aW9uIGNoaXAgKi99CiAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgZGlzcGxheTogImlubGluZS1mbGV4IiwgYWxpZ25JdGVtczogImNlbnRlciIsIGdhcDogMTIsIHBhZGRpbmc6ICIxMHB4IDE4cHgiLCBib3JkZXI6ICIxcHggc29saWQgdmFyKC0tYWNpZCkiLCBiYWNrZ3JvdW5kOiAicmdiYSgxOTEsMjUwLDcwLDAuMDQpIiwgbWFyZ2luQm90dG9tOiAzMCB9fT4KICAgICAgICAgICAgICA8c3BhbiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1kaXNwbGF5KSIsIGZvbnRTaXplOiAxNiwgZm9udFdlaWdodDogNzAwLCBjb2xvcjogInZhcigtLWFjaWQpIiwgbGluZUhlaWdodDogMSB9fT7inJM8L3NwYW4+CiAgICAgICAgICAgICAgPE1vbm8+TGVzc29uIDAxIGlzIGxhbmRpbmcgaW4geW91ciBpbmJveCBub3c8L01vbm8+CiAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgPE1vbm8gY29sb3I9InZhcigtLWFzaCkiIHN0eWxlPXt7IG1hcmdpbkJvdHRvbTogMjIsIGxldHRlclNwYWNpbmc6ICIwLjI0ZW0iIH19PsK3IFlvdSZyc3F1bztyZSBpbiDCtyBvbmUgcXVpY2sgdGhpbmcgYmVmb3JlIHlvdSBzdGFydCDCtzwvTW9ubz4KCiAgICAgICAgICAgIDxoMSBjbGFzc05hbWU9ImJrLWgxIiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1kaXNwbGF5KSIsIGZvbnRXZWlnaHQ6IDYwMCwgbGluZUhlaWdodDogMC45OCwgbGV0dGVyU3BhY2luZzogIi0wLjA0NWVtIiwgY29sb3I6ICJ2YXIoLS1ib25lKSIsIG1hcmdpbjogIjAgYXV0byAyNnB4IiwgbWF4V2lkdGg6IDEwNDAsIHRleHRXcmFwOiAiYmFsYW5jZSIgYXMgY29uc3QgfX0+CiAgICAgICAgICAgICAgWW91JnJzcXVvO3JlIGluLiBCZWZvcmUgbGVzc29uIG9uZSAmbWRhc2g7PGJyIC8+CiAgICAgICAgICAgICAgPGVtIHN0eWxlPXt7IGNvbG9yOiAidmFyKC0tYWNpZCkiLCB0ZXh0U2hhZG93OiAiMCAwIDM4cHggcmdiYSgxOTEsMjUwLDcwLDAuMzQpIiB9fT5zZXQgdXAgd2hlcmUgeW91JnJzcXVvO2xsIGFjdHVhbGx5IHRyYWRlLjwvZW0+CiAgICAgICAgICAgIDwvaDE+CgogICAgICAgICAgICA8cCBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1ib2R5KSIsIGZvbnRTaXplOiAxOSwgbGluZUhlaWdodDogMS42LCBjb2xvcjogInZhcigtLWFzaCkiLCBtYXJnaW46ICIwIGF1dG8iLCBtYXhXaWR0aDogNzIwIH19PgogICAgICAgICAgICAgIFRoZSBjb3Vyc2UgdGVhY2hlcyB0aGUgc3lzdGVtLiBCdXQgYSBzeXN0ZW0gbmVlZHMgYSBwbGF0Zm9ybSB0byBydW4gb24uIFRoZXNlIGFyZSB0aGUgdHdvIEkgcGVyc29uYWxseSB1c2UgYW5kIHRydXN0ICZtZGFzaDsgb25lIGZ1bmRzIHlvdSB3aXRoIHJlYWwgY2FwaXRhbCBzbyB5b3UgcmlzayBub25lIG9mIHlvdXIgb3duLCB0aGUgb3RoZXIgaXMgd2hlcmUgSSBwbGFjZSBteSBvd24gdHJhZGVzLiBDb3Vyc2UgbWVtYmVycyBnZXQgYW4gZXhjbHVzaXZlIGRlYWwgb24gYm90aC4KICAgICAgICAgICAgPC9wPgoKICAgICAgICAgICAgey8qIGhlcm8gbWluaXN0YXRzICovfQogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYmstc3RhdHMiIHN0eWxlPXt7IG1hcmdpblRvcDogNDQsIHBhZGRpbmdUb3A6IDMwLCBib3JkZXJUb3A6ICIxcHggc29saWQgdmFyKC0tbGluZSkiLCBtYXhXaWR0aDogNzYwLCBtYXJnaW5MZWZ0OiAiYXV0byIsIG1hcmdpblJpZ2h0OiAiYXV0byIgfX0+CiAgICAgICAgICAgICAge1sKICAgICAgICAgICAgICAgIHsgdjogIiQyMDBLIiwgazogIsK3IEZ1bmRlZCDCtyBubyBjaGFsbGVuZ2UgwrciIH0sCiAgICAgICAgICAgICAgICB7IHY6ICIkNSwwMDAiLCBrOiAiwrcgQm9udXMgwrcgd2hlcmUgRm91cyB0cmFkZXMgwrciIH0sCiAgICAgICAgICAgICAgICB7IHY6ICIyIHdheXMiLCBrOiAiwrcgUGljayBvbmUgwrcgb3IgYm90aCDCtyIgfSwKICAgICAgICAgICAgICBdLm1hcCgocywgaSkgPT4gKAogICAgICAgICAgICAgICAgPGRpdiBrZXk9e2l9PgogICAgICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LWRpc3BsYXkpIiwgZm9udFNpemU6IDMwLCBmb250V2VpZ2h0OiA3MDAsIGNvbG9yOiAidmFyKC0tYm9uZSkiLCBsZXR0ZXJTcGFjaW5nOiAiLTAuMDNlbSIsIGxpbmVIZWlnaHQ6IDEgfX0+e3Mudn08L2Rpdj4KICAgICAgICAgICAgICAgICAgPE1vbm8gY29sb3I9InZhcigtLWFzaCkiIHN0eWxlPXt7IGZvbnRTaXplOiAxMCwgbWFyZ2luVG9wOiA5LCBsZXR0ZXJTcGFjaW5nOiAiMC4xOGVtIiB9fT57cy5rfTwvTW9ubz4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICkpfQogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvc2VjdGlvbj4KCiAgICAgICAgey8qIOKUgOKUgCBDSE9PU0UgWU9VUiBCUk9LRVIgZGl2aWRlciDilIDilIAgKi99CiAgICAgICAgPHNlY3Rpb24gc3R5bGU9e3sgcGFkZGluZzogIjU2cHggMCAwIiB9fT4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJiay13cmFwIiBzdHlsZT17eyB0ZXh0QWxpZ246ICJjZW50ZXIiIH19PgogICAgICAgICAgICA8ZGl2IHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LWRpc3BsYXkpIiwgZm9udFdlaWdodDogNjAwLCBmb250U2l6ZTogNDQsIGxldHRlclNwYWNpbmc6ICItMC4wMzVlbSIsIGNvbG9yOiAidmFyKC0tYm9uZSkiLCBsaW5lSGVpZ2h0OiAxIH19PkNob29zZSB5b3VyIGJyb2tlcjwvZGl2PgogICAgICAgICAgICA8TW9ubyBjb2xvcj0idmFyKC0tYXNoKSIgc3R5bGU9e3sgbWFyZ2luVG9wOiAxNiB9fT7CtyBUd28gcGF0aHMgwrcgYm90aCB2ZXR0ZWQgYnkgQ2FtIMK3PC9Nb25vPgogICAgICAgICAgICB7LyogYnJhbmNoaW5nIGNvbm5lY3RvciAqL30KICAgICAgICAgICAgey8qIFRhaWx3aW5kIHByZWZsaWdodCBtYWtlcyBzdmcgZGlzcGxheTpibG9jaywgc28gdGV4dC1hbGlnbjpjZW50ZXIgd29uJ3QgY2VudGVyIGl0IOKAlCB1c2UgYXV0byBtYXJnaW5zICovfQogICAgICAgICAgICA8c3ZnIGNsYXNzTmFtZT0iYmstYnJhbmNoIiB2aWV3Qm94PSIwIDAgNjQwIDg2IiB3aWR0aD0iMzIwIiBoZWlnaHQ9IjQzIiBzdHlsZT17eyBtYXJnaW46ICIxOHB4IGF1dG8gMCIsIG92ZXJmbG93OiAidmlzaWJsZSIgfX0gYXJpYS1oaWRkZW49InRydWUiPgogICAgICAgICAgICAgIDxwYXRoIGQ9Ik0zMjAgNCBMMzIwIDI2IiBmaWxsPSJub25lIiBzdHJva2U9InZhcigtLWxpbmUtMikiIHN0cm9rZVdpZHRoPSIxLjUiIC8+CiAgICAgICAgICAgICAgPHBhdGggZD0iTTMyMCAyNiBRMzIwIDQ0IDIyMCA0NCBMMTUwIDQ0IiBmaWxsPSJub25lIiBzdHJva2U9e0hZRFJBfSBzdHJva2VXaWR0aD0iMS41IiAvPgogICAgICAgICAgICAgIDxwYXRoIGQ9Ik0zMjAgMjYgUTMyMCA0NCA0MjAgNDQgTDQ5MCA0NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPXtCTE9GSU59IHN0cm9rZVdpZHRoPSIxLjUiIC8+CiAgICAgICAgICAgICAgPHBhdGggZD0iTTE1MCA0NCBMMTUwIDc2IiBmaWxsPSJub25lIiBzdHJva2U9e0hZRFJBfSBzdHJva2VXaWR0aD0iMS41IiAvPgogICAgICAgICAgICAgIDxwYXRoIGQ9Ik00OTAgNDQgTDQ5MCA3NiIgZmlsbD0ibm9uZSIgc3Ryb2tlPXtCTE9GSU59IHN0cm9rZVdpZHRoPSIxLjUiIC8+CiAgICAgICAgICAgICAgPHBvbHlnb24gcG9pbnRzPSIxNTAsODIgMTQ0LDcwIDE1Niw3MCIgZmlsbD17SFlEUkF9IC8+CiAgICAgICAgICAgICAgPHBvbHlnb24gcG9pbnRzPSI0OTAsODIgNDg0LDcwIDQ5Niw3MCIgZmlsbD17QkxPRklOfSAvPgogICAgICAgICAgICA8L3N2Zz4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvc2VjdGlvbj4KCiAgICAgICAgey8qIOKUgOKUgCBCUk9LRVIgU1BMSVQg4pSA4pSAICovfQogICAgICAgIDxzZWN0aW9uIHN0eWxlPXt7IHBhZGRpbmc6ICIyNnB4IDAgNDBweCIgfX0+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYmstd3JhcCI+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJiay1zcGxpdCI+CgogICAgICAgICAgICAgIDxCcm9rZXJDYXJkCiAgICAgICAgICAgICAgICBhY2NlbnQ9e0hZRFJBfQogICAgICAgICAgICAgICAgZ2xvd1NpZGU9ImxlZnQiCiAgICAgICAgICAgICAgICBleWVicm93PSLCtyBQYXRoIDAxIMK3IFRyYWRlIGZ1bmRlZCDCtyIKICAgICAgICAgICAgICAgIHRpdGxlPXs8PkdldCBmdW5kZWQgPGVtIHN0eWxlPXt7IGNvbG9yOiBIWURSQSB9fT51cCB0byAkMjAwSy48L2VtPjwvPn0KICAgICAgICAgICAgICAgIGRlc2M9Ik5vIGNoYWxsZW5nZXMuIE5vIHBoYXNlcy4gSW5zdGFudCBmdW5kaW5nIGZyb20gZGF5IG9uZSDigJQgZm9yIEZ1dHVyZXMsIENyeXB0bywgYW5kIEZvcmV4LiBUcmFkZSByZWFsIGNhcGl0YWwgd2l0aCBub25lIG9mIHlvdXIgb3duIG9uIHRoZSBsaW5lLiBDby1mb3VuZGVkIGJ5IENhbWVyb24gRm91cy4iCiAgICAgICAgICAgICAgICBsb2dvPXt7IHNyYzogIi91cGxvYWRzL2Jyb2tlcnMvaHlkcmEtbG9nby5wbmciLCBhbHQ6ICJIeWRyYSBGdW5kaW5nIiwgaGVpZ2h0OiAzOCwgdGFnOiAiRlVORElORyIsIHRhZ1RyYWNraW5nOiAiMC4zZW0iIH19CiAgICAgICAgICAgICAgICBmZWF0dXJlcz17WwogICAgICAgICAgICAgICAgICAiSW5zdGFudCBmdW5kaW5nIOKAlCBubyBldmFsIHBoYXNlIiwKICAgICAgICAgICAgICAgICAgIlRyYWRlIEZ1dHVyZXMsIENyeXB0byAmIEZvcmV4IiwKICAgICAgICAgICAgICAgICAgIlVwIHRvIDkwJSBzcGxpdCDCtyBwYWlkIG9uIGRlbWFuZCIsCiAgICAgICAgICAgICAgICAgICJBY2NvdW50cyBmcm9tICQ1SyB0byAkMjAwSyIsCiAgICAgICAgICAgICAgICBdfQogICAgICAgICAgICAgICAgY2hpcD17eyBsYWJlbDogIsK3IENvdXJzZS1tZW1iZXIgY29kZSDCtyIsIGxpbmU6ICIyMCUgT0ZGIHlvdXIgZmlyc3QgYWNjb3VudCwgc2l0ZS13aWRlIiwgYm94OiAiRk9VUzIwIiwgYm94VHJhY2tpbmc6ICIwLjEyZW0iIH19CiAgICAgICAgICAgICAgICBjdGE9e3sgbGFiZWw6ICJHZXQgRnVuZGVkIGF0IEh5ZHJhIOKGkiIsIGhyZWY6IEhZRFJBX1VSTCwgYnRuQ2xhc3M6ICJiay1idG4taHlkcmEiLCBmb290bm90ZTogIsK3IE9wZW5zIGh5ZHJhZnVuZGluZy5pbyDCtyBhZmZpbGlhdGUgb2ZmZXIgwrciLCBicm9rZXI6ICJoeWRyYSIgfX0KICAgICAgICAgICAgICAvPgoKICAgICAgICAgICAgICA8QnJva2VyQ2FyZAogICAgICAgICAgICAgICAgYWNjZW50PXtCTE9GSU59CiAgICAgICAgICAgICAgICBnbG93U2lkZT0icmlnaHQiCiAgICAgICAgICAgICAgICBleWVicm93PSLCtyBQYXRoIDAyIMK3IFdoZXJlIEZvdXMgYWN0dWFsbHkgdHJhZGVzIMK3IgogICAgICAgICAgICAgICAgdGl0bGU9ezw+V2hlcmUgSSBwbGFjZSA8ZW0gc3R5bGU9e3sgY29sb3I6IEJMT0ZJTiB9fT5teSBvd24gdHJhZGVzLjwvZW0+PC8+fQogICAgICAgICAgICAgICAgZGVzYz0iQ2xhaW0gdXAgdG8gYSAkNSwwMDAgc2lnbi11cCBib251cyBhdCBCbG9GaW4g4oCUIHRoZSBleGNoYW5nZSBJIGFjdHVhbGx5IHVzZS4gVHJhZGUgY3J5cHRvIGFuZCB0b2tlbml6ZWQgVHJhZEZpIGxpa2UgTmFzZGFxLCBOVkRBLCBhbmQgR29sZCwgYWxsIGZyb20gb25lIGFjY291bnQuIgogICAgICAgICAgICAgICAgbG9nbz17eyBzcmM6ICIvdXBsb2Fkcy9icm9rZXJzL2Jsb2Zpbi1sb2dvLnBuZyIsIGFsdDogIkJsb0ZpbiIsIGhlaWdodDogMjYsIHRhZzogIkNSWVBUTyBFWENIQU5HRSIsIHRhZ1RyYWNraW5nOiAiMC4yNmVtIiB9fQogICAgICAgICAgICAgICAgZmVhdHVyZXM9e1sKICAgICAgICAgICAgICAgICAgIlVwIHRvICQ1LDAwMCBpbiBuZXctdXNlciByZXdhcmRzIiwKICAgICAgICAgICAgICAgICAgIkNyeXB0byArIHRva2VuaXplZCBzdG9ja3MgJiBnb2xkIiwKICAgICAgICAgICAgICAgICAgIlNwb3QsIGZ1dHVyZXMgJiBjb3B5IHRyYWRpbmciLAogICAgICAgICAgICAgICAgICAiRGVlcCwgcHJvLWdyYWRlIGxpcXVpZGl0eSIsCiAgICAgICAgICAgICAgICBdfQogICAgICAgICAgICAgICAgY2hpcD17eyBsYWJlbDogIsK3IE5ldy11c2VyIHJld2FyZCDCtyIsIGxpbmU6ICJTaWduLXVwIGJvbnVzIGNyZWRpdGVkIG9uIGRlcG9zaXQiLCBib3g6ICIkNSwwMDAiLCBib3hUcmFja2luZzogIjAuMDRlbSIgfX0KICAgICAgICAgICAgICAgIGN0YT17eyBsYWJlbDogIkNsYWltICQ1SyBhdCBCbG9GaW4g4oaSIiwgaHJlZjogQkxPRklOX1VSTCwgYnRuQ2xhc3M6ICJiay1idG4tYmxvZmluIiwgZm9vdG5vdGU6ICLCtyBPcGVucyBibG9maW4uY29tIMK3IGFmZmlsaWF0ZSBvZmZlciDCtyIsIGJyb2tlcjogImJsb2ZpbiIgfX0KICAgICAgICAgICAgICAvPgoKICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L3NlY3Rpb24+CgogICAgICAgIHsvKiDilIDilIAgU0tJUCBUTyBDT1VSU0Ug4pSA4pSAICovfQogICAgICAgIDxzZWN0aW9uIHN0eWxlPXt7IHBhZGRpbmc6ICIyNHB4IDAgODBweCIgfX0+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYmstd3JhcCI+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJiay1za2lwIiBzdHlsZT17eyBib3JkZXI6ICIxcHggc29saWQgdmFyKC0tbGluZSkiLCBiYWNrZ3JvdW5kOiAidmFyKC0tYmctMSkiLCBwYWRkaW5nOiAiNDRweCA0OHB4IiwgcG9zaXRpb246ICJyZWxhdGl2ZSIsIG92ZXJmbG93OiAiaGlkZGVuIiB9fT4KICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7IHBvc2l0aW9uOiAiYWJzb2x1dGUiLCBpbnNldDogMCwgcG9pbnRlckV2ZW50czogIm5vbmUiLCBiYWNrZ3JvdW5kOiAicmFkaWFsLWdyYWRpZW50KDU2MHB4IDIyMHB4IGF0IDAlIDUwJSwgcmdiYSgxOTEsMjUwLDcwLDAuMDYpLCB0cmFuc3BhcmVudCA2MiUpIiB9fSAvPgogICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgcG9zaXRpb246ICJyZWxhdGl2ZSIgfX0+CiAgICAgICAgICAgICAgICA8TW9ubyBzdHlsZT17eyBtYXJnaW5Cb3R0b206IDEyIH19PsK3IE5vIHByZXNzdXJlIMK3PC9Nb25vPgogICAgICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1kaXNwbGF5KSIsIGZvbnRTaXplOiAzMiwgZm9udFdlaWdodDogNjAwLCBsZXR0ZXJTcGFjaW5nOiAiLTAuMDNlbSIsIGNvbG9yOiAidmFyKC0tYm9uZSkiLCBsaW5lSGVpZ2h0OiAxLjEsIG1hcmdpbkJvdHRvbTogMTYsIG1heFdpZHRoOiA2NjAsIHRleHRXcmFwOiAiYmFsYW5jZSIgYXMgY29uc3QgfX0+CiAgICAgICAgICAgICAgICAgIFRoYW5rcyBmb3IgdGhlIGluZm8gJm1kYXNoOyB0YWtlIG1lIHN0cmFpZ2h0IHRvIHRoZSBjb3Vyc2UuCiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxwIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LWJvZHkpIiwgZm9udFNpemU6IDE1LCBjb2xvcjogInZhcigtLWFzaCkiLCBtYXJnaW46IDAsIG1heFdpZHRoOiA2MjAgfX0+CiAgICAgICAgICAgICAgICAgIFlvdSBjYW4gYWx3YXlzIGdyYWIgdGhlc2Ugb2ZmZXJzIGxhdGVyICZtZGFzaDsgdGhleSZyc3F1bztyZSB3YWl0aW5nIGluc2lkZSB5b3VyIG1lbWJlciBhcmVhLiBMZXNzb24gMDEgaXMgYWxyZWFkeSBpbiB5b3VyIGluYm94LgogICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJiay1za2lwLWJ0biIgc3R5bGU9e3sgcG9zaXRpb246ICJyZWxhdGl2ZSIgfX0+CiAgICAgICAgICAgICAgICA8YQogICAgICAgICAgICAgICAgICBocmVmPXtwYXRocy5jb25maXJtfQogICAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImJrLWJ0biBiay1idG4tZ2hvc3QiCiAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHBvc3Rob2cuY2FwdHVyZSgiYnJva2VyX29mZmVyc19za2lwcGVkIil9CiAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgIFNlbmQgbWUgdG8gdGhlIGZyZWUgY291cnNlIOKGkgogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvc2VjdGlvbj4KCiAgICAgICAgey8qIOKUgOKUgCBGT09URVIgLyBESVNDTEFJTUVSIOKUgOKUgCAqL30KICAgICAgICA8Zm9vdGVyIHN0eWxlPXt7IGJvcmRlclRvcDogIjFweCBzb2xpZCB2YXIoLS1saW5lKSIsIHBhZGRpbmc6ICIzMHB4IDAgNDhweCIgfX0+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYmstd3JhcCIgc3R5bGU9e3sgZGlzcGxheTogImZsZXgiLCBhbGlnbkl0ZW1zOiAiY2VudGVyIiwganVzdGlmeUNvbnRlbnQ6ICJzcGFjZS1iZXR3ZWVuIiwgZ2FwOiAyNCwgZmxleFdyYXA6ICJ3cmFwIiBhcyBjb25zdCB9fT4KICAgICAgICAgICAgPE1vbm8gY29sb3I9InZhcigtLW11dGVkKSIgc3R5bGU9e3sgZm9udFNpemU6IDkgfX0+wrcgUXVhbnR1bSBDaXBoZXIgTGFiIMK3IERlY29kZSB0aGUgbWFya2V0cyDCtzwvTW9ubz4KICAgICAgICAgICAgPHAgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtYm9keSkiLCBmb250U2l6ZTogMTIsIGxpbmVIZWlnaHQ6IDEuNTUsIGNvbG9yOiAidmFyKC0tbXV0ZWQpIiwgbWFyZ2luOiAwLCBtYXhXaWR0aDogODIwIH19PgogICAgICAgICAgICAgIEh5ZHJhIEZ1bmRpbmcgYW5kIEJsb0ZpbiBhcmUgcGFydG5lcnMgb2YgUXVhbnR1bSBDaXBoZXIgTGFiOyB3ZSBtYXkgZWFybiBhIGNvbW1pc3Npb24gaWYgeW91IHNpZ24gdXAgdGhyb3VnaCB0aGVzZSBsaW5rcy4gTm90aGluZyBoZXJlIGlzIGZpbmFuY2lhbCBhZHZpY2UuIFRyYWRpbmcgaW52b2x2ZXMgc3Vic3RhbnRpYWwgcmlzayAmbWRhc2g7IHRyYWRlIHlvdXIgb3duIHNpemUsIHJpc2sgeW91ciBvd24gY2FwaXRhbC4KICAgICAgICAgICAgPC9wPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9mb290ZXI+CgogICAgICA8L21haW4+CiAgICA8Lz4KICApOwp9Cg=="}
+"use client";
+
+import { useEffect, useSyncExternalStore } from "react";
+import posthog from "posthog-js";
+
+/* ─── data ─── */
+const HYDRA_URL = "https://bit.ly/3Svauv4";
+const BLOFIN_URL = "https://bit.ly/4ayHl8r";
+
+/* broker accent colors — scoped to this page only */
+const HYDRA = "#C6F56B";
+const BLOFIN = "#FF7A1A";
+
+/* ─── Logo ─── */
+function Logo({ href }: { href: string }) {
+  return (
+    <a href={href} style={{ display: "flex", alignItems: "center", gap: 12, flexShrink: 0 }}>
+      <svg width="22" height="22" viewBox="0 0 22 22" style={{ flexShrink: 0 }}>
+        <rect x="1" y="1" width="20" height="20" fill="none" stroke="var(--acid)" strokeWidth="1.4" />
+        <rect x="6" y="6" width="10" height="10" fill="var(--acid)" />
+        <rect x="9" y="9" width="4" height="4" fill="var(--bg)" />
+      </svg>
+      <span style={{ fontFamily: "var(--font-display)", fontSize: 16, fontWeight: 600, color: "var(--bone)", letterSpacing: "-0.02em", whiteSpace: "nowrap" as const }}>
+        Quantum Cipher
+      </span>
+    </a>
+  );
+}
+
+/* ─── Mono label ─── */
+function Mono({ children, color = "var(--acid)", style }: { children: React.ReactNode; color?: string; style?: React.CSSProperties }) {
+  return (
+    <div style={{ fontFamily: "var(--font-mono)", fontSize: 11, fontWeight: 700, letterSpacing: "0.22em", textTransform: "uppercase" as const, color, ...style }}>
+      {children}
+    </div>
+  );
+}
+
+/* ─── Feature bullet ─── */
+function Feat({ accent, children }: { accent: string; children: React.ReactNode }) {
+  return (
+    <div style={{ display: "flex", alignItems: "flex-start", gap: 13 }}>
+      <span style={{ fontFamily: "var(--font-display)", fontSize: 17, fontWeight: 700, lineHeight: 1.25, minWidth: 16, color: accent }}>+</span>
+      <span style={{ fontFamily: "var(--font-body)", fontSize: 15, lineHeight: 1.45, color: "var(--bone)", fontWeight: 400, flex: "1 1 auto", minWidth: 0 }}>{children}</span>
+    </div>
+  );
+}
+
+/* ─── Broker card ─── */
+function BrokerCard({
+  accent, glowSide, eyebrow, title, desc, logo, features, chip, cta,
+}: {
+  accent: string;
+  glowSide: "left" | "right";
+  eyebrow: string;
+  title: React.ReactNode;
+  desc: string;
+  logo: { src: string; alt: string; height: number; tag: string; tagTracking: string };
+  features: string[];
+  chip: { label: string; line: string; box: string; boxTracking: string };
+  cta: { label: string; href: string; btnClass: string; footnote: string; broker: string };
+}) {
+  const glow = glowSide === "left"
+    ? `radial-gradient(620px 300px at 0% 0%, ${accent === HYDRA ? "rgba(198,245,107,0.07)" : "rgba(255,122,26,0.09)"}, transparent 60%)`
+    : `radial-gradient(620px 300px at 100% 0%, ${accent === HYDRA ? "rgba(198,245,107,0.07)" : "rgba(255,122,26,0.09)"}, transparent 60%)`;
+  const tint = accent === HYDRA ? "rgba(198,245,107,0.04)" : "rgba(255,122,26,0.04)";
+  const chipTint = accent === HYDRA ? "rgba(198,245,107,0.05)" : "rgba(255,122,26,0.05)";
+
+  return (
+    <div className="bk-card" style={{ position: "relative", background: "var(--bg-1)", border: "1px solid var(--line)", borderTop: `2px solid ${accent}`, display: "flex", flexDirection: "column", overflow: "hidden" }}>
+      <div style={{ position: "absolute", inset: 0, pointerEvents: "none", background: glow }} />
+      <div style={{ position: "relative", display: "flex", flexDirection: "column", height: "100%" }}>
+        <Mono color={accent} style={{ marginBottom: 22, whiteSpace: "nowrap" as const }}>{eyebrow}</Mono>
+
+        <h2 className="bk-card-title" style={{ fontFamily: "var(--font-display)", fontWeight: 600, lineHeight: 0.98, letterSpacing: "-0.035em", color: "var(--bone)", margin: "0 0 16px" }}>
+          {title}
+        </h2>
+        <p style={{ fontFamily: "var(--font-body)", fontSize: 16, lineHeight: 1.55, color: "var(--ash)", margin: "0 0 26px" }}>{desc}</p>
+
+        {/* brand lockup */}
+        <div style={{ display: "flex", alignItems: "center", gap: 14, padding: "18px 20px", border: "1px solid var(--line-2)", background: tint, marginBottom: 24 }}>
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src={logo.src} alt={logo.alt} style={{ height: logo.height, width: "auto", display: "block" }} />
+          <span style={{ fontFamily: "var(--font-mono)", fontSize: 9, fontWeight: 700, letterSpacing: logo.tagTracking, textTransform: "uppercase" as const, color: "var(--ash)" }}>{logo.tag}</span>
+        </div>
+
+        {/* features */}
+        <div style={{ display: "flex", flexDirection: "column", gap: 13, marginBottom: 26 }}>
+          {features.map((f, i) => <Feat key={i} accent={accent}>{f}</Feat>)}
+        </div>
+
+        {/* promo / reward chip */}
+        <div style={{ border: `1px dashed ${accent}`, background: chipTint, padding: "16px 18px", marginBottom: 24, display: "flex", alignItems: "center", justifyContent: "space-between", gap: 16, flexWrap: "wrap" as const }}>
+          <div>
+            <Mono color="var(--ash)" style={{ fontSize: 9, letterSpacing: "0.2em", marginBottom: 6 }}>{chip.label}</Mono>
+            <div style={{ fontFamily: "var(--font-body)", fontSize: 13, color: "var(--bone)", fontWeight: 500 }}>{chip.line}</div>
+          </div>
+          <div style={{ fontFamily: "var(--font-mono)", fontSize: 19, fontWeight: 700, letterSpacing: chip.boxTracking, color: accent, padding: "8px 14px", border: `1px solid ${accent}`, background: "rgba(6,7,10,0.5)", whiteSpace: "nowrap" as const }}>
+            {chip.box}
+          </div>
+        </div>
+
+        {/* CTA — pinned to bottom for equal-height cards */}
+        <div style={{ marginTop: "auto" }}>
+          <a
+            href={cta.href}
+            target="_blank"
+            rel="noopener noreferrer sponsored"
+            className={`bk-btn ${cta.btnClass}`}
+            onClick={() => posthog.capture("broker_offer_clicked", { broker: cta.broker })}
+          >
+            {cta.label}
+          </a>
+          <Mono color="var(--muted)" style={{ fontSize: 9, marginTop: 12, textAlign: "center" as const, letterSpacing: "0.18em" }}>{cta.footnote}</Mono>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+/* ─── Page ─── */
+const emptySubscribe = () => () => {};
+
+export default function BrokerOffers() {
+  // Host-aware in-funnel paths — on free.quantumcipherlab.com the proxy strips
+  // the /free-course prefix, on the main domain it stays. Server snapshot is
+  // false so SSR/hydration render the main-domain paths, then the real host
+  // kicks in right after hydration.
+  const onFreeHost = useSyncExternalStore(
+    emptySubscribe,
+    () => window.location.hostname.includes("free."),
+    () => false,
+  );
+  const paths = onFreeHost
+    ? { home: "/", confirm: "/confirm" }
+    : { home: "/free-course", confirm: "/free-course/confirm" };
+
+  useEffect(() => {
+    posthog.capture("broker_offers_viewed");
+  }, []);
+
+  return (
+    <>
+      <style>{`
+        .bk-wrap { max-width: 1320px; margin: 0 auto; padding: 0 48px; }
+        .bk-h1 { font-size: 72px; }
+        .bk-card-title { font-size: 40px; }
+        .bk-card { padding: 40px 40px 36px; }
+        .bk-split { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; align-items: stretch; }
+        .bk-stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
+        .bk-skip { display: grid; grid-template-columns: 1fr auto; gap: 32px; align-items: center; }
+        .bk-skip-btn { min-width: 280px; }
+
+        .bk-btn {
+          display: inline-flex; align-items: center; justify-content: center; gap: 12px;
+          width: 100%;
+          padding: 20px 28px;
+          font-family: var(--font-mono); font-size: 13px; font-weight: 700;
+          letter-spacing: 0.12em; text-transform: uppercase; white-space: nowrap;
+          border: 0; border-radius: 2px; cursor: pointer;
+          transition: transform 160ms ease, box-shadow 160ms ease;
+        }
+        .bk-btn-hydra {
+          background: ${HYDRA}; color: #1B2A06;
+          box-shadow: 0 0 0 1px ${HYDRA}, 0 0 36px rgba(198,245,107,0.22);
+        }
+        .bk-btn-hydra:hover {
+          transform: translateY(-2px);
+          box-shadow: 0 0 0 1px ${HYDRA}, 0 0 60px rgba(198,245,107,0.42);
+        }
+        .bk-btn-blofin {
+          background: ${BLOFIN}; color: #2A1400;
+          box-shadow: 0 0 0 1px ${BLOFIN}, 0 0 36px rgba(255,122,26,0.24);
+        }
+        .bk-btn-blofin:hover {
+          transform: translateY(-2px);
+          box-shadow: 0 0 0 1px ${BLOFIN}, 0 0 60px rgba(255,122,26,0.44);
+        }
+        .bk-btn-ghost {
+          background: transparent; color: var(--bone);
+          box-shadow: 0 0 0 1px var(--line-2);
+        }
+        .bk-btn-ghost:hover { box-shadow: 0 0 0 1px var(--acid); color: var(--acid); }
+
+        @media (max-width: 920px) {
+          .bk-wrap { padding: 0 22px; }
+          .bk-h1 { font-size: 42px; }
+          .bk-card-title { font-size: 32px; }
+          .bk-card { padding: 32px 26px 30px; }
+          .bk-split { grid-template-columns: 1fr; gap: 18px; }
+          .bk-stats { grid-template-columns: 1fr 1fr; }
+          .bk-branch { display: none; }
+          .bk-skip { grid-template-columns: 1fr; gap: 24px; }
+          .bk-skip-btn { min-width: 0; width: 100%; }
+          .bk-btn { white-space: normal; text-align: center; padding: 18px 20px; }
+        }
+        @media (prefers-reduced-motion: reduce) {
+          .bk-btn { transition: none; }
+          .bk-btn:hover { transform: none; }
+          .pulse { animation: none; }
+        }
+      `}</style>
+
+      <main className="grid-bg" style={{ minHeight: "100vh", background: "var(--bg)", color: "var(--bone)" }}>
+
+        {/* ── HEADER ── */}
+        <header style={{ borderBottom: "1px solid var(--line)" }}>
+          <div className="bk-wrap" style={{ paddingTop: 22, paddingBottom: 22, display: "flex", alignItems: "center", justifyContent: "space-between", gap: 24, flexWrap: "wrap" as const }}>
+            <Logo href={paths.home} />
+            <div style={{ display: "flex", alignItems: "center", gap: 14 }}>
+              <span className="pulse" style={{ width: 6, height: 6, background: "var(--acid)", display: "inline-block", flexShrink: 0 }} />
+              <Mono color="var(--ash)" style={{ whiteSpace: "nowrap" as const }}>· Step 2 of 3 · Course access confirmed ·</Mono>
+            </div>
+          </div>
+        </header>
+
+        {/* ── HERO ── */}
+        <section style={{ position: "relative", padding: "56px 0 8px", overflow: "hidden" }}>
+          <div style={{ position: "absolute", inset: 0, pointerEvents: "none", background: "radial-gradient(900px 520px at 50% -8%, rgba(191,250,70,0.08), transparent 62%)" }} />
+          <div className="bk-wrap" style={{ position: "relative", textAlign: "center" }}>
+
+            {/* confirmation chip */}
+            <div style={{ display: "inline-flex", alignItems: "center", gap: 12, padding: "10px 18px", border: "1px solid var(--acid)", background: "rgba(191,250,70,0.04)", marginBottom: 30 }}>
+              <span style={{ fontFamily: "var(--font-display)", fontSize: 16, fontWeight: 700, color: "var(--acid)", lineHeight: 1 }}>✓</span>
+              <Mono>Lesson 01 is landing in your inbox now</Mono>
+            </div>
+
+            <Mono color="var(--ash)" style={{ marginBottom: 22, letterSpacing: "0.24em" }}>· You&rsquo;re in · one quick thing before you start ·</Mono>
+
+            <h1 className="bk-h1" style={{ fontFamily: "var(--font-display)", fontWeight: 600, lineHeight: 0.98, letterSpacing: "-0.045em", color: "var(--bone)", margin: "0 auto 26px", maxWidth: 1040, textWrap: "balance" as const }}>
+              You&rsquo;re in. Before lesson one &mdash;<br />
+              <em style={{ color: "var(--acid)", textShadow: "0 0 38px rgba(191,250,70,0.34)" }}>set up where you&rsquo;ll actually trade.</em>
+            </h1>
+
+            <p style={{ fontFamily: "var(--font-body)", fontSize: 19, lineHeight: 1.6, color: "var(--ash)", margin: "0 auto", maxWidth: 720 }}>
+              The course teaches the system. But a system needs a platform to run on. These are the two I personally use and trust &mdash; one funds you with real capital so you risk none of your own, the other is where I place my own trades. Course members get an exclusive deal on both.
+            </p>
+
+            {/* hero ministats */}
+            <div className="bk-stats" style={{ marginTop: 44, paddingTop: 30, borderTop: "1px solid var(--line)", maxWidth: 760, marginLeft: "auto", marginRight: "auto" }}>
+              {[
+                { v: "$200K", k: "· Funded · no challenge ·" },
+                { v: "$5,000", k: "· Bonus · where Fous trades ·" },
+                { v: "2 ways", k: "· Pick one · or both ·" },
+              ].map((s, i) => (
+                <div key={i}>
+                  <div style={{ fontFamily: "var(--font-display)", fontSize: 30, fontWeight: 700, color: "var(--bone)", letterSpacing: "-0.03em", lineHeight: 1 }}>{s.v}</div>
+                  <Mono color="var(--ash)" style={{ fontSize: 10, marginTop: 9, letterSpacing: "0.18em" }}>{s.k}</Mono>
+                </div>
+              ))}
+            </div>
+          </div>
+        </section>
+
+        {/* ── CHOOSE YOUR BROKER divider ── */}
+        <section style={{ padding: "56px 0 0" }}>
+          <div className="bk-wrap" style={{ textAlign: "center" }}>
+            <div style={{ fontFamily: "var(--font-display)", fontWeight: 600, fontSize: 44, letterSpacing: "-0.035em", color: "var(--bone)", lineHeight: 1 }}>Choose your broker</div>
+            <Mono color="var(--ash)" style={{ marginTop: 16 }}>· Two paths · both vetted by Cam ·</Mono>
+            {/* branching connector */}
+            {/* Tailwind preflight makes svg display:block, so text-align:center won't center it — use auto margins */}
+            <svg className="bk-branch" viewBox="0 0 640 86" width="320" height="43" style={{ margin: "18px auto 0", overflow: "visible" }} aria-hidden="true">
+              <path d="M320 4 L320 26" fill="none" stroke="var(--line-2)" strokeWidth="1.5" />
+              <path d="M320 26 Q320 44 220 44 L150 44" fill="none" stroke={HYDRA} strokeWidth="1.5" />
+              <path d="M320 26 Q320 44 420 44 L490 44" fill="none" stroke={BLOFIN} strokeWidth="1.5" />
+              <path d="M150 44 L150 76" fill="none" stroke={HYDRA} strokeWidth="1.5" />
+              <path d="M490 44 L490 76" fill="none" stroke={BLOFIN} strokeWidth="1.5" />
+              <polygon points="150,82 144,70 156,70" fill={HYDRA} />
+              <polygon points="490,82 484,70 496,70" fill={BLOFIN} />
+            </svg>
+          </div>
+        </section>
+
+        {/* ── BROKER SPLIT ── */}
+        <section style={{ padding: "26px 0 40px" }}>
+          <div className="bk-wrap">
+            <div className="bk-split">
+
+              <BrokerCard
+                accent={HYDRA}
+                glowSide="left"
+                eyebrow="· Path 01 · Trade funded ·"
+                title={<>Get funded <em style={{ color: HYDRA }}>up to $200K.</em></>}
+                desc="No challenges. No phases. Instant funding from day one — for Futures, Crypto, and Forex. Trade real capital with none of your own on the line. Co-founded by Cameron Fous."
+                logo={{ src: "/uploads/brokers/hydra-logo.png", alt: "Hydra Funding", height: 38, tag: "FUNDING", tagTracking: "0.3em" }}
+                features={[
+                  "Instant funding — no eval phase",
+                  "Trade Futures, Crypto & Forex",
+                  "Up to 90% split · paid on demand",
+                  "Accounts from $5K to $200K",
+                ]}
+                chip={{ label: "· Course-member code ·", line: "20% OFF your first account, site-wide", box: "FOUS20", boxTracking: "0.12em" }}
+                cta={{ label: "Get Funded at Hydra →", href: HYDRA_URL, btnClass: "bk-btn-hydra", footnote: "· Opens hydrafunding.io · affiliate offer ·", broker: "hydra" }}
+              />
+
+              <BrokerCard
+                accent={BLOFIN}
+                glowSide="right"
+                eyebrow="· Path 02 · Where Fous actually trades ·"
+                title={<>Where I place <em style={{ color: BLOFIN }}>my own trades.</em></>}
+                desc="Claim up to a $5,000 sign-up bonus at BloFin — the exchange I actually use. Trade crypto and tokenized TradFi like Nasdaq, NVDA, and Gold, all from one account."
+                logo={{ src: "/uploads/brokers/blofin-logo.png", alt: "BloFin", height: 26, tag: "CRYPTO EXCHANGE", tagTracking: "0.26em" }}
+                features={[
+                  "Up to $5,000 in new-user rewards",
+                  "Crypto + tokenized stocks & gold",
+                  "Spot, futures & copy trading",
+                  "Deep, pro-grade liquidity",
+                ]}
+                chip={{ label: "· New-user reward ·", line: "Sign-up bonus credited on deposit", box: "$5,000", boxTracking: "0.04em" }}
+                cta={{ label: "Claim $5K at BloFin →", href: BLOFIN_URL, btnClass: "bk-btn-blofin", footnote: "· Opens blofin.com · affiliate offer ·", broker: "blofin" }}
+              />
+
+            </div>
+          </div>
+        </section>
+
+        {/* ── SKIP TO COURSE ── */}
+        <section style={{ padding: "24px 0 80px" }}>
+          <div className="bk-wrap">
+            <div className="bk-skip" style={{ border: "1px solid var(--line)", background: "var(--bg-1)", padding: "44px 48px", position: "relative", overflow: "hidden" }}>
+              <div style={{ position: "absolute", inset: 0, pointerEvents: "none", background: "radial-gradient(560px 220px at 0% 50%, rgba(191,250,70,0.06), transparent 62%)" }} />
+              <div style={{ position: "relative" }}>
+                <Mono style={{ marginBottom: 12 }}>· No pressure ·</Mono>
+                <div style={{ fontFamily: "var(--font-display)", fontSize: 32, fontWeight: 600, letterSpacing: "-0.03em", color: "var(--bone)", lineHeight: 1.1, marginBottom: 16, maxWidth: 660, textWrap: "balance" as const }}>
+                  Thanks for the info &mdash; take me straight to the course.
+                </div>
+                <p style={{ fontFamily: "var(--font-body)", fontSize: 15, color: "var(--ash)", margin: 0, maxWidth: 620 }}>
+                  You can always grab these offers later &mdash; they&rsquo;re waiting inside your member area. Lesson 01 is already in your inbox.
+                </p>
+              </div>
+              <div className="bk-skip-btn" style={{ position: "relative" }}>
+                <a
+                  href={paths.confirm}
+                  className="bk-btn bk-btn-ghost"
+                  onClick={() => posthog.capture("broker_offers_skipped")}
+                >
+                  Send me to the free course →
+                </a>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {/* ── FOOTER / DISCLAIMER ── */}
+        <footer style={{ borderTop: "1px solid var(--line)", padding: "30px 0 48px" }}>
+          <div className="bk-wrap" style={{ display: "flex", alignItems: "center", justifyContent: "space-between", gap: 24, flexWrap: "wrap" as const }}>
+            <Mono color="var(--muted)" style={{ fontSize: 9 }}>· Quantum Cipher Lab · Decode the markets ·</Mono>
+            <p style={{ fontFamily: "var(--font-body)", fontSize: 12, lineHeight: 1.55, color: "var(--muted)", margin: 0, maxWidth: 820 }}>
+              Hydra Funding and BloFin are partners of Quantum Cipher Lab; we may earn a commission if you sign up through these links. Nothing here is financial advice. Trading involves substantial risk &mdash; trade your own size, risk your own capital.
+            </p>
+          </div>
+        </footer>
+
+      </main>
+    </>
+  );
+}

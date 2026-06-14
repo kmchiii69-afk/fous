@@ -1,1 +1,144 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB7IHVzZVJvdXRlciB9IGZyb20gIm5leHQvbmF2aWdhdGlvbiI7CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBQYXNzd29yZEdhdGUoKSB7CiAgY29uc3QgW3Bhc3N3b3JkLCBzZXRQYXNzd29yZF0gPSB1c2VTdGF0ZSgiIik7CiAgY29uc3QgW2Vycm9yLCBzZXRFcnJvcl0gPSB1c2VTdGF0ZSgiIik7CiAgY29uc3QgW2xvYWRpbmcsIHNldExvYWRpbmddID0gdXNlU3RhdGUoZmFsc2UpOwogIGNvbnN0IHJvdXRlciA9IHVzZVJvdXRlcigpOwoKICBhc3luYyBmdW5jdGlvbiBzdWJtaXQoZTogUmVhY3QuRm9ybUV2ZW50KSB7CiAgICBlLnByZXZlbnREZWZhdWx0KCk7CiAgICBzZXRMb2FkaW5nKHRydWUpOwogICAgc2V0RXJyb3IoIiIpOwogICAgY29uc3QgcmVzID0gYXdhaXQgZmV0Y2goIi9hcGkvYW5hbHl0aWNzL2F1dGgiLCB7CiAgICAgIG1ldGhvZDogIlBPU1QiLAogICAgICBoZWFkZXJzOiB7ICJDb250ZW50LVR5cGUiOiAiYXBwbGljYXRpb24vanNvbiIgfSwKICAgICAgYm9keTogSlNPTi5zdHJpbmdpZnkoeyBwYXNzd29yZCB9KSwKICAgIH0pOwogICAgaWYgKHJlcy5vaykgewogICAgICByb3V0ZXIucmVmcmVzaCgpOwogICAgfSBlbHNlIHsKICAgICAgc2V0RXJyb3IoIkluY29ycmVjdCBwYXNzd29yZC4iKTsKICAgICAgc2V0TG9hZGluZyhmYWxzZSk7CiAgICB9CiAgfQoKICByZXR1cm4gKAogICAgPGRpdgogICAgICBzdHlsZT17ewogICAgICAgIG1pbkhlaWdodDogIjEwMHZoIiwKICAgICAgICBiYWNrZ3JvdW5kOiAiIzA2MDcwQSIsCiAgICAgICAgZGlzcGxheTogImZsZXgiLAogICAgICAgIGFsaWduSXRlbXM6ICJjZW50ZXIiLAogICAgICAgIGp1c3RpZnlDb250ZW50OiAiY2VudGVyIiwKICAgICAgICBwYWRkaW5nOiAyNCwKICAgICAgICBmb250RmFtaWx5OiAiJ0pldEJyYWlucyBNb25vJywgbW9ub3NwYWNlIiwKICAgICAgfX0KICAgID4KICAgICAgPGRpdiBzdHlsZT17eyB3aWR0aDogIjEwMCUiLCBtYXhXaWR0aDogNDAwLCB0ZXh0QWxpZ246ICJjZW50ZXIiIH19PgogICAgICAgIHsvKiBMb2dvIG1hcmsgKi99CiAgICAgICAgPHN2ZwogICAgICAgICAgd2lkdGg9IjM2IgogICAgICAgICAgaGVpZ2h0PSIzNiIKICAgICAgICAgIHZpZXdCb3g9IjAgMCAyOCAyOCIKICAgICAgICAgIGZpbGw9Im5vbmUiCiAgICAgICAgICBzdHlsZT17eyBtYXJnaW5Cb3R0b206IDMyIH19CiAgICAgICAgPgogICAgICAgICAgPHJlY3QgeD0iMC41IiB5PSIwLjUiIHdpZHRoPSIyNyIgaGVpZ2h0PSIyNyIgc3Ryb2tlPSIjQkZGQTQ2IiBzdHJva2VXaWR0aD0iMSIgLz4KICAgICAgICAgIDxyZWN0IHg9IjciIHk9IjciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCIgZmlsbD0iI0JGRkE0NiIgLz4KICAgICAgICAgIDxyZWN0IHg9IjExIiB5PSIxMSIgd2lkdGg9IjYiIGhlaWdodD0iNiIgZmlsbD0iIzA2MDcwQSIgLz4KICAgICAgICA8L3N2Zz4KCiAgICAgICAgPGRpdgogICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgZm9udFNpemU6IDEwLAogICAgICAgICAgICBmb250V2VpZ2h0OiA3MDAsCiAgICAgICAgICAgIGxldHRlclNwYWNpbmc6ICIwLjI4ZW0iLAogICAgICAgICAgICBjb2xvcjogIiNCRkZBNDYiLAogICAgICAgICAgICB0ZXh0VHJhbnNmb3JtOiAidXBwZXJjYXNlIiwKICAgICAgICAgICAgbWFyZ2luQm90dG9tOiAxMiwKICAgICAgICAgIH19CiAgICAgICAgPgogICAgICAgICAgwrcgUXVhbnR1bSBDaXBoZXIgwrcKICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2CiAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICBmb250U2l6ZTogMTAsCiAgICAgICAgICAgIGZvbnRXZWlnaHQ6IDYwMCwKICAgICAgICAgICAgbGV0dGVyU3BhY2luZzogIjAuMjJlbSIsCiAgICAgICAgICAgIGNvbG9yOiAiIzZCNzI4MCIsCiAgICAgICAgICAgIHRleHRUcmFuc2Zvcm06ICJ1cHBlcmNhc2UiLAogICAgICAgICAgICBtYXJnaW5Cb3R0b206IDQwLAogICAgICAgICAgfX0KICAgICAgICA+CiAgICAgICAgICDCtyBBbmFseXRpY3MgQWNjZXNzIMK3CiAgICAgICAgPC9kaXY+CgogICAgICAgIDxmb3JtIG9uU3VibWl0PXtzdWJtaXR9IHN0eWxlPXt7IGRpc3BsYXk6ICJmbGV4IiwgZmxleERpcmVjdGlvbjogImNvbHVtbiIsIGdhcDogMTYgfX0+CiAgICAgICAgICA8aW5wdXQKICAgICAgICAgICAgdHlwZT0icGFzc3dvcmQiCiAgICAgICAgICAgIHZhbHVlPXtwYXNzd29yZH0KICAgICAgICAgICAgb25DaGFuZ2U9eyhlKSA9PiBzZXRQYXNzd29yZChlLnRhcmdldC52YWx1ZSl9CiAgICAgICAgICAgIHBsYWNlaG9sZGVyPSJFbnRlciBwYXNzd29yZCIKICAgICAgICAgICAgYXV0b0ZvY3VzCiAgICAgICAgICAgIHJlcXVpcmVkCiAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgd2lkdGg6ICIxMDAlIiwKICAgICAgICAgICAgICBiYWNrZ3JvdW5kOiAiIzBEMEUxMiIsCiAgICAgICAgICAgICAgYm9yZGVyOiAiMXB4IHNvbGlkICMxRTIwMjgiLAogICAgICAgICAgICAgIGJvcmRlclJhZGl1czogMCwKICAgICAgICAgICAgICBjb2xvcjogIiNGMkYwRTYiLAogICAgICAgICAgICAgIHBhZGRpbmc6ICIxNnB4IDIwcHgiLAogICAgICAgICAgICAgIGZvbnRGYW1pbHk6ICInSmV0QnJhaW5zIE1vbm8nLCBtb25vc3BhY2UiLAogICAgICAgICAgICAgIGZvbnRTaXplOiAxNCwKICAgICAgICAgICAgICBsZXR0ZXJTcGFjaW5nOiAiMC4wOGVtIiwKICAgICAgICAgICAgICBvdXRsaW5lOiAibm9uZSIsCiAgICAgICAgICAgICAgYm94U2l6aW5nOiAiYm9yZGVyLWJveCIsCiAgICAgICAgICAgIH19CiAgICAgICAgICAgIG9uRm9jdXM9eyhlKSA9PgogICAgICAgICAgICAgIChlLmN1cnJlbnRUYXJnZXQuc3R5bGUuYm9yZGVyQ29sb3IgPSAiI0JGRkE0NiIpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgb25CbHVyPXsoZSkgPT4KICAgICAgICAgICAgICAoZS5jdXJyZW50VGFyZ2V0LnN0eWxlLmJvcmRlckNvbG9yID0gIiMxRTIwMjgiKQogICAgICAgICAgICB9CiAgICAgICAgICAvPgoKICAgICAgICAgIHtlcnJvciAmJiAoCiAgICAgICAgICAgIDxkaXYKICAgICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgICAgZm9udFNpemU6IDExLAogICAgICAgICAgICAgICAgY29sb3I6ICIjRkY2QjZCIiwKICAgICAgICAgICAgICAgIGxldHRlclNwYWNpbmc6ICIwLjFlbSIsCiAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgPgogICAgICAgICAgICAgIHtlcnJvcn0KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICApfQoKICAgICAgICAgIDxidXR0b24KICAgICAgICAgICAgdHlwZT0ic3VibWl0IgogICAgICAgICAgICBkaXNhYmxlZD17bG9hZGluZyB8fCAhcGFzc3dvcmR9CiAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgcGFkZGluZzogIjE2cHgiLAogICAgICAgICAgICAgIGJhY2tncm91bmQ6IGxvYWRpbmcgfHwgIXBhc3N3b3JkID8gIiMxRTIwMjgiIDogIiNCRkZBNDYiLAogICAgICAgICAgICAgIGJvcmRlcjogMCwKICAgICAgICAgICAgICBjb2xvcjogbG9hZGluZyB8fCAhcGFzc3dvcmQgPyAiIzZCNzI4MCIgOiAiIzA2MDcwQSIsCiAgICAgICAgICAgICAgZm9udEZhbWlseTogIidKZXRCcmFpbnMgTW9ubycsIG1vbm9zcGFjZSIsCiAgICAgICAgICAgICAgZm9udFNpemU6IDExLAogICAgICAgICAgICAgIGZvbnRXZWlnaHQ6IDcwMCwKICAgICAgICAgICAgICBsZXR0ZXJTcGFjaW5nOiAiMC4yMmVtIiwKICAgICAgICAgICAgICB0ZXh0VHJhbnNmb3JtOiAidXBwZXJjYXNlIiwKICAgICAgICAgICAgICBjdXJzb3I6IGxvYWRpbmcgfHwgIXBhc3N3b3JkID8gImRlZmF1bHQiIDogInBvaW50ZXIiLAogICAgICAgICAgICAgIHRyYW5zaXRpb246ICJhbGwgMjAwbXMgZWFzZSIsCiAgICAgICAgICAgIH19CiAgICAgICAgICA+CiAgICAgICAgICAgIHtsb2FkaW5nID8gIlZlcmlmeWluZy4uLiIgOiAiVW5sb2NrIOKGkiJ9CiAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICA8L2Zvcm0+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgKTsKfQo="}
+"use client";
+
+import { useState } from "react";
+import { useRouter } from "next/navigation";
+
+export default function PasswordGate() {
+  const [password, setPassword] = useState("");
+  const [error, setError] = useState("");
+  const [loading, setLoading] = useState(false);
+  const router = useRouter();
+
+  async function submit(e: React.FormEvent) {
+    e.preventDefault();
+    setLoading(true);
+    setError("");
+    const res = await fetch("/api/analytics/auth", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ password }),
+    });
+    if (res.ok) {
+      router.refresh();
+    } else {
+      setError("Incorrect password.");
+      setLoading(false);
+    }
+  }
+
+  return (
+    <div
+      style={{
+        minHeight: "100vh",
+        background: "#06070A",
+        display: "flex",
+        alignItems: "center",
+        justifyContent: "center",
+        padding: 24,
+        fontFamily: "'JetBrains Mono', monospace",
+      }}
+    >
+      <div style={{ width: "100%", maxWidth: 400, textAlign: "center" }}>
+        {/* Logo mark */}
+        <svg
+          width="36"
+          height="36"
+          viewBox="0 0 28 28"
+          fill="none"
+          style={{ marginBottom: 32 }}
+        >
+          <rect x="0.5" y="0.5" width="27" height="27" stroke="#BFFA46" strokeWidth="1" />
+          <rect x="7" y="7" width="14" height="14" fill="#BFFA46" />
+          <rect x="11" y="11" width="6" height="6" fill="#06070A" />
+        </svg>
+
+        <div
+          style={{
+            fontSize: 10,
+            fontWeight: 700,
+            letterSpacing: "0.28em",
+            color: "#BFFA46",
+            textTransform: "uppercase",
+            marginBottom: 12,
+          }}
+        >
+          · Quantum Cipher ·
+        </div>
+        <div
+          style={{
+            fontSize: 10,
+            fontWeight: 600,
+            letterSpacing: "0.22em",
+            color: "#6B7280",
+            textTransform: "uppercase",
+            marginBottom: 40,
+          }}
+        >
+          · Analytics Access ·
+        </div>
+
+        <form onSubmit={submit} style={{ display: "flex", flexDirection: "column", gap: 16 }}>
+          <input
+            type="password"
+            value={password}
+            onChange={(e) => setPassword(e.target.value)}
+            placeholder="Enter password"
+            autoFocus
+            required
+            style={{
+              width: "100%",
+              background: "#0D0E12",
+              border: "1px solid #1E2028",
+              borderRadius: 0,
+              color: "#F2F0E6",
+              padding: "16px 20px",
+              fontFamily: "'JetBrains Mono', monospace",
+              fontSize: 14,
+              letterSpacing: "0.08em",
+              outline: "none",
+              boxSizing: "border-box",
+            }}
+            onFocus={(e) =>
+              (e.currentTarget.style.borderColor = "#BFFA46")
+            }
+            onBlur={(e) =>
+              (e.currentTarget.style.borderColor = "#1E2028")
+            }
+          />
+
+          {error && (
+            <div
+              style={{
+                fontSize: 11,
+                color: "#FF6B6B",
+                letterSpacing: "0.1em",
+              }}
+            >
+              {error}
+            </div>
+          )}
+
+          <button
+            type="submit"
+            disabled={loading || !password}
+            style={{
+              padding: "16px",
+              background: loading || !password ? "#1E2028" : "#BFFA46",
+              border: 0,
+              color: loading || !password ? "#6B7280" : "#06070A",
+              fontFamily: "'JetBrains Mono', monospace",
+              fontSize: 11,
+              fontWeight: 700,
+              letterSpacing: "0.22em",
+              textTransform: "uppercase",
+              cursor: loading || !password ? "default" : "pointer",
+              transition: "all 200ms ease",
+            }}
+          >
+            {loading ? "Verifying..." : "Unlock →"}
+          </button>
+        </form>
+      </div>
+    </div>
+  );
+}

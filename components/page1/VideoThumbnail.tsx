@@ -1,1 +1,108 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CgovLyBQYWdlIDEgdmlkZW8g4oCUIHZpc3VhbCBvbmx5LiBDbGljayBvcGVucyB0aGUgb3B0LWluIG1vZGFsLCBub3QgdGhlIHZpZGVvLgpjb25zdCBZVF9JRCA9ICJZVUIzc3FJV0dncyI7CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBWaWRlb1RodW1ibmFpbCh7IG9uQ2xpY2sgfTogeyBvbkNsaWNrOiAoKSA9PiB2b2lkIH0pIHsKICBjb25zdCBbaG92ZXJlZCwgc2V0SG92ZXJlZF0gPSB1c2VTdGF0ZShmYWxzZSk7CiAgY29uc3QgW2ltZ1NyYywgc2V0SW1nU3JjXSA9IHVzZVN0YXRlKGBodHRwczovL2kueXRpbWcuY29tL3ZpLyR7WVRfSUR9L21heHJlc2RlZmF1bHQuanBnYCk7CgogIHJldHVybiAoCiAgICA8ZGl2CiAgICAgIG9uQ2xpY2s9e29uQ2xpY2t9CiAgICAgIG9uTW91c2VFbnRlcj17KCkgPT4gc2V0SG92ZXJlZCh0cnVlKX0KICAgICAgb25Nb3VzZUxlYXZlPXsoKSA9PiBzZXRIb3ZlcmVkKGZhbHNlKX0KICAgICAgc3R5bGU9e3sKICAgICAgICBwb3NpdGlvbjogInJlbGF0aXZlIiwKICAgICAgICBhc3BlY3RSYXRpbzogIjE2LzkiLAogICAgICAgIHdpZHRoOiAiMTAwJSIsCiAgICAgICAgbWF4V2lkdGg6IDg4MCwKICAgICAgICBtYXJnaW46ICIwIGF1dG8iLAogICAgICAgIGN1cnNvcjogInBvaW50ZXIiLAogICAgICAgIGJvcmRlcjogYDFweCBzb2xpZCAke2hvdmVyZWQgPyAidmFyKC0tYWNpZCkiIDogInZhcigtLWxpbmUtMikifWAsCiAgICAgICAgYmFja2dyb3VuZDogInZhcigtLWJnLTEpIiwKICAgICAgICBvdmVyZmxvdzogImhpZGRlbiIsCiAgICAgICAgdHJhbnNpdGlvbjogImJvcmRlci1jb2xvciAyMDBtcyBlYXNlIiwKICAgICAgfX0KICAgID4KICAgICAgey8qIFRodW1ibmFpbCBpbWFnZSDigJQgbWF4cmVzZGVmYXVsdCBmYWxscyBiYWNrIHRvIGhxZGVmYXVsdCBpZiBub3QgYXZhaWxhYmxlICovfQogICAgICB7LyogZXNsaW50LWRpc2FibGUtbmV4dC1saW5lIEBuZXh0L25leHQvbm8taW1nLWVsZW1lbnQgKi99CiAgICAgIDxpbWcKICAgICAgICBzcmM9e2ltZ1NyY30KICAgICAgICBhbHQ9IldhdGNoIHRoZSBmcmVlIHRyYWluaW5nIgogICAgICAgIG9uRXJyb3I9eygpID0+IHNldEltZ1NyYyhgaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS8ke1lUX0lEfS9ocWRlZmF1bHQuanBnYCl9CiAgICAgICAgc3R5bGU9e3sKICAgICAgICAgIHBvc2l0aW9uOiAiYWJzb2x1dGUiLAogICAgICAgICAgaW5zZXQ6IDAsCiAgICAgICAgICB3aWR0aDogIjEwMCUiLAogICAgICAgICAgaGVpZ2h0OiAiMTAwJSIsCiAgICAgICAgICBvYmplY3RGaXQ6ICJjb3ZlciIsCiAgICAgICAgICBvYmplY3RQb3NpdGlvbjogImNlbnRlciIsCiAgICAgICAgfX0KICAgICAgLz4KCiAgICAgIHsvKiBEaW0gKyByYWRpYWwgdmlnbmV0dGUgc28gdGhlIHBsYXkgYnV0dG9uIHJlYWRzICovfQogICAgICA8ZGl2CiAgICAgICAgYXJpYS1oaWRkZW4KICAgICAgICBzdHlsZT17ewogICAgICAgICAgcG9zaXRpb246ICJhYnNvbHV0ZSIsCiAgICAgICAgICBpbnNldDogMCwKICAgICAgICAgIGJhY2tncm91bmQ6CiAgICAgICAgICAgICJyYWRpYWwtZ3JhZGllbnQoZWxsaXBzZSBhdCA1MCUgNTAlLCByZ2JhKDYsNywxMCwwLjIwKSAwJSwgcmdiYSg2LDcsMTAsMC41NSkgMTAwJSkiLAogICAgICAgICAgcG9pbnRlckV2ZW50czogIm5vbmUiLAogICAgICAgIH19CiAgICAgIC8+CgogICAgICB7LyogQWNpZCBwbGF5IGJ1dHRvbiArIGNhcHRpb24gKi99CiAgICAgIDxkaXYKICAgICAgICBzdHlsZT17ewogICAgICAgICAgcG9zaXRpb246ICJhYnNvbHV0ZSIsCiAgICAgICAgICBpbnNldDogMCwKICAgICAgICAgIGRpc3BsYXk6ICJmbGV4IiwKICAgICAgICAgIGZsZXhEaXJlY3Rpb246ICJjb2x1bW4iLAogICAgICAgICAgYWxpZ25JdGVtczogImNlbnRlciIsCiAgICAgICAgICBqdXN0aWZ5Q29udGVudDogImNlbnRlciIsCiAgICAgICAgICBnYXA6IDE4LAogICAgICAgICAgcG9pbnRlckV2ZW50czogIm5vbmUiLAogICAgICAgIH19CiAgICAgID4KICAgICAgICA8ZGl2CiAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICB3aWR0aDogOTYsCiAgICAgICAgICAgIGhlaWdodDogOTYsCiAgICAgICAgICAgIGJhY2tncm91bmQ6ICJ2YXIoLS1hY2lkKSIsCiAgICAgICAgICAgIGRpc3BsYXk6ICJmbGV4IiwKICAgICAgICAgICAgYWxpZ25JdGVtczogImNlbnRlciIsCiAgICAgICAgICAgIGp1c3RpZnlDb250ZW50OiAiY2VudGVyIiwKICAgICAgICAgICAgYm94U2hhZG93OiBob3ZlcmVkCiAgICAgICAgICAgICAgPyAiMCAwIDAgMXB4IHZhcigtLWFjaWQpLCAwIDAgOTZweCByZ2JhKDE5MSwyNTAsNzAsMC41NSkiCiAgICAgICAgICAgICAgOiAiMCAwIDAgMXB4IHZhcigtLWFjaWQpLCAwIDAgNDhweCByZ2JhKDE5MSwyNTAsNzAsMC4zMCkiLAogICAgICAgICAgICB0cmFuc2Zvcm06IGhvdmVyZWQgPyAic2NhbGUoMS4wNCkiIDogInNjYWxlKDEpIiwKICAgICAgICAgICAgdHJhbnNpdGlvbjogInRyYW5zZm9ybSAyMDBtcyBlYXNlLCBib3gtc2hhZG93IDIwMG1zIGVhc2UiLAogICAgICAgICAgfX0KICAgICAgICA+CiAgICAgICAgICA8c3ZnIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDI0IDI0Ij4KICAgICAgICAgICAgPHBvbHlnb24gcG9pbnRzPSI3LDQgNywyMCAyMSwxMiIgZmlsbD0idmFyKC0tYmcpIiAvPgogICAgICAgICAgPC9zdmc+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPHNwYW4KICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgIHBhZGRpbmc6ICI4cHggMTRweCIsCiAgICAgICAgICAgIGJhY2tncm91bmQ6ICJyZ2JhKDYsNywxMCwwLjc4KSIsCiAgICAgICAgICAgIGJvcmRlcjogIjFweCBzb2xpZCB2YXIoLS1saW5lLTIpIiwKICAgICAgICAgICAgZm9udEZhbWlseTogInZhcigtLWZvbnQtbW9ubykiLAogICAgICAgICAgICBmb250U2l6ZTogMTEsCiAgICAgICAgICAgIGZvbnRXZWlnaHQ6IDYwMCwKICAgICAgICAgICAgY29sb3I6ICJ2YXIoLS1ib25lKSIsCiAgICAgICAgICAgIGxldHRlclNwYWNpbmc6ICIwLjIyZW0iLAogICAgICAgICAgICB0ZXh0VHJhbnNmb3JtOiAidXBwZXJjYXNlIiwKICAgICAgICAgIH19CiAgICAgICAgPgogICAgICAgICAgwrcgQ2xpY2sgVG8gV2F0Y2ggRnJlZSBUcmFpbmluZyDCtwogICAgICAgIDwvc3Bhbj4KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICApOwp9Cg=="}
+"use client";
+
+import { useState } from "react";
+
+// Page 1 video — visual only. Click opens the opt-in modal, not the video.
+const YT_ID = "YUB3sqIWGgs";
+
+export default function VideoThumbnail({ onClick }: { onClick: () => void }) {
+  const [hovered, setHovered] = useState(false);
+  const [imgSrc, setImgSrc] = useState(`https://i.ytimg.com/vi/${YT_ID}/maxresdefault.jpg`);
+
+  return (
+    <div
+      onClick={onClick}
+      onMouseEnter={() => setHovered(true)}
+      onMouseLeave={() => setHovered(false)}
+      style={{
+        position: "relative",
+        aspectRatio: "16/9",
+        width: "100%",
+        maxWidth: 880,
+        margin: "0 auto",
+        cursor: "pointer",
+        border: `1px solid ${hovered ? "var(--acid)" : "var(--line-2)"}`,
+        background: "var(--bg-1)",
+        overflow: "hidden",
+        transition: "border-color 200ms ease",
+      }}
+    >
+      {/* Thumbnail image — maxresdefault falls back to hqdefault if not available */}
+      {/* eslint-disable-next-line @next/next/no-img-element */}
+      <img
+        src={imgSrc}
+        alt="Watch the free training"
+        onError={() => setImgSrc(`https://i.ytimg.com/vi/${YT_ID}/hqdefault.jpg`)}
+        style={{
+          position: "absolute",
+          inset: 0,
+          width: "100%",
+          height: "100%",
+          objectFit: "cover",
+          objectPosition: "center",
+        }}
+      />
+
+      {/* Dim + radial vignette so the play button reads */}
+      <div
+        aria-hidden
+        style={{
+          position: "absolute",
+          inset: 0,
+          background:
+            "radial-gradient(ellipse at 50% 50%, rgba(6,7,10,0.20) 0%, rgba(6,7,10,0.55) 100%)",
+          pointerEvents: "none",
+        }}
+      />
+
+      {/* Acid play button + caption */}
+      <div
+        style={{
+          position: "absolute",
+          inset: 0,
+          display: "flex",
+          flexDirection: "column",
+          alignItems: "center",
+          justifyContent: "center",
+          gap: 18,
+          pointerEvents: "none",
+        }}
+      >
+        <div
+          style={{
+            width: 96,
+            height: 96,
+            background: "var(--acid)",
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "center",
+            boxShadow: hovered
+              ? "0 0 0 1px var(--acid), 0 0 96px rgba(191,250,70,0.55)"
+              : "0 0 0 1px var(--acid), 0 0 48px rgba(191,250,70,0.30)",
+            transform: hovered ? "scale(1.04)" : "scale(1)",
+            transition: "transform 200ms ease, box-shadow 200ms ease",
+          }}
+        >
+          <svg width="32" height="32" viewBox="0 0 24 24">
+            <polygon points="7,4 7,20 21,12" fill="var(--bg)" />
+          </svg>
+        </div>
+        <span
+          style={{
+            padding: "8px 14px",
+            background: "rgba(6,7,10,0.78)",
+            border: "1px solid var(--line-2)",
+            fontFamily: "var(--font-mono)",
+            fontSize: 11,
+            fontWeight: 600,
+            color: "var(--bone)",
+            letterSpacing: "0.22em",
+            textTransform: "uppercase",
+          }}
+        >
+          · Click To Watch Free Training ·
+        </span>
+      </div>
+    </div>
+  );
+}

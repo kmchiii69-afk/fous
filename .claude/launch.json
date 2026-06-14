@@ -1,1 +1,12 @@
-{"data":"ewogICJ2ZXJzaW9uIjogIjAuMC4xIiwKICAiY29uZmlndXJhdGlvbnMiOiBbCiAgICB7CiAgICAgICJuYW1lIjogInF1YW50dW0tY2lwaGVyLWFwcCIsCiAgICAgICJydW50aW1lRXhlY3V0YWJsZSI6ICJucG0iLAogICAgICAicnVudGltZUFyZ3MiOiBbInJ1biIsICJkZXYiXSwKICAgICAgInBvcnQiOiAzMDAwLAogICAgICAiYXV0b1BvcnQiOiB0cnVlCiAgICB9CiAgXQp9Cg=="}
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "quantum-cipher-app",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev"],
+      "port": 3000,
+      "autoPort": true
+    }
+  ]
+}

@@ -1,1 +1,239 @@
-{"data":"Ly8gQ2xvc2UuY29tIEFQSSBoZWxwZXJzCi8vCi8vIEFsbCBDbG9zZSBBUEkgY2FsbHMgZ28gdGhyb3VnaCBgY2xvc2VGZXRjaGAuIFdlIGxvb2sgdXAgc3RhdHVzIElEcwovLyBhbmQgY3VzdG9tLWZpZWxkIElEcyBieSBuYW1lIHdpdGggYSBtb2R1bGUtbGV2ZWwgY2FjaGUgKDUtbWluIFRUTCkKLy8gc28gY29sZC1zdGFydCBzZXJ2ZXJsZXNzIGludm9jYXRpb25zIGRvbid0IHJlcGVhdGVkbHkgaGl0IHRob3NlCi8vIG1ldGFkYXRhIGVuZHBvaW50cy4KCmNvbnN0IENMT1NFX0JBU0UgPSAiaHR0cHM6Ly9hcGkuY2xvc2UuY29tL2FwaS92MSI7CgpmdW5jdGlvbiBhdXRoSGVhZGVyKCkgewogIGNvbnN0IGtleSA9IHByb2Nlc3MuZW52LkNMT1NFX0FQSV9LRVkgfHwgIiI7CiAgaWYgKCFrZXkpIHRocm93IG5ldyBFcnJvcigiQ0xPU0VfQVBJX0tFWSBub3QgY29uZmlndXJlZCIpOwogIC8vIENsb3NlIHVzZXMgQmFzaWMgYXV0aCB3aXRoIGFwaV9rZXkgYXMgdGhlIHVzZXJuYW1lIGFuZCBhbiBlbXB0eSBwYXNzd29yZAogIGNvbnN0IHRva2VuID0gQnVmZmVyLmZyb20oYCR7a2V5fTpgKS50b1N0cmluZygiYmFzZTY0Iik7CiAgcmV0dXJuIGBCYXNpYyAke3Rva2VufWA7Cn0KCmFzeW5jIGZ1bmN0aW9uIGNsb3NlRmV0Y2g8VCA9IHVua25vd24+KHBhdGg6IHN0cmluZywgaW5pdDogUmVxdWVzdEluaXQgPSB7fSk6IFByb21pc2U8VD4gewogIGNvbnN0IHJlcyA9IGF3YWl0IGZldGNoKGAke0NMT1NFX0JBU0V9JHtwYXRofWAsIHsKICAgIC4uLmluaXQsCiAgICBoZWFkZXJzOiB7CiAgICAgIC4uLmluaXQuaGVhZGVycywKICAgICAgQXV0aG9yaXphdGlvbjogYXV0aEhlYWRlcigpLAogICAgICAiQ29udGVudC1UeXBlIjogImFwcGxpY2F0aW9uL2pzb24iLAogICAgICBBY2NlcHQ6ICJhcHBsaWNhdGlvbi9qc29uIiwKICAgIH0sCiAgICAvLyBWZXJjZWwgZGVmYXVsdCAzMHMgdGltZW91dCDigJQgQ2xvc2UgdXN1YWxseSByZXNwb25kcyBpbiA8MnMKICB9KTsKICBpZiAoIXJlcy5vaykgewogICAgY29uc3QgdGV4dCA9IGF3YWl0IHJlcy50ZXh0KCkuY2F0Y2goKCkgPT4gIiIpOwogICAgdGhyb3cgbmV3IEVycm9yKGBDbG9zZSAke3BhdGh9ICR7cmVzLnN0YXR1c306ICR7dGV4dC5zbGljZSgwLCA0MDApfWApOwogIH0KICByZXR1cm4gcmVzLmpzb24oKTsKfQoKLy8g4pSA4pSA4pSAIElEIGxvb2t1cCBjYWNoZXMg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACgp0eXBlIENhY2hlRW50cnk8VD4gPSB7IHZhbHVlOiBUOyBleHBpcmVzOiBudW1iZXIgfTsKY29uc3QgVFRMX01TID0gNSAqIDYwICogMTAwMDsKbGV0IHN0YXR1c0NhY2hlOiBDYWNoZUVudHJ5PE1hcDxzdHJpbmcsIHN0cmluZz4+IHwgbnVsbCA9IG51bGw7CmxldCBjdXN0b21GaWVsZENhY2hlOiBDYWNoZUVudHJ5PE1hcDxzdHJpbmcsIHN0cmluZz4+IHwgbnVsbCA9IG51bGw7Cgphc3luYyBmdW5jdGlvbiBnZXRTdGF0dXNNYXAoKTogUHJvbWlzZTxNYXA8c3RyaW5nLCBzdHJpbmc+PiB7CiAgaWYgKHN0YXR1c0NhY2hlICYmIHN0YXR1c0NhY2hlLmV4cGlyZXMgPiBEYXRlLm5vdygpKSByZXR1cm4gc3RhdHVzQ2FjaGUudmFsdWU7CiAgY29uc3QgZGF0YSA9IGF3YWl0IGNsb3NlRmV0Y2g8eyBkYXRhOiBBcnJheTx7IGlkOiBzdHJpbmc7IGxhYmVsOiBzdHJpbmcgfT4gfT4oIi9zdGF0dXMvbGVhZC8iKTsKICBjb25zdCBtYXAgPSBuZXcgTWFwKGRhdGEuZGF0YS5tYXAoKHMpID0+IFtzLmxhYmVsLCBzLmlkXSkpOwogIHN0YXR1c0NhY2hlID0geyB2YWx1ZTogbWFwLCBleHBpcmVzOiBEYXRlLm5vdygpICsgVFRMX01TIH07CiAgcmV0dXJuIG1hcDsKfQoKYXN5bmMgZnVuY3Rpb24gZ2V0Q3VzdG9tRmllbGRNYXAoKTogUHJvbWlzZTxNYXA8c3RyaW5nLCBzdHJpbmc+PiB7CiAgaWYgKGN1c3RvbUZpZWxkQ2FjaGUgJiYgY3VzdG9tRmllbGRDYWNoZS5leHBpcmVzID4gRGF0ZS5ub3coKSkgcmV0dXJuIGN1c3RvbUZpZWxkQ2FjaGUudmFsdWU7CiAgY29uc3QgZGF0YSA9IGF3YWl0IGNsb3NlRmV0Y2g8eyBkYXRhOiBBcnJheTx7IGlkOiBzdHJpbmc7IG5hbWU6IHN0cmluZyB9PiB9PigiL2N1c3RvbV9maWVsZC9sZWFkLyIpOwogIGNvbnN0IG1hcCA9IG5ldyBNYXAoZGF0YS5kYXRhLm1hcCgoZikgPT4gW2YubmFtZSwgZi5pZF0pKTsKICBjdXN0b21GaWVsZENhY2hlID0geyB2YWx1ZTogbWFwLCBleHBpcmVzOiBEYXRlLm5vdygpICsgVFRMX01TIH07CiAgcmV0dXJuIG1hcDsKfQoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGdldFN0YXR1c0lkKG5hbWU6IHN0cmluZyk6IFByb21pc2U8c3RyaW5nIHwgbnVsbD4gewogIGNvbnN0IG1hcCA9IGF3YWl0IGdldFN0YXR1c01hcCgpOwogIHJldHVybiBtYXAuZ2V0KG5hbWUpIHx8IG51bGw7Cn0KCmV4cG9ydCBhc3luYyBmdW5jdGlvbiBnZXRDdXN0b21GaWVsZElkKG5hbWU6IHN0cmluZyk6IFByb21pc2U8c3RyaW5nIHwgbnVsbD4gewogIGNvbnN0IG1hcCA9IGF3YWl0IGdldEN1c3RvbUZpZWxkTWFwKCk7CiAgcmV0dXJuIG1hcC5nZXQobmFtZSkgfHwgbnVsbDsKfQoKLy8g4pSA4pSA4pSAIExlYWQgb3BlcmF0aW9ucyDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKCmV4cG9ydCB0eXBlIENsb3NlTGVhZCA9IHsKICBpZDogc3RyaW5nOwogIGRpc3BsYXlfbmFtZT86IHN0cmluZzsKICBzdGF0dXNfaWQ/OiBzdHJpbmc7CiAgc3RhdHVzX2xhYmVsPzogc3RyaW5nOwp9OwoKLy8gQ2xvc2UncyBgP2VtYWlsX2FkZHJlc3M9WGAgcXVlcnkgcGFyYW1ldGVyIGlzIHNpbGVudGx5IGlnbm9yZWQgYnkgdGhlIHYxCi8vIExlYWRzIEFQSSDigJQgaXQgcmV0dXJucyB0aGUgZW50aXJlIG9yZydzIGxlYWQgbGlzdCByZWdhcmRsZXNzIG9mIHZhbHVlLgovLyBVc2UgdGhlIGRvY3VtZW50ZWQgYD9xdWVyeT1lbWFpbDoiWCJgIGZpbHRlciBzeW50YXggaW5zdGVhZCwgdGhlbiB2YWxpZGF0ZQovLyB0aGUgcmV0dXJuZWQgbGVhZHMgYWN0dWFsbHkgY29udGFpbiBhIGNvbnRhY3Qgd2l0aCB0aGUgcmVxdWVzdGVkIGVtYWlsLgovLyBSZXR1cm5zIHRoZSBtb3N0LXJlY2VudGx5LWNyZWF0ZWQgbWF0Y2hpbmcgbGVhZCBzbyB3ZSBvcGVyYXRlIG9uIHRoZQovLyBmcmVzaGVzdCBmdW5uZWwgcmVjb3JkIHJhdGhlciB0aGFuIGEgbGVnYWN5IGR1cGxpY2F0ZS4KdHlwZSBMZWFkV2l0aENvbnRhY3RzID0gQ2xvc2VMZWFkICYgewogIGRhdGVfY3JlYXRlZD86IHN0cmluZzsKICBjb250YWN0cz86IEFycmF5PHsgZW1haWxzPzogQXJyYXk8eyBlbWFpbD86IHN0cmluZyB9PiB9PjsKfTsKCmV4cG9ydCBhc3luYyBmdW5jdGlvbiBmaW5kTGVhZEJ5RW1haWwoZW1haWw6IHN0cmluZyk6IFByb21pc2U8Q2xvc2VMZWFkIHwgbnVsbD4gewogIGlmICghZW1haWwpIHJldHVybiBudWxsOwogIGNvbnN0IHRhcmdldCA9IGVtYWlsLnRyaW0oKS50b0xvd2VyQ2FzZSgpOwogIGlmICghdGFyZ2V0KSByZXR1cm4gbnVsbDsKICAvLyBRdW90ZSB0aGUgZW1haWwgc28gYCtgIGFuZCBgLmAgYXJlIHRyZWF0ZWQgbGl0ZXJhbGx5OyBlbmNvZGUgZm9yIFVSTC4KICBjb25zdCBxdWVyeVZhbHVlID0gYGVtYWlsOiIke3RhcmdldH0iYDsKICBjb25zdCBkYXRhID0gYXdhaXQgY2xvc2VGZXRjaDx7IGRhdGE6IExlYWRXaXRoQ29udGFjdHNbXSB9PigKICAgIGAvbGVhZC8/cXVlcnk9JHtlbmNvZGVVUklDb21wb25lbnQocXVlcnlWYWx1ZSl9Jl9saW1pdD0yNWAKICApOwogIGNvbnN0IG1hdGNoaW5nID0gKGRhdGEuZGF0YSB8fCBbXSkuZmlsdGVyKChsZWFkKSA9PgogICAgKGxlYWQuY29udGFjdHMgfHwgW10pLnNvbWUoKGMpID0+CiAgICAgIChjLmVtYWlscyB8fCBbXSkuc29tZSgoZSkgPT4gKGUuZW1haWwgfHwgIiIpLnRvTG93ZXJDYXNlKCkgPT09IHRhcmdldCkKICAgICkKICApOwogIGlmIChtYXRjaGluZy5sZW5ndGggPT09IDApIHJldHVybiBudWxsOwogIG1hdGNoaW5nLnNvcnQoKGEsIGIpID0+IChiLmRhdGVfY3JlYXRlZCB8fCAiIikubG9jYWxlQ29tcGFyZShhLmRhdGVfY3JlYXRlZCB8fCAiIikpOwogIHJldHVybiBtYXRjaGluZ1swXTsKfQoKZXhwb3J0IHR5cGUgQ3JlYXRlT3JVcGRhdGVJbnB1dCA9IHsKICBmaXJzdF9uYW1lOiBzdHJpbmc7CiAgbGFzdF9uYW1lOiBzdHJpbmc7CiAgZW1haWw6IHN0cmluZzsKICBwaG9uZTogc3RyaW5nOwogIHN0YXR1czogc3RyaW5nOyAvLyBlLmcuICJPcHQgSW4iCiAgc291cmNlOiBzdHJpbmc7IC8vIHZhbHVlIGZvciB0aGUgIkxlYWQgU291cmNlIiBjdXN0b20gZmllbGQsIGUuZy4gIlZTTCBGdW5uZWwiCn07CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gY3JlYXRlT3JVcGRhdGVMZWFkKGlucHV0OiBDcmVhdGVPclVwZGF0ZUlucHV0KTogUHJvbWlzZTx7IGxlYWRfaWQ6IHN0cmluZzsgY3JlYXRlZDogYm9vbGVhbiB9PiB7CiAgY29uc3QgZXhpc3RpbmcgPSBhd2FpdCBmaW5kTGVhZEJ5RW1haWwoaW5wdXQuZW1haWwpOwoKICBjb25zdCBzdGF0dXNJZCA9IGF3YWl0IGdldFN0YXR1c0lkKGlucHV0LnN0YXR1cyk7CgogIGNvbnN0IG5hbWUgPSBgJHtpbnB1dC5maXJzdF9uYW1lfSAke2lucHV0Lmxhc3RfbmFtZX1gLnRyaW0oKSB8fCBpbnB1dC5lbWFpbDsKICBjb25zdCBib2R5OiBSZWNvcmQ8c3RyaW5nLCB1bmtub3duPiA9IHt9OwogIGlmIChzdGF0dXNJZCkgYm9keS5zdGF0dXNfaWQgPSBzdGF0dXNJZDsKICAvLyBGdW5uZWwgc291cmNlIOKAlCB0cnkgIkxlYWQgU291cmNlIiBmaXJzdCAoaWYgdXNlciBjcmVhdGVkIHRoYXQgY3VzdG9tCiAgLy8gZmllbGQpLCBmYWxsIGJhY2sgdG8gIkFkcyBTb3VyY2UiICh3aGljaCBleGlzdHMgYnkgZGVmYXVsdCBpbiB0aGVpcgogIC8vIG9yZykuIEVpdGhlciBmaWVsZCBjYXB0dXJlcyB3aGVyZSB0aGUgbGVhZCBjYW1lIGZyb20uCiAgYXdhaXQgYXBwbHlDdXN0b21GaWVsZChib2R5LCAiTGVhZCBTb3VyY2UiLCBpbnB1dC5zb3VyY2UpOwogIGF3YWl0IGFwcGx5Q3VzdG9tRmllbGQoYm9keSwgIkFkcyBTb3VyY2UiLCBpbnB1dC5zb3VyY2UpOwoKICBpZiAoZXhpc3RpbmcpIHsKICAgIGF3YWl0IGNsb3NlRmV0Y2goYC9sZWFkLyR7ZXhpc3RpbmcuaWR9L2AsIHsKICAgICAgbWV0aG9kOiAiUFVUIiwKICAgICAgYm9keTogSlNPTi5zdHJpbmdpZnkoYm9keSksCiAgICB9KTsKICAgIHJldHVybiB7IGxlYWRfaWQ6IGV4aXN0aW5nLmlkLCBjcmVhdGVkOiBmYWxzZSB9OwogIH0KCiAgYm9keS5uYW1lID0gbmFtZTsKICBib2R5LmNvbnRhY3RzID0gWwogICAgewogICAgICBuYW1lLAogICAgICBlbWFpbHM6IGlucHV0LmVtYWlsID8gW3sgZW1haWw6IGlucHV0LmVtYWlsLCB0eXBlOiAib2ZmaWNlIiB9XSA6IFtdLAogICAgICBwaG9uZXM6IGlucHV0LnBob25lID8gW3sgcGhvbmU6IGlucHV0LnBob25lLCB0eXBlOiAib2ZmaWNlIiB9XSA6IFtdLAogICAgfSwKICBdOwoKICBjb25zdCBjcmVhdGVkID0gYXdhaXQgY2xvc2VGZXRjaDx7IGlkOiBzdHJpbmcgfT4oIi9sZWFkLyIsIHsKICAgIG1ldGhvZDogIlBPU1QiLAogICAgYm9keTogSlNPTi5zdHJpbmdpZnkoYm9keSksCiAgfSk7CiAgcmV0dXJuIHsgbGVhZF9pZDogY3JlYXRlZC5pZCwgY3JlYXRlZDogdHJ1ZSB9Owp9CgovLyBIZWxwZXI6IG11dGF0ZXMgYGJvZHlgIHRvIHNldCB0aGUgZ2l2ZW4gY3VzdG9tIGZpZWxkIGlmIGl0IGV4aXN0cy4KLy8gU2lsZW50bHkgc2tpcHMgZmllbGRzIHRoYXQgZG9uJ3QgZXhpc3QgaW4gdGhlIG9yZyDigJQgY2FsbGVyIGRvZXNuJ3QgbmVlZAovLyB0byBjaGVjayBleGlzdGVuY2UgZmlyc3QuCmFzeW5jIGZ1bmN0aW9uIGFwcGx5Q3VzdG9tRmllbGQoYm9keTogUmVjb3JkPHN0cmluZywgdW5rbm93bj4sIGZpZWxkTmFtZTogc3RyaW5nLCB2YWx1ZTogc3RyaW5nIHwgbnVtYmVyIHwgbnVsbCB8IHVuZGVmaW5lZCk6IFByb21pc2U8dm9pZD4gewogIGlmICh2YWx1ZSA9PT0gbnVsbCB8fCB2YWx1ZSA9PT0gdW5kZWZpbmVkIHx8IHZhbHVlID09PSAiIikgcmV0dXJuOwogIGNvbnN0IGlkID0gYXdhaXQgZ2V0Q3VzdG9tRmllbGRJZChmaWVsZE5hbWUpOwogIGlmICghaWQpIHJldHVybjsKICBib2R5W2BjdXN0b20uJHtpZH1gXSA9IHR5cGVvZiB2YWx1ZSA9PT0gIm51bWJlciIgPyB2YWx1ZSA6IFN0cmluZyh2YWx1ZSk7Cn0KCmV4cG9ydCBhc3luYyBmdW5jdGlvbiB1cGRhdGVMZWFkU3RhdHVzQnlFbWFpbChlbWFpbDogc3RyaW5nLCBzdGF0dXM6IHN0cmluZyk6IFByb21pc2U8eyBsZWFkX2lkOiBzdHJpbmcgfSB8IG51bGw+IHsKICBjb25zdCBsZWFkID0gYXdhaXQgZmluZExlYWRCeUVtYWlsKGVtYWlsKTsKICBpZiAoIWxlYWQpIHJldHVybiBudWxsOwogIGNvbnN0IHN0YXR1c0lkID0gYXdhaXQgZ2V0U3RhdHVzSWQoc3RhdHVzKTsKICBpZiAoIXN0YXR1c0lkKSB0aHJvdyBuZXcgRXJyb3IoYENsb3NlIHN0YXR1cyBub3QgZm91bmQ6ICR7c3RhdHVzfWApOwogIGF3YWl0IGNsb3NlRmV0Y2goYC9sZWFkLyR7bGVhZC5pZH0vYCwgewogICAgbWV0aG9kOiAiUFVUIiwKICAgIGJvZHk6IEpTT04uc3RyaW5naWZ5KHsgc3RhdHVzX2lkOiBzdGF0dXNJZCB9KSwKICB9KTsKICByZXR1cm4geyBsZWFkX2lkOiBsZWFkLmlkIH07Cn0KCmV4cG9ydCB0eXBlIEN1c3RvbUZpZWxkVXBkYXRlcyA9IFJlY29yZDxzdHJpbmcsIHN0cmluZyB8IG51bWJlciB8IG51bGwgfCB1bmRlZmluZWQ+OwoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIHVwZGF0ZUxlYWRGaWVsZHNCeUVtYWlsKAogIGVtYWlsOiBzdHJpbmcsCiAgZmllbGRzOiB7CiAgICBzdGF0dXM/OiBzdHJpbmc7CiAgICBzb3VyY2U/OiBzdHJpbmc7CiAgICBub3RlPzogc3RyaW5nOwogICAgLyoqCiAgICAgKiBNYXAgb2YgY3VzdG9tLWZpZWxkIERJU1BMQVkgTkFNRSDihpIgdmFsdWUuIEVhY2ggbmFtZSBpcyByZXNvbHZlZCB0bwogICAgICogaXRzIENsb3NlIGZpZWxkIElEIHZpYSBnZXRDdXN0b21GaWVsZElkKCkgYW5kIGFwcGxpZWQgaWYgaXQgZXhpc3RzLgogICAgICogVW5rbm93biBmaWVsZCBuYW1lcyBhcmUgc2tpcHBlZCBzaWxlbnRseSBzbyB0aGUgcm91dGUgbmV2ZXIgYnJlYWtzCiAgICAgKiBpZiBhIENsb3NlIGZpZWxkIGlzIHJlbmFtZWQgb3IgbWlzc2luZy4KICAgICAqLwogICAgY3VzdG9tRmllbGRzPzogQ3VzdG9tRmllbGRVcGRhdGVzOwogIH0KKTogUHJvbWlzZTx7IGxlYWRfaWQ6IHN0cmluZyB9IHwgbnVsbD4gewogIGxldCBsZWFkID0gYXdhaXQgZmluZExlYWRCeUVtYWlsKGVtYWlsKTsKCiAgLy8gQ2xvc2UncyBzZWFyY2ggaW5kZXggaGFzIGEgfjEtMiBzZWNvbmQgbGFnIGFmdGVyIGEgYnJhbmQtbmV3IGxlYWQgaXMKICAvLyBjcmVhdGVkLiBXaGVuIC9hcGkvbGVhZCBhbmQgL2FwaS9xdWFsaWZ5IGZpcmUgYmFjay10by1iYWNrIChyYXJlIGluCiAgLy8gcHJvZHVjdGlvbiwgY29tbW9uIGluIHNtb2tlIHRlc3RzKSwgdGhlIHF1YWxpZnkgbG9va3VwIGNhbiByYWNlIHRoZQogIC8vIGluZGV4IGFuZCBmaW5kIG5vdGhpbmcg4oCUIGxlYXZpbmcgdGhlIERpc2NvcmQgcGluZyB3aXRob3V0IGEKICAvLyBWaWV3LWluLUNsb3NlIGxpbmsuIE9uZSByZXRyeSBjb3ZlcnMgaXQuCiAgaWYgKCFsZWFkKSB7CiAgICBhd2FpdCBuZXcgUHJvbWlzZSgocmVzb2x2ZSkgPT4gc2V0VGltZW91dChyZXNvbHZlLCAyMDAwKSk7CiAgICBsZWFkID0gYXdhaXQgZmluZExlYWRCeUVtYWlsKGVtYWlsKTsKICB9CgogIGlmICghbGVhZCkgcmV0dXJuIG51bGw7CgogIGNvbnN0IGJvZHk6IFJlY29yZDxzdHJpbmcsIHVua25vd24+ID0ge307CiAgaWYgKGZpZWxkcy5zdGF0dXMpIHsKICAgIGNvbnN0IHNpZCA9IGF3YWl0IGdldFN0YXR1c0lkKGZpZWxkcy5zdGF0dXMpOwogICAgaWYgKHNpZCkgYm9keS5zdGF0dXNfaWQgPSBzaWQ7CiAgfQogIC8vIEZ1bm5lbCBzb3VyY2Ug4oCUIHRyeSBib3RoIG5hbWVzIHNvIGl0IGxhbmRzIHJlZ2FyZGxlc3Mgb2Ygd2hpY2ggY3VzdG9tCiAgLy8gZmllbGQgdGhlIG9yZyBoYXMgc2V0IHVwLgogIGlmIChmaWVsZHMuc291cmNlKSB7CiAgICBhd2FpdCBhcHBseUN1c3RvbUZpZWxkKGJvZHksICJMZWFkIFNvdXJjZSIsIGZpZWxkcy5zb3VyY2UpOwogICAgYXdhaXQgYXBwbHlDdXN0b21GaWVsZChib2R5LCAiQWRzIFNvdXJjZSIsIGZpZWxkcy5zb3VyY2UpOwogIH0KICAvLyBDYWxsZXItc3VwcGxpZWQgY3VzdG9tIGZpZWxkIHVwZGF0ZXMgKGUuZy4gYW5zd2VyLWJ5LWFuc3dlciBtYXBwaW5nCiAgLy8gZnJvbSB0aGUgcXVhbGlmaWNhdGlvbiBmb3JtIGludG8gc3RydWN0dXJlZCBDbG9zZSBmaWVsZHMpLgogIGlmIChmaWVsZHMuY3VzdG9tRmllbGRzKSB7CiAgICBmb3IgKGNvbnN0IFtuYW1lLCB2YWx1ZV0gb2YgT2JqZWN0LmVudHJpZXMoZmllbGRzLmN1c3RvbUZpZWxkcykpIHsKICAgICAgYXdhaXQgYXBwbHlDdXN0b21GaWVsZChib2R5LCBuYW1lLCB2YWx1ZSk7CiAgICB9CiAgfQoKICBpZiAoT2JqZWN0LmtleXMoYm9keSkubGVuZ3RoID4gMCkgewogICAgYXdhaXQgY2xvc2VGZXRjaChgL2xlYWQvJHtsZWFkLmlkfS9gLCB7IG1ldGhvZDogIlBVVCIsIGJvZHk6IEpTT04uc3RyaW5naWZ5KGJvZHkpIH0pOwogIH0KCiAgaWYgKGZpZWxkcy5ub3RlKSB7CiAgICBhd2FpdCBjbG9zZUZldGNoKCIvYWN0aXZpdHkvbm90ZS8iLCB7CiAgICAgIG1ldGhvZDogIlBPU1QiLAogICAgICBib2R5OiBKU09OLnN0cmluZ2lmeSh7IGxlYWRfaWQ6IGxlYWQuaWQsIG5vdGU6IGZpZWxkcy5ub3RlIH0pLAogICAgfSk7CiAgfQoKICByZXR1cm4geyBsZWFkX2lkOiBsZWFkLmlkIH07Cn0K"}
+// Close.com API helpers
+//
+// All Close API calls go through `closeFetch`. We look up status IDs
+// and custom-field IDs by name with a module-level cache (5-min TTL)
+// so cold-start serverless invocations don't repeatedly hit those
+// metadata endpoints.
+
+const CLOSE_BASE = "https://api.close.com/api/v1";
+
+function authHeader() {
+  const key = process.env.CLOSE_API_KEY || "";
+  if (!key) throw new Error("CLOSE_API_KEY not configured");
+  // Close uses Basic auth with api_key as the username and an empty password
+  const token = Buffer.from(`${key}:`).toString("base64");
+  return `Basic ${token}`;
+}
+
+async function closeFetch<T = unknown>(path: string, init: RequestInit = {}): Promise<T> {
+  const res = await fetch(`${CLOSE_BASE}${path}`, {
+    ...init,
+    headers: {
+      ...init.headers,
+      Authorization: authHeader(),
+      "Content-Type": "application/json",
+      Accept: "application/json",
+    },
+    // Vercel default 30s timeout — Close usually responds in <2s
+  });
+  if (!res.ok) {
+    const text = await res.text().catch(() => "");
+    throw new Error(`Close ${path} ${res.status}: ${text.slice(0, 400)}`);
+  }
+  return res.json();
+}
+
+// ─── ID lookup caches ─────────────────────────────────────────────
+
+type CacheEntry<T> = { value: T; expires: number };
+const TTL_MS = 5 * 60 * 1000;
+let statusCache: CacheEntry<Map<string, string>> | null = null;
+let customFieldCache: CacheEntry<Map<string, string>> | null = null;
+
+async function getStatusMap(): Promise<Map<string, string>> {
+  if (statusCache && statusCache.expires > Date.now()) return statusCache.value;
+  const data = await closeFetch<{ data: Array<{ id: string; label: string }> }>("/status/lead/");
+  const map = new Map(data.data.map((s) => [s.label, s.id]));
+  statusCache = { value: map, expires: Date.now() + TTL_MS };
+  return map;
+}
+
+async function getCustomFieldMap(): Promise<Map<string, string>> {
+  if (customFieldCache && customFieldCache.expires > Date.now()) return customFieldCache.value;
+  const data = await closeFetch<{ data: Array<{ id: string; name: string }> }>("/custom_field/lead/");
+  const map = new Map(data.data.map((f) => [f.name, f.id]));
+  customFieldCache = { value: map, expires: Date.now() + TTL_MS };
+  return map;
+}
+
+export async function getStatusId(name: string): Promise<string | null> {
+  const map = await getStatusMap();
+  return map.get(name) || null;
+}
+
+export async function getCustomFieldId(name: string): Promise<string | null> {
+  const map = await getCustomFieldMap();
+  return map.get(name) || null;
+}
+
+// ─── Lead operations ──────────────────────────────────────────────
+
+export type CloseLead = {
+  id: string;
+  display_name?: string;
+  status_id?: string;
+  status_label?: string;
+};
+
+// Close's `?email_address=X` query parameter is silently ignored by the v1
+// Leads API — it returns the entire org's lead list regardless of value.
+// Use the documented `?query=email:"X"` filter syntax instead, then validate
+// the returned leads actually contain a contact with the requested email.
+// Returns the most-recently-created matching lead so we operate on the
+// freshest funnel record rather than a legacy duplicate.
+type LeadWithContacts = CloseLead & {
+  date_created?: string;
+  contacts?: Array<{ emails?: Array<{ email?: string }> }>;
+};
+
+export async function findLeadByEmail(email: string): Promise<CloseLead | null> {
+  if (!email) return null;
+  const target = email.trim().toLowerCase();
+  if (!target) return null;
+  // Quote the email so `+` and `.` are treated literally; encode for URL.
+  const queryValue = `email:"${target}"`;
+  const data = await closeFetch<{ data: LeadWithContacts[] }>(
+    `/lead/?query=${encodeURIComponent(queryValue)}&_limit=25`
+  );
+  const matching = (data.data || []).filter((lead) =>
+    (lead.contacts || []).some((c) =>
+      (c.emails || []).some((e) => (e.email || "").toLowerCase() === target)
+    )
+  );
+  if (matching.length === 0) return null;
+  matching.sort((a, b) => (b.date_created || "").localeCompare(a.date_created || ""));
+  return matching[0];
+}
+
+export type CreateOrUpdateInput = {
+  first_name: string;
+  last_name: string;
+  email: string;
+  phone: string;
+  status: string; // e.g. "Opt In"
+  source: string; // value for the "Lead Source" custom field, e.g. "VSL Funnel"
+};
+
+export async function createOrUpdateLead(input: CreateOrUpdateInput): Promise<{ lead_id: string; created: boolean }> {
+  const existing = await findLeadByEmail(input.email);
+
+  const statusId = await getStatusId(input.status);
+
+  const name = `${input.first_name} ${input.last_name}`.trim() || input.email;
+  const body: Record<string, unknown> = {};
+  if (statusId) body.status_id = statusId;
+  // Funnel source — try "Lead Source" first (if user created that custom
+  // field), fall back to "Ads Source" (which exists by default in their
+  // org). Either field captures where the lead came from.
+  await applyCustomField(body, "Lead Source", input.source);
+  await applyCustomField(body, "Ads Source", input.source);
+
+  if (existing) {
+    await closeFetch(`/lead/${existing.id}/`, {
+      method: "PUT",
+      body: JSON.stringify(body),
+    });
+    return { lead_id: existing.id, created: false };
+  }
+
+  body.name = name;
+  body.contacts = [
+    {
+      name,
+      emails: input.email ? [{ email: input.email, type: "office" }] : [],
+      phones: input.phone ? [{ phone: input.phone, type: "office" }] : [],
+    },
+  ];
+
+  const created = await closeFetch<{ id: string }>("/lead/", {
+    method: "POST",
+    body: JSON.stringify(body),
+  });
+  return { lead_id: created.id, created: true };
+}
+
+// Helper: mutates `body` to set the given custom field if it exists.
+// Silently skips fields that don't exist in the org — caller doesn't need
+// to check existence first.
+async function applyCustomField(body: Record<string, unknown>, fieldName: string, value: string | number | null | undefined): Promise<void> {
+  if (value === null || value === undefined || value === "") return;
+  const id = await getCustomFieldId(fieldName);
+  if (!id) return;
+  body[`custom.${id}`] = typeof value === "number" ? value : String(value);
+}
+
+export async function updateLeadStatusByEmail(email: string, status: string): Promise<{ lead_id: string } | null> {
+  const lead = await findLeadByEmail(email);
+  if (!lead) return null;
+  const statusId = await getStatusId(status);
+  if (!statusId) throw new Error(`Close status not found: ${status}`);
+  await closeFetch(`/lead/${lead.id}/`, {
+    method: "PUT",
+    body: JSON.stringify({ status_id: statusId }),
+  });
+  return { lead_id: lead.id };
+}
+
+export type CustomFieldUpdates = Record<string, string | number | null | undefined>;
+
+export async function updateLeadFieldsByEmail(
+  email: string,
+  fields: {
+    status?: string;
+    source?: string;
+    note?: string;
+    /**
+     * Map of custom-field DISPLAY NAME → value. Each name is resolved to
+     * its Close field ID via getCustomFieldId() and applied if it exists.
+     * Unknown field names are skipped silently so the route never breaks
+     * if a Close field is renamed or missing.
+     */
+    customFields?: CustomFieldUpdates;
+  }
+): Promise<{ lead_id: string } | null> {
+  let lead = await findLeadByEmail(email);
+
+  // Close's search index has a ~1-2 second lag after a brand-new lead is
+  // created. When /api/lead and /api/qualify fire back-to-back (rare in
+  // production, common in smoke tests), the qualify lookup can race the
+  // index and find nothing — leaving the Discord ping without a
+  // View-in-Close link. One retry covers it.
+  if (!lead) {
+    await new Promise((resolve) => setTimeout(resolve, 2000));
+    lead = await findLeadByEmail(email);
+  }
+
+  if (!lead) return null;
+
+  const body: Record<string, unknown> = {};
+  if (fields.status) {
+    const sid = await getStatusId(fields.status);
+    if (sid) body.status_id = sid;
+  }
+  // Funnel source — try both names so it lands regardless of which custom
+  // field the org has set up.
+  if (fields.source) {
+    await applyCustomField(body, "Lead Source", fields.source);
+    await applyCustomField(body, "Ads Source", fields.source);
+  }
+  // Caller-supplied custom field updates (e.g. answer-by-answer mapping
+  // from the qualification form into structured Close fields).
+  if (fields.customFields) {
+    for (const [name, value] of Object.entries(fields.customFields)) {
+      await applyCustomField(body, name, value);
+    }
+  }
+
+  if (Object.keys(body).length > 0) {
+    await closeFetch(`/lead/${lead.id}/`, { method: "PUT", body: JSON.stringify(body) });
+  }
+
+  if (fields.note) {
+    await closeFetch("/activity/note/", {
+      method: "POST",
+      body: JSON.stringify({ lead_id: lead.id, note: fields.note }),
+    });
+  }
+
+  return { lead_id: lead.id };
+}

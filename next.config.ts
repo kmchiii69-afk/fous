@@ -1,1 +1,7 @@
-{"data":"aW1wb3J0IHR5cGUgeyBOZXh0Q29uZmlnIH0gZnJvbSAibmV4dCI7Cgpjb25zdCBuZXh0Q29uZmlnOiBOZXh0Q29uZmlnID0gewogIGltYWdlczogeyB1bm9wdGltaXplZDogdHJ1ZSB9LAp9OwoKZXhwb3J0IGRlZmF1bHQgbmV4dENvbmZpZzsK"}
+import type { NextConfig } from "next";
+
+const nextConfig: NextConfig = {
+  images: { unoptimized: true },
+};
+
+export default nextConfig;

@@ -1,1 +1,269 @@
-{"data":"Ly8gV2hvcCByZXZlbnVlIOKAlCBzaGFyZWQgYnkgdGhlIGFuYWx5dGljcyArIGZ1bm5lbCByb3V0ZXMuCi8vCi8vIFRoZSB2MiBwYXltZW50cyBlbmRwb2ludCBkb2VzIE5PVCByZXR1cm4gbmV3ZXN0LWZpcnN0IChjb25maXJtZWQgSnVuIDIwMjY6Ci8vIHBhZ2UgMSBzcGFucyB3ZWVrcyBvdXQgb2Ygb3JkZXIpLCBzbyBhbnkgImJyZWFrIG9uIGZpcnN0IG9sZCBwYXltZW50IiBsb29wCi8vIG1hc3NpdmVseSB1bmRlcmNvdW50cy4gV2UgaW5zdGVhZCBwYWdlIHVudGlsIHRoZSB3aW5kb3cgaXMgcHJvdmFibHkKLy8gZXhoYXVzdGVkLiBXZSBzdW0gYGZpbmFsX2Ftb3VudGAgKHRoZSBhY3R1YWxseS1jaGFyZ2VkIHRvdGFsOyBgc3VidG90YWxgCi8vIGlzIHRoZSBwcmUtZGlzY291bnQgbGlzdCBwcmljZSBhbmQgaXMgd3JvbmcgZm9yIHJldmVudWUpIG9uIGBzdGF0dXM9cGFpZGAsCi8vIGFuZCBzdWJ0cmFjdCBgcmVmdW5kZWRfYW1vdW50YC4KLy8KLy8gV2hvcCdzIGRhc2hib2FyZCAibmV0IiBmaWd1cmUgaXMgdGhpcyBtaW51cyBXaG9wJ3MgfjEwJSBwbGF0Zm9ybSBmZWUsCi8vIHdoaWNoIHRoZSBwZXItcGF5bWVudCBBUEkgZG9lc24ndCBleHBvc2Ug4oCUIHNvIHdlIHJlcG9ydCBncm9zcyBjb2xsZWN0ZWQKLy8gYW5kIG5ldC1vZi1yZWZ1bmRzLCBjbGVhcmx5IGxhYmVsbGVkLCBwbHVzIGEgcGVyLXByb2R1Y3QgYnJlYWtkb3duIHRoZQovLyB1c2VyIGNhbiByZWNvbmNpbGUgYWdhaW5zdCBXaG9wIGRpcmVjdGx5LgoKY29uc3QgUFJPRFVDVF9OQU1FX0NBQ0hFOiBSZWNvcmQ8c3RyaW5nLCBzdHJpbmc+ID0ge307CgovLyBQcm9kdWN0IOKGkiBmdW5uZWwgYnVja2V0LiBNYXRjaGVkIG9uIHRoZSByZXNvbHZlZCBwcm9kdWN0IG5hbWUuCmV4cG9ydCBmdW5jdGlvbiBmdW5uZWxGb3JQcm9kdWN0KG5hbWU6IHN0cmluZyk6ICJ2c2wiIHwgIndvbGZwYWNrIiB8ICJvdGhlciIgewogIGNvbnN0IG4gPSBuYW1lLnRvTG93ZXJDYXNlKCk7CiAgaWYgKG4uaW5jbHVkZXMoInF1YW50dW0gY2lwaGVyIikpIHJldHVybiAidnNsIjsgLy8gaGlnaC10aWNrZXQgY2FsbCBjbG9zZXMKICBpZiAobi5pbmNsdWRlcygid29sZiBwYWNrIikgfHwgbi5pbmNsdWRlcygid29sZnBhY2siKSkgcmV0dXJuICJ3b2xmcGFjayI7CiAgcmV0dXJuICJvdGhlciI7Cn0KCmFzeW5jIGZ1bmN0aW9uIHJlc29sdmVQcm9kdWN0TmFtZShpZDogc3RyaW5nLCBoZWFkZXJzOiBSZWNvcmQ8c3RyaW5nLCBzdHJpbmc+KTogUHJvbWlzZTxzdHJpbmc+IHsKICBpZiAoIWlkIHx8ICFpZC5zdGFydHNXaXRoKCJwcm9kXyIpKSByZXR1cm4gaWQgfHwgIuKAlCI7CiAgaWYgKFBST0RVQ1RfTkFNRV9DQUNIRVtpZF0pIHJldHVybiBQUk9EVUNUX05BTUVfQ0FDSEVbaWRdOwogIHRyeSB7CiAgICBjb25zdCByZXMgPSBhd2FpdCBmZXRjaChgaHR0cHM6Ly9hcGkud2hvcC5jb20vYXBpL3YyL3Byb2R1Y3RzLyR7aWR9YCwgeyBoZWFkZXJzLCBuZXh0OiB7IHJldmFsaWRhdGU6IDg2NDAwIH0gfSk7CiAgICBpZiAocmVzLm9rKSB7CiAgICAgIGNvbnN0IGQgPSBhd2FpdCByZXMuanNvbigpOwogICAgICBjb25zdCBuYW1lID0gZC5uYW1lIHx8IGQudGl0bGUgfHwgaWQ7CiAgICAgIFBST0RVQ1RfTkFNRV9DQUNIRVtpZF0gPSBuYW1lOwogICAgICByZXR1cm4gbmFtZTsKICAgIH0KICB9IGNhdGNoIHsKICAgIC8qIGZhbGwgdGhyb3VnaCAqLwogIH0KICByZXR1cm4gaWQ7Cn0KCmV4cG9ydCB0eXBlIFNlZyA9IHsgY291bnQ6IG51bWJlcjsgcmV2ZW51ZTogbnVtYmVyIH07CmV4cG9ydCB0eXBlIFdob3BSZXZlbnVlID0gewogIGdyb3NzOiBudW1iZXI7CiAgbmV0OiBudW1iZXI7IC8vIGdyb3NzIOKIkiByZWZ1bmRzCiAgcmVmdW5kczogbnVtYmVyOwogIGNvdW50OiBudW1iZXI7CiAgYnlGdW5uZWw6IHsgdnNsOiBudW1iZXI7IHdvbGZwYWNrOiBudW1iZXI7IG90aGVyOiBudW1iZXIgfTsKICBieVByb2R1Y3Q6IHsgbmFtZTogc3RyaW5nOyBjb3VudDogbnVtYmVyOyByZXZlbnVlOiBudW1iZXI7IGZ1bm5lbDogc3RyaW5nIH1bXTsKICAvLyDilIDilIAgZ3JhbnVsYXIgc2VnbWVudGF0aW9uIOKUgOKUgAogIG9uZVRpbWU6IFNlZzsgLy8gYmlsbGluZ19yZWFzb24gb25lX3RpbWUgLyBzdWJzY3JpcHRpb25fY3JlYXRlCiAgcmVjdXJyaW5nOiBTZWc7IC8vIHN1YnNjcmlwdGlvbl9jeWNsZSByZW5ld2FscwogIHF1YW50dW06IFNlZzsgLy8gVlNMIGhpZ2gtdGlja2V0IChRdWFudHVtIENpcGhlciArIE1lbnRvcnNoaXApLCBhbGwgcGF5bWVudHMKICAvLyBRdWFudHVtIGRlY29tcG9zZWQgaG9uZXN0bHk6IGEgcmVhbCBjbG9zZSA9IG9uZS10aW1lIOKJpSAkMiw1MDAgKHN1cnZleSdzCiAgLy8gY2FsbC1yb3V0aW5nIHRocmVzaG9sZCkuIEJlbG93ID0gcGFydGlhbC9kZXBvc2l0L2Rvd25zZWxsLiBSZWN1cnJpbmcgPQogIC8vIGV4aXN0aW5nIHBheW1lbnQtcGxhbiBpbnN0YWxsbWVudHMsIE5PVCBuZXcgY2xvc2VzLgogIHF1YW50dW1DbG9zZTogU2VnOwogIHF1YW50dW1QYXJ0aWFsOiBTZWc7CiAgcXVhbnR1bVJlY3VycmluZzogU2VnOwogIC8vIG1lbWJlcnNoaXAgaWRzIG9mIHRoZSBjbG9zZSBidXllcnMg4oCUIHVzZWQgdG8gYXR0cmlidXRlIGNsb3NlcyBiYWNrIHRvCiAgLy8gdGhlaXIgbGVhZCBzb3VyY2UgKGUuZy4gZGlkIHRoaXMgY2xvc2UgY29tZSBmcm9tIHRoZSBmcmVlIGNvdXJzZT8pLgogIHF1YW50dW1DbG9zZU1lbXM6IHN0cmluZ1tdOwogIHdvbGZXZXN0ZXJuTWVtczogc3RyaW5nW107CiAgd29sZk5ld1dlc3Rlcm46IFNlZzsgLy8gV29sZnBhY2sgb25lLXRpbWUgYXQgZnVsbCBwcmljZSAoJDk5NyB0aWVyKQogIHdvbGZOZXdJbnRsOiBTZWc7IC8vIFdvbGZwYWNrIG9uZS10aW1lIGF0IGdlbyBwcmljZSAoJDI5NyB0aWVyKQogIHdvbGZSZWN1cnJpbmc6IFNlZzsgLy8gV29sZnBhY2sgbGVnYWN5IG1vbnRobHkgc3Vic2NyaXB0aW9ucwogIHNlZ21lbnRzOiB7IHByb2R1Y3Q6IHN0cmluZzsga2luZDogIm9uZS10aW1lIiB8ICJyZWN1cnJpbmciOyBwcmljZTogbnVtYmVyOyBjb3VudDogbnVtYmVyOyByZXZlbnVlOiBudW1iZXI7IGZ1bm5lbDogc3RyaW5nIH1bXTsKfTsKCmNvbnN0IGFkZFNlZyA9IChzOiBTZWcsIGFtdDogbnVtYmVyKSA9PiB7CiAgcy5jb3VudCsrOwogIHMucmV2ZW51ZSArPSBhbXQ7Cn07CgovLyDilIDilIAgTG9uZy1yYW5nZSB0cmVuZHM6IG1vbnRobHkgcmV2ZW51ZSBzcGxpdCArIG1lbWJlcnNoaXAgY2h1cm4g4pSA4pSACi8vIEhlYXZ5ICh3YWxrcyB+OCBtb250aHMgb2YgcGF5bWVudHMpOyBjYWNoZSBhZ2dyZXNzaXZlbHkgYXQgdGhlIHJvdXRlLgpleHBvcnQgdHlwZSBXaG9wVHJlbmRzID0gewogIG1vbnRobHk6IHsgbW9udGg6IHN0cmluZzsgb25lVGltZTogbnVtYmVyOyByZWN1cnJpbmc6IG51bWJlcjsgdG90YWw6IG51bWJlcjsgY291bnQ6IG51bWJlciB9W107CiAgbWVtYmVyc2hpcHM6IHsgYWN0aXZlOiBudW1iZXI7IGNhbmNlbGVkOiBudW1iZXI7IGV4cGlyZWQ6IG51bWJlcjsgY29tcGxldGVkOiBudW1iZXIgfTsKfTsKCmV4cG9ydCBhc3luYyBmdW5jdGlvbiBmZXRjaFdob3BUcmVuZHMobW9udGhzOiBudW1iZXIpOiBQcm9taXNlPFdob3BUcmVuZHMgfCBudWxsPiB7CiAgY29uc3QgYXBpS2V5ID0gcHJvY2Vzcy5lbnYuV0hPUF9BUElfS0VZIHx8ICIiOwogIGlmICghYXBpS2V5KSByZXR1cm4gbnVsbDsKICBjb25zdCBoZWFkZXJzID0geyBBdXRob3JpemF0aW9uOiBgQmVhcmVyICR7YXBpS2V5fWAsIEFjY2VwdDogImFwcGxpY2F0aW9uL2pzb24iIH07CiAgY29uc3QgZmxvb3IgPSBNYXRoLmZsb29yKERhdGUubm93KCkgLyAxMDAwKSAtIG1vbnRocyAqIDMxICogODZfNDAwOwoKICB0eXBlIFBheSA9IHsgc3RhdHVzPzogc3RyaW5nOyBmaW5hbF9hbW91bnQ/OiBudW1iZXI7IHBhaWRfYXQ/OiBudW1iZXI7IGNyZWF0ZWRfYXQ/OiBudW1iZXI7IGJpbGxpbmdfcmVhc29uPzogc3RyaW5nIH07CiAgY29uc3QgYnVja2V0czogUmVjb3JkPHN0cmluZywgeyBvbmVUaW1lOiBudW1iZXI7IHJlY3VycmluZzogbnVtYmVyOyBjb3VudDogbnVtYmVyIH0+ID0ge307CgogIGZvciAobGV0IHBhZ2UgPSAxOyBwYWdlIDw9IDkwOyBwYWdlKyspIHsKICAgIGNvbnN0IHJlcyA9IGF3YWl0IGZldGNoKGBodHRwczovL2FwaS53aG9wLmNvbS9hcGkvdjIvcGF5bWVudHM/cGFnZT0ke3BhZ2V9JnBlcj01MGAsIHsgaGVhZGVycywgbmV4dDogeyByZXZhbGlkYXRlOiAzNjAwIH0gfSk7CiAgICBpZiAoIXJlcy5vaykgYnJlYWs7CiAgICBjb25zdCBpdGVtczogUGF5W10gPSAoYXdhaXQgcmVzLmpzb24oKSkuZGF0YSA/PyBbXTsKICAgIGlmIChpdGVtcy5sZW5ndGggPT09IDApIGJyZWFrOwogICAgZm9yIChjb25zdCBwIG9mIGl0ZW1zKSB7CiAgICAgIGNvbnN0IHRzID0gcC5wYWlkX2F0ID8/IHAuY3JlYXRlZF9hdCA/PyAwOwogICAgICBpZiAodHMgPCBmbG9vciB8fCBwLnN0YXR1cyAhPT0gInBhaWQiKSBjb250aW51ZTsKICAgICAgY29uc3QgbW9udGggPSBuZXcgRGF0ZSh0cyAqIDEwMDApLnRvSVNPU3RyaW5nKCkuc2xpY2UoMCwgNyk7CiAgICAgIGNvbnN0IGIgPSAoYnVja2V0c1ttb250aF0gPz89IHsgb25lVGltZTogMCwgcmVjdXJyaW5nOiAwLCBjb3VudDogMCB9KTsKICAgICAgY29uc3QgYW10ID0gcC5maW5hbF9hbW91bnQgPz8gMDsKICAgICAgY29uc3QgcmVhc29uID0gcC5iaWxsaW5nX3JlYXNvbiA/PyAiIjsKICAgICAgaWYgKHJlYXNvbiA9PT0gIm9uZV90aW1lIiB8fCByZWFzb24gPT09ICJzdWJzY3JpcHRpb25fY3JlYXRlIikgYi5vbmVUaW1lICs9IGFtdDsKICAgICAgZWxzZSBiLnJlY3VycmluZyArPSBhbXQ7CiAgICAgIGIuY291bnQrKzsKICAgIH0KICAgIGlmIChNYXRoLm1pbiguLi5pdGVtcy5tYXAoKHApID0+IHAucGFpZF9hdCA/PyBwLmNyZWF0ZWRfYXQgPz8gMCkpIDwgZmxvb3IpIGJyZWFrOwogIH0KCiAgY29uc3QgbW9udGhseSA9IE9iamVjdC5lbnRyaWVzKGJ1Y2tldHMpCiAgICAubWFwKChbbW9udGgsIGJdKSA9PiAoeyBtb250aCwgb25lVGltZTogTWF0aC5yb3VuZChiLm9uZVRpbWUpLCByZWN1cnJpbmc6IE1hdGgucm91bmQoYi5yZWN1cnJpbmcpLCB0b3RhbDogTWF0aC5yb3VuZChiLm9uZVRpbWUgKyBiLnJlY3VycmluZyksIGNvdW50OiBiLmNvdW50IH0pKQogICAgLnNvcnQoKGEsIGIpID0+IGEubW9udGgubG9jYWxlQ29tcGFyZShiLm1vbnRoKSk7CgogIGNvbnN0IG1lbWJlcnNoaXBzID0geyBhY3RpdmU6IDAsIGNhbmNlbGVkOiAwLCBleHBpcmVkOiAwLCBjb21wbGV0ZWQ6IDAgfTsKICBhd2FpdCBQcm9taXNlLmFsbCgKICAgIChbImFjdGl2ZSIsICJjYW5jZWxlZCIsICJleHBpcmVkIiwgImNvbXBsZXRlZCJdIGFzIGNvbnN0KS5tYXAoYXN5bmMgKHN0KSA9PiB7CiAgICAgIGNvbnN0IHIgPSBhd2FpdCBmZXRjaChgaHR0cHM6Ly9hcGkud2hvcC5jb20vYXBpL3YyL21lbWJlcnNoaXBzP3BhZ2U9MSZwZXI9MSZzdGF0dXM9JHtzdH1gLCB7IGhlYWRlcnMsIG5leHQ6IHsgcmV2YWxpZGF0ZTogMzYwMCB9IH0pOwogICAgICBpZiAoci5vaykgbWVtYmVyc2hpcHNbc3RdID0gKGF3YWl0IHIuanNvbigpKS5wYWdpbmF0aW9uPy50b3RhbF9jb3VudCA/PyAwOwogICAgfSksCiAgKTsKCiAgcmV0dXJuIHsgbW9udGhseSwgbWVtYmVyc2hpcHMgfTsKfQoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGZldGNoV2hvcFJldmVudWUoZGF5czogbnVtYmVyKTogUHJvbWlzZTxXaG9wUmV2ZW51ZSB8IG51bGw+IHsKICBjb25zdCBhcGlLZXkgPSBwcm9jZXNzLmVudi5XSE9QX0FQSV9LRVkgfHwgIiI7CiAgaWYgKCFhcGlLZXkpIHJldHVybiBudWxsOwogIGNvbnN0IGhlYWRlcnMgPSB7IEF1dGhvcml6YXRpb246IGBCZWFyZXIgJHthcGlLZXl9YCwgQWNjZXB0OiAiYXBwbGljYXRpb24vanNvbiIgfTsKICBjb25zdCBjdXRvZmYgPSBNYXRoLmZsb29yKERhdGUubm93KCkgLyAxMDAwKSAtIGRheXMgKiA4Nl80MDA7CiAgY29uc3QgaGFyZEZsb29yID0gTWF0aC5mbG9vcihEYXRlLm5vdygpIC8gMTAwMCkgLSAoZGF5cyArIDE1KSAqIDg2XzQwMDsgLy8gc3RvcCBwYWdpbmcgdGhpcyBmYXIgYmFjawoKICB0eXBlIFBheSA9IHsKICAgIHN0YXR1cz86IHN0cmluZzsKICAgIGZpbmFsX2Ftb3VudD86IG51bWJlcjsKICAgIHJlZnVuZGVkX2Ftb3VudD86IG51bWJlcjsKICAgIHBhaWRfYXQ/OiBudW1iZXI7CiAgICBjcmVhdGVkX2F0PzogbnVtYmVyOwogICAgcHJvZHVjdD86IHN0cmluZzsKICAgIGFjY2Vzc19wYXNzPzogc3RyaW5nOwogICAgYmlsbGluZ19yZWFzb24/OiBzdHJpbmc7CiAgICBtZW1iZXJzaGlwPzogc3RyaW5nOwogIH07CiAgY29uc3QgcXVhbnR1bUNsb3NlTWVtczogc3RyaW5nW10gPSBbXTsKICBjb25zdCB3b2xmV2VzdGVybk1lbXM6IHN0cmluZ1tdID0gW107CgogIC8vIE5COiB0aGlzIGVuZHBvaW50IGlnbm9yZXMgYHBlcl9wYWdlYCAocmV0dXJucyAxMCk7IHRoZSBob25vcmVkIHBhcmFtIGlzCiAgLy8gYHBlcmAsIGNhcHBlZCBhdCA1MC4gQW5kIG9yZGVyaW5nIGlzIE5PVCBtb25vdG9uaWMg4oCUIGEgc2luZ2xlIHBhZ2UgbWl4ZXMKICAvLyByZWNlbnQgKyB3ZWVrcy1vbGQgcm93cyDigJQgc28gd2UgY2FuJ3Qgc3RvcCBvbiB0aGUgZmlyc3Qgb2xkIHJvdywgb25seQogIC8vIG9uY2UgdGhlIFdIT0xFIHBhZ2UgaXMgcGFzdCB0aGUgd2luZG93IGZsb29yLgogIGNvbnN0IGluV2luZG93OiBQYXlbXSA9IFtdOwogIGZvciAobGV0IHBhZ2UgPSAxOyBwYWdlIDw9IDgwOyBwYWdlKyspIHsKICAgIGNvbnN0IHJlcyA9IGF3YWl0IGZldGNoKAogICAgICBgaHR0cHM6Ly9hcGkud2hvcC5jb20vYXBpL3YyL3BheW1lbnRzP3BhZ2U9JHtwYWdlfSZwZXI9NTBgLAogICAgICB7IGhlYWRlcnMsIG5leHQ6IHsgcmV2YWxpZGF0ZTogMzAwIH0gfSwKICAgICk7CiAgICBpZiAoIXJlcy5vaykgYnJlYWs7CiAgICBjb25zdCBpdGVtczogUGF5W10gPSAoYXdhaXQgcmVzLmpzb24oKSkuZGF0YSA/PyBbXTsKICAgIGlmIChpdGVtcy5sZW5ndGggPT09IDApIGJyZWFrOwogICAgZm9yIChjb25zdCBwIG9mIGl0ZW1zKSB7CiAgICAgIGNvbnN0IHRzID0gcC5wYWlkX2F0ID8/IHAuY3JlYXRlZF9hdCA/PyAwOwogICAgICBpZiAodHMgPj0gY3V0b2ZmICYmIHAuc3RhdHVzID09PSAicGFpZCIpIGluV2luZG93LnB1c2gocCk7CiAgICB9CiAgICBjb25zdCBvbGRlc3QgPSBNYXRoLm1pbiguLi5pdGVtcy5tYXAoKHApID0+IHAucGFpZF9hdCA/PyBwLmNyZWF0ZWRfYXQgPz8gMCkpOwogICAgaWYgKG9sZGVzdCA8IGhhcmRGbG9vcikgYnJlYWs7CiAgfQoKICBsZXQgZ3Jvc3MgPSAwOwogIGxldCByZWZ1bmRzID0gMDsKICBjb25zdCBwcm9kQWdnOiBSZWNvcmQ8c3RyaW5nLCB7IGlkOiBzdHJpbmc7IGNvdW50OiBudW1iZXI7IHJldmVudWU6IG51bWJlciB9PiA9IHt9OwogIGZvciAoY29uc3QgcCBvZiBpbldpbmRvdykgewogICAgY29uc3QgYW10ID0gcC5maW5hbF9hbW91bnQgPz8gMDsKICAgIGdyb3NzICs9IGFtdDsKICAgIHJlZnVuZHMgKz0gcC5yZWZ1bmRlZF9hbW91bnQgPz8gMDsKICAgIGNvbnN0IHBpZCA9ICh0eXBlb2YgcC5wcm9kdWN0ID09PSAic3RyaW5nIiA/IHAucHJvZHVjdCA6ICIiKSB8fCAodHlwZW9mIHAuYWNjZXNzX3Bhc3MgPT09ICJzdHJpbmciID8gcC5hY2Nlc3NfcGFzcyA6ICIiKSB8fCAi4oCUIjsKICAgIGlmICghcHJvZEFnZ1twaWRdKSBwcm9kQWdnW3BpZF0gPSB7IGlkOiBwaWQsIGNvdW50OiAwLCByZXZlbnVlOiAwIH07CiAgICBwcm9kQWdnW3BpZF0uY291bnQrKzsKICAgIHByb2RBZ2dbcGlkXS5yZXZlbnVlICs9IGFtdDsKICB9CgogIC8vIFJlc29sdmUgbmFtZXMgKyBidWNrZXQgYnkgZnVubmVsCiAgY29uc3QgYnlGdW5uZWwgPSB7IHZzbDogMCwgd29sZnBhY2s6IDAsIG90aGVyOiAwIH07CiAgY29uc3QgYnlQcm9kdWN0OiBXaG9wUmV2ZW51ZVsiYnlQcm9kdWN0Il0gPSBbXTsKICBmb3IgKGNvbnN0IGFnZyBvZiBPYmplY3QudmFsdWVzKHByb2RBZ2cpKSB7CiAgICBjb25zdCBuYW1lID0gYXdhaXQgcmVzb2x2ZVByb2R1Y3ROYW1lKGFnZy5pZCwgaGVhZGVycyk7CiAgICBjb25zdCBmdW5uZWwgPSBmdW5uZWxGb3JQcm9kdWN0KG5hbWUpOwogICAgYnlGdW5uZWxbZnVubmVsXSArPSBhZ2cucmV2ZW51ZTsKICAgIGJ5UHJvZHVjdC5wdXNoKHsgbmFtZSwgY291bnQ6IGFnZy5jb3VudCwgcmV2ZW51ZTogTWF0aC5yb3VuZChhZ2cucmV2ZW51ZSksIGZ1bm5lbCB9KTsKICB9CiAgYnlQcm9kdWN0LnNvcnQoKGEsIGIpID0+IGIucmV2ZW51ZSAtIGEucmV2ZW51ZSk7CgogIC8vIOKUgOKUgCBncmFudWxhciBzZWdtZW50YXRpb24g4pSA4pSACiAgY29uc3Qgb25lVGltZTogU2VnID0geyBjb3VudDogMCwgcmV2ZW51ZTogMCB9OwogIGNvbnN0IHJlY3VycmluZzogU2VnID0geyBjb3VudDogMCwgcmV2ZW51ZTogMCB9OwogIGNvbnN0IHF1YW50dW06IFNlZyA9IHsgY291bnQ6IDAsIHJldmVudWU6IDAgfTsKICBjb25zdCBxdWFudHVtQ2xvc2U6IFNlZyA9IHsgY291bnQ6IDAsIHJldmVudWU6IDAgfTsKICBjb25zdCBxdWFudHVtUGFydGlhbDogU2VnID0geyBjb3VudDogMCwgcmV2ZW51ZTogMCB9OwogIGNvbnN0IHF1YW50dW1SZWN1cnJpbmc6IFNlZyA9IHsgY291bnQ6IDAsIHJldmVudWU6IDAgfTsKICBjb25zdCB3b2xmTmV3V2VzdGVybjogU2VnID0geyBjb3VudDogMCwgcmV2ZW51ZTogMCB9OwogIGNvbnN0IHdvbGZOZXdJbnRsOiBTZWcgPSB7IGNvdW50OiAwLCByZXZlbnVlOiAwIH07CiAgY29uc3Qgd29sZlJlY3VycmluZzogU2VnID0geyBjb3VudDogMCwgcmV2ZW51ZTogMCB9OwogIGNvbnN0IHNlZ0FnZzogUmVjb3JkPHN0cmluZywgeyBwcm9kdWN0OiBzdHJpbmc7IGtpbmQ6ICJvbmUtdGltZSIgfCAicmVjdXJyaW5nIjsgcHJpY2U6IG51bWJlcjsgcGlkOiBzdHJpbmc7IGNvdW50OiBudW1iZXI7IHJldmVudWU6IG51bWJlciB9PiA9IHt9OwoKICBmb3IgKGNvbnN0IHAgb2YgaW5XaW5kb3cpIHsKICAgIGNvbnN0IGFtdCA9IHAuZmluYWxfYW1vdW50ID8/IDA7CiAgICBpZiAoYW10IDw9IDApIGNvbnRpbnVlOyAvLyBza2lwICQwIGNvbXBzL2ZyZWUKICAgIGNvbnN0IHBpZCA9ICh0eXBlb2YgcC5wcm9kdWN0ID09PSAic3RyaW5nIiA/IHAucHJvZHVjdCA6ICIiKSB8fCAi4oCUIjsKICAgIGNvbnN0IG5hbWUgPSBhd2FpdCByZXNvbHZlUHJvZHVjdE5hbWUocGlkLCBoZWFkZXJzKTsKICAgIGNvbnN0IGZ1bm5lbCA9IGZ1bm5lbEZvclByb2R1Y3QobmFtZSk7CiAgICBjb25zdCByZWFzb24gPSBwLmJpbGxpbmdfcmVhc29uID8/ICIiOwogICAgY29uc3QgaXNPbmVUaW1lID0gcmVhc29uID09PSAib25lX3RpbWUiIHx8IHJlYXNvbiA9PT0gInN1YnNjcmlwdGlvbl9jcmVhdGUiOwogICAgaWYgKGlzT25lVGltZSkgYWRkU2VnKG9uZVRpbWUsIGFtdCk7CiAgICBlbHNlIGFkZFNlZyhyZWN1cnJpbmcsIGFtdCk7CgogICAgaWYgKGZ1bm5lbCA9PT0gInZzbCIpIHsKICAgICAgYWRkU2VnKHF1YW50dW0sIGFtdCk7IC8vIHRvdGFsCiAgICAgIGlmICghaXNPbmVUaW1lKSBhZGRTZWcocXVhbnR1bVJlY3VycmluZywgYW10KTsgLy8gcGF5bWVudC1wbGFuIGluc3RhbGxtZW50CiAgICAgIGVsc2UgaWYgKGFtdCA+PSAyNTAwKSB7IGFkZFNlZyhxdWFudHVtQ2xvc2UsIGFtdCk7IGlmIChwLm1lbWJlcnNoaXApIHF1YW50dW1DbG9zZU1lbXMucHVzaChwLm1lbWJlcnNoaXApOyB9IC8vIHJlYWwgaGlnaC10aWNrZXQgY2xvc2UKICAgICAgZWxzZSBhZGRTZWcocXVhbnR1bVBhcnRpYWwsIGFtdCk7IC8vIGRlcG9zaXQgLyBkb3duc2VsbCAvIHBhcnRpYWwKICAgIH0KICAgIGlmIChmdW5uZWwgPT09ICJ3b2xmcGFjayIpIHsKICAgICAgaWYgKGlzT25lVGltZSkgewogICAgICAgIC8vICQyOTcgZ2VvIHRpZXIgdnMgJDk5NyB3ZXN0ZXJuIHRpZXIsIHNwbGl0IG9uIHByaWNlCiAgICAgICAgaWYgKGFtdCA8PSA0MDApIGFkZFNlZyh3b2xmTmV3SW50bCwgYW10KTsKICAgICAgICBlbHNlIHsgYWRkU2VnKHdvbGZOZXdXZXN0ZXJuLCBhbXQpOyBpZiAocC5tZW1iZXJzaGlwKSB3b2xmV2VzdGVybk1lbXMucHVzaChwLm1lbWJlcnNoaXApOyB9CiAgICAgIH0gZWxzZSB7CiAgICAgICAgYWRkU2VnKHdvbGZSZWN1cnJpbmcsIGFtdCk7CiAgICAgIH0KICAgIH0KCiAgICAvLyBLZXkgYnkgTkFNRSAobm90IHByb2R1Y3QgaWQpIHNvIG11bHRpcGxlIHBsYW4vcHJvZHVjdCBpZHMgdGhhdCByZXNvbHZlCiAgICAvLyB0byB0aGUgc2FtZSBkaXNwbGF5IG5hbWUgKyBwcmljZSBtZXJnZSBpbnRvIG9uZSByb3cuCiAgICBjb25zdCBwcmljZSA9IE1hdGgucm91bmQoYW10KTsKICAgIGNvbnN0IGtleSA9IGAke25hbWV9fCR7aXNPbmVUaW1lID8gIm9uZS10aW1lIiA6ICJyZWN1cnJpbmcifXwke3ByaWNlfWA7CiAgICBpZiAoIXNlZ0FnZ1trZXldKSBzZWdBZ2dba2V5XSA9IHsgcHJvZHVjdDogbmFtZSwga2luZDogaXNPbmVUaW1lID8gIm9uZS10aW1lIiA6ICJyZWN1cnJpbmciLCBwcmljZSwgcGlkLCBjb3VudDogMCwgcmV2ZW51ZTogMCB9OwogICAgc2VnQWdnW2tleV0uY291bnQrKzsKICAgIHNlZ0FnZ1trZXldLnJldmVudWUgKz0gYW10OwogIH0KCiAgY29uc3Qgc2VnbWVudHMgPSBPYmplY3QudmFsdWVzKHNlZ0FnZykKICAgIC5tYXAoKHMpID0+ICh7IHByb2R1Y3Q6IHMucHJvZHVjdCwga2luZDogcy5raW5kLCBwcmljZTogcy5wcmljZSwgY291bnQ6IHMuY291bnQsIHJldmVudWU6IE1hdGgucm91bmQocy5yZXZlbnVlKSwgZnVubmVsOiBmdW5uZWxGb3JQcm9kdWN0KHMucHJvZHVjdCkgfSkpCiAgICAuc29ydCgoYSwgYikgPT4gYi5yZXZlbnVlIC0gYS5yZXZlbnVlKTsKCiAgY29uc3Qgcm5kID0gKHM6IFNlZyk6IFNlZyA9PiAoeyBjb3VudDogcy5jb3VudCwgcmV2ZW51ZTogTWF0aC5yb3VuZChzLnJldmVudWUpIH0pOwoKICByZXR1cm4gewogICAgZ3Jvc3M6IE1hdGgucm91bmQoZ3Jvc3MpLAogICAgbmV0OiBNYXRoLnJvdW5kKGdyb3NzIC0gcmVmdW5kcyksCiAgICByZWZ1bmRzOiBNYXRoLnJvdW5kKHJlZnVuZHMpLAogICAgY291bnQ6IGluV2luZG93Lmxlbmd0aCwKICAgIGJ5RnVubmVsOiB7CiAgICAgIHZzbDogTWF0aC5yb3VuZChieUZ1bm5lbC52c2wpLAogICAgICB3b2xmcGFjazogTWF0aC5yb3VuZChieUZ1bm5lbC53b2xmcGFjayksCiAgICAgIG90aGVyOiBNYXRoLnJvdW5kKGJ5RnVubmVsLm90aGVyKSwKICAgIH0sCiAgICBieVByb2R1Y3QsCiAgICBvbmVUaW1lOiBybmQob25lVGltZSksCiAgICByZWN1cnJpbmc6IHJuZChyZWN1cnJpbmcpLAogICAgcXVhbnR1bTogcm5kKHF1YW50dW0pLAogICAgcXVhbnR1bUNsb3NlOiBybmQocXVhbnR1bUNsb3NlKSwKICAgIHF1YW50dW1QYXJ0aWFsOiBybmQocXVhbnR1bVBhcnRpYWwpLAogICAgcXVhbnR1bVJlY3VycmluZzogcm5kKHF1YW50dW1SZWN1cnJpbmcpLAogICAgcXVhbnR1bUNsb3NlTWVtcywKICAgIHdvbGZXZXN0ZXJuTWVtcywKICAgIHdvbGZOZXdXZXN0ZXJuOiBybmQod29sZk5ld1dlc3Rlcm4pLAogICAgd29sZk5ld0ludGw6IHJuZCh3b2xmTmV3SW50bCksCiAgICB3b2xmUmVjdXJyaW5nOiBybmQod29sZlJlY3VycmluZyksCiAgICBzZWdtZW50cywKICB9Owp9Cg=="}
+// Whop revenue — shared by the analytics + funnel routes.
+//
+// The v2 payments endpoint does NOT return newest-first (confirmed Jun 2026:
+// page 1 spans weeks out of order), so any "break on first old payment" loop
+// massively undercounts. We instead page until the window is provably
+// exhausted. We sum `final_amount` (the actually-charged total; `subtotal`
+// is the pre-discount list price and is wrong for revenue) on `status=paid`,
+// and subtract `refunded_amount`.
+//
+// Whop's dashboard "net" figure is this minus Whop's ~10% platform fee,
+// which the per-payment API doesn't expose — so we report gross collected
+// and net-of-refunds, clearly labelled, plus a per-product breakdown the
+// user can reconcile against Whop directly.
+
+const PRODUCT_NAME_CACHE: Record<string, string> = {};
+
+// Product → funnel bucket. Matched on the resolved product name.
+export function funnelForProduct(name: string): "vsl" | "wolfpack" | "other" {
+  const n = name.toLowerCase();
+  if (n.includes("quantum cipher")) return "vsl"; // high-ticket call closes
+  if (n.includes("wolf pack") || n.includes("wolfpack")) return "wolfpack";
+  return "other";
+}
+
+async function resolveProductName(id: string, headers: Record<string, string>): Promise<string> {
+  if (!id || !id.startsWith("prod_")) return id || "—";
+  if (PRODUCT_NAME_CACHE[id]) return PRODUCT_NAME_CACHE[id];
+  try {
+    const res = await fetch(`https://api.whop.com/api/v2/products/${id}`, { headers, next: { revalidate: 86400 } });
+    if (res.ok) {
+      const d = await res.json();
+      const name = d.name || d.title || id;
+      PRODUCT_NAME_CACHE[id] = name;
+      return name;
+    }
+  } catch {
+    /* fall through */
+  }
+  return id;
+}
+
+export type Seg = { count: number; revenue: number };
+export type WhopRevenue = {
+  gross: number;
+  net: number; // gross − refunds
+  refunds: number;
+  count: number;
+  byFunnel: { vsl: number; wolfpack: number; other: number };
+  byProduct: { name: string; count: number; revenue: number; funnel: string }[];
+  // ── granular segmentation ──
+  oneTime: Seg; // billing_reason one_time / subscription_create
+  recurring: Seg; // subscription_cycle renewals
+  quantum: Seg; // VSL high-ticket (Quantum Cipher + Mentorship), all payments
+  // Quantum decomposed honestly: a real close = one-time ≥ $2,500 (survey's
+  // call-routing threshold). Below = partial/deposit/downsell. Recurring =
+  // existing payment-plan installments, NOT new closes.
+  quantumClose: Seg;
+  quantumPartial: Seg;
+  quantumRecurring: Seg;
+  // membership ids of the close buyers — used to attribute closes back to
+  // their lead source (e.g. did this close come from the free course?).
+  quantumCloseMems: string[];
+  wolfWesternMems: string[];
+  wolfNewWestern: Seg; // Wolfpack one-time at full price ($997 tier)
+  wolfNewIntl: Seg; // Wolfpack one-time at geo price ($297 tier)
+  wolfRecurring: Seg; // Wolfpack legacy monthly subscriptions
+  segments: { product: string; kind: "one-time" | "recurring"; price: number; count: number; revenue: number; funnel: string }[];
+};
+
+const addSeg = (s: Seg, amt: number) => {
+  s.count++;
+  s.revenue += amt;
+};
+
+// ── Long-range trends: monthly revenue split + membership churn ──
+// Heavy (walks ~8 months of payments); cache aggressively at the route.
+export type WhopTrends = {
+  monthly: { month: string; oneTime: number; recurring: number; total: number; count: number }[];
+  memberships: { active: number; canceled: number; expired: number; completed: number };
+};
+
+export async function fetchWhopTrends(months: number): Promise<WhopTrends | null> {
+  const apiKey = process.env.WHOP_API_KEY || "";
+  if (!apiKey) return null;
+  const headers = { Authorization: `Bearer ${apiKey}`, Accept: "application/json" };
+  const floor = Math.floor(Date.now() / 1000) - months * 31 * 86_400;
+
+  type Pay = { status?: string; final_amount?: number; paid_at?: number; created_at?: number; billing_reason?: string };
+  const buckets: Record<string, { oneTime: number; recurring: number; count: number }> = {};
+
+  for (let page = 1; page <= 90; page++) {
+    const res = await fetch(`https://api.whop.com/api/v2/payments?page=${page}&per=50`, { headers, next: { revalidate: 3600 } });
+    if (!res.ok) break;
+    const items: Pay[] = (await res.json()).data ?? [];
+    if (items.length === 0) break;
+    for (const p of items) {
+      const ts = p.paid_at ?? p.created_at ?? 0;
+      if (ts < floor || p.status !== "paid") continue;
+      const month = new Date(ts * 1000).toISOString().slice(0, 7);
+      const b = (buckets[month] ??= { oneTime: 0, recurring: 0, count: 0 });
+      const amt = p.final_amount ?? 0;
+      const reason = p.billing_reason ?? "";
+      if (reason === "one_time" || reason === "subscription_create") b.oneTime += amt;
+      else b.recurring += amt;
+      b.count++;
+    }
+    if (Math.min(...items.map((p) => p.paid_at ?? p.created_at ?? 0)) < floor) break;
+  }
+
+  const monthly = Object.entries(buckets)
+    .map(([month, b]) => ({ month, oneTime: Math.round(b.oneTime), recurring: Math.round(b.recurring), total: Math.round(b.oneTime + b.recurring), count: b.count }))
+    .sort((a, b) => a.month.localeCompare(b.month));
+
+  const memberships = { active: 0, canceled: 0, expired: 0, completed: 0 };
+  await Promise.all(
+    (["active", "canceled", "expired", "completed"] as const).map(async (st) => {
+      const r = await fetch(`https://api.whop.com/api/v2/memberships?page=1&per=1&status=${st}`, { headers, next: { revalidate: 3600 } });
+      if (r.ok) memberships[st] = (await r.json()).pagination?.total_count ?? 0;
+    }),
+  );
+
+  return { monthly, memberships };
+}
+
+export async function fetchWhopRevenue(days: number): Promise<WhopRevenue | null> {
+  const apiKey = process.env.WHOP_API_KEY || "";
+  if (!apiKey) return null;
+  const headers = { Authorization: `Bearer ${apiKey}`, Accept: "application/json" };
+  const cutoff = Math.floor(Date.now() / 1000) - days * 86_400;
+  const hardFloor = Math.floor(Date.now() / 1000) - (days + 15) * 86_400; // stop paging this far back
+
+  type Pay = {
+    status?: string;
+    final_amount?: number;
+    refunded_amount?: number;
+    paid_at?: number;
+    created_at?: number;
+    product?: string;
+    access_pass?: string;
+    billing_reason?: string;
+    membership?: string;
+  };
+  const quantumCloseMems: string[] = [];
+  const wolfWesternMems: string[] = [];
+
+  // NB: this endpoint ignores `per_page` (returns 10); the honored param is
+  // `per`, capped at 50. And ordering is NOT monotonic — a single page mixes
+  // recent + weeks-old rows — so we can't stop on the first old row, only
+  // once the WHOLE page is past the window floor.
+  const inWindow: Pay[] = [];
+  for (let page = 1; page <= 80; page++) {
+    const res = await fetch(
+      `https://api.whop.com/api/v2/payments?page=${page}&per=50`,
+      { headers, next: { revalidate: 300 } },
+    );
+    if (!res.ok) break;
+    const items: Pay[] = (await res.json()).data ?? [];
+    if (items.length === 0) break;
+    for (const p of items) {
+      const ts = p.paid_at ?? p.created_at ?? 0;
+      if (ts >= cutoff && p.status === "paid") inWindow.push(p);
+    }
+    const oldest = Math.min(...items.map((p) => p.paid_at ?? p.created_at ?? 0));
+    if (oldest < hardFloor) break;
+  }
+
+  let gross = 0;
+  let refunds = 0;
+  const prodAgg: Record<string, { id: string; count: number; revenue: number }> = {};
+  for (const p of inWindow) {
+    const amt = p.final_amount ?? 0;
+    gross += amt;
+    refunds += p.refunded_amount ?? 0;
+    const pid = (typeof p.product === "string" ? p.product : "") || (typeof p.access_pass === "string" ? p.access_pass : "") || "—";
+    if (!prodAgg[pid]) prodAgg[pid] = { id: pid, count: 0, revenue: 0 };
+    prodAgg[pid].count++;
+    prodAgg[pid].revenue += amt;
+  }
+
+  // Resolve names + bucket by funnel
+  const byFunnel = { vsl: 0, wolfpack: 0, other: 0 };
+  const byProduct: WhopRevenue["byProduct"] = [];
+  for (const agg of Object.values(prodAgg)) {
+    const name = await resolveProductName(agg.id, headers);
+    const funnel = funnelForProduct(name);
+    byFunnel[funnel] += agg.revenue;
+    byProduct.push({ name, count: agg.count, revenue: Math.round(agg.revenue), funnel });
+  }
+  byProduct.sort((a, b) => b.revenue - a.revenue);
+
+  // ── granular segmentation ──
+  const oneTime: Seg = { count: 0, revenue: 0 };
+  const recurring: Seg = { count: 0, revenue: 0 };
+  const quantum: Seg = { count: 0, revenue: 0 };
+  const quantumClose: Seg = { count: 0, revenue: 0 };
+  const quantumPartial: Seg = { count: 0, revenue: 0 };
+  const quantumRecurring: Seg = { count: 0, revenue: 0 };
+  const wolfNewWestern: Seg = { count: 0, revenue: 0 };
+  const wolfNewIntl: Seg = { count: 0, revenue: 0 };
+  const wolfRecurring: Seg = { count: 0, revenue: 0 };
+  const segAgg: Record<string, { product: string; kind: "one-time" | "recurring"; price: number; pid: string; count: number; revenue: number }> = {};
+
+  for (const p of inWindow) {
+    const amt = p.final_amount ?? 0;
+    if (amt <= 0) continue; // skip $0 comps/free
+    const pid = (typeof p.product === "string" ? p.product : "") || "—";
+    const name = await resolveProductName(pid, headers);
+    const funnel = funnelForProduct(name);
+    const reason = p.billing_reason ?? "";
+    const isOneTime = reason === "one_time" || reason === "subscription_create";
+    if (isOneTime) addSeg(oneTime, amt);
+    else addSeg(recurring, amt);
+
+    if (funnel === "vsl") {
+      addSeg(quantum, amt); // total
+      if (!isOneTime) addSeg(quantumRecurring, amt); // payment-plan installment
+      else if (amt >= 2500) { addSeg(quantumClose, amt); if (p.membership) quantumCloseMems.push(p.membership); } // real high-ticket close
+      else addSeg(quantumPartial, amt); // deposit / downsell / partial
+    }
+    if (funnel === "wolfpack") {
+      if (isOneTime) {
+        // $297 geo tier vs $997 western tier, split on price
+        if (amt <= 400) addSeg(wolfNewIntl, amt);
+        else { addSeg(wolfNewWestern, amt); if (p.membership) wolfWesternMems.push(p.membership); }
+      } else {
+        addSeg(wolfRecurring, amt);
+      }
+    }
+
+    // Key by NAME (not product id) so multiple plan/product ids that resolve
+    // to the same display name + price merge into one row.
+    const price = Math.round(amt);
+    const key = `${name}|${isOneTime ? "one-time" : "recurring"}|${price}`;
+    if (!segAgg[key]) segAgg[key] = { product: name, kind: isOneTime ? "one-time" : "recurring", price, pid, count: 0, revenue: 0 };
+    segAgg[key].count++;
+    segAgg[key].revenue += amt;
+  }
+
+  const segments = Object.values(segAgg)
+    .map((s) => ({ product: s.product, kind: s.kind, price: s.price, count: s.count, revenue: Math.round(s.revenue), funnel: funnelForProduct(s.product) }))
+    .sort((a, b) => b.revenue - a.revenue);
+
+  const rnd = (s: Seg): Seg => ({ count: s.count, revenue: Math.round(s.revenue) });
+
+  return {
+    gross: Math.round(gross),
+    net: Math.round(gross - refunds),
+    refunds: Math.round(refunds),
+    count: inWindow.length,
+    byFunnel: {
+      vsl: Math.round(byFunnel.vsl),
+      wolfpack: Math.round(byFunnel.wolfpack),
+      other: Math.round(byFunnel.other),
+    },
+    byProduct,
+    oneTime: rnd(oneTime),
+    recurring: rnd(recurring),
+    quantum: rnd(quantum),
+    quantumClose: rnd(quantumClose),
+    quantumPartial: rnd(quantumPartial),
+    quantumRecurring: rnd(quantumRecurring),
+    quantumCloseMems,
+    wolfWesternMems,
+    wolfNewWestern: rnd(wolfNewWestern),
+    wolfNewIntl: rnd(wolfNewIntl),
+    wolfRecurring: rnd(wolfRecurring),
+    segments,
+  };
+}

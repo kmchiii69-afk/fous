@@ -1,1 +1,107 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBQaG90b0ZyYW1lKHsKICBzcmMsCiAgYWx0LAogIHJhdGlvID0gIjQvMyIsCiAgc3R5bGUsCiAgb2JqZWN0UG9zaXRpb24gPSAiY2VudGVyIiwKICB6b29tYWJsZSA9IHRydWUsCn06IHsKICBzcmM6IHN0cmluZzsKICBhbHQ6IHN0cmluZzsKICByYXRpbz86IHN0cmluZzsKICBzdHlsZT86IFJlYWN0LkNTU1Byb3BlcnRpZXM7CiAgb2JqZWN0UG9zaXRpb24/OiBzdHJpbmc7CiAgem9vbWFibGU/OiBib29sZWFuOwp9KSB7CiAgY29uc3QgW2hvdmVyLCBzZXRIb3Zlcl0gPSB1c2VTdGF0ZShmYWxzZSk7CgogIGZ1bmN0aW9uIG9wZW5MaWdodGJveCgpIHsKICAgIGlmICghem9vbWFibGUpIHJldHVybjsKICAgIHdpbmRvdy5kaXNwYXRjaEV2ZW50KAogICAgICBuZXcgQ3VzdG9tRXZlbnQoInFjOmxpZ2h0Ym94IiwgeyBkZXRhaWw6IHsgc3JjOiBgLyR7c3JjfWAsIGFsdCB9IH0pCiAgICApOwogIH0KCiAgcmV0dXJuICgKICAgIDxkaXYKICAgICAgb25DbGljaz17b3BlbkxpZ2h0Ym94fQogICAgICBvbk1vdXNlRW50ZXI9eygpID0+IHNldEhvdmVyKHRydWUpfQogICAgICBvbk1vdXNlTGVhdmU9eygpID0+IHNldEhvdmVyKGZhbHNlKX0KICAgICAgc3R5bGU9e3sKICAgICAgICBwb3NpdGlvbjogInJlbGF0aXZlIiwKICAgICAgICBhc3BlY3RSYXRpbzogcmF0aW8sCiAgICAgICAgYmFja2dyb3VuZDogInZhcigtLWJnLTIpIiwKICAgICAgICBib3JkZXI6ICIxcHggc29saWQgdmFyKC0tbGluZSkiLAogICAgICAgIG92ZXJmbG93OiAiaGlkZGVuIiwKICAgICAgICBjdXJzb3I6IHpvb21hYmxlID8gInpvb20taW4iIDogImRlZmF1bHQiLAogICAgICAgIC4uLnN0eWxlLAogICAgICB9fQogICAgPgogICAgICB7LyogZXNsaW50LWRpc2FibGUtbmV4dC1saW5lIEBuZXh0L25leHQvbm8taW1nLWVsZW1lbnQgKi99CiAgICAgIDxpbWcKICAgICAgICBzcmM9e2AvJHtzcmN9YH0KICAgICAgICBhbHQ9e2FsdH0KICAgICAgICBzdHlsZT17ewogICAgICAgICAgcG9zaXRpb246ICJhYnNvbHV0ZSIsCiAgICAgICAgICBpbnNldDogMCwKICAgICAgICAgIHdpZHRoOiAiMTAwJSIsCiAgICAgICAgICBoZWlnaHQ6ICIxMDAlIiwKICAgICAgICAgIG9iamVjdEZpdDogImNvdmVyIiwKICAgICAgICAgIG9iamVjdFBvc2l0aW9uLAogICAgICAgICAgdHJhbnNpdGlvbjogInRyYW5zZm9ybSAzMjBtcyBlYXNlIiwKICAgICAgICAgIHRyYW5zZm9ybTogaG92ZXIgJiYgem9vbWFibGUgPyAic2NhbGUoMS4wMTUpIiA6ICJzY2FsZSgxKSIsCiAgICAgICAgfX0KICAgICAgLz4KICAgICAge3pvb21hYmxlICYmICgKICAgICAgICA8ZGl2CiAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICBwb3NpdGlvbjogImFic29sdXRlIiwKICAgICAgICAgICAgYm90dG9tOiAxMiwKICAgICAgICAgICAgcmlnaHQ6IDEyLAogICAgICAgICAgICBkaXNwbGF5OiAiZmxleCIsCiAgICAgICAgICAgIGFsaWduSXRlbXM6ICJjZW50ZXIiLAogICAgICAgICAgICBnYXA6IDgsCiAgICAgICAgICAgIHBhZGRpbmc6ICI4cHggMTJweCIsCiAgICAgICAgICAgIGJhY2tncm91bmQ6ICJyZ2JhKDYsNywxMCwwLjgyKSIsCiAgICAgICAgICAgIGJhY2tkcm9wRmlsdGVyOiAiYmx1cig2cHgpIiwKICAgICAgICAgICAgYm9yZGVyOiBgMXB4IHNvbGlkICR7aG92ZXIgPyAidmFyKC0tYWNpZCkiIDogInZhcigtLWxpbmUtMikifWAsCiAgICAgICAgICAgIG9wYWNpdHk6IGhvdmVyID8gMSA6IDAuNjUsCiAgICAgICAgICAgIHRyYW5zaXRpb246ICJvcGFjaXR5IDIwMG1zIGVhc2UsIGJvcmRlci1jb2xvciAyMDBtcyBlYXNlIiwKICAgICAgICAgICAgcG9pbnRlckV2ZW50czogIm5vbmUiLAogICAgICAgICAgfX0KICAgICAgICA+CiAgICAgICAgICA8c3ZnCiAgICAgICAgICAgIHdpZHRoPSIxMSIKICAgICAgICAgICAgaGVpZ2h0PSIxMSIKICAgICAgICAgICAgdmlld0JveD0iMCAwIDE0IDE0IgogICAgICAgICAgICBmaWxsPSJub25lIgogICAgICAgICAgICBzdHJva2U9e2hvdmVyID8gInZhcigtLWFjaWQpIiA6ICJ2YXIoLS1ib25lKSJ9CiAgICAgICAgICAgIHN0cm9rZVdpZHRoPSIxLjYiCiAgICAgICAgICA+CiAgICAgICAgICAgIDxjaXJjbGUgY3g9IjYiIGN5PSI2IiByPSI0LjUiIC8+CiAgICAgICAgICAgIDxsaW5lIHgxPSI5LjUiIHkxPSI5LjUiIHgyPSIxMyIgeTI9IjEzIiAvPgogICAgICAgICAgICA8bGluZSB4MT0iNCIgeTE9IjYiIHgyPSI4IiB5Mj0iNiIgLz4KICAgICAgICAgICAgPGxpbmUgeDE9IjYiIHkxPSI0IiB4Mj0iNiIgeTI9IjgiIC8+CiAgICAgICAgICA8L3N2Zz4KICAgICAgICAgIDxzcGFuCiAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgZm9udEZhbWlseTogInZhcigtLWZvbnQtbW9ubykiLAogICAgICAgICAgICAgIGZvbnRTaXplOiA5LAogICAgICAgICAgICAgIGZvbnRXZWlnaHQ6IDcwMCwKICAgICAgICAgICAgICBjb2xvcjogaG92ZXIgPyAidmFyKC0tYWNpZCkiIDogInZhcigtLWJvbmUpIiwKICAgICAgICAgICAgICBsZXR0ZXJTcGFjaW5nOiAiMC4yMGVtIiwKICAgICAgICAgICAgICB0ZXh0VHJhbnNmb3JtOiAidXBwZXJjYXNlIiwKICAgICAgICAgICAgICB0cmFuc2l0aW9uOiAiY29sb3IgMjAwbXMgZWFzZSIsCiAgICAgICAgICAgIH19CiAgICAgICAgICA+CiAgICAgICAgICAgIMK3IENsaWNrIHRvIGVubGFyZ2UKICAgICAgICAgIDwvc3Bhbj4KICAgICAgICA8L2Rpdj4KICAgICAgKX0KICAgIDwvZGl2PgogICk7Cn0K"}
+"use client";
+
+import { useState } from "react";
+
+export default function PhotoFrame({
+  src,
+  alt,
+  ratio = "4/3",
+  style,
+  objectPosition = "center",
+  zoomable = true,
+}: {
+  src: string;
+  alt: string;
+  ratio?: string;
+  style?: React.CSSProperties;
+  objectPosition?: string;
+  zoomable?: boolean;
+}) {
+  const [hover, setHover] = useState(false);
+
+  function openLightbox() {
+    if (!zoomable) return;
+    window.dispatchEvent(
+      new CustomEvent("qc:lightbox", { detail: { src: `/${src}`, alt } })
+    );
+  }
+
+  return (
+    <div
+      onClick={openLightbox}
+      onMouseEnter={() => setHover(true)}
+      onMouseLeave={() => setHover(false)}
+      style={{
+        position: "relative",
+        aspectRatio: ratio,
+        background: "var(--bg-2)",
+        border: "1px solid var(--line)",
+        overflow: "hidden",
+        cursor: zoomable ? "zoom-in" : "default",
+        ...style,
+      }}
+    >
+      {/* eslint-disable-next-line @next/next/no-img-element */}
+      <img
+        src={`/${src}`}
+        alt={alt}
+        style={{
+          position: "absolute",
+          inset: 0,
+          width: "100%",
+          height: "100%",
+          objectFit: "cover",
+          objectPosition,
+          transition: "transform 320ms ease",
+          transform: hover && zoomable ? "scale(1.015)" : "scale(1)",
+        }}
+      />
+      {zoomable && (
+        <div
+          style={{
+            position: "absolute",
+            bottom: 12,
+            right: 12,
+            display: "flex",
+            alignItems: "center",
+            gap: 8,
+            padding: "8px 12px",
+            background: "rgba(6,7,10,0.82)",
+            backdropFilter: "blur(6px)",
+            border: `1px solid ${hover ? "var(--acid)" : "var(--line-2)"}`,
+            opacity: hover ? 1 : 0.65,
+            transition: "opacity 200ms ease, border-color 200ms ease",
+            pointerEvents: "none",
+          }}
+        >
+          <svg
+            width="11"
+            height="11"
+            viewBox="0 0 14 14"
+            fill="none"
+            stroke={hover ? "var(--acid)" : "var(--bone)"}
+            strokeWidth="1.6"
+          >
+            <circle cx="6" cy="6" r="4.5" />
+            <line x1="9.5" y1="9.5" x2="13" y2="13" />
+            <line x1="4" y1="6" x2="8" y2="6" />
+            <line x1="6" y1="4" x2="6" y2="8" />
+          </svg>
+          <span
+            style={{
+              fontFamily: "var(--font-mono)",
+              fontSize: 9,
+              fontWeight: 700,
+              color: hover ? "var(--acid)" : "var(--bone)",
+              letterSpacing: "0.20em",
+              textTransform: "uppercase",
+              transition: "color 200ms ease",
+            }}
+          >
+            · Click to enlarge
+          </span>
+        </div>
+      )}
+    </div>
+  );
+}

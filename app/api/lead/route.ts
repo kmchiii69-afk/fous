@@ -1,1 +1,88 @@
-{"data":"Ly8gUE9TVCAvYXBpL2xlYWQKLy8KLy8gQ2FsbGVkIGJ5IHRoZSBQYWdlIDEgc3F1ZWV6ZSBtb2RhbC4gQ3JlYXRlcyBhbiAiT3B0IEluIiBsZWFkIGluIENsb3NlLAovLyBzdWJzY3JpYmVzIHRoZSBlbWFpbCB0byBLaXQncyBWU0wgT3B0LUluIGZvcm0sIGFuZCBwaW5ncyAjbmV3LXZzbC1vcHRpbnMKLy8gaW4gRGlzY29yZC4gQWxsIHRocmVlIHNpZGUtZWZmZWN0cyBydW4gaW4gcGFyYWxsZWw7IHdlIG5ldmVyIGJsb2NrIHRoZQovLyByZXNwb25zZSBvbiBhIHNpZGUtZWZmZWN0IGZhaWx1cmUgKHdlIGxvZyBpdCBhbmQgbW92ZSBvbikuCgppbXBvcnQgeyBOZXh0UmVxdWVzdCwgTmV4dFJlc3BvbnNlIH0gZnJvbSAibmV4dC9zZXJ2ZXIiOwppbXBvcnQgeyBjcmVhdGVPclVwZGF0ZUxlYWQgfSBmcm9tICJAL2xpYi9jbG9zZSI7CmltcG9ydCB7IHN1YnNjcmliZVRvRm9ybSBhcyBraXRTdWJzY3JpYmUsIHRhZ1N1YnNjcmliZXIgYXMga2l0VGFnIH0gZnJvbSAiQC9saWIva2l0IjsKaW1wb3J0IHsgcGluZ09wdEluIH0gZnJvbSAiQC9saWIvZGlzY29yZCI7CgpleHBvcnQgY29uc3QgcnVudGltZSA9ICJub2RlanMiOwpleHBvcnQgY29uc3QgZHluYW1pYyA9ICJmb3JjZS1keW5hbWljIjsKCmNvbnN0IEVNQUlMX1JFID0gL15bXlxzQF0rQFteXHNAXStcLlteXHNAXSskLzsKCmZ1bmN0aW9uIGNsZWFuKHM6IHVua25vd24sIG1heDogbnVtYmVyLCBhbGxvd2VkQ2hhcnM/OiBSZWdFeHApOiBzdHJpbmcgewogIGlmICh0eXBlb2YgcyAhPT0gInN0cmluZyIpIHJldHVybiAiIjsKICBsZXQgdiA9IHMudHJpbSgpLnNsaWNlKDAsIG1heCk7CiAgaWYgKGFsbG93ZWRDaGFycykgdiA9IHYucmVwbGFjZShhbGxvd2VkQ2hhcnMsICIiKTsKICByZXR1cm4gdjsKfQoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIFBPU1QocmVxOiBOZXh0UmVxdWVzdCkgewogIGxldCByYXc6IHVua25vd247CiAgdHJ5IHsKICAgIHJhdyA9IGF3YWl0IHJlcS5qc29uKCk7CiAgfSBjYXRjaCB7CiAgICByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oeyBvazogZmFsc2UsIGVycm9yOiAiSW52YWxpZCBKU09OIiB9LCB7IHN0YXR1czogNDAwIH0pOwogIH0KICBjb25zdCBib2R5ID0gKHJhdyAmJiB0eXBlb2YgcmF3ID09PSAib2JqZWN0IiA/IHJhdyA6IHt9KSBhcyBSZWNvcmQ8c3RyaW5nLCB1bmtub3duPjsKCiAgY29uc3QgZmlyc3RfbmFtZSA9IGNsZWFuKGJvZHkuZmlyc3RfbmFtZSwgNDAsIC9bXkEtWmEtelxzJy1dL2cpOwogIGNvbnN0IGxhc3RfbmFtZSA9IGNsZWFuKGJvZHkubGFzdF9uYW1lLCA0MCwgL1teQS1aYS16XHMnLV0vZyk7CiAgY29uc3QgZW1haWwgPSBjbGVhbihib2R5LmVtYWlsLCAxMjApLnRvTG93ZXJDYXNlKCk7CiAgY29uc3QgcGhvbmUgPSBjbGVhbihib2R5LnBob25lLCAyNCwgL1teXGQrXHMoKS1dL2cpOwoKICBpZiAoIWZpcnN0X25hbWUgfHwgIWxhc3RfbmFtZSkgewogICAgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKHsgb2s6IGZhbHNlLCBlcnJvcjogIk1pc3NpbmcgbmFtZSIgfSwgeyBzdGF0dXM6IDQwMCB9KTsKICB9CiAgaWYgKCFFTUFJTF9SRS50ZXN0KGVtYWlsKSkgewogICAgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKHsgb2s6IGZhbHNlLCBlcnJvcjogIkludmFsaWQgZW1haWwiIH0sIHsgc3RhdHVzOiA0MDAgfSk7CiAgfQogIGlmIChwaG9uZS5yZXBsYWNlKC9cRC9nLCAiIikubGVuZ3RoIDwgNykgewogICAgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKHsgb2s6IGZhbHNlLCBlcnJvcjogIkludmFsaWQgcGhvbmUiIH0sIHsgc3RhdHVzOiA0MDAgfSk7CiAgfQoKICAvLyBSdW4gQ2xvc2UgRklSU1Qgc28gd2UgY2FuIGluY2x1ZGUgdGhlIGxlYWRfaWQgKyBjcmVhdGVkIGZsYWcgaW4gdGhlCiAgLy8gRGlzY29yZCBwaW5nIChzbyBzZXR0ZXJzIGNhbiBjbGljayAiVmlldyBpbiBDbG9zZSIgc3RyYWlnaHQgdG8gdGhlCiAgLy8gcmlnaHQgcmVjb3JkKS4gS2l0IHJ1bnMgaW4gcGFyYWxsZWwgd2l0aCBEaXNjb3JkIGFmdGVyd2FyZHMgc2luY2UgaXQKICAvLyBkb2Vzbid0IGRlcGVuZCBvbiB0aGUgQ2xvc2UgbGVhZC4KICBjb25zdCBjbG9zZVJlcyA9IGF3YWl0IFByb21pc2UuYWxsU2V0dGxlZChbCiAgICBjcmVhdGVPclVwZGF0ZUxlYWQoewogICAgICBmaXJzdF9uYW1lLAogICAgICBsYXN0X25hbWUsCiAgICAgIGVtYWlsLAogICAgICBwaG9uZSwKICAgICAgc3RhdHVzOiAiT3B0IEluIiwKICAgICAgc291cmNlOiAiVlNMIEZ1bm5lbCIsCiAgICB9KSwKICBdKTsKICBpZiAoY2xvc2VSZXNbMF0uc3RhdHVzID09PSAicmVqZWN0ZWQiKSBjb25zb2xlLmVycm9yKCJbL2FwaS9sZWFkXSBDbG9zZSBmYWlsZWQ6IiwgY2xvc2VSZXNbMF0ucmVhc29uKTsKCiAgY29uc3QgbGVhZF9pZCA9IGNsb3NlUmVzWzBdLnN0YXR1cyA9PT0gImZ1bGZpbGxlZCIgPyBjbG9zZVJlc1swXS52YWx1ZS5sZWFkX2lkIDogbnVsbDsKICBjb25zdCBjcmVhdGVkID0gY2xvc2VSZXNbMF0uc3RhdHVzID09PSAiZnVsZmlsbGVkIiA/IGNsb3NlUmVzWzBdLnZhbHVlLmNyZWF0ZWQgOiB0cnVlOwoKICBjb25zdCBba2l0UmVzLCBraXRUYWdSZXMsIGRpc2NvcmRSZXNdID0gYXdhaXQgUHJvbWlzZS5hbGxTZXR0bGVkKFsKICAgIGtpdFN1YnNjcmliZSh7IGVtYWlsLCBmaXJzdF9uYW1lLCBsYXN0X25hbWUsIHBob25lIH0pLAogICAgLy8gQWxzbyB0YWcgd2l0aCAiVlNMIE9wdC1JbiIgc28gZXhpc3RpbmcgS2l0IGF1dG9tYXRpb25zIHRyaWdnZXJlZCBieQogICAgLy8gdGhhdCB0YWcgKHdlbGNvbWUgc2VxdWVuY2UsIGZvbGxvdy11cCBkcmlwLCBldGMuKSBmaXJlLgogICAga2l0VGFnKHsgZW1haWwsIGZpcnN0X25hbWUsIGxhc3RfbmFtZSwgcGhvbmUsIHRhZ0lkOiBwcm9jZXNzLmVudi5LSVRfVEFHX09QVElOIH0pLAogICAgcGluZ09wdEluKHsgZmlyc3RfbmFtZSwgbGFzdF9uYW1lLCBlbWFpbCwgcGhvbmUsIGxlYWRfaWQsIGNyZWF0ZWQgfSksCiAgXSk7CgogIGlmIChraXRSZXMuc3RhdHVzID09PSAicmVqZWN0ZWQiKSBjb25zb2xlLmVycm9yKCJbL2FwaS9sZWFkXSBLaXQgc3Vic2NyaWJlIGZhaWxlZDoiLCBraXRSZXMucmVhc29uKTsKICBpZiAoa2l0VGFnUmVzLnN0YXR1cyA9PT0gInJlamVjdGVkIikgY29uc29sZS5lcnJvcigiWy9hcGkvbGVhZF0gS2l0IHRhZyBmYWlsZWQ6Iiwga2l0VGFnUmVzLnJlYXNvbik7CiAgaWYgKGRpc2NvcmRSZXMuc3RhdHVzID09PSAicmVqZWN0ZWQiKSBjb25zb2xlLmVycm9yKCJbL2FwaS9sZWFkXSBEaXNjb3JkIGZhaWxlZDoiLCBkaXNjb3JkUmVzLnJlYXNvbik7CgogIHJldHVybiBOZXh0UmVzcG9uc2UuanNvbih7CiAgICBvazogdHJ1ZSwKICAgIGxlYWRfaWQsCiAgICBjbG9zZTogY2xvc2VSZXNbMF0uc3RhdHVzLAogICAga2l0OiBraXRSZXMuc3RhdHVzLAogICAga2l0X3RhZzoga2l0VGFnUmVzLnN0YXR1cywKICAgIGRpc2NvcmQ6IGRpc2NvcmRSZXMuc3RhdHVzLAogIH0pOwp9Cg=="}
+// POST /api/lead
+//
+// Called by the Page 1 squeeze modal. Creates an "Opt In" lead in Close,
+// subscribes the email to Kit's VSL Opt-In form, and pings #new-vsl-optins
+// in Discord. All three side-effects run in parallel; we never block the
+// response on a side-effect failure (we log it and move on).
+
+import { NextRequest, NextResponse } from "next/server";
+import { createOrUpdateLead } from "@/lib/close";
+import { subscribeToForm as kitSubscribe, tagSubscriber as kitTag } from "@/lib/kit";
+import { pingOptIn } from "@/lib/discord";
+
+export const runtime = "nodejs";
+export const dynamic = "force-dynamic";
+
+const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+function clean(s: unknown, max: number, allowedChars?: RegExp): string {
+  if (typeof s !== "string") return "";
+  let v = s.trim().slice(0, max);
+  if (allowedChars) v = v.replace(allowedChars, "");
+  return v;
+}
+
+export async function POST(req: NextRequest) {
+  let raw: unknown;
+  try {
+    raw = await req.json();
+  } catch {
+    return NextResponse.json({ ok: false, error: "Invalid JSON" }, { status: 400 });
+  }
+  const body = (raw && typeof raw === "object" ? raw : {}) as Record<string, unknown>;
+
+  const first_name = clean(body.first_name, 40, /[^A-Za-z\s'-]/g);
+  const last_name = clean(body.last_name, 40, /[^A-Za-z\s'-]/g);
+  const email = clean(body.email, 120).toLowerCase();
+  const phone = clean(body.phone, 24, /[^\d+\s()-]/g);
+
+  if (!first_name || !last_name) {
+    return NextResponse.json({ ok: false, error: "Missing name" }, { status: 400 });
+  }
+  if (!EMAIL_RE.test(email)) {
+    return NextResponse.json({ ok: false, error: "Invalid email" }, { status: 400 });
+  }
+  if (phone.replace(/\D/g, "").length < 7) {
+    return NextResponse.json({ ok: false, error: "Invalid phone" }, { status: 400 });
+  }
+
+  // Run Close FIRST so we can include the lead_id + created flag in the
+  // Discord ping (so setters can click "View in Close" straight to the
+  // right record). Kit runs in parallel with Discord afterwards since it
+  // doesn't depend on the Close lead.
+  const closeRes = await Promise.allSettled([
+    createOrUpdateLead({
+      first_name,
+      last_name,
+      email,
+      phone,
+      status: "Opt In",
+      source: "VSL Funnel",
+    }),
+  ]);
+  if (closeRes[0].status === "rejected") console.error("[/api/lead] Close failed:", closeRes[0].reason);
+
+  const lead_id = closeRes[0].status === "fulfilled" ? closeRes[0].value.lead_id : null;
+  const created = closeRes[0].status === "fulfilled" ? closeRes[0].value.created : true;
+
+  const [kitRes, kitTagRes, discordRes] = await Promise.allSettled([
+    kitSubscribe({ email, first_name, last_name, phone }),
+    // Also tag with "VSL Opt-In" so existing Kit automations triggered by
+    // that tag (welcome sequence, follow-up drip, etc.) fire.
+    kitTag({ email, first_name, last_name, phone, tagId: process.env.KIT_TAG_OPTIN }),
+    pingOptIn({ first_name, last_name, email, phone, lead_id, created }),
+  ]);
+
+  if (kitRes.status === "rejected") console.error("[/api/lead] Kit subscribe failed:", kitRes.reason);
+  if (kitTagRes.status === "rejected") console.error("[/api/lead] Kit tag failed:", kitTagRes.reason);
+  if (discordRes.status === "rejected") console.error("[/api/lead] Discord failed:", discordRes.reason);
+
+  return NextResponse.json({
+    ok: true,
+    lead_id,
+    close: closeRes[0].status,
+    kit: kitRes.status,
+    kit_tag: kitTagRes.status,
+    discord: discordRes.status,
+  });
+}

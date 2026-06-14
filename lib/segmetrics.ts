@@ -1,1 +1,108 @@
-{"data":"Ly8gU2VnTWV0cmljcyBhdHRyaWJ1dGlvbiDigJQgdGhlIG1hcmtldGluZy1hdHRyaWJ1dGlvbiBzb3VyY2Ugb2YgdHJ1dGguIFRoZQovLyBwaXhlbCAodGFnIGExWEo1eSkgdHJhY2tzIHRoZSBVVE0gam91cm5leSAoS2l0IHNlcXVlbmNlIGVtYWlscywgYWRzLCBsaW5rcyk7Ci8vIHRoaXMgcmVhZHMgaXQgYmFjay4KLy8KLy8gVHdvIEFQSXMgdXNlZDoKLy8gIC0gdjEgR0VUIC97YWNjdH0vcmVwb3J0L3tsZWFkc3xyZXZlbnVlfSAg4oaSIHJpY2ggS1BJcyAocmV2ZW51ZSwgbGVhZCB2YWx1ZSwKLy8gICAgZGF5cy10by1wdXJjaGFzZSkgdW5kZXIgU2VnTWV0cmljcycgZGVmYXVsdCBMSU5FQVIgYXR0cmlidXRpb24uCi8vICAtIHYyIFBPU1QgL3thY2N0fS92Mi9kYXRhL3F1ZXJ5IOKGkiBtb2RlbC1jb250cm9sbGVkIHF1ZXJpZXM6IEZJUlNULXRvdWNoCi8vICAgICh3aGVyZSB0aGUgbGVhZCBjYW1lIGZyb20pIHZzIExBU1QtdG91Y2ggKGxhc3QgY2xpY2sgYmVmb3JlIHRoZSBzYWxlKSwKLy8gICAgYnkgY2hhbm5lbCBhbmQgYnkgY2FtcGFpZ24uIFZhbGlkIG1ldHJpY3M6IGxlYWRzLCByZXZlbnVlLCBhb3YuCi8vICAgIGRhdGVfcmFuZ2UgbmVlZHMgWS1tLWQuCgpjb25zdCBCQVNFID0gImh0dHBzOi8vYXBpLnNlZ21ldHJpY3MuaW8iOwoKZnVuY3Rpb24gY3JlZHMoKSB7CiAgcmV0dXJuIHsgYWNjb3VudDogcHJvY2Vzcy5lbnYuU0VHTUVUUklDU19BQ0NPVU5UX0lEIHx8ICIiLCBrZXk6IHByb2Nlc3MuZW52LlNFR01FVFJJQ1NfQVBJX0tFWSB8fCAiIiB9Owp9Cgp0eXBlIEtwaSA9IHsga2V5OiBzdHJpbmc7IHZhbHVlOiBudW1iZXIgfTsKdHlwZSBWMSA9IHsga3BpczogS3BpW107IHRhYmxlOiB7IHJvd3M6IFJlY29yZDxzdHJpbmcsIG51bWJlciB8IHN0cmluZz5bXSB9OyBncmFwaDogeyBsYWJlbHM6IHN0cmluZ1tdOyBkYXRhc2V0czogeyBkYXRhOiBudW1iZXJbXSB9W10gfSB9OwoKYXN5bmMgZnVuY3Rpb24gdjEodHlwZTogImxlYWRzIiB8ICJyZXZlbnVlIiwgcXVlcnkgPSAiIik6IFByb21pc2U8VjEgfCBudWxsPiB7CiAgY29uc3QgeyBhY2NvdW50LCBrZXkgfSA9IGNyZWRzKCk7CiAgaWYgKCFhY2NvdW50IHx8ICFrZXkpIHJldHVybiBudWxsOwogIGNvbnN0IHJlcyA9IGF3YWl0IGZldGNoKGAke0JBU0V9LyR7YWNjb3VudH0vcmVwb3J0LyR7dHlwZX0ke3F1ZXJ5fWAsIHsgaGVhZGVyczogeyBBdXRob3JpemF0aW9uOiBrZXkgfSwgbmV4dDogeyByZXZhbGlkYXRlOiA5MDAgfSB9KTsKICByZXR1cm4gcmVzLm9rID8gcmVzLmpzb24oKSA6IG51bGw7Cn0KCi8vIHYyIG1vZGVsLWNvbnRyb2xsZWQgcXVlcnkg4oaSIHJvd3Mgb2YgW2RpbWVuc2lvbiwgLi4ubWV0cmljc10KYXN5bmMgZnVuY3Rpb24gdjIoZGltZW5zaW9uOiBzdHJpbmcsIG1ldHJpY3M6IHN0cmluZ1tdLCBtb2RlbDogImZpcnN0X3RvdWNoIiB8ICJsYXN0X3RvdWNoIiwgc3RhcnQ6IHN0cmluZywgZW5kOiBzdHJpbmcpOiBQcm9taXNlPFtzdHJpbmcsIC4uLm51bWJlcltdXVtdPiB7CiAgY29uc3QgeyBhY2NvdW50LCBrZXkgfSA9IGNyZWRzKCk7CiAgaWYgKCFhY2NvdW50IHx8ICFrZXkpIHJldHVybiBbXTsKICBjb25zdCByZXMgPSBhd2FpdCBmZXRjaChgJHtCQVNFfS92Mi8ke2FjY291bnR9L2RhdGEvcXVlcnlgLCB7CiAgICBtZXRob2Q6ICJQT1NUIiwKICAgIGhlYWRlcnM6IHsgQXV0aG9yaXphdGlvbjoga2V5LCAiQ29udGVudC1UeXBlIjogImFwcGxpY2F0aW9uL2pzb24iIH0sCiAgICBib2R5OiBKU09OLnN0cmluZ2lmeSh7IHR5cGU6ICJsZWFkcyIsIGRpbWVuc2lvbnM6IFtkaW1lbnNpb25dLCBtZXRyaWNzLCBkYXRlX3JhbmdlOiB7IHN0YXJ0LCBlbmQsIHNjYWxlOiAiZGF5IiB9LCBmaWx0ZXJzOiBbXSwgb3B0aW9uczogeyBhdHRyaWJ1dGlvbl9tb2RlbDogbW9kZWwgfSB9KSwKICAgIG5leHQ6IHsgcmV2YWxpZGF0ZTogOTAwIH0sCiAgfSk7CiAgaWYgKCFyZXMub2spIHJldHVybiBbXTsKICBjb25zdCBkID0gYXdhaXQgcmVzLmpzb24oKTsKICByZXR1cm4gKGQucm93cyA/PyBbXSkgYXMgW3N0cmluZywgLi4ubnVtYmVyW11dW107Cn0KCmV4cG9ydCB0eXBlIFRvdWNoID0geyBjaGFubmVsOiBzdHJpbmc7IGxlYWRzOiBudW1iZXI7IHJldmVudWU6IG51bWJlciB9OwpleHBvcnQgdHlwZSBTZWdBdHRyaWJ1dGlvbiA9IHsKICByZXZlbnVlOiBudW1iZXI7IGN1c3RvbWVyczogbnVtYmVyOyBhb3Y6IG51bWJlcjsKICB0b3RhbExlYWRzOiBudW1iZXI7IGxlYWRWYWx1ZTogbnVtYmVyOyBkYXlzVW50aWxQdXJjaGFzZTogbnVtYmVyOyBjb252UmF0ZTogbnVtYmVyOwogIGJ5Q2hhbm5lbDogeyBjaGFubmVsOiBzdHJpbmc7IGxlYWRzOiBudW1iZXI7IGN1c3RvbWVyczogbnVtYmVyOyBjb252ZXJzaW9uUmF0ZTogbnVtYmVyOyByZXZlbnVlOiBudW1iZXI7IGxlYWRWYWx1ZTogbnVtYmVyIH1bXTsKICBmaXJzdFRvdWNoOiBUb3VjaFtdOwogIGxhc3RUb3VjaDogVG91Y2hbXTsKICB0b3BDYW1wYWlnbnM6IHsgY2FtcGFpZ246IHN0cmluZzsgbGVhZHM6IG51bWJlciB9W107CiAgbW9udGhseTogeyBtb250aDogc3RyaW5nOyByZXZlbnVlOiBudW1iZXIgfVtdOwp9OwoKZnVuY3Rpb24geW1kKGRheXNBZ28gPSAwKTogc3RyaW5nIHsKICByZXR1cm4gbmV3IERhdGUoRGF0ZS5ub3coKSAtIGRheXNBZ28gKiA4Nl80MDBfMDAwKS50b0lTT1N0cmluZygpLnNsaWNlKDAsIDEwKTsKfQoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGZldGNoU2VnQXR0cmlidXRpb24oKTogUHJvbWlzZTxTZWdBdHRyaWJ1dGlvbiB8IG51bGw+IHsKICBjb25zdCBzdGFydCA9IHltZCgzMCksIGVuZCA9IHltZCgwKTsKICBjb25zdCBbcmV2LCBsZWFkcywgZmlyc3QsIGxhc3QsIGNhbXBdID0gYXdhaXQgUHJvbWlzZS5hbGwoWwogICAgdjEoInJldmVudWUiLCAiPyIgKyBuZXcgVVJMU2VhcmNoUGFyYW1zKHsgc3RhcnQ6ICItOTAgZGF5Iiwgc2NhbGU6ICJtb250aCIgfSkpLAogICAgdjEoImxlYWRzIiksCiAgICB2MigiY2xpY2tzLmNoYW5uZWwiLCBbImxlYWRzIiwgInJldmVudWUiXSwgImZpcnN0X3RvdWNoIiwgc3RhcnQsIGVuZCksCiAgICB2MigiY2xpY2tzLmNoYW5uZWwiLCBbImxlYWRzIiwgInJldmVudWUiXSwgImxhc3RfdG91Y2giLCBzdGFydCwgZW5kKSwKICAgIHYyKCJjbGlja3MudXRtX2NhbXBhaWduIiwgWyJsZWFkcyIsICJyZXZlbnVlIl0sICJmaXJzdF90b3VjaCIsIHN0YXJ0LCBlbmQpLAogIF0pOwogIGlmICghcmV2ICYmICFsZWFkcyAmJiBmaXJzdC5sZW5ndGggPT09IDApIHJldHVybiBudWxsOwoKICBjb25zdCBrcGkgPSAocjogVjEgfCBudWxsLCBrOiBzdHJpbmcpID0+IE51bWJlcihyPy5rcGlzLmZpbmQoKHgpID0+IHgua2V5ID09PSBrKT8udmFsdWUgPz8gMCk7CgogIGNvbnN0IG1vbnRobHk6IFNlZ0F0dHJpYnV0aW9uWyJtb250aGx5Il0gPSBbXTsKICBjb25zdCBnID0gcmV2Py5ncmFwaDsKICBpZiAoZz8ubGFiZWxzICYmIGcuZGF0YXNldHM/LlswXSkgZy5sYWJlbHMuZm9yRWFjaCgobGFiLCBpKSA9PiBtb250aGx5LnB1c2goeyBtb250aDogbGFiLnNsaWNlKDAsIDcpLCByZXZlbnVlOiBNYXRoLnJvdW5kKGcuZGF0YXNldHNbMF0uZGF0YVtpXSA/PyAwKSB9KSk7CgogIGNvbnN0IGJ5Q2hhbm5lbCA9IChsZWFkcz8udGFibGUucm93cyA/PyBbXSkubWFwKChyKSA9PiAoewogICAgY2hhbm5lbDogU3RyaW5nKHIuY2hhbm5lbCA/PyAi4oCUIiksCiAgICBsZWFkczogTnVtYmVyKHIubGVhZHMgPz8gMCksCiAgICBjdXN0b21lcnM6IE51bWJlcihyLm51bU9mQ3VzdG9tZXJzID8/IDApLAogICAgY29udmVyc2lvblJhdGU6IE51bWJlcihyLmNvbnZlcnNpb25SYXRlID8/IDApLAogICAgcmV2ZW51ZTogTWF0aC5yb3VuZChOdW1iZXIoci5yZXZlbnVlID8/IDApKSwKICAgIGxlYWRWYWx1ZTogTnVtYmVyKHIubGVhZFZhbHVlID8/IDApLAogIH0pKS5zb3J0KChhLCBiKSA9PiBiLmxlYWRzIC0gYS5sZWFkcyk7CgogIGNvbnN0IHRvVG91Y2ggPSAocm93czogW3N0cmluZywgLi4ubnVtYmVyW11dW10pOiBUb3VjaFtdID0+CiAgICByb3dzLm1hcCgocikgPT4gKHsgY2hhbm5lbDogU3RyaW5nKHJbMF0gPz8gIuKAlCIpLCBsZWFkczogTnVtYmVyKHJbMV0gPz8gMCksIHJldmVudWU6IE1hdGgucm91bmQoTnVtYmVyKHJbMl0gPz8gMCkpIH0pKS5zb3J0KChhLCBiKSA9PiBiLmxlYWRzIC0gYS5sZWFkcyk7CgogIGNvbnN0IHRvcENhbXBhaWducyA9IGNhbXAKICAgIC5tYXAoKHIpID0+ICh7IGNhbXBhaWduOiBTdHJpbmcoclswXSA/PyAi4oCUIikucmVwbGFjZSgvXHMqLVxzKlxkKyQvLCAiIiksIGxlYWRzOiBOdW1iZXIoclsxXSA/PyAwKSB9KSkKICAgIC5maWx0ZXIoKGMpID0+IGMuY2FtcGFpZ24gJiYgYy5jYW1wYWlnbiAhPT0gIuKAlCIgJiYgYy5sZWFkcyA+IDApCiAgICAuc29ydCgoYSwgYikgPT4gYi5sZWFkcyAtIGEubGVhZHMpCiAgICAuc2xpY2UoMCwgOCk7CgogIHJldHVybiB7CiAgICByZXZlbnVlOiBNYXRoLnJvdW5kKGtwaShyZXYsICJyZXZlbnVlIikpLAogICAgY3VzdG9tZXJzOiBrcGkocmV2LCAibnVtT2ZDdXN0b21lcnMiKSwKICAgIGFvdjogTWF0aC5yb3VuZChrcGkocmV2LCAiYW92IikpLAogICAgdG90YWxMZWFkczoga3BpKGxlYWRzLCAibGVhZHMiKSwKICAgIGxlYWRWYWx1ZTogTnVtYmVyKGtwaShsZWFkcywgImxlYWRWYWx1ZSIpLnRvRml4ZWQoMikpLAogICAgZGF5c1VudGlsUHVyY2hhc2U6IGtwaShsZWFkcywgImRheXNVbnRpbFB1cmNoYXNlIiksCiAgICBjb252UmF0ZTogTnVtYmVyKGtwaShsZWFkcywgImNvbnZlcnNpb25SYXRlIikudG9GaXhlZCgyKSksCiAgICBieUNoYW5uZWwsCiAgICBmaXJzdFRvdWNoOiB0b1RvdWNoKGZpcnN0KSwKICAgIGxhc3RUb3VjaDogdG9Ub3VjaChsYXN0KSwKICAgIHRvcENhbXBhaWducywKICAgIG1vbnRobHk6IG1vbnRobHkuZmlsdGVyKChtKSA9PiBtLnJldmVudWUgPiAwKSwKICB9Owp9Cg=="}
+// SegMetrics attribution — the marketing-attribution source of truth. The
+// pixel (tag a1XJ5y) tracks the UTM journey (Kit sequence emails, ads, links);
+// this reads it back.
+//
+// Two APIs used:
+//  - v1 GET /{acct}/report/{leads|revenue}  → rich KPIs (revenue, lead value,
+//    days-to-purchase) under SegMetrics' default LINEAR attribution.
+//  - v2 POST /{acct}/v2/data/query → model-controlled queries: FIRST-touch
+//    (where the lead came from) vs LAST-touch (last click before the sale),
+//    by channel and by campaign. Valid metrics: leads, revenue, aov.
+//    date_range needs Y-m-d.
+
+const BASE = "https://api.segmetrics.io";
+
+function creds() {
+  return { account: process.env.SEGMETRICS_ACCOUNT_ID || "", key: process.env.SEGMETRICS_API_KEY || "" };
+}
+
+type Kpi = { key: string; value: number };
+type V1 = { kpis: Kpi[]; table: { rows: Record<string, number | string>[] }; graph: { labels: string[]; datasets: { data: number[] }[] } };
+
+async function v1(type: "leads" | "revenue", query = ""): Promise<V1 | null> {
+  const { account, key } = creds();
+  if (!account || !key) return null;
+  const res = await fetch(`${BASE}/${account}/report/${type}${query}`, { headers: { Authorization: key }, next: { revalidate: 900 } });
+  return res.ok ? res.json() : null;
+}
+
+// v2 model-controlled query → rows of [dimension, ...metrics]
+async function v2(dimension: string, metrics: string[], model: "first_touch" | "last_touch", start: string, end: string): Promise<[string, ...number[]][]> {
+  const { account, key } = creds();
+  if (!account || !key) return [];
+  const res = await fetch(`${BASE}/v2/${account}/data/query`, {
+    method: "POST",
+    headers: { Authorization: key, "Content-Type": "application/json" },
+    body: JSON.stringify({ type: "leads", dimensions: [dimension], metrics, date_range: { start, end, scale: "day" }, filters: [], options: { attribution_model: model } }),
+    next: { revalidate: 900 },
+  });
+  if (!res.ok) return [];
+  const d = await res.json();
+  return (d.rows ?? []) as [string, ...number[]][];
+}
+
+export type Touch = { channel: string; leads: number; revenue: number };
+export type SegAttribution = {
+  revenue: number; customers: number; aov: number;
+  totalLeads: number; leadValue: number; daysUntilPurchase: number; convRate: number;
+  byChannel: { channel: string; leads: number; customers: number; conversionRate: number; revenue: number; leadValue: number }[];
+  firstTouch: Touch[];
+  lastTouch: Touch[];
+  topCampaigns: { campaign: string; leads: number }[];
+  monthly: { month: string; revenue: number }[];
+};
+
+function ymd(daysAgo = 0): string {
+  return new Date(Date.now() - daysAgo * 86_400_000).toISOString().slice(0, 10);
+}
+
+export async function fetchSegAttribution(): Promise<SegAttribution | null> {
+  const start = ymd(30), end = ymd(0);
+  const [rev, leads, first, last, camp] = await Promise.all([
+    v1("revenue", "?" + new URLSearchParams({ start: "-90 day", scale: "month" })),
+    v1("leads"),
+    v2("clicks.channel", ["leads", "revenue"], "first_touch", start, end),
+    v2("clicks.channel", ["leads", "revenue"], "last_touch", start, end),
+    v2("clicks.utm_campaign", ["leads", "revenue"], "first_touch", start, end),
+  ]);
+  if (!rev && !leads && first.length === 0) return null;
+
+  const kpi = (r: V1 | null, k: string) => Number(r?.kpis.find((x) => x.key === k)?.value ?? 0);
+
+  const monthly: SegAttribution["monthly"] = [];
+  const g = rev?.graph;
+  if (g?.labels && g.datasets?.[0]) g.labels.forEach((lab, i) => monthly.push({ month: lab.slice(0, 7), revenue: Math.round(g.datasets[0].data[i] ?? 0) }));
+
+  const byChannel = (leads?.table.rows ?? []).map((r) => ({
+    channel: String(r.channel ?? "—"),
+    leads: Number(r.leads ?? 0),
+    customers: Number(r.numOfCustomers ?? 0),
+    conversionRate: Number(r.conversionRate ?? 0),
+    revenue: Math.round(Number(r.revenue ?? 0)),
+    leadValue: Number(r.leadValue ?? 0),
+  })).sort((a, b) => b.leads - a.leads);
+
+  const toTouch = (rows: [string, ...number[]][]): Touch[] =>
+    rows.map((r) => ({ channel: String(r[0] ?? "—"), leads: Number(r[1] ?? 0), revenue: Math.round(Number(r[2] ?? 0)) })).sort((a, b) => b.leads - a.leads);
+
+  const topCampaigns = camp
+    .map((r) => ({ campaign: String(r[0] ?? "—").replace(/\s*-\s*\d+$/, ""), leads: Number(r[1] ?? 0) }))
+    .filter((c) => c.campaign && c.campaign !== "—" && c.leads > 0)
+    .sort((a, b) => b.leads - a.leads)
+    .slice(0, 8);
+
+  return {
+    revenue: Math.round(kpi(rev, "revenue")),
+    customers: kpi(rev, "numOfCustomers"),
+    aov: Math.round(kpi(rev, "aov")),
+    totalLeads: kpi(leads, "leads"),
+    leadValue: Number(kpi(leads, "leadValue").toFixed(2)),
+    daysUntilPurchase: kpi(leads, "daysUntilPurchase"),
+    convRate: Number(kpi(leads, "conversionRate").toFixed(2)),
+    byChannel,
+    firstTouch: toTouch(first),
+    lastTouch: toTouch(last),
+    topCampaigns,
+    monthly: monthly.filter((m) => m.revenue > 0),
+  };
+}

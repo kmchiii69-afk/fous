@@ -1,1 +1,85 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgU3VzcGVuc2UgfSBmcm9tICJyZWFjdCI7CmltcG9ydCBMaW5rIGZyb20gIm5leHQvbGluayI7CmltcG9ydCB7IHVzZVNlYXJjaFBhcmFtcyB9IGZyb20gIm5leHQvbmF2aWdhdGlvbiI7CmltcG9ydCBRdWFsaWZ5Rm9ybSBmcm9tICJAL2NvbXBvbmVudHMvcGFnZTIvUXVhbGlmeUZvcm0iOwoKZnVuY3Rpb24gTG9nbygpIHsKICByZXR1cm4gKAogICAgPExpbmsgaHJlZj0iLyIgc3R5bGU9e3sgZGlzcGxheTogImZsZXgiLCBhbGlnbkl0ZW1zOiAiY2VudGVyIiwgZ2FwOiAxMiwgdGV4dERlY29yYXRpb246ICJub25lIiwgZmxleFNocmluazogMCwgd2hpdGVTcGFjZTogIm5vd3JhcCIgfX0+CiAgICAgIDxzdmcgd2lkdGg9IjI4IiBoZWlnaHQ9IjI4IiB2aWV3Qm94PSIwIDAgMjggMjgiIGZpbGw9Im5vbmUiPgogICAgICAgIDxyZWN0IHg9IjAuNSIgeT0iMC41IiB3aWR0aD0iMjciIGhlaWdodD0iMjciIHN0cm9rZT0idmFyKC0tYWNpZCkiIHN0cm9rZVdpZHRoPSIxIiAvPgogICAgICAgIDxyZWN0IHg9IjciIHk9IjciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCIgZmlsbD0idmFyKC0tYWNpZCkiIC8+CiAgICAgICAgPHJlY3QgeD0iMTEiIHk9IjExIiB3aWR0aD0iNiIgaGVpZ2h0PSI2IiBmaWxsPSJ2YXIoLS1iZykiIC8+CiAgICAgIDwvc3ZnPgogICAgICA8c3BhbiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1tb25vKSIsIGZvbnRTaXplOiAxMywgZm9udFdlaWdodDogNzAwLCBjb2xvcjogInZhcigtLWJvbmUpIiwgbGV0dGVyU3BhY2luZzogIjAuMThlbSIsIHRleHRUcmFuc2Zvcm06ICJ1cHBlcmNhc2UiIH19PgogICAgICAgIFF1YW50dW0gQ2lwaGVyCiAgICAgIDwvc3Bhbj4KICAgIDwvTGluaz4KICApOwp9CgpmdW5jdGlvbiBHcmVldGluZygpIHsKICBjb25zdCBzcCA9IHVzZVNlYXJjaFBhcmFtcygpOwogIGNvbnN0IGZuID0gKHNwLmdldCgiZmlyc3RfbmFtZSIpIHx8ICIiKS5yZXBsYWNlKC9bXkEtWmEtelxzJy1dL2csICIiKS5zbGljZSgwLCAyNCkudHJpbSgpOwogIGlmICghZm4pIHJldHVybiBudWxsOwogIHJldHVybiAoCiAgICA8PgogICAgICAsJm5ic3A7PGVtIHN0eWxlPXt7IGNvbG9yOiAidmFyKC0tYWNpZCkiIH19Pntmbn08L2VtPgogICAgPC8+CiAgKTsKfQoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gUXVhbGlmeVBhZ2UoKSB7CiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJncmlkLWJnIiBzdHlsZT17eyBtaW5IZWlnaHQ6ICIxMDB2aCIsIGJhY2tncm91bmQ6ICJ2YXIoLS1iZykiLCBjb2xvcjogInZhcigtLWJvbmUpIiB9fT4KICAgICAgey8qIEhFQURFUiAqL30KICAgICAgPGhlYWRlciBzdHlsZT17eyBib3JkZXJCb3R0b206ICIxcHggc29saWQgdmFyKC0tbGluZSkiLCBwYWRkaW5nOiAiMjBweCA0OHB4IiwgZGlzcGxheTogImZsZXgiLCBqdXN0aWZ5Q29udGVudDogInNwYWNlLWJldHdlZW4iLCBhbGlnbkl0ZW1zOiAiY2VudGVyIiB9fT4KICAgICAgICA8TG9nbyAvPgogICAgICAgIDxkaXYgc3R5bGU9e3sgZGlzcGxheTogImZsZXgiLCBhbGlnbkl0ZW1zOiAiY2VudGVyIiwgZ2FwOiAxNCB9fT4KICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0icHVsc2UiIHN0eWxlPXt7IHdpZHRoOiA2LCBoZWlnaHQ6IDYsIGJhY2tncm91bmQ6ICJ2YXIoLS1hY2lkKSIsIGRpc3BsYXk6ICJpbmxpbmUtYmxvY2siIH19IC8+CiAgICAgICAgICA8ZGl2IHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LW1vbm8pIiwgZm9udFNpemU6IDEwLCBmb250V2VpZ2h0OiA3MDAsIGNvbG9yOiAidmFyKC0tYWNpZCkiLCBsZXR0ZXJTcGFjaW5nOiAiMC4yMmVtIiwgdGV4dFRyYW5zZm9ybTogInVwcGVyY2FzZSIgfX0+CiAgICAgICAgICAgIMK3IEFwcGxpY2F0aW9uIMK3IFN0ZXAgMiBvZiAzIMK3CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9oZWFkZXI+CgogICAgICB7LyogSEVSTyAqL30KICAgICAgPHNlY3Rpb24gc3R5bGU9e3sgbWF4V2lkdGg6IDExODAsIG1hcmdpbjogIjAgYXV0byIsIHBhZGRpbmc6ICI2NHB4IDQ4cHggMjRweCIsIHRleHRBbGlnbjogImNlbnRlciIsIHBvc2l0aW9uOiAicmVsYXRpdmUiIH19PgogICAgICAgIDxkaXYgc3R5bGU9e3sgcG9zaXRpb246ICJhYnNvbHV0ZSIsIGluc2V0OiAwLCBwb2ludGVyRXZlbnRzOiAibm9uZSIsIGJhY2tncm91bmQ6ICJyYWRpYWwtZ3JhZGllbnQoODAwcHggMzYwcHggYXQgNTAlIDAlLCByZ2JhKDE5MSwyNTAsNzAsMC4xMCksIHRyYW5zcGFyZW50IDYwJSkiIH19IC8+CiAgICAgICAgPGRpdiBzdHlsZT17eyBwb3NpdGlvbjogInJlbGF0aXZlIiB9fT4KICAgICAgICAgIDxkaXYgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtbW9ubykiLCBmb250U2l6ZTogMTEsIGZvbnRXZWlnaHQ6IDcwMCwgY29sb3I6ICJ2YXIoLS1hY2lkKSIsIGxldHRlclNwYWNpbmc6ICIwLjIyZW0iLCB0ZXh0VHJhbnNmb3JtOiAidXBwZXJjYXNlIiwgbWFyZ2luQm90dG9tOiAxOCB9fT4KICAgICAgICAgICAgwrcgUXVhbnR1bSBDaXBoZXIgwrcgT3BlcmF0b3IgQXBwbGljYXRpb24gwrcKICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPGgxIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LWRpc3BsYXkpIiwgZm9udFdlaWdodDogNjAwLCBmb250U2l6ZTogNjAsIGxpbmVIZWlnaHQ6IDAuOTgsIGxldHRlclNwYWNpbmc6ICItMC4wNDVlbSIsIGNvbG9yOiAidmFyKC0tYm9uZSkiLCBtYXJnaW46ICIwIDAgMThweCIgfX0+CiAgICAgICAgICAgIExldCZyc3F1bztzIHNlZSBpZiB5b3UmcnNxdW87cmUgYSBmaXQ8U3VzcGVuc2UgZmFsbGJhY2s9e251bGx9PjxHcmVldGluZyAvPjwvU3VzcGVuc2U+LgogICAgICAgICAgPC9oMT4KICAgICAgICAgIDxwIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LWJvZHkpIiwgZm9udFNpemU6IDE3LCBsaW5lSGVpZ2h0OiAxLjU1LCBjb2xvcjogInZhcigtLWFzaCkiLCBtYXJnaW46ICIwIGF1dG8iLCBtYXhXaWR0aDogNjgwLCBmb250V2VpZ2h0OiA0MDAgfX0+CiAgICAgICAgICAgIDEwIHF1aWNrIHF1ZXN0aW9ucy4gVGFrZXMgMiBtaW51dGVzLiA8c3Ryb25nIHN0eWxlPXt7IGNvbG9yOiAidmFyKC0tYm9uZSkiIH19PkJlIGhvbmVzdDwvc3Ryb25nPiDigJQgdGhlIG1vcmUgdHJ1dGhmdWwgeW91ciBhbnN3ZXJzLCB0aGUgYmV0dGVyIHdlIGNhbiBoZWxwIChvciB0ZWxsIHlvdSB3ZSBjYW4mcnNxdW87dCkuCiAgICAgICAgICA8L3A+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvc2VjdGlvbj4KCiAgICAgIHsvKiBGT1JNICovfQogICAgICA8c2VjdGlvbiBzdHlsZT17eyBtYXhXaWR0aDogNzYwLCBtYXJnaW46ICIwIGF1dG8iLCBwYWRkaW5nOiAiMCA0OHB4IDEwMHB4IiB9fT4KICAgICAgICA8ZGl2IHN0eWxlPXt7IGJhY2tncm91bmQ6ICJ2YXIoLS1iZy0xKSIsIGJvcmRlcjogIjFweCBzb2xpZCB2YXIoLS1saW5lKSIsIHBhZGRpbmc6ICI0MHB4IDQ0cHgiLCBwb3NpdGlvbjogInJlbGF0aXZlIiB9fT4KICAgICAgICAgIDxTdXNwZW5zZSBmYWxsYmFjaz17CiAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgZGlzcGxheTogImZsZXgiLCBhbGlnbkl0ZW1zOiAiY2VudGVyIiwganVzdGlmeUNvbnRlbnQ6ICJjZW50ZXIiLCBoZWlnaHQ6IDM2MCwgY29sb3I6ICJ2YXIoLS1hc2gpIiwgZm9udEZhbWlseTogInZhcigtLWZvbnQtbW9ubykiLCBmb250U2l6ZTogMTEsIGZvbnRXZWlnaHQ6IDcwMCwgbGV0dGVyU3BhY2luZzogIjAuMjJlbSIsIHRleHRUcmFuc2Zvcm06ICJ1cHBlcmNhc2UiIH19PgogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0icHVsc2UiIHN0eWxlPXt7IHdpZHRoOiA4LCBoZWlnaHQ6IDgsIGJhY2tncm91bmQ6ICJ2YXIoLS1hY2lkKSIsIG1hcmdpblJpZ2h0OiAxMiwgZGlzcGxheTogImlubGluZS1ibG9jayIgfX0gLz4KICAgICAgICAgICAgICDCtyBMb2FkaW5nIGFwcGxpY2F0aW9uIMK3CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgfT4KICAgICAgICAgICAgPFF1YWxpZnlGb3JtIC8+CiAgICAgICAgICA8L1N1c3BlbnNlPgogICAgICAgIDwvZGl2PgogICAgICA8L3NlY3Rpb24+CgogICAgICB7LyogRk9PVEVSICovfQogICAgICA8Zm9vdGVyIHN0eWxlPXt7IGJvcmRlclRvcDogIjFweCBzb2xpZCB2YXIoLS1saW5lKSIsIHBhZGRpbmc6ICIzMnB4IDQ4cHgiLCBkaXNwbGF5OiAiZmxleCIsIGp1c3RpZnlDb250ZW50OiAic3BhY2UtYmV0d2VlbiIsIGFsaWduSXRlbXM6ICJjZW50ZXIiLCBmbGV4V3JhcDogIndyYXAiLCBnYXA6IDE2LCBmb250RmFtaWx5OiAidmFyKC0tZm9udC1tb25vKSIsIGZvbnRTaXplOiAxMCwgZm9udFdlaWdodDogNzAwLCBjb2xvcjogInZhcigtLW11dGVkKSIsIGxldHRlclNwYWNpbmc6ICIwLjIyZW0iLCB0ZXh0VHJhbnNmb3JtOiAidXBwZXJjYXNlIiB9fT4KICAgICAgICA8c3Bhbj7CqSAyMDI2IMK3IGlrbmtmeCBpbmMgwrcgQWxsIFJpZ2h0cyBSZXNlcnZlZDwvc3Bhbj4KICAgICAgICA8c3Bhbj7CtyBOb3QgZmluYW5jaWFsIGFkdmljZSDCtyBUcmFkaW5nIGludm9sdmVzIHJlYWwgcmlzayBvZiBsb3NzIMK3PC9zcGFuPgogICAgICA8L2Zvb3Rlcj4KICAgIDwvZGl2PgogICk7Cn0K"}
+"use client";
+
+import { Suspense } from "react";
+import Link from "next/link";
+import { useSearchParams } from "next/navigation";
+import QualifyForm from "@/components/page2/QualifyForm";
+
+function Logo() {
+  return (
+    <Link href="/" style={{ display: "flex", alignItems: "center", gap: 12, textDecoration: "none", flexShrink: 0, whiteSpace: "nowrap" }}>
+      <svg width="28" height="28" viewBox="0 0 28 28" fill="none">
+        <rect x="0.5" y="0.5" width="27" height="27" stroke="var(--acid)" strokeWidth="1" />
+        <rect x="7" y="7" width="14" height="14" fill="var(--acid)" />
+        <rect x="11" y="11" width="6" height="6" fill="var(--bg)" />
+      </svg>
+      <span style={{ fontFamily: "var(--font-mono)", fontSize: 13, fontWeight: 700, color: "var(--bone)", letterSpacing: "0.18em", textTransform: "uppercase" }}>
+        Quantum Cipher
+      </span>
+    </Link>
+  );
+}
+
+function Greeting() {
+  const sp = useSearchParams();
+  const fn = (sp.get("first_name") || "").replace(/[^A-Za-z\s'-]/g, "").slice(0, 24).trim();
+  if (!fn) return null;
+  return (
+    <>
+      ,&nbsp;<em style={{ color: "var(--acid)" }}>{fn}</em>
+    </>
+  );
+}
+
+export default function QualifyPage() {
+  return (
+    <div className="grid-bg" style={{ minHeight: "100vh", background: "var(--bg)", color: "var(--bone)" }}>
+      {/* HEADER */}
+      <header style={{ borderBottom: "1px solid var(--line)", padding: "20px 48px", display: "flex", justifyContent: "space-between", alignItems: "center" }}>
+        <Logo />
+        <div style={{ display: "flex", alignItems: "center", gap: 14 }}>
+          <span className="pulse" style={{ width: 6, height: 6, background: "var(--acid)", display: "inline-block" }} />
+          <div style={{ fontFamily: "var(--font-mono)", fontSize: 10, fontWeight: 700, color: "var(--acid)", letterSpacing: "0.22em", textTransform: "uppercase" }}>
+            · Application · Step 2 of 3 ·
+          </div>
+        </div>
+      </header>
+
+      {/* HERO */}
+      <section style={{ maxWidth: 1180, margin: "0 auto", padding: "64px 48px 24px", textAlign: "center", position: "relative" }}>
+        <div style={{ position: "absolute", inset: 0, pointerEvents: "none", background: "radial-gradient(800px 360px at 50% 0%, rgba(191,250,70,0.10), transparent 60%)" }} />
+        <div style={{ position: "relative" }}>
+          <div style={{ fontFamily: "var(--font-mono)", fontSize: 11, fontWeight: 700, color: "var(--acid)", letterSpacing: "0.22em", textTransform: "uppercase", marginBottom: 18 }}>
+            · Quantum Cipher · Operator Application ·
+          </div>
+          <h1 style={{ fontFamily: "var(--font-display)", fontWeight: 600, fontSize: 60, lineHeight: 0.98, letterSpacing: "-0.045em", color: "var(--bone)", margin: "0 0 18px" }}>
+            Let&rsquo;s see if you&rsquo;re a fit<Suspense fallback={null}><Greeting /></Suspense>.
+          </h1>
+          <p style={{ fontFamily: "var(--font-body)", fontSize: 17, lineHeight: 1.55, color: "var(--ash)", margin: "0 auto", maxWidth: 680, fontWeight: 400 }}>
+            10 quick questions. Takes 2 minutes. <strong style={{ color: "var(--bone)" }}>Be honest</strong> — the more truthful your answers, the better we can help (or tell you we can&rsquo;t).
+          </p>
+        </div>
+      </section>
+
+      {/* FORM */}
+      <section style={{ maxWidth: 760, margin: "0 auto", padding: "0 48px 100px" }}>
+        <div style={{ background: "var(--bg-1)", border: "1px solid var(--line)", padding: "40px 44px", position: "relative" }}>
+          <Suspense fallback={
+            <div style={{ display: "flex", alignItems: "center", justifyContent: "center", height: 360, color: "var(--ash)", fontFamily: "var(--font-mono)", fontSize: 11, fontWeight: 700, letterSpacing: "0.22em", textTransform: "uppercase" }}>
+              <span className="pulse" style={{ width: 8, height: 8, background: "var(--acid)", marginRight: 12, display: "inline-block" }} />
+              · Loading application ·
+            </div>
+          }>
+            <QualifyForm />
+          </Suspense>
+        </div>
+      </section>
+
+      {/* FOOTER */}
+      <footer style={{ borderTop: "1px solid var(--line)", padding: "32px 48px", display: "flex", justifyContent: "space-between", alignItems: "center", flexWrap: "wrap", gap: 16, fontFamily: "var(--font-mono)", fontSize: 10, fontWeight: 700, color: "var(--muted)", letterSpacing: "0.22em", textTransform: "uppercase" }}>
+        <span>© 2026 · iknkfx inc · All Rights Reserved</span>
+        <span>· Not financial advice · Trading involves real risk of loss ·</span>
+      </footer>
+    </div>
+  );
+}

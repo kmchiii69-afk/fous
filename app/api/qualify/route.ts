@@ -1,1 +1,323 @@
-{"data":"Ly8gUE9TVCAvYXBpL3F1YWxpZnkKLy8KLy8gVHdvIHBheWxvYWQgc2hhcGVzIGFyZSBhY2NlcHRlZDoKLy8KLy8gICAxLiBDdXN0b20gZm9ybSAocHJpbWFyeSkg4oCUIHBvc3RlZCBieSAvcXVhbGlmeSBvbiBvdXIgb3duIGRvbWFpbjoKLy8gICAgICB7IGZpcnN0X25hbWUsIGxhc3RfbmFtZSwgZW1haWwsIHBob25lLCBhbnN3ZXJzOiB7IGlkOiB2YWx1ZSwgLi4uIH0gfQovLwovLyAgIDIuIFRhbGx5IHdlYmhvb2sgKGZhbGxiYWNrKSDigJQga2VwdCBpbiBjYXNlIHRoZSBvbGQgVGFsbHkgZm9ybSBpcyBzdGlsbAovLyAgICAgIGNvbGxlY3RpbmcgdHJhZmZpYyBzb21ld2hlcmU6Ci8vICAgICAgeyBldmVudFR5cGUsIGRhdGE6IHsgZmllbGRzOiBbeyBsYWJlbCwgdHlwZSwgdmFsdWUsIG9wdGlvbnM/IH1dIH0gfQovLwovLyBJbiBib3RoIGNhc2VzIHdlIGVuZCB1cCB3aXRoIGEgZmxhdCBhbnN3ZXJzIG1hcCwgbG9vayB1cCB0aGUgZXhpc3RpbmcKLy8gQ2xvc2UgbGVhZCBieSBlbWFpbCwgdXBkYXRlIHN0YXR1cy9zb3VyY2UgYmFzZWQgb24gd2hpY2ggaW52ZXN0bWVudCB0aWVyCi8vIHRoZXkgcGlja2VkLCBwb3N0IGEgbm90ZSB3aXRoIHRoZSBmdWxsIFEmQSwgYW5kIHBpbmcgRGlzY29yZC4KCmltcG9ydCB7IE5leHRSZXF1ZXN0LCBOZXh0UmVzcG9uc2UgfSBmcm9tICJuZXh0L3NlcnZlciI7CmltcG9ydCB7IHVwZGF0ZUxlYWRGaWVsZHNCeUVtYWlsIH0gZnJvbSAiQC9saWIvY2xvc2UiOwppbXBvcnQgeyBwaW5nUXVhbnR1bVF1YWxpZmllZCwgcGluZ1dvbGZwYWNrUXVhbGlmaWVkLCB0eXBlIFF1YWxpZmllZExlYWQgfSBmcm9tICJAL2xpYi9kaXNjb3JkIjsKaW1wb3J0IHsgdGFnU3Vic2NyaWJlciBhcyBraXRUYWcgfSBmcm9tICJAL2xpYi9raXQiOwppbXBvcnQgeyBpc0xvd1BQUCB9IGZyb20gIkAvbGliL2dlbyI7CmltcG9ydCB7IGNhcHR1cmVQb3N0SG9nIH0gZnJvbSAiQC9saWIvcG9zdGhvZyI7CgpleHBvcnQgY29uc3QgcnVudGltZSA9ICJub2RlanMiOwpleHBvcnQgY29uc3QgZHluYW1pYyA9ICJmb3JjZS1keW5hbWljIjsKCi8vIOKUgOKUgOKUgCBUeXBlIGd1YXJkcyDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKCnR5cGUgQW5zd2VycyA9IFJlY29yZDxzdHJpbmcsIHN0cmluZz47Cgp0eXBlIEN1c3RvbVBheWxvYWQgPSB7CiAgZmlyc3RfbmFtZT86IHN0cmluZzsKICBsYXN0X25hbWU/OiBzdHJpbmc7CiAgZW1haWw/OiBzdHJpbmc7CiAgcGhvbmU/OiBzdHJpbmc7CiAgYW5zd2Vycz86IFJlY29yZDxzdHJpbmcsIHN0cmluZyB8IG51bWJlciB8IGJvb2xlYW4gfCBzdHJpbmdbXSB8IG51bGw+Owp9OwoKdHlwZSBUYWxseUZpZWxkID0gewogIGtleT86IHN0cmluZzsKICBsYWJlbD86IHN0cmluZzsKICB0eXBlPzogc3RyaW5nOwogIHZhbHVlPzogc3RyaW5nIHwgbnVtYmVyIHwgYm9vbGVhbiB8IHN0cmluZ1tdIHwgbnVsbDsKICBvcHRpb25zPzogQXJyYXk8eyBpZDogc3RyaW5nOyB0ZXh0OiBzdHJpbmcgfT47Cn07Cgp0eXBlIFRhbGx5UGF5bG9hZCA9IHsKICBldmVudFR5cGU/OiBzdHJpbmc7CiAgZGF0YT86IHsgZm9ybUlkPzogc3RyaW5nOyBmb3JtTmFtZT86IHN0cmluZzsgZmllbGRzPzogVGFsbHlGaWVsZFtdIH07Cn07CgpmdW5jdGlvbiBpc0N1c3RvbShwOiB1bmtub3duKTogcCBpcyBDdXN0b21QYXlsb2FkIHsKICBpZiAoIXAgfHwgdHlwZW9mIHAgIT09ICJvYmplY3QiKSByZXR1cm4gZmFsc2U7CiAgY29uc3QgbyA9IHAgYXMgUmVjb3JkPHN0cmluZywgdW5rbm93bj47CiAgcmV0dXJuICJhbnN3ZXJzIiBpbiBvICYmIHR5cGVvZiBvLmFuc3dlcnMgPT09ICJvYmplY3QiOwp9CgpmdW5jdGlvbiBpc1RhbGx5KHA6IHVua25vd24pOiBwIGlzIFRhbGx5UGF5bG9hZCB7CiAgaWYgKCFwIHx8IHR5cGVvZiBwICE9PSAib2JqZWN0IikgcmV0dXJuIGZhbHNlOwogIGNvbnN0IG8gPSBwIGFzIFJlY29yZDxzdHJpbmcsIHVua25vd24+OwogIHJldHVybiBvLmV2ZW50VHlwZSA9PT0gIkZPUk1fUkVTUE9OU0UiIHx8ICh0eXBlb2Ygby5kYXRhID09PSAib2JqZWN0IiAmJiBvLmRhdGEgIT09IG51bGwgJiYgImZpZWxkcyIgaW4gKG8uZGF0YSBhcyBvYmplY3QpKTsKfQoKLy8g4pSA4pSA4pSAIFdvbGZwYWNrIHZzIFF1YW50dW0gcm91dGluZyDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKCmZ1bmN0aW9uIGlzV29sZnBhY2tUaWVyKHRpZXI6IHN0cmluZyk6IGJvb2xlYW4gewogIHJldHVybiB0aWVyLnRyaW0oKS5zdGFydHNXaXRoKCIkNTAwIik7Cn0KCi8vIOKUgOKUgOKUgCBBbnN3ZXIgZXh0cmFjdGlvbiDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKCmZ1bmN0aW9uIGV4dHJhY3RGcm9tQ3VzdG9tKHBheWxvYWQ6IEN1c3RvbVBheWxvYWQpOiB7CiAgZmlyc3RfbmFtZTogc3RyaW5nOwogIGxhc3RfbmFtZTogc3RyaW5nOwogIGVtYWlsOiBzdHJpbmc7CiAgcGhvbmU6IHN0cmluZzsKICB0aWVyOiBzdHJpbmc7CiAgYW5zd2VyczogQW5zd2VyczsKfSB7CiAgY29uc3QgZmxhdDogQW5zd2VycyA9IHt9OwogIGNvbnN0IGEgPSBwYXlsb2FkLmFuc3dlcnMgfHwge307CiAgZm9yIChjb25zdCBbaywgdl0gb2YgT2JqZWN0LmVudHJpZXMoYSkpIHsKICAgIGlmICh2ID09PSBudWxsIHx8IHYgPT09IHVuZGVmaW5lZCkgZmxhdFtrXSA9ICIiOwogICAgZWxzZSBpZiAodHlwZW9mIHYgPT09ICJib29sZWFuIikgZmxhdFtrXSA9IHYgPyAiWWVzIiA6ICJObyI7CiAgICBlbHNlIGlmIChBcnJheS5pc0FycmF5KHYpKSBmbGF0W2tdID0gdi5maWx0ZXIoQm9vbGVhbikuam9pbigiIMK3ICIpOwogICAgZWxzZSBmbGF0W2tdID0gU3RyaW5nKHYpOwogIH0KICByZXR1cm4gewogICAgZmlyc3RfbmFtZTogcGF5bG9hZC5maXJzdF9uYW1lIHx8ICIiLAogICAgbGFzdF9uYW1lOiBwYXlsb2FkLmxhc3RfbmFtZSB8fCAiIiwKICAgIGVtYWlsOiAocGF5bG9hZC5lbWFpbCB8fCAiIikudG9Mb3dlckNhc2UoKSwKICAgIHBob25lOiBwYXlsb2FkLnBob25lIHx8ICIiLAogICAgdGllcjogZmxhdFsiaW52ZXN0bWVudF90aWVyIl0gfHwgIiIsCiAgICBhbnN3ZXJzOiBmbGF0LAogIH07Cn0KCmZ1bmN0aW9uIGV4dHJhY3RGcm9tVGFsbHkocGF5bG9hZDogVGFsbHlQYXlsb2FkKTogewogIGZpcnN0X25hbWU6IHN0cmluZzsKICBsYXN0X25hbWU6IHN0cmluZzsKICBlbWFpbDogc3RyaW5nOwogIHBob25lOiBzdHJpbmc7CiAgdGllcjogc3RyaW5nOwogIGFuc3dlcnM6IEFuc3dlcnM7Cn0gewogIGNvbnN0IGZpZWxkcyA9IHBheWxvYWQuZGF0YT8uZmllbGRzIHx8IFtdOwogIGNvbnN0IG91dDogQW5zd2VycyA9IHt9OwogIGZvciAoY29uc3QgZiBvZiBmaWVsZHMpIHsKICAgIGNvbnN0IGxhYmVsID0gKGYubGFiZWwgfHwgZi5rZXkgfHwgIiIpLnRyaW0oKTsKICAgIGlmICghbGFiZWwpIGNvbnRpbnVlOwogICAgY29uc3QgdiA9IGYudmFsdWU7CiAgICBpZiAodiA9PT0gbnVsbCB8fCB2ID09PSB1bmRlZmluZWQpIG91dFtsYWJlbF0gPSAiIjsKICAgIGVsc2UgaWYgKEFycmF5LmlzQXJyYXkodikpIHsKICAgICAgY29uc3QgdGV4dHMgPSB2Lm1hcCgoaWQpID0+IGYub3B0aW9ucz8uZmluZCgobykgPT4gby5pZCA9PT0gaWQpPy50ZXh0ID8/IFN0cmluZyhpZCkpOwogICAgICBvdXRbbGFiZWxdID0gdGV4dHMuam9pbigiLCAiKTsKICAgIH0gZWxzZSBpZiAodHlwZW9mIHYgPT09ICJudW1iZXIiIHx8IHR5cGVvZiB2ID09PSAiYm9vbGVhbiIpIG91dFtsYWJlbF0gPSBTdHJpbmcodik7CiAgICBlbHNlIG91dFtsYWJlbF0gPSBTdHJpbmcodik7CiAgfQogIGNvbnN0IHBpY2sgPSAoLi4ubmVlZGxlczogc3RyaW5nW10pOiBzdHJpbmcgPT4gewogICAgZm9yIChjb25zdCBbaywgdl0gb2YgT2JqZWN0LmVudHJpZXMob3V0KSkgewogICAgICBjb25zdCBoYXkgPSBrLnRvTG93ZXJDYXNlKCk7CiAgICAgIGlmIChuZWVkbGVzLmV2ZXJ5KChuKSA9PiBoYXkuaW5jbHVkZXMobi50b0xvd2VyQ2FzZSgpKSkpIHJldHVybiB2OwogICAgfQogICAgcmV0dXJuICIiOwogIH07CiAgcmV0dXJuIHsKICAgIGZpcnN0X25hbWU6IG91dFsiZmlyc3RfbmFtZSJdIHx8IHBpY2soImZpcnN0IiwgIm5hbWUiKSwKICAgIGxhc3RfbmFtZTogb3V0WyJsYXN0X25hbWUiXSB8fCBwaWNrKCJsYXN0IiwgIm5hbWUiKSwKICAgIGVtYWlsOiAob3V0WyJlbWFpbCJdIHx8IHBpY2soImVtYWlsIikpLnRvTG93ZXJDYXNlKCksCiAgICBwaG9uZTogb3V0WyJwaG9uZSJdIHx8IHBpY2soInBob25lIiksCiAgICB0aWVyOiBwaWNrKCJpbnZlc3QiKSwKICAgIGFuc3dlcnM6IG91dCwKICB9Owp9CgovLyDilIDilIDilIAgSGFuZGxlciDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKCmV4cG9ydCBhc3luYyBmdW5jdGlvbiBQT1NUKHJlcTogTmV4dFJlcXVlc3QpIHsKICBsZXQgcmF3OiB1bmtub3duOwogIHRyeSB7CiAgICByYXcgPSBhd2FpdCByZXEuanNvbigpOwogIH0gY2F0Y2ggewogICAgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKHsgb2s6IGZhbHNlLCBlcnJvcjogIkludmFsaWQgSlNPTiIgfSwgeyBzdGF0dXM6IDQwMCB9KTsKICB9CgogIGxldCBwYXJzZWQ6IHsKICAgIGZpcnN0X25hbWU6IHN0cmluZzsKICAgIGxhc3RfbmFtZTogc3RyaW5nOwogICAgZW1haWw6IHN0cmluZzsKICAgIHBob25lOiBzdHJpbmc7CiAgICB0aWVyOiBzdHJpbmc7CiAgICBhbnN3ZXJzOiBBbnN3ZXJzOwogIH07CgogIGlmIChpc0N1c3RvbShyYXcpKSB7CiAgICBwYXJzZWQgPSBleHRyYWN0RnJvbUN1c3RvbShyYXcpOwogIH0gZWxzZSBpZiAoaXNUYWxseShyYXcpKSB7CiAgICBwYXJzZWQgPSBleHRyYWN0RnJvbVRhbGx5KHJhdyk7CiAgfSBlbHNlIHsKICAgIHJldHVybiBOZXh0UmVzcG9uc2UuanNvbih7IG9rOiBmYWxzZSwgZXJyb3I6ICJVbnJlY29nbml6ZWQgcGF5bG9hZCBzaGFwZSIgfSwgeyBzdGF0dXM6IDQwMCB9KTsKICB9CgogIGlmICghcGFyc2VkLmVtYWlsKSB7CiAgICByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oeyBvazogZmFsc2UsIGVycm9yOiAiTWlzc2luZyBlbWFpbCIgfSwgeyBzdGF0dXM6IDQwMCB9KTsKICB9CgogIC8vIEdlbyBpbmZvcm1zIFBSSUNFLCBub3QgYWNjZXNzOiB0aGUgdGllciB0aGUgdmlzaXRvciBwaWNrZWQgZGVjaWRlcwogIC8vIHJvdXRpbmcgKGEgJDcsNTAwIGNsaWNrIGZyb20gSmFrYXJ0YSBpcyBleGFjdGx5IHdobyBzZXR0ZXJzIHdhbnQgdG8KICAvLyB0YWxrIHRvIOKAlCB0aGUgY2FsbCBmaWx0ZXJzIHJlYWwgZnJvbSBmYW50YXN5KS4gQnVkZ2V0LXRpZXIgbGVhZHMgZnJvbQogIC8vIGxvdy1QUFAgY291bnRyaWVzIGdldCBmbGFnZ2VkIGZvciB0aGUgcmVnaW9uYWwgV29sZnBhY2sgb2ZmZXIuCiAgY29uc3QgY291bnRyeSA9IChyZXEuaGVhZGVycy5nZXQoIngtdmVyY2VsLWlwLWNvdW50cnkiKSB8fCAiIikudG9VcHBlckNhc2UoKTsKICBjb25zdCBpc1dvbGZwYWNrID0gaXNXb2xmcGFja1RpZXIocGFyc2VkLnRpZXIpOwogIGNvbnN0IGludGxPZmZlciA9IGlzTG93UFBQKGNvdW50cnkpICYmIGlzV29sZnBhY2s7CgogIGNvbnN0IG5ld1NvdXJjZSA9IGlzV29sZnBhY2sgPyAiV29sZnBhY2siIDogIlZTTCBGdW5uZWwiOwogIGNvbnN0IG5ld1N0YXR1cyA9IGlzV29sZnBhY2sgPyAiT3B0IEluIiA6ICJBcHBsaWVkIEJ1dCBEaWQgTm90IEJvb2siOwoKICAvLyBOb3RlIHRoYXQgZ2V0cyBhdHRhY2hlZCB0byB0aGUgQ2xvc2UgbGVhZCDigJQgc2V0dGVycyBzZWUgdGhpcyBvbiB0aGUgY2FsbAogIGNvbnN0IG5vdGVMaW5lcyA9IE9iamVjdC5lbnRyaWVzKHBhcnNlZC5hbnN3ZXJzKQogICAgLmZpbHRlcigoW2tdKSA9PiAhWyJmaXJzdF9uYW1lIiwgImxhc3RfbmFtZSIsICJlbWFpbCIsICJwaG9uZSJdLmluY2x1ZGVzKGspKQogICAgLm1hcCgoW2ssIHZdKSA9PiBg4oCiICR7cHJldHR5TGFiZWwoayl9OiAke3Z9YCk7CiAgY29uc3QgdGllckxhYmVsID0gcGFyc2VkLnRpZXIgfHwgIuKAlCI7CiAgY29uc3Qgbm90ZSA9IFsKICAgIGBRdWFsaWZpY2F0aW9uIHN1Ym1pdHRlZCAoJHtpc1dvbGZwYWNrID8gIldvbGZwYWNrIiA6ICJRdWFudHVtIn0gdGllciDCtyBpbnZlc3RtZW50OiAke3RpZXJMYWJlbH0pYCwKICAgIC4uLihpbnRsT2ZmZXIgPyBbYExvdy1QUFAgY291bnRyeSAoJHtjb3VudHJ5fSkg4oCUIHJvdXRlZCB0byB0aGUgcmVnaW9uYWwgV29sZnBhY2sgb2ZmZXJgXSA6IFtdKSwKICAgIC4uLighaXNXb2xmcGFjayAmJiBpc0xvd1BQUChjb3VudHJ5KSA/IFtgTm90ZTogbGVhZCBpcyBpbiAke2NvdW50cnl9IChsb3ctUFBQIGdlbykgYnV0IHBpY2tlZCAke3RpZXJMYWJlbH0g4oCUIHZlcmlmeSBidWRnZXQgb24gdGhlIGNhbGxgXSA6IFtdKSwKICAgICIiLAogICAgLi4ubm90ZUxpbmVzLAogIF0uam9pbigiXG4iKTsKCiAgLy8gTWFwIG91ciBpbnRlcm5hbCBhbnN3ZXIgaWRzIHRvIHRoZSB1c2VyJ3MgZXhpc3RpbmcgQ2xvc2UgY3VzdG9tIGZpZWxkcwogIC8vIHNvIHNldHRlcnMvY2xvc2VycyBzZWUgc3RydWN0dXJlZCBkYXRhIGluIHRoZSBsZWFkIHNpZGViYXIgKG5vdCBqdXN0CiAgLy8gYSBzaW5nbGUgbm90ZSBibG9iKS4gVW5rbm93biBmaWVsZHMgYXJlIHNpbGVudGx5IHNraXBwZWQgYnkgdGhlIGxpYiDigJQKICAvLyBzYWZlIHRvIGFkZCBtb3JlIG1hcHBpbmdzIGxhdGVyIHdpdGhvdXQgYnJlYWtpbmcgYW55dGhpbmcuCiAgY29uc3QgYSA9IHBhcnNlZC5hbnN3ZXJzOwogIGNvbnN0IGN1c3RvbUZpZWxkcyA9IHsKICAgICJJbnZlc3QiOiBhWyJpbnZlc3RtZW50X3RpZXIiXSB8fCAiIiwKICAgICJNb250aGx5IEluY29tZSI6IGFbIm1vbnRobHlfaW5jb21lX2dvYWwiXSB8fCAiIiwKICAgICJFeHBlcmllbmNlIExldmVsIjogYVsidHJhZGluZ19sZW5ndGgiXSB8fCAiIiwKICAgICJDb21taXRtZW50IE9LIjogYVsiY29tbWl0bWVudF9zY29yZSJdID8gYCR7YVsiY29tbWl0bWVudF9zY29yZSJdfS8xMGAgOiAiIiwKICAgICJMb25nIFRlcm0gR29hbCI6IGFbImV4dHJhX2luY29tZV9kcmVhbSJdIHx8ICIiLAogICAgIkNhcGl0YWwgT24gSGFuZCI6IGFbImVkdWNhdGlvbl9zcGVuZCJdIHx8ICIiLAogICAgIkFwcGxpY2F0aW9uIFF1ZXN0aW9ucyI6IG5vdGVMaW5lcy5qb2luKCJcbiIpLAogIH07CgogIC8vIEJ1aWxkIHRoZSBEaXNjb3JkIGVtYmVkIGFuc3dlcnMgbWFwIOKAlCBwcmV0dHkgbGFiZWxzIGZvciBodW1hbiByZWFkaW5nCiAgY29uc3QgcHJldHR5QW5zd2VyczogQW5zd2VycyA9IHt9OwogIGZvciAoY29uc3QgW2ssIHZdIG9mIE9iamVjdC5lbnRyaWVzKHBhcnNlZC5hbnN3ZXJzKSkgewogICAgaWYgKFsiZmlyc3RfbmFtZSIsICJsYXN0X25hbWUiLCAiZW1haWwiLCAicGhvbmUiXS5pbmNsdWRlcyhrKSkgY29udGludWU7CiAgICBwcmV0dHlBbnN3ZXJzW3ByZXR0eUxhYmVsKGspXSA9IHY7CiAgfQoKICAvLyBDbG9zZSBGSVJTVCBzbyB3ZSBoYXZlIHRoZSBsZWFkX2lkIHRvIGVtYmVkIGluIHRoZSBEaXNjb3JkICJWaWV3IGluCiAgLy8gQ2xvc2UiIGxpbmsuIERpc2NvcmQgcGluZyBmaXJlcyBpbW1lZGlhdGVseSBhZnRlci4KICBjb25zdCBjbG9zZVJlcyA9IGF3YWl0IFByb21pc2UuYWxsU2V0dGxlZChbCiAgICB1cGRhdGVMZWFkRmllbGRzQnlFbWFpbChwYXJzZWQuZW1haWwsIHsKICAgICAgc3RhdHVzOiBuZXdTdGF0dXMsCiAgICAgIHNvdXJjZTogbmV3U291cmNlLAogICAgICBub3RlLAogICAgICBjdXN0b21GaWVsZHMsCiAgICB9KSwKICBdKTsKICBpZiAoY2xvc2VSZXNbMF0uc3RhdHVzID09PSAicmVqZWN0ZWQiKSB7CiAgICBjb25zb2xlLmVycm9yKCJbL2FwaS9xdWFsaWZ5XSBDbG9zZSB1cGRhdGUgZmFpbGVkOiIsIGNsb3NlUmVzWzBdLnJlYXNvbik7CiAgfQoKICBjb25zdCBsZWFkX2lkID0KICAgIGNsb3NlUmVzWzBdLnN0YXR1cyA9PT0gImZ1bGZpbGxlZCIgJiYgY2xvc2VSZXNbMF0udmFsdWUKICAgICAgPyBjbG9zZVJlc1swXS52YWx1ZS5sZWFkX2lkCiAgICAgIDogbnVsbDsKCiAgLy8gRWRnZSBjYXNlOiBUYWxseSBvciBvdXIgZm9ybSBmaXJlcyBiZWZvcmUgL2FwaS9sZWFkIGNyZWF0ZWQgdGhlIGxlYWQuCiAgLy8gTG9nIGl0IGJ1dCBzdGlsbCBwaW5nIERpc2NvcmQgc28gdGhlIHRlYW0gaXNuJ3QgYmxpbmQuCiAgaWYgKGNsb3NlUmVzWzBdLnN0YXR1cyA9PT0gImZ1bGZpbGxlZCIgJiYgY2xvc2VSZXNbMF0udmFsdWUgPT09IG51bGwpIHsKICAgIGNvbnNvbGUud2FybigKICAgICAgIlsvYXBpL3F1YWxpZnldIE5vIGV4aXN0aW5nIENsb3NlIGxlYWQgZm9yIiwKICAgICAgcGFyc2VkLmVtYWlsLAogICAgICAi4oCUIERpc2NvcmQgcGluZyB3aWxsIGxhY2sgVmlldy1pbi1DbG9zZSBsaW5rIiwKICAgICk7CiAgfQoKICBjb25zdCBxdWFsaWZpZWRMZWFkOiBRdWFsaWZpZWRMZWFkID0gewogICAgZmlyc3RfbmFtZTogcGFyc2VkLmZpcnN0X25hbWUsCiAgICBsYXN0X25hbWU6IHBhcnNlZC5sYXN0X25hbWUsCiAgICBlbWFpbDogcGFyc2VkLmVtYWlsLAogICAgcGhvbmU6IHBhcnNlZC5waG9uZSwKICAgIHRpZXI6IHBhcnNlZC50aWVyLAogICAgYW5zd2VyczogcHJldHR5QW5zd2VycywKICAgIGxlYWRfaWQsCiAgfTsKCiAgLy8gRmlyZSBLaXQgdGFncyBzbyBleGlzdGluZyBhdXRvbWF0aW9ucyB0cmlnZ2VyOgogIC8vICAgLSAiQXBwbGljYXRpb24gU3VibWl0dGVkIiDigJQgZXZlcnkgcXVhbGlmaWNhdGlvbiByZWdhcmRsZXNzIG9mIHRpZXIKICAvLyAgIC0gIlFDIHF1YWxpZmllZCIgb3IgIldvbGYgUXVhbGlmaWVkIiDigJQgdGllci1zcGVjaWZpYwogIGNvbnN0IHRpZXJUYWdJZCA9IGlzV29sZnBhY2sKICAgID8gcHJvY2Vzcy5lbnYuS0lUX1RBR19XT0xGX1FVQUxJRklFRAogICAgOiBwcm9jZXNzLmVudi5LSVRfVEFHX1FDX1FVQUxJRklFRDsKCiAgY29uc3QgW2Rpc2NvcmRSZXMsIGFwcFRhZ1JlcywgdGllclRhZ1JlcywgZ2VvRXZlbnRSZXNdID0gYXdhaXQgUHJvbWlzZS5hbGxTZXR0bGVkKFsKICAgIGlzV29sZnBhY2sgPyBwaW5nV29sZnBhY2tRdWFsaWZpZWQocXVhbGlmaWVkTGVhZCkgOiBwaW5nUXVhbnR1bVF1YWxpZmllZChxdWFsaWZpZWRMZWFkKSwKICAgIGtpdFRhZyh7CiAgICAgIGVtYWlsOiBwYXJzZWQuZW1haWwsCiAgICAgIGZpcnN0X25hbWU6IHBhcnNlZC5maXJzdF9uYW1lLAogICAgICBsYXN0X25hbWU6IHBhcnNlZC5sYXN0X25hbWUsCiAgICAgIHBob25lOiBwYXJzZWQucGhvbmUsCiAgICAgIHRhZ0lkOiBwcm9jZXNzLmVudi5LSVRfVEFHX0FQUExJRUQsCiAgICB9KSwKICAgIGtpdFRhZyh7CiAgICAgIGVtYWlsOiBwYXJzZWQuZW1haWwsCiAgICAgIGZpcnN0X25hbWU6IHBhcnNlZC5maXJzdF9uYW1lLAogICAgICBsYXN0X25hbWU6IHBhcnNlZC5sYXN0X25hbWUsCiAgICAgIHBob25lOiBwYXJzZWQucGhvbmUsCiAgICAgIHRhZ0lkOiB0aWVyVGFnSWQsCiAgICB9KSwKICAgIGludGxPZmZlcgogICAgICA/IGNhcHR1cmVQb3N0SG9nKCJxdWFsaWZ5X2ludGxfb2ZmZXIiLCBwYXJzZWQuZW1haWwsIHsgY291bnRyeSwgaW52ZXN0bWVudF90aWVyOiBwYXJzZWQudGllciB9KQogICAgICA6IFByb21pc2UucmVzb2x2ZSgpLAogIF0pOwoKICBpZiAoZGlzY29yZFJlcy5zdGF0dXMgPT09ICJyZWplY3RlZCIpIGNvbnNvbGUuZXJyb3IoIlsvYXBpL3F1YWxpZnldIERpc2NvcmQgcGluZyBmYWlsZWQ6IiwgZGlzY29yZFJlcy5yZWFzb24pOwogIGlmIChhcHBUYWdSZXMuc3RhdHVzID09PSAicmVqZWN0ZWQiKSBjb25zb2xlLmVycm9yKCJbL2FwaS9xdWFsaWZ5XSBLaXQgQXBwbGllZCB0YWcgZmFpbGVkOiIsIGFwcFRhZ1Jlcy5yZWFzb24pOwogIGlmICh0aWVyVGFnUmVzLnN0YXR1cyA9PT0gInJlamVjdGVkIikgY29uc29sZS5lcnJvcigiWy9hcGkvcXVhbGlmeV0gS2l0IHRpZXIgdGFnIGZhaWxlZDoiLCB0aWVyVGFnUmVzLnJlYXNvbik7CiAgaWYgKGdlb0V2ZW50UmVzLnN0YXR1cyA9PT0gInJlamVjdGVkIikgY29uc29sZS5lcnJvcigiWy9hcGkvcXVhbGlmeV0gUG9zdEhvZyBpbnRsLW9mZmVyIGV2ZW50IGZhaWxlZDoiLCBnZW9FdmVudFJlcy5yZWFzb24pOwoKICByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oewogICAgb2s6IHRydWUsCiAgICB0aWVyX3JvdXRlZDogaXNXb2xmcGFjayA/ICJ3b2xmcGFjayIgOiAicXVhbnR1bSIsCiAgICBpbnRsX29mZmVyOiBpbnRsT2ZmZXIsCiAgICBjbG9zZTogY2xvc2VSZXNbMF0uc3RhdHVzLAogICAgZGlzY29yZDogZGlzY29yZFJlcy5zdGF0dXMsCiAgICBraXRfYXBwbGllZDogYXBwVGFnUmVzLnN0YXR1cywKICAgIGtpdF90aWVyOiB0aWVyVGFnUmVzLnN0YXR1cywKICB9KTsKfQoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIEdFVCgpIHsKICByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oeyBvazogdHJ1ZSwgZW5kcG9pbnQ6ICIvYXBpL3F1YWxpZnkiLCBtZXRob2Q6ICJQT1NUIGV4cGVjdGVkIiB9KTsKfQoKLy8g4pSA4pSA4pSAIEhlbHBlcnMg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACgovLyBNYXAgaW50ZXJuYWwgcXVlc3Rpb24gaWRzIOKGkiBodW1hbi1yZWFkYWJsZSBsYWJlbHMgZm9yIHRoZSBDbG9zZSBub3RlICsgRGlzY29yZCBlbWJlZC4KLy8gQW55dGhpbmcgd2UgZG9uJ3QgcmVjb2duaXplIGdldHMgcGFzc2VkIHRocm91Z2ggdW5jaGFuZ2VkLgpjb25zdCBMQUJFTFM6IFJlY29yZDxzdHJpbmcsIHN0cmluZz4gPSB7CiAgdHJhZGluZ19sZW5ndGg6ICJIb3cgbG9uZyB0cmFkaW5nIiwKICBwcm9maXRhYmxlX21vbnRoOiAiUHJvZml0YWJsZSBtb250aD8iLAogIG1hcmtldHM6ICJNYXJrZXRzIHRyYWRlZCIsCiAgY3VycmVudF9zdHlsZTogIkN1cnJlbnQgc3R5bGUiLAogIGJsb2NrZXI6ICJCaWdnZXN0IGJsb2NrZXIiLAogIGVkdWNhdGlvbl9zcGVuZDogIkVkdWNhdGlvbiBzcGVuZCBzbyBmYXIiLAogIHByaW9yX2NvdXJzZXM6ICJQcmlvciBjb3Vyc2VzIGJvdWdodCIsCiAgdHJhZGluZ19wbGFuOiAiSGFzIHdyaXR0ZW4gcGxhbj8iLAogIGhvdXJzX3Blcl93ZWVrOiAiSG91cnMvd2VlayBhdmFpbGFibGUiLAogIG1vbnRobHlfaW5jb21lX2dvYWw6ICJNb250aGx5IGluY29tZSBnb2FsIiwKICBvbmVfZGF5X2RyZWFtOiAiMSBTdW5kYXkgKyB6ZXJvIHNjcmVlbj8iLAogIGludmVzdG1lbnRfdGllcjogIkludmVzdG1lbnQgbGV2ZWwiLAogIGNvbW1pdG1lbnRfc2NvcmU6ICJDb21taXRtZW50IDHigJMxMCIsCiAgZXh0cmFfaW5jb21lX2RyZWFtOiAiV2hhdCBpbmNvbWUgd291bGQgdW5sb2NrIiwKICBjb25zZW50OiAiQ29uc2VudCBnaXZlbj8iLAp9OwoKZnVuY3Rpb24gcHJldHR5TGFiZWwoa2V5OiBzdHJpbmcpOiBzdHJpbmcgewogIHJldHVybiBMQUJFTFNba2V5XSB8fCBrZXk7Cn0K"}
+// POST /api/qualify
+//
+// Two payload shapes are accepted:
+//
+//   1. Custom form (primary) — posted by /qualify on our own domain:
+//      { first_name, last_name, email, phone, answers: { id: value, ... } }
+//
+//   2. Tally webhook (fallback) — kept in case the old Tally form is still
+//      collecting traffic somewhere:
+//      { eventType, data: { fields: [{ label, type, value, options? }] } }
+//
+// In both cases we end up with a flat answers map, look up the existing
+// Close lead by email, update status/source based on which investment tier
+// they picked, post a note with the full Q&A, and ping Discord.
+
+import { NextRequest, NextResponse } from "next/server";
+import { updateLeadFieldsByEmail } from "@/lib/close";
+import { pingQuantumQualified, pingWolfpackQualified, type QualifiedLead } from "@/lib/discord";
+import { tagSubscriber as kitTag } from "@/lib/kit";
+import { isLowPPP } from "@/lib/geo";
+import { capturePostHog } from "@/lib/posthog";
+
+export const runtime = "nodejs";
+export const dynamic = "force-dynamic";
+
+// ─── Type guards ──────────────────────────────────────────────────
+
+type Answers = Record<string, string>;
+
+type CustomPayload = {
+  first_name?: string;
+  last_name?: string;
+  email?: string;
+  phone?: string;
+  answers?: Record<string, string | number | boolean | string[] | null>;
+};
+
+type TallyField = {
+  key?: string;
+  label?: string;
+  type?: string;
+  value?: string | number | boolean | string[] | null;
+  options?: Array<{ id: string; text: string }>;
+};
+
+type TallyPayload = {
+  eventType?: string;
+  data?: { formId?: string; formName?: string; fields?: TallyField[] };
+};
+
+function isCustom(p: unknown): p is CustomPayload {
+  if (!p || typeof p !== "object") return false;
+  const o = p as Record<string, unknown>;
+  return "answers" in o && typeof o.answers === "object";
+}
+
+function isTally(p: unknown): p is TallyPayload {
+  if (!p || typeof p !== "object") return false;
+  const o = p as Record<string, unknown>;
+  return o.eventType === "FORM_RESPONSE" || (typeof o.data === "object" && o.data !== null && "fields" in (o.data as object));
+}
+
+// ─── Wolfpack vs Quantum routing ──────────────────────────────────
+
+function isWolfpackTier(tier: string): boolean {
+  return tier.trim().startsWith("$500");
+}
+
+// ─── Answer extraction ────────────────────────────────────────────
+
+function extractFromCustom(payload: CustomPayload): {
+  first_name: string;
+  last_name: string;
+  email: string;
+  phone: string;
+  tier: string;
+  answers: Answers;
+} {
+  const flat: Answers = {};
+  const a = payload.answers || {};
+  for (const [k, v] of Object.entries(a)) {
+    if (v === null || v === undefined) flat[k] = "";
+    else if (typeof v === "boolean") flat[k] = v ? "Yes" : "No";
+    else if (Array.isArray(v)) flat[k] = v.filter(Boolean).join(" · ");
+    else flat[k] = String(v);
+  }
+  return {
+    first_name: payload.first_name || "",
+    last_name: payload.last_name || "",
+    email: (payload.email || "").toLowerCase(),
+    phone: payload.phone || "",
+    tier: flat["investment_tier"] || "",
+    answers: flat,
+  };
+}
+
+function extractFromTally(payload: TallyPayload): {
+  first_name: string;
+  last_name: string;
+  email: string;
+  phone: string;
+  tier: string;
+  answers: Answers;
+} {
+  const fields = payload.data?.fields || [];
+  const out: Answers = {};
+  for (const f of fields) {
+    const label = (f.label || f.key || "").trim();
+    if (!label) continue;
+    const v = f.value;
+    if (v === null || v === undefined) out[label] = "";
+    else if (Array.isArray(v)) {
+      const texts = v.map((id) => f.options?.find((o) => o.id === id)?.text ?? String(id));
+      out[label] = texts.join(", ");
+    } else if (typeof v === "number" || typeof v === "boolean") out[label] = String(v);
+    else out[label] = String(v);
+  }
+  const pick = (...needles: string[]): string => {
+    for (const [k, v] of Object.entries(out)) {
+      const hay = k.toLowerCase();
+      if (needles.every((n) => hay.includes(n.toLowerCase()))) return v;
+    }
+    return "";
+  };
+  return {
+    first_name: out["first_name"] || pick("first", "name"),
+    last_name: out["last_name"] || pick("last", "name"),
+    email: (out["email"] || pick("email")).toLowerCase(),
+    phone: out["phone"] || pick("phone"),
+    tier: pick("invest"),
+    answers: out,
+  };
+}
+
+// ─── Handler ──────────────────────────────────────────────────────
+
+export async function POST(req: NextRequest) {
+  let raw: unknown;
+  try {
+    raw = await req.json();
+  } catch {
+    return NextResponse.json({ ok: false, error: "Invalid JSON" }, { status: 400 });
+  }
+
+  let parsed: {
+    first_name: string;
+    last_name: string;
+    email: string;
+    phone: string;
+    tier: string;
+    answers: Answers;
+  };
+
+  if (isCustom(raw)) {
+    parsed = extractFromCustom(raw);
+  } else if (isTally(raw)) {
+    parsed = extractFromTally(raw);
+  } else {
+    return NextResponse.json({ ok: false, error: "Unrecognized payload shape" }, { status: 400 });
+  }
+
+  if (!parsed.email) {
+    return NextResponse.json({ ok: false, error: "Missing email" }, { status: 400 });
+  }
+
+  // Geo informs PRICE, not access: the tier the visitor picked decides
+  // routing (a $7,500 click from Jakarta is exactly who setters want to
+  // talk to — the call filters real from fantasy). Budget-tier leads from
+  // low-PPP countries get flagged for the regional Wolfpack offer.
+  const country = (req.headers.get("x-vercel-ip-country") || "").toUpperCase();
+  const isWolfpack = isWolfpackTier(parsed.tier);
+  const intlOffer = isLowPPP(country) && isWolfpack;
+
+  const newSource = isWolfpack ? "Wolfpack" : "VSL Funnel";
+  const newStatus = isWolfpack ? "Opt In" : "Applied But Did Not Book";
+
+  // Note that gets attached to the Close lead — setters see this on the call
+  const noteLines = Object.entries(parsed.answers)
+    .filter(([k]) => !["first_name", "last_name", "email", "phone"].includes(k))
+    .map(([k, v]) => `• ${prettyLabel(k)}: ${v}`);
+  const tierLabel = parsed.tier || "—";
+  const note = [
+    `Qualification submitted (${isWolfpack ? "Wolfpack" : "Quantum"} tier · investment: ${tierLabel})`,
+    ...(intlOffer ? [`Low-PPP country (${country}) — routed to the regional Wolfpack offer`] : []),
+    ...(!isWolfpack && isLowPPP(country) ? [`Note: lead is in ${country} (low-PPP geo) but picked ${tierLabel} — verify budget on the call`] : []),
+    "",
+    ...noteLines,
+  ].join("\n");
+
+  // Map our internal answer ids to the user's existing Close custom fields
+  // so setters/closers see structured data in the lead sidebar (not just
+  // a single note blob). Unknown fields are silently skipped by the lib —
+  // safe to add more mappings later without breaking anything.
+  const a = parsed.answers;
+  const customFields = {
+    "Invest": a["investment_tier"] || "",
+    "Monthly Income": a["monthly_income_goal"] || "",
+    "Experience Level": a["trading_length"] || "",
+    "Commitment OK": a["commitment_score"] ? `${a["commitment_score"]}/10` : "",
+    "Long Term Goal": a["extra_income_dream"] || "",
+    "Capital On Hand": a["education_spend"] || "",
+    "Application Questions": noteLines.join("\n"),
+  };
+
+  // Build the Discord embed answers map — pretty labels for human reading
+  const prettyAnswers: Answers = {};
+  for (const [k, v] of Object.entries(parsed.answers)) {
+    if (["first_name", "last_name", "email", "phone"].includes(k)) continue;
+    prettyAnswers[prettyLabel(k)] = v;
+  }
+
+  // Close FIRST so we have the lead_id to embed in the Discord "View in
+  // Close" link. Discord ping fires immediately after.
+  const closeRes = await Promise.allSettled([
+    updateLeadFieldsByEmail(parsed.email, {
+      status: newStatus,
+      source: newSource,
+      note,
+      customFields,
+    }),
+  ]);
+  if (closeRes[0].status === "rejected") {
+    console.error("[/api/qualify] Close update failed:", closeRes[0].reason);
+  }
+
+  const lead_id =
+    closeRes[0].status === "fulfilled" && closeRes[0].value
+      ? closeRes[0].value.lead_id
+      : null;
+
+  // Edge case: Tally or our form fires before /api/lead created the lead.
+  // Log it but still ping Discord so the team isn't blind.
+  if (closeRes[0].status === "fulfilled" && closeRes[0].value === null) {
+    console.warn(
+      "[/api/qualify] No existing Close lead for",
+      parsed.email,
+      "— Discord ping will lack View-in-Close link",
+    );
+  }
+
+  const qualifiedLead: QualifiedLead = {
+    first_name: parsed.first_name,
+    last_name: parsed.last_name,
+    email: parsed.email,
+    phone: parsed.phone,
+    tier: parsed.tier,
+    answers: prettyAnswers,
+    lead_id,
+  };
+
+  // Fire Kit tags so existing automations trigger:
+  //   - "Application Submitted" — every qualification regardless of tier
+  //   - "QC qualified" or "Wolf Qualified" — tier-specific
+  const tierTagId = isWolfpack
+    ? process.env.KIT_TAG_WOLF_QUALIFIED
+    : process.env.KIT_TAG_QC_QUALIFIED;
+
+  const [discordRes, appTagRes, tierTagRes, geoEventRes] = await Promise.allSettled([
+    isWolfpack ? pingWolfpackQualified(qualifiedLead) : pingQuantumQualified(qualifiedLead),
+    kitTag({
+      email: parsed.email,
+      first_name: parsed.first_name,
+      last_name: parsed.last_name,
+      phone: parsed.phone,
+      tagId: process.env.KIT_TAG_APPLIED,
+    }),
+    kitTag({
+      email: parsed.email,
+      first_name: parsed.first_name,
+      last_name: parsed.last_name,
+      phone: parsed.phone,
+      tagId: tierTagId,
+    }),
+    intlOffer
+      ? capturePostHog("qualify_intl_offer", parsed.email, { country, investment_tier: parsed.tier })
+      : Promise.resolve(),
+  ]);
+
+  if (discordRes.status === "rejected") console.error("[/api/qualify] Discord ping failed:", discordRes.reason);
+  if (appTagRes.status === "rejected") console.error("[/api/qualify] Kit Applied tag failed:", appTagRes.reason);
+  if (tierTagRes.status === "rejected") console.error("[/api/qualify] Kit tier tag failed:", tierTagRes.reason);
+  if (geoEventRes.status === "rejected") console.error("[/api/qualify] PostHog intl-offer event failed:", geoEventRes.reason);
+
+  return NextResponse.json({
+    ok: true,
+    tier_routed: isWolfpack ? "wolfpack" : "quantum",
+    intl_offer: intlOffer,
+    close: closeRes[0].status,
+    discord: discordRes.status,
+    kit_applied: appTagRes.status,
+    kit_tier: tierTagRes.status,
+  });
+}
+
+export async function GET() {
+  return NextResponse.json({ ok: true, endpoint: "/api/qualify", method: "POST expected" });
+}
+
+// ─── Helpers ──────────────────────────────────────────────────────
+
+// Map internal question ids → human-readable labels for the Close note + Discord embed.
+// Anything we don't recognize gets passed through unchanged.
+const LABELS: Record<string, string> = {
+  trading_length: "How long trading",
+  profitable_month: "Profitable month?",
+  markets: "Markets traded",
+  current_style: "Current style",
+  blocker: "Biggest blocker",
+  education_spend: "Education spend so far",
+  prior_courses: "Prior courses bought",
+  trading_plan: "Has written plan?",
+  hours_per_week: "Hours/week available",
+  monthly_income_goal: "Monthly income goal",
+  one_day_dream: "1 Sunday + zero screen?",
+  investment_tier: "Investment level",
+  commitment_score: "Commitment 1–10",
+  extra_income_dream: "What income would unlock",
+  consent: "Consent given?",
+};
+
+function prettyLabel(key: string): string {
+  return LABELS[key] || key;
+}

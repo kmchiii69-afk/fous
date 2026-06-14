@@ -1,1 +1,16 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlRWZmZWN0IH0gZnJvbSAicmVhY3QiOwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gU2VnTWV0cmljc1BpeGVsKCkgewogIHVzZUVmZmVjdCgoKSA9PiB7CiAgICBpZiAoZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoInNlZ21ldHJpY3MtcGl4ZWwiKSkgcmV0dXJuOwogICAgY29uc3Qgc2NyaXB0ID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7CiAgICBzY3JpcHQuaWQgPSAic2VnbWV0cmljcy1waXhlbCI7CiAgICBzY3JpcHQuc3JjID0gIi8vdGFnLnNlZ21ldHJpY3MuaW8vYTFYSjV5LmpzIjsKICAgIHNjcmlwdC5hc3luYyA9IHRydWU7CiAgICBkb2N1bWVudC5oZWFkLmFwcGVuZENoaWxkKHNjcmlwdCk7CiAgfSwgW10pOwoKICByZXR1cm4gbnVsbDsKfQo="}
+"use client";
+
+import { useEffect } from "react";
+
+export default function SegMetricsPixel() {
+  useEffect(() => {
+    if (document.getElementById("segmetrics-pixel")) return;
+    const script = document.createElement("script");
+    script.id = "segmetrics-pixel";
+    script.src = "//tag.segmetrics.io/a1XJ5y.js";
+    script.async = true;
+    document.head.appendChild(script);
+  }, []);
+
+  return null;
+}

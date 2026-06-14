@@ -1,1 +1,176 @@
-{"data":"InVzZSBjbGllbnQiOwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gUHJvb2ZUaWxlKHsKICBzcmMsCiAgaGFuZGxlLAogIGNhcHRpb24sCiAgZG9sbGFycywKICBwbGF0Zm9ybSwKICBhY2NlbnQgPSAidmFyKC0tYWNpZCkiLAp9OiB7CiAgc3JjOiBzdHJpbmc7CiAgaGFuZGxlOiBzdHJpbmc7CiAgY2FwdGlvbj86IHN0cmluZzsKICBkb2xsYXJzPzogc3RyaW5nOwogIHBsYXRmb3JtPzogc3RyaW5nOwogIGFjY2VudD86IHN0cmluZzsKfSkgewogIGZ1bmN0aW9uIG9wZW5MaWdodGJveChlOiBSZWFjdC5Nb3VzZUV2ZW50KSB7CiAgICBlLnN0b3BQcm9wYWdhdGlvbigpOwogICAgd2luZG93LmRpc3BhdGNoRXZlbnQoCiAgICAgIG5ldyBDdXN0b21FdmVudCgicWM6bGlnaHRib3giLCB7IGRldGFpbDogeyBzcmM6IGAvJHtzcmN9YCwgYWx0OiBoYW5kbGUgfSB9KQogICAgKTsKICB9CgogIHJldHVybiAoCiAgICA8ZGl2CiAgICAgIHN0eWxlPXt7CiAgICAgICAgYmFja2dyb3VuZDogInZhcigtLWJnLTEpIiwKICAgICAgICBib3JkZXI6ICIxcHggc29saWQgdmFyKC0tbGluZSkiLAogICAgICAgIG92ZXJmbG93OiAiaGlkZGVuIiwKICAgICAgICB0cmFuc2l0aW9uOiAidHJhbnNmb3JtIDIwMG1zIGVhc2UsIGJvcmRlci1jb2xvciAyMDBtcyBlYXNlIiwKICAgICAgfX0KICAgICAgb25Nb3VzZUVudGVyPXsoZSkgPT4gewogICAgICAgIChlLmN1cnJlbnRUYXJnZXQgYXMgSFRNTERpdkVsZW1lbnQpLnN0eWxlLmJvcmRlckNvbG9yID0gInZhcigtLWFjaWQpIjsKICAgICAgICAoZS5jdXJyZW50VGFyZ2V0IGFzIEhUTUxEaXZFbGVtZW50KS5zdHlsZS50cmFuc2Zvcm0gPSAidHJhbnNsYXRlWSgtM3B4KSI7CiAgICAgIH19CiAgICAgIG9uTW91c2VMZWF2ZT17KGUpID0+IHsKICAgICAgICAoZS5jdXJyZW50VGFyZ2V0IGFzIEhUTUxEaXZFbGVtZW50KS5zdHlsZS5ib3JkZXJDb2xvciA9ICJ2YXIoLS1saW5lKSI7CiAgICAgICAgKGUuY3VycmVudFRhcmdldCBhcyBIVE1MRGl2RWxlbWVudCkuc3R5bGUudHJhbnNmb3JtID0gInRyYW5zbGF0ZVkoMCkiOwogICAgICB9fQogICAgPgogICAgICA8ZGl2CiAgICAgICAgb25DbGljaz17b3BlbkxpZ2h0Ym94fQogICAgICAgIHN0eWxlPXt7CiAgICAgICAgICBwb3NpdGlvbjogInJlbGF0aXZlIiwKICAgICAgICAgIGFzcGVjdFJhdGlvOiAiMTYvMTAiLAogICAgICAgICAgYmFja2dyb3VuZDogInZhcigtLWJnLTIpIiwKICAgICAgICAgIG92ZXJmbG93OiAiaGlkZGVuIiwKICAgICAgICAgIGN1cnNvcjogInpvb20taW4iLAogICAgICAgIH19CiAgICAgID4KICAgICAgICB7LyogZXNsaW50LWRpc2FibGUtbmV4dC1saW5lIEBuZXh0L25leHQvbm8taW1nLWVsZW1lbnQgKi99CiAgICAgICAgPGltZwogICAgICAgICAgc3JjPXtgLyR7c3JjfWB9CiAgICAgICAgICBhbHQ9e2hhbmRsZX0KICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgIHBvc2l0aW9uOiAiYWJzb2x1dGUiLAogICAgICAgICAgICBpbnNldDogMCwKICAgICAgICAgICAgd2lkdGg6ICIxMDAlIiwKICAgICAgICAgICAgaGVpZ2h0OiAiMTAwJSIsCiAgICAgICAgICAgIG9iamVjdEZpdDogImNvdmVyIiwKICAgICAgICAgICAgb2JqZWN0UG9zaXRpb246ICJsZWZ0IHRvcCIsCiAgICAgICAgICB9fQogICAgICAgIC8+CiAgICAgICAgPGRpdgogICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgcG9zaXRpb246ICJhYnNvbHV0ZSIsCiAgICAgICAgICAgIHRvcDogMTAsCiAgICAgICAgICAgIGxlZnQ6IDEwLAogICAgICAgICAgICBwYWRkaW5nOiAiNHB4IDhweCIsCiAgICAgICAgICAgIGJhY2tncm91bmQ6ICJyZ2JhKDYsNywxMCwwLjg1KSIsCiAgICAgICAgICAgIGJvcmRlcjogYDFweCBzb2xpZCAke2FjY2VudH1gLAogICAgICAgICAgICBmb250RmFtaWx5OiAidmFyKC0tZm9udC1tb25vKSIsCiAgICAgICAgICAgIGZvbnRTaXplOiA5LAogICAgICAgICAgICBmb250V2VpZ2h0OiA3MDAsCiAgICAgICAgICAgIGNvbG9yOiBhY2NlbnQsCiAgICAgICAgICAgIGxldHRlclNwYWNpbmc6ICIwLjIyZW0iLAogICAgICAgICAgICB3aGl0ZVNwYWNlOiAibm93cmFwIiwKICAgICAgICAgIH19CiAgICAgICAgPgogICAgICAgICAgwrcgUkVBTCDCtyBXSE9QCiAgICAgICAgPC9kaXY+CiAgICAgICAge2RvbGxhcnMgJiYgKAogICAgICAgICAgPGRpdgogICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgIHBvc2l0aW9uOiAiYWJzb2x1dGUiLAogICAgICAgICAgICAgIGJvdHRvbTogMTAsCiAgICAgICAgICAgICAgcmlnaHQ6IDEwLAogICAgICAgICAgICAgIHBhZGRpbmc6ICI2cHggMTBweCIsCiAgICAgICAgICAgICAgYmFja2dyb3VuZDogYWNjZW50LAogICAgICAgICAgICAgIGNvbG9yOiAidmFyKC0tYmcpIiwKICAgICAgICAgICAgICBmb250RmFtaWx5OiAidmFyKC0tZm9udC1kaXNwbGF5KSIsCiAgICAgICAgICAgICAgZm9udFNpemU6IDIyLAogICAgICAgICAgICAgIGZvbnRXZWlnaHQ6IDcwMCwKICAgICAgICAgICAgICBsZXR0ZXJTcGFjaW5nOiAiLTAuMDJlbSIsCiAgICAgICAgICAgICAgd2hpdGVTcGFjZTogIm5vd3JhcCIsCiAgICAgICAgICAgIH19CiAgICAgICAgICA+CiAgICAgICAgICAgIHtkb2xsYXJzfQogICAgICAgICAgPC9kaXY+CiAgICAgICAgKX0KICAgICAgICA8ZGl2CiAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICBwb3NpdGlvbjogImFic29sdXRlIiwKICAgICAgICAgICAgdG9wOiAxMCwKICAgICAgICAgICAgcmlnaHQ6IDEwLAogICAgICAgICAgICBwYWRkaW5nOiAiNHB4IDhweCIsCiAgICAgICAgICAgIGJhY2tncm91bmQ6ICJyZ2JhKDYsNywxMCwwLjg1KSIsCiAgICAgICAgICAgIGJvcmRlcjogIjFweCBzb2xpZCB2YXIoLS1saW5lLTIpIiwKICAgICAgICAgICAgZm9udEZhbWlseTogInZhcigtLWZvbnQtbW9ubykiLAogICAgICAgICAgICBmb250U2l6ZTogOSwKICAgICAgICAgICAgZm9udFdlaWdodDogNzAwLAogICAgICAgICAgICBjb2xvcjogInZhcigtLWJvbmUpIiwKICAgICAgICAgICAgbGV0dGVyU3BhY2luZzogIjAuMjBlbSIsCiAgICAgICAgICAgIHdoaXRlU3BhY2U6ICJub3dyYXAiLAogICAgICAgICAgICBkaXNwbGF5OiAiZmxleCIsCiAgICAgICAgICAgIGFsaWduSXRlbXM6ICJjZW50ZXIiLAogICAgICAgICAgICBnYXA6IDYsCiAgICAgICAgICB9fQogICAgICAgID4KICAgICAgICAgIDxzdmcgd2lkdGg9IjkiIGhlaWdodD0iOSIgdmlld0JveD0iMCAwIDE0IDE0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlV2lkdGg9IjEuNiI+CiAgICAgICAgICAgIDxjaXJjbGUgY3g9IjYiIGN5PSI2IiByPSI0LjUiIC8+CiAgICAgICAgICAgIDxsaW5lIHgxPSI5LjUiIHkxPSI5LjUiIHgyPSIxMyIgeTI9IjEzIiAvPgogICAgICAgICAgICA8bGluZSB4MT0iNCIgeTE9IjYiIHgyPSI4IiB5Mj0iNiIgLz4KICAgICAgICAgICAgPGxpbmUgeDE9IjYiIHkxPSI0IiB4Mj0iNiIgeTI9IjgiIC8+CiAgICAgICAgICA8L3N2Zz4KICAgICAgICAgIEVOTEFSR0UKICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CgogICAgICA8ZGl2IHN0eWxlPXt7IHBhZGRpbmc6ICIxOHB4IDIycHggMjJweCIsIGRpc3BsYXk6ICJmbGV4IiwgZmxleERpcmVjdGlvbjogImNvbHVtbiIsIGdhcDogOCB9fT4KICAgICAgICA8ZGl2IHN0eWxlPXt7IGRpc3BsYXk6ICJmbGV4IiwganVzdGlmeUNvbnRlbnQ6ICJzcGFjZS1iZXR3ZWVuIiwgYWxpZ25JdGVtczogImJhc2VsaW5lIiB9fT4KICAgICAgICAgIDxzcGFuCiAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgZm9udEZhbWlseTogInZhcigtLWZvbnQtZGlzcGxheSkiLAogICAgICAgICAgICAgIGZvbnRTaXplOiAxOCwKICAgICAgICAgICAgICBmb250V2VpZ2h0OiA2MDAsCiAgICAgICAgICAgICAgY29sb3I6ICJ2YXIoLS1ib25lKSIsCiAgICAgICAgICAgICAgbGV0dGVyU3BhY2luZzogIi0wLjAxNWVtIiwKICAgICAgICAgICAgfX0KICAgICAgICAgID4KICAgICAgICAgICAge2hhbmRsZX0KICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgIHtwbGF0Zm9ybSAmJiAoCiAgICAgICAgICAgIDxzcGFuCiAgICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICAgIGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LW1vbm8pIiwKICAgICAgICAgICAgICAgIGZvbnRTaXplOiA5LAogICAgICAgICAgICAgICAgZm9udFdlaWdodDogNjAwLAogICAgICAgICAgICAgICAgY29sb3I6ICJ2YXIoLS1hc2gpIiwKICAgICAgICAgICAgICAgIGxldHRlclNwYWNpbmc6ICIwLjIyZW0iLAogICAgICAgICAgICAgICAgdGV4dFRyYW5zZm9ybTogInVwcGVyY2FzZSIsCiAgICAgICAgICAgICAgICB3aGl0ZVNwYWNlOiAibm93cmFwIiwKICAgICAgICAgICAgICB9fQogICAgICAgICAgICA+CiAgICAgICAgICAgICAge3BsYXRmb3JtfQogICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICApfQogICAgICAgIDwvZGl2PgogICAgICAgIHtjYXB0aW9uICYmICgKICAgICAgICAgIDxkaXYKICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICBmb250RmFtaWx5OiAidmFyKC0tZm9udC1ib2R5KSIsCiAgICAgICAgICAgICAgZm9udFNpemU6IDEzLAogICAgICAgICAgICAgIGxpbmVIZWlnaHQ6IDEuNTUsCiAgICAgICAgICAgICAgY29sb3I6ICJ2YXIoLS1hc2gpIiwKICAgICAgICAgICAgICBmb250V2VpZ2h0OiA0MDAsCiAgICAgICAgICAgIH19CiAgICAgICAgICA+CiAgICAgICAgICAgIHtjYXB0aW9ufQogICAgICAgICAgPC9kaXY+CiAgICAgICAgKX0KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICApOwp9Cg=="}
+"use client";
+
+export default function ProofTile({
+  src,
+  handle,
+  caption,
+  dollars,
+  platform,
+  accent = "var(--acid)",
+}: {
+  src: string;
+  handle: string;
+  caption?: string;
+  dollars?: string;
+  platform?: string;
+  accent?: string;
+}) {
+  function openLightbox(e: React.MouseEvent) {
+    e.stopPropagation();
+    window.dispatchEvent(
+      new CustomEvent("qc:lightbox", { detail: { src: `/${src}`, alt: handle } })
+    );
+  }
+
+  return (
+    <div
+      style={{
+        background: "var(--bg-1)",
+        border: "1px solid var(--line)",
+        overflow: "hidden",
+        transition: "transform 200ms ease, border-color 200ms ease",
+      }}
+      onMouseEnter={(e) => {
+        (e.currentTarget as HTMLDivElement).style.borderColor = "var(--acid)";
+        (e.currentTarget as HTMLDivElement).style.transform = "translateY(-3px)";
+      }}
+      onMouseLeave={(e) => {
+        (e.currentTarget as HTMLDivElement).style.borderColor = "var(--line)";
+        (e.currentTarget as HTMLDivElement).style.transform = "translateY(0)";
+      }}
+    >
+      <div
+        onClick={openLightbox}
+        style={{
+          position: "relative",
+          aspectRatio: "16/10",
+          background: "var(--bg-2)",
+          overflow: "hidden",
+          cursor: "zoom-in",
+        }}
+      >
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img
+          src={`/${src}`}
+          alt={handle}
+          style={{
+            position: "absolute",
+            inset: 0,
+            width: "100%",
+            height: "100%",
+            objectFit: "cover",
+            objectPosition: "left top",
+          }}
+        />
+        <div
+          style={{
+            position: "absolute",
+            top: 10,
+            left: 10,
+            padding: "4px 8px",
+            background: "rgba(6,7,10,0.85)",
+            border: `1px solid ${accent}`,
+            fontFamily: "var(--font-mono)",
+            fontSize: 9,
+            fontWeight: 700,
+            color: accent,
+            letterSpacing: "0.22em",
+            whiteSpace: "nowrap",
+          }}
+        >
+          · REAL · WHOP
+        </div>
+        {dollars && (
+          <div
+            style={{
+              position: "absolute",
+              bottom: 10,
+              right: 10,
+              padding: "6px 10px",
+              background: accent,
+              color: "var(--bg)",
+              fontFamily: "var(--font-display)",
+              fontSize: 22,
+              fontWeight: 700,
+              letterSpacing: "-0.02em",
+              whiteSpace: "nowrap",
+            }}
+          >
+            {dollars}
+          </div>
+        )}
+        <div
+          style={{
+            position: "absolute",
+            top: 10,
+            right: 10,
+            padding: "4px 8px",
+            background: "rgba(6,7,10,0.85)",
+            border: "1px solid var(--line-2)",
+            fontFamily: "var(--font-mono)",
+            fontSize: 9,
+            fontWeight: 700,
+            color: "var(--bone)",
+            letterSpacing: "0.20em",
+            whiteSpace: "nowrap",
+            display: "flex",
+            alignItems: "center",
+            gap: 6,
+          }}
+        >
+          <svg width="9" height="9" viewBox="0 0 14 14" fill="none" stroke="currentColor" strokeWidth="1.6">
+            <circle cx="6" cy="6" r="4.5" />
+            <line x1="9.5" y1="9.5" x2="13" y2="13" />
+            <line x1="4" y1="6" x2="8" y2="6" />
+            <line x1="6" y1="4" x2="6" y2="8" />
+          </svg>
+          ENLARGE
+        </div>
+      </div>
+
+      <div style={{ padding: "18px 22px 22px", display: "flex", flexDirection: "column", gap: 8 }}>
+        <div style={{ display: "flex", justifyContent: "space-between", alignItems: "baseline" }}>
+          <span
+            style={{
+              fontFamily: "var(--font-display)",
+              fontSize: 18,
+              fontWeight: 600,
+              color: "var(--bone)",
+              letterSpacing: "-0.015em",
+            }}
+          >
+            {handle}
+          </span>
+          {platform && (
+            <span
+              style={{
+                fontFamily: "var(--font-mono)",
+                fontSize: 9,
+                fontWeight: 600,
+                color: "var(--ash)",
+                letterSpacing: "0.22em",
+                textTransform: "uppercase",
+                whiteSpace: "nowrap",
+              }}
+            >
+              {platform}
+            </span>
+          )}
+        </div>
+        {caption && (
+          <div
+            style={{
+              fontFamily: "var(--font-body)",
+              fontSize: 13,
+              lineHeight: 1.55,
+              color: "var(--ash)",
+              fontWeight: 400,
+            }}
+          >
+            {caption}
+          </div>
+        )}
+      </div>
+    </div>
+  );
+}

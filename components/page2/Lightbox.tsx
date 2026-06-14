@@ -1,1 +1,113 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VTdGF0ZSB9IGZyb20gInJlYWN0IjsKCmludGVyZmFjZSBMaWdodGJveFN0YXRlIHsKICBzcmM6IHN0cmluZzsKICBhbHQ6IHN0cmluZzsKfQoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gTGlnaHRib3goKSB7CiAgY29uc3QgW3N0YXRlLCBzZXRTdGF0ZV0gPSB1c2VTdGF0ZTxMaWdodGJveFN0YXRlIHwgbnVsbD4obnVsbCk7CgogIHVzZUVmZmVjdCgoKSA9PiB7CiAgICBmdW5jdGlvbiBvbk9wZW4oZTogRXZlbnQpIHsKICAgICAgc2V0U3RhdGUoKGUgYXMgQ3VzdG9tRXZlbnQ8TGlnaHRib3hTdGF0ZT4pLmRldGFpbCk7CiAgICB9CiAgICBmdW5jdGlvbiBvbktleShlOiBLZXlib2FyZEV2ZW50KSB7CiAgICAgIGlmIChlLmtleSA9PT0gIkVzY2FwZSIpIHNldFN0YXRlKG51bGwpOwogICAgfQogICAgd2luZG93LmFkZEV2ZW50TGlzdGVuZXIoInFjOmxpZ2h0Ym94Iiwgb25PcGVuIGFzIEV2ZW50TGlzdGVuZXIpOwogICAgd2luZG93LmFkZEV2ZW50TGlzdGVuZXIoImtleWRvd24iLCBvbktleSk7CiAgICByZXR1cm4gKCkgPT4gewogICAgICB3aW5kb3cucmVtb3ZlRXZlbnRMaXN0ZW5lcigicWM6bGlnaHRib3giLCBvbk9wZW4gYXMgRXZlbnRMaXN0ZW5lcik7CiAgICAgIHdpbmRvdy5yZW1vdmVFdmVudExpc3RlbmVyKCJrZXlkb3duIiwgb25LZXkpOwogICAgfTsKICB9LCBbXSk7CgogIHVzZUVmZmVjdCgoKSA9PiB7CiAgICBkb2N1bWVudC5ib2R5LnN0eWxlLm92ZXJmbG93ID0gc3RhdGUgPyAiaGlkZGVuIiA6ICIiOwogIH0sIFtzdGF0ZV0pOwoKICBpZiAoIXN0YXRlKSByZXR1cm4gbnVsbDsKCiAgcmV0dXJuICgKICAgIDxkaXYKICAgICAgb25DbGljaz17KCkgPT4gc2V0U3RhdGUobnVsbCl9CiAgICAgIHN0eWxlPXt7CiAgICAgICAgcG9zaXRpb246ICJmaXhlZCIsCiAgICAgICAgaW5zZXQ6IDAsCiAgICAgICAgekluZGV4OiAyMDAsCiAgICAgICAgYmFja2dyb3VuZDogInJnYmEoNiw3LDEwLDAuOTIpIiwKICAgICAgICBiYWNrZHJvcEZpbHRlcjogImJsdXIoMTBweCkiLAogICAgICAgIFdlYmtpdEJhY2tkcm9wRmlsdGVyOiAiYmx1cigxMHB4KSIsCiAgICAgICAgZGlzcGxheTogImZsZXgiLAogICAgICAgIGFsaWduSXRlbXM6ICJjZW50ZXIiLAogICAgICAgIGp1c3RpZnlDb250ZW50OiAiY2VudGVyIiwKICAgICAgICBwYWRkaW5nOiA0OCwKICAgICAgICBjdXJzb3I6ICJ6b29tLW91dCIsCiAgICAgIH19CiAgICA+CiAgICAgIDxidXR0b24KICAgICAgICBvbkNsaWNrPXsoZSkgPT4geyBlLnN0b3BQcm9wYWdhdGlvbigpOyBzZXRTdGF0ZShudWxsKTsgfX0KICAgICAgICBzdHlsZT17ewogICAgICAgICAgcG9zaXRpb246ICJhYnNvbHV0ZSIsCiAgICAgICAgICB0b3A6IDI0LAogICAgICAgICAgcmlnaHQ6IDI0LAogICAgICAgICAgekluZGV4OiAyLAogICAgICAgICAgd2lkdGg6IDQ0LAogICAgICAgICAgaGVpZ2h0OiA0NCwKICAgICAgICAgIGJhY2tncm91bmQ6ICJ2YXIoLS1iZy0xKSIsCiAgICAgICAgICBib3JkZXI6ICIxcHggc29saWQgdmFyKC0tbGluZS0yKSIsCiAgICAgICAgICBjb2xvcjogInZhcigtLWJvbmUpIiwKICAgICAgICAgIGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LW1vbm8pIiwKICAgICAgICAgIGZvbnRTaXplOiAxNiwKICAgICAgICAgIGN1cnNvcjogInBvaW50ZXIiLAogICAgICAgICAgZGlzcGxheTogImZsZXgiLAogICAgICAgICAgYWxpZ25JdGVtczogImNlbnRlciIsCiAgICAgICAgICBqdXN0aWZ5Q29udGVudDogImNlbnRlciIsCiAgICAgICAgfX0KICAgICAgICBhcmlhLWxhYmVsPSJDbG9zZSIKICAgICAgPgogICAgICAgIOKclQogICAgICA8L2J1dHRvbj4KCiAgICAgIDxkaXYKICAgICAgICBzdHlsZT17ewogICAgICAgICAgcG9zaXRpb246ICJhYnNvbHV0ZSIsCiAgICAgICAgICBib3R0b206IDI0LAogICAgICAgICAgbGVmdDogIjUwJSIsCiAgICAgICAgICB0cmFuc2Zvcm06ICJ0cmFuc2xhdGVYKC01MCUpIiwKICAgICAgICAgIGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LW1vbm8pIiwKICAgICAgICAgIGZvbnRTaXplOiAxMCwKICAgICAgICAgIGZvbnRXZWlnaHQ6IDYwMCwKICAgICAgICAgIGNvbG9yOiAidmFyKC0tYXNoKSIsCiAgICAgICAgICBsZXR0ZXJTcGFjaW5nOiAiMC4yMmVtIiwKICAgICAgICAgIHRleHRUcmFuc2Zvcm06ICJ1cHBlcmNhc2UiLAogICAgICAgICAgYmFja2dyb3VuZDogInZhcigtLWJnLTEpIiwKICAgICAgICAgIHBhZGRpbmc6ICIxMHB4IDE4cHgiLAogICAgICAgICAgYm9yZGVyOiAiMXB4IHNvbGlkIHZhcigtLWxpbmUpIiwKICAgICAgICAgIHdoaXRlU3BhY2U6ICJub3dyYXAiLAogICAgICAgIH19CiAgICAgID4KICAgICAgICDCtyBDbGljayBhbnl3aGVyZSBvciBwcmVzcyBFc2MgdG8gY2xvc2UgwrcKICAgICAgPC9kaXY+CgogICAgICB7LyogZXNsaW50LWRpc2FibGUtbmV4dC1saW5lIEBuZXh0L25leHQvbm8taW1nLWVsZW1lbnQgKi99CiAgICAgIDxpbWcKICAgICAgICBzcmM9e3N0YXRlLnNyY30KICAgICAgICBhbHQ9e3N0YXRlLmFsdH0KICAgICAgICBvbkNsaWNrPXsoZSkgPT4gZS5zdG9wUHJvcGFnYXRpb24oKX0KICAgICAgICBzdHlsZT17ewogICAgICAgICAgbWF4V2lkdGg6ICIxMDAlIiwKICAgICAgICAgIG1heEhlaWdodDogIjEwMCUiLAogICAgICAgICAgb2JqZWN0Rml0OiAiY29udGFpbiIsCiAgICAgICAgICBib3JkZXI6ICIxcHggc29saWQgdmFyKC0tbGluZS0yKSIsCiAgICAgICAgICBib3hTaGFkb3c6ICIwIDMwcHggOTBweCByZ2JhKDAsMCwwLDAuNikiLAogICAgICAgICAgYW5pbWF0aW9uOiAibGJJbiAyNDBtcyBjdWJpYy1iZXppZXIoMC4yLDAuOCwwLjIsMSkiLAogICAgICAgICAgY3Vyc29yOiAiZGVmYXVsdCIsCiAgICAgICAgfX0KICAgICAgLz4KICAgIDwvZGl2PgogICk7Cn0K"}
+"use client";
+
+import { useEffect, useState } from "react";
+
+interface LightboxState {
+  src: string;
+  alt: string;
+}
+
+export default function Lightbox() {
+  const [state, setState] = useState<LightboxState | null>(null);
+
+  useEffect(() => {
+    function onOpen(e: Event) {
+      setState((e as CustomEvent<LightboxState>).detail);
+    }
+    function onKey(e: KeyboardEvent) {
+      if (e.key === "Escape") setState(null);
+    }
+    window.addEventListener("qc:lightbox", onOpen as EventListener);
+    window.addEventListener("keydown", onKey);
+    return () => {
+      window.removeEventListener("qc:lightbox", onOpen as EventListener);
+      window.removeEventListener("keydown", onKey);
+    };
+  }, []);
+
+  useEffect(() => {
+    document.body.style.overflow = state ? "hidden" : "";
+  }, [state]);
+
+  if (!state) return null;
+
+  return (
+    <div
+      onClick={() => setState(null)}
+      style={{
+        position: "fixed",
+        inset: 0,
+        zIndex: 200,
+        background: "rgba(6,7,10,0.92)",
+        backdropFilter: "blur(10px)",
+        WebkitBackdropFilter: "blur(10px)",
+        display: "flex",
+        alignItems: "center",
+        justifyContent: "center",
+        padding: 48,
+        cursor: "zoom-out",
+      }}
+    >
+      <button
+        onClick={(e) => { e.stopPropagation(); setState(null); }}
+        style={{
+          position: "absolute",
+          top: 24,
+          right: 24,
+          zIndex: 2,
+          width: 44,
+          height: 44,
+          background: "var(--bg-1)",
+          border: "1px solid var(--line-2)",
+          color: "var(--bone)",
+          fontFamily: "var(--font-mono)",
+          fontSize: 16,
+          cursor: "pointer",
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "center",
+        }}
+        aria-label="Close"
+      >
+        ✕
+      </button>
+
+      <div
+        style={{
+          position: "absolute",
+          bottom: 24,
+          left: "50%",
+          transform: "translateX(-50%)",
+          fontFamily: "var(--font-mono)",
+          fontSize: 10,
+          fontWeight: 600,
+          color: "var(--ash)",
+          letterSpacing: "0.22em",
+          textTransform: "uppercase",
+          background: "var(--bg-1)",
+          padding: "10px 18px",
+          border: "1px solid var(--line)",
+          whiteSpace: "nowrap",
+        }}
+      >
+        · Click anywhere or press Esc to close ·
+      </div>
+
+      {/* eslint-disable-next-line @next/next/no-img-element */}
+      <img
+        src={state.src}
+        alt={state.alt}
+        onClick={(e) => e.stopPropagation()}
+        style={{
+          maxWidth: "100%",
+          maxHeight: "100%",
+          objectFit: "contain",
+          border: "1px solid var(--line-2)",
+          boxShadow: "0 30px 90px rgba(0,0,0,0.6)",
+          animation: "lbIn 240ms cubic-bezier(0.2,0.8,0.2,1)",
+          cursor: "default",
+        }}
+      />
+    </div>
+  );
+}

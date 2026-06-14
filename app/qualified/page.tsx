@@ -1,1 +1,78 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgU3VzcGVuc2UsIHVzZUVmZmVjdCB9IGZyb20gInJlYWN0IjsKaW1wb3J0IHsgdXNlUm91dGVyLCB1c2VTZWFyY2hQYXJhbXMgfSBmcm9tICJuZXh0L25hdmlnYXRpb24iOwoKZnVuY3Rpb24gaXNXb2xmcGFja1RpZXIodGllcjogc3RyaW5nKTogYm9vbGVhbiB7CiAgLy8gV29sZnBhY2sgcm91dGUgPSBsb3dlc3QgaW52ZXN0bWVudCB0aWVyLiBNYXRjaCBvbiAiJDUwMCIgcHJlZml4CiAgLy8gc28gd2UncmUgcm9idXN0IHRvIGZvcm1hdHRpbmcgZHJpZnQgKCQ1MDAtJDIwMDAsICQ1MDAg4oCTICQyLDUwMCwgZXRjLikKICByZXR1cm4gdGllci50cmltKCkuc3RhcnRzV2l0aCgiJDUwMCIpOwp9CgpmdW5jdGlvbiBRdWFsaWZpZWRSb3V0ZXIoKSB7CiAgY29uc3Qgc3AgPSB1c2VTZWFyY2hQYXJhbXMoKTsKICBjb25zdCByb3V0ZXIgPSB1c2VSb3V0ZXIoKTsKCiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIGNvbnN0IHRpZXIgPSBzcC5nZXQoInRpZXIiKSB8fCAiIjsKICAgIGNvbnN0IHJvdXRlID0gc3AuZ2V0KCJyb3V0ZSIpIHx8ICIiOwogICAgY29uc3QgaW50bCA9IHNwLmdldCgiaW50bCIpID09PSAiMSI7CiAgICBjb25zdCBmaXJzdE5hbWUgPSBzcC5nZXQoImZpcnN0X25hbWUiKSB8fCAiIjsKICAgIGNvbnN0IGxhc3ROYW1lID0gc3AuZ2V0KCJsYXN0X25hbWUiKSB8fCAiIjsKICAgIGNvbnN0IGVtYWlsID0gc3AuZ2V0KCJlbWFpbCIpIHx8ICIiOwogICAgY29uc3QgcGhvbmUgPSBzcC5nZXQoInBob25lIikgfHwgIiI7CgogICAgLy8gRXhwbGljaXQgcm91dGUgcGFyYW0gKGZyb20gdGhlIHNlcnZlcidzIHJvdXRpbmcgZGVjaXNpb24pIHdpbnM7IHRpZXIKICAgIC8vIHByZWZpeCBpcyB0aGUgbGVnYWN5IGZhbGxiYWNrLgogICAgY29uc3QgdG9Xb2xmcGFjayA9IHJvdXRlID8gcm91dGUgPT09ICJ3b2xmcGFjayIgOiBpc1dvbGZwYWNrVGllcih0aWVyKTsKICAgIGlmICh0b1dvbGZwYWNrKSB7CiAgICAgIC8vIExvdy1QUFAgYnVkZ2V0LXRpZXIgbGVhZHMgZ2V0IHRoZSByZWdpb25hbCAoJDI5NykgZWRpdGlvbi4gV2hpbGUKICAgICAgLy8gaXRzIGNoZWNrb3V0IGxpbmsgaXNuJ3QgY29uZmlndXJlZCB5ZXQsIHByb3h5LnRzIGJvdW5jZXMgdGhlbSB0bwogICAgICAvLyB0aGUgc3RhbmRhcmQgcGFnZSB0YWdnZWQgYG9mZmVyPWludGxgIHNvIHRoZSBjb2hvcnQgc3RheXMgdmlzaWJsZS4KICAgICAgcm91dGVyLnJlcGxhY2UoaW50bCA/ICIvd29sZnBhY2stZ2xvYmFsIiA6ICIvd29sZnBhY2siKTsKICAgICAgcmV0dXJuOwogICAgfQoKICAgIGNvbnN0IHBhcmFtcyA9IG5ldyBVUkxTZWFyY2hQYXJhbXMoKTsKICAgIGlmIChmaXJzdE5hbWUpIHBhcmFtcy5zZXQoImZpcnN0X25hbWUiLCBmaXJzdE5hbWUpOwogICAgaWYgKGxhc3ROYW1lKSBwYXJhbXMuc2V0KCJsYXN0X25hbWUiLCBsYXN0TmFtZSk7CiAgICBpZiAoZW1haWwpIHBhcmFtcy5zZXQoImVtYWlsIiwgZW1haWwpOwogICAgaWYgKHBob25lKSBwYXJhbXMuc2V0KCJwaG9uZSIsIHBob25lKTsKICAgIHJvdXRlci5yZXBsYWNlKGAvYm9vaz8ke3BhcmFtcy50b1N0cmluZygpfWApOwogIH0sIFtzcCwgcm91dGVyXSk7CgogIHJldHVybiBudWxsOwp9CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBRdWFsaWZpZWRQYWdlKCkgewogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0iZ3JpZC1iZyIgc3R5bGU9e3sgbWluSGVpZ2h0OiAiMTAwdmgiLCBiYWNrZ3JvdW5kOiAidmFyKC0tYmcpIiwgY29sb3I6ICJ2YXIoLS1ib25lKSIsIGRpc3BsYXk6ICJmbGV4IiwgYWxpZ25JdGVtczogImNlbnRlciIsIGp1c3RpZnlDb250ZW50OiAiY2VudGVyIiB9fT4KICAgICAgPGRpdiBzdHlsZT17eyB0ZXh0QWxpZ246ICJjZW50ZXIiLCBtYXhXaWR0aDogNDgwLCBwYWRkaW5nOiAiMCA0OHB4IiwgcG9zaXRpb246ICJyZWxhdGl2ZSIgfX0+CiAgICAgICAgPGRpdiBzdHlsZT17eyBwb3NpdGlvbjogImFic29sdXRlIiwgaW5zZXQ6IC0xMDAsIHBvaW50ZXJFdmVudHM6ICJub25lIiwgYmFja2dyb3VuZDogInJhZGlhbC1ncmFkaWVudCg2MDBweCAzNjBweCBhdCA1MCUgNTAlLCByZ2JhKDE5MSwyNTAsNzAsMC4xMCksIHRyYW5zcGFyZW50IDYwJSkiIH19IC8+CiAgICAgICAgPGRpdiBzdHlsZT17eyBwb3NpdGlvbjogInJlbGF0aXZlIiB9fT4KICAgICAgICAgIDxzdmcgd2lkdGg9IjQ0IiBoZWlnaHQ9IjQ0IiB2aWV3Qm94PSIwIDAgMjggMjgiIGZpbGw9Im5vbmUiIHN0eWxlPXt7IG1hcmdpbkJvdHRvbTogMjggfX0+CiAgICAgICAgICAgIDxyZWN0IHg9IjAuNSIgeT0iMC41IiB3aWR0aD0iMjciIGhlaWdodD0iMjciIHN0cm9rZT0idmFyKC0tYWNpZCkiIHN0cm9rZVdpZHRoPSIxIiAvPgogICAgICAgICAgICA8cmVjdCB4PSI3IiB5PSI3IiB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIGZpbGw9InZhcigtLWFjaWQpIiAvPgogICAgICAgICAgICA8cmVjdCB4PSIxMSIgeT0iMTEiIHdpZHRoPSI2IiBoZWlnaHQ9IjYiIGZpbGw9InZhcigtLWJnKSIgLz4KICAgICAgICAgIDwvc3ZnPgogICAgICAgICAgPGRpdiBzdHlsZT17eyBkaXNwbGF5OiAiZmxleCIsIGFsaWduSXRlbXM6ICJjZW50ZXIiLCBqdXN0aWZ5Q29udGVudDogImNlbnRlciIsIGdhcDogMTIsIG1hcmdpbkJvdHRvbTogMjAgfX0+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0icHVsc2UiIHN0eWxlPXt7IHdpZHRoOiA4LCBoZWlnaHQ6IDgsIGJhY2tncm91bmQ6ICJ2YXIoLS1hY2lkKSIsIGRpc3BsYXk6ICJpbmxpbmUtYmxvY2siIH19IC8+CiAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtbW9ubykiLCBmb250U2l6ZTogMTEsIGZvbnRXZWlnaHQ6IDcwMCwgY29sb3I6ICJ2YXIoLS1hY2lkKSIsIGxldHRlclNwYWNpbmc6ICIwLjIyZW0iLCB0ZXh0VHJhbnNmb3JtOiAidXBwZXJjYXNlIiB9fT4KICAgICAgICAgICAgICDCtyBBcHBsaWNhdGlvbiByZWNlaXZlZCDCtwogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPGgxIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LWRpc3BsYXkpIiwgZm9udFdlaWdodDogNjAwLCBmb250U2l6ZTogNDgsIGxpbmVIZWlnaHQ6IDAuOTgsIGxldHRlclNwYWNpbmc6ICItMC4wNGVtIiwgY29sb3I6ICJ2YXIoLS1ib25lKSIsIG1hcmdpbjogIjAgMCAxNnB4IiB9fT4KICAgICAgICAgICAgUm91dGluZyB5b3Ugbm93PGVtIHN0eWxlPXt7IGNvbG9yOiAidmFyKC0tYWNpZCkiIH19Pi4uLjwvZW0+CiAgICAgICAgICA8L2gxPgogICAgICAgICAgPHAgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtYm9keSkiLCBmb250U2l6ZTogMTYsIGxpbmVIZWlnaHQ6IDEuNTUsIGNvbG9yOiAidmFyKC0tYXNoKSIsIG1hcmdpbjogMCwgZm9udFdlaWdodDogNDAwIH19PgogICAgICAgICAgICBIYW5nIHRpZ2h0IOKAlCB0YWtpbmcgeW91IHRvIHRoZSBuZXh0IHN0ZXAuCiAgICAgICAgICA8L3A+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgoKICAgICAgPFN1c3BlbnNlIGZhbGxiYWNrPXtudWxsfT4KICAgICAgICA8UXVhbGlmaWVkUm91dGVyIC8+CiAgICAgIDwvU3VzcGVuc2U+CiAgICA8L2Rpdj4KICApOwp9Cg=="}
+"use client";
+
+import { Suspense, useEffect } from "react";
+import { useRouter, useSearchParams } from "next/navigation";
+
+function isWolfpackTier(tier: string): boolean {
+  // Wolfpack route = lowest investment tier. Match on "$500" prefix
+  // so we're robust to formatting drift ($500-$2000, $500 – $2,500, etc.)
+  return tier.trim().startsWith("$500");
+}
+
+function QualifiedRouter() {
+  const sp = useSearchParams();
+  const router = useRouter();
+
+  useEffect(() => {
+    const tier = sp.get("tier") || "";
+    const route = sp.get("route") || "";
+    const intl = sp.get("intl") === "1";
+    const firstName = sp.get("first_name") || "";
+    const lastName = sp.get("last_name") || "";
+    const email = sp.get("email") || "";
+    const phone = sp.get("phone") || "";
+
+    // Explicit route param (from the server's routing decision) wins; tier
+    // prefix is the legacy fallback.
+    const toWolfpack = route ? route === "wolfpack" : isWolfpackTier(tier);
+    if (toWolfpack) {
+      // Low-PPP budget-tier leads get the regional ($297) edition. While
+      // its checkout link isn't configured yet, proxy.ts bounces them to
+      // the standard page tagged `offer=intl` so the cohort stays visible.
+      router.replace(intl ? "/wolfpack-global" : "/wolfpack");
+      return;
+    }
+
+    const params = new URLSearchParams();
+    if (firstName) params.set("first_name", firstName);
+    if (lastName) params.set("last_name", lastName);
+    if (email) params.set("email", email);
+    if (phone) params.set("phone", phone);
+    router.replace(`/book?${params.toString()}`);
+  }, [sp, router]);
+
+  return null;
+}
+
+export default function QualifiedPage() {
+  return (
+    <div className="grid-bg" style={{ minHeight: "100vh", background: "var(--bg)", color: "var(--bone)", display: "flex", alignItems: "center", justifyContent: "center" }}>
+      <div style={{ textAlign: "center", maxWidth: 480, padding: "0 48px", position: "relative" }}>
+        <div style={{ position: "absolute", inset: -100, pointerEvents: "none", background: "radial-gradient(600px 360px at 50% 50%, rgba(191,250,70,0.10), transparent 60%)" }} />
+        <div style={{ position: "relative" }}>
+          <svg width="44" height="44" viewBox="0 0 28 28" fill="none" style={{ marginBottom: 28 }}>
+            <rect x="0.5" y="0.5" width="27" height="27" stroke="var(--acid)" strokeWidth="1" />
+            <rect x="7" y="7" width="14" height="14" fill="var(--acid)" />
+            <rect x="11" y="11" width="6" height="6" fill="var(--bg)" />
+          </svg>
+          <div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: 12, marginBottom: 20 }}>
+            <span className="pulse" style={{ width: 8, height: 8, background: "var(--acid)", display: "inline-block" }} />
+            <div style={{ fontFamily: "var(--font-mono)", fontSize: 11, fontWeight: 700, color: "var(--acid)", letterSpacing: "0.22em", textTransform: "uppercase" }}>
+              · Application received ·
+            </div>
+          </div>
+          <h1 style={{ fontFamily: "var(--font-display)", fontWeight: 600, fontSize: 48, lineHeight: 0.98, letterSpacing: "-0.04em", color: "var(--bone)", margin: "0 0 16px" }}>
+            Routing you now<em style={{ color: "var(--acid)" }}>...</em>
+          </h1>
+          <p style={{ fontFamily: "var(--font-body)", fontSize: 16, lineHeight: 1.55, color: "var(--ash)", margin: 0, fontWeight: 400 }}>
+            Hang tight — taking you to the next step.
+          </p>
+        </div>
+      </div>
+
+      <Suspense fallback={null}>
+        <QualifiedRouter />
+      </Suspense>
+    </div>
+  );
+}

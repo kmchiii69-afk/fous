@@ -1,1 +1,242 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgU3VzcGVuc2UsIHVzZUVmZmVjdCwgdXNlTWVtbywgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB7IHVzZVNlYXJjaFBhcmFtcyB9IGZyb20gIm5leHQvbmF2aWdhdGlvbiI7CmltcG9ydCBMaW5rIGZyb20gIm5leHQvbGluayI7CmltcG9ydCBwb3N0aG9nIGZyb20gInBvc3Rob2ctanMiOwoKY29uc3QgQkFTRV9DQUxFTkRMWSA9IHByb2Nlc3MuZW52Lk5FWFRfUFVCTElDX0NBTEVORExZX1VSTCB8fCAiaHR0cHM6Ly9jYWxlbmRseS5jb20vYmVuaXRlenNhbGVzY29udGFjdC8zMG1pbiI7CgovLyBCcmFuZC10aGVtZWQgQ2FsZW5kbHkgdmlhIFVSTCBwYXJhbXMgKGhleCB3aXRob3V0ICMpCmNvbnN0IENBTEVORExZX1RIRU1FID0gewogIGJhY2tncm91bmRfY29sb3I6ICIwNjA3MEEiLAogIHRleHRfY29sb3I6ICJGMkYwRTYiLAogIHByaW1hcnlfY29sb3I6ICJCRkZBNDYiLAogIGhpZGVfZXZlbnRfdHlwZV9kZXRhaWxzOiAiMSIsCiAgaGlkZV9sYW5kaW5nX3BhZ2VfZGV0YWlsczogIjEiLAp9OwoKZnVuY3Rpb24gYnVpbGRDYWxlbmRseVVybChuYW1lOiBzdHJpbmcsIGVtYWlsOiBzdHJpbmcsIF9waG9uZTogc3RyaW5nKSB7CiAgY29uc3QgcGFyYW1zID0gbmV3IFVSTFNlYXJjaFBhcmFtcyh7IC4uLkNBTEVORExZX1RIRU1FIH0pOwogIGlmIChuYW1lKSBwYXJhbXMuc2V0KCJuYW1lIiwgbmFtZSk7CiAgaWYgKGVtYWlsKSBwYXJhbXMuc2V0KCJlbWFpbCIsIGVtYWlsKTsKICAvLyBQaG9uZSBpcyBpbnRlbnRpb25hbGx5IE5PVCBwcmUtZmlsbGVkIGhlcmUuIFRoZSBDYWxlbmRseSBldmVudCBjdXJyZW50bHkKICAvLyBoYXMgbm8gUGhvbmUgY3VzdG9tIHF1ZXN0aW9uIOKAlCBzbyBgYTE9YCB3b3VsZCBsYW5kIGluICJQbGVhc2Ugc2hhcmUKICAvLyBhbnl0aGluZyBmb3Igb3VyIG1lZXRpbmciIHdoaWNoIGlzIGNvbmZ1c2luZy4gUGhvbmUgaXMgYWxyZWFkeSBpbiBDbG9zZQogIC8vIGFuZCBEaXNjb3JkOyBzZXR0ZXJzIGNhbiBkaWFsIGZyb20gdGhlcmUuIFRvIHJlLWVuYWJsZTogYWRkIGEgUGhvbmUKICAvLyBxdWVzdGlvbiBhcyB0aGUgRklSU1QgY3VzdG9tIHF1ZXN0aW9uIG9uIHRoZSBDYWxlbmRseSBldmVudCwgdGhlbgogIC8vIHJlc3RvcmUgYHBhcmFtcy5zZXQoImExIiwgX3Bob25lKWAuCiAgLy8gVVJMU2VhcmNoUGFyYW1zIGVuY29kZXMgc3BhY2VzIGFzICIrIjsgQ2FsZW5kbHkncyBwcmVmaWxsIHBhcnNlcgogIC8vIGludGVycHJldHMgIisiIGxpdGVyYWxseSwgc28gc3dhcCB0byAlMjAgdG8gcmVuZGVyICJDYW1lcm9uIEZvdXMiCiAgLy8gY29ycmVjdGx5IGluc3RlYWQgb2YgIkNhbWVyb24rRm91cyIuCiAgcmV0dXJuIGAke0JBU0VfQ0FMRU5ETFl9PyR7cGFyYW1zLnRvU3RyaW5nKCkucmVwbGFjZSgvXCsvZywgIiUyMCIpfWA7Cn0KCmZ1bmN0aW9uIExvZ28oKSB7CiAgcmV0dXJuICgKICAgIDxMaW5rIGhyZWY9Ii8iIHN0eWxlPXt7IGRpc3BsYXk6ICJmbGV4IiwgYWxpZ25JdGVtczogImNlbnRlciIsIGdhcDogMTIsIHRleHREZWNvcmF0aW9uOiAibm9uZSIsIGZsZXhTaHJpbms6IDAsIHdoaXRlU3BhY2U6ICJub3dyYXAiIH19PgogICAgICA8c3ZnIHdpZHRoPSIyOCIgaGVpZ2h0PSIyOCIgdmlld0JveD0iMCAwIDI4IDI4IiBmaWxsPSJub25lIj4KICAgICAgICA8cmVjdCB4PSIwLjUiIHk9IjAuNSIgd2lkdGg9IjI3IiBoZWlnaHQ9IjI3IiBzdHJva2U9InZhcigtLWFjaWQpIiBzdHJva2VXaWR0aD0iMSIgLz4KICAgICAgICA8cmVjdCB4PSI3IiB5PSI3IiB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIGZpbGw9InZhcigtLWFjaWQpIiAvPgogICAgICAgIDxyZWN0IHg9IjExIiB5PSIxMSIgd2lkdGg9IjYiIGhlaWdodD0iNiIgZmlsbD0idmFyKC0tYmcpIiAvPgogICAgICA8L3N2Zz4KICAgICAgPHNwYW4gc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtbW9ubykiLCBmb250U2l6ZTogMTMsIGZvbnRXZWlnaHQ6IDcwMCwgY29sb3I6ICJ2YXIoLS1ib25lKSIsIGxldHRlclNwYWNpbmc6ICIwLjE4ZW0iLCB0ZXh0VHJhbnNmb3JtOiAidXBwZXJjYXNlIiB9fT4KICAgICAgICBRdWFudHVtIENpcGhlcgogICAgICA8L3NwYW4+CiAgICA8L0xpbms+CiAgKTsKfQoKZnVuY3Rpb24gQm9va0lubmVyKCkgewogIGNvbnN0IHNwID0gdXNlU2VhcmNoUGFyYW1zKCk7CiAgY29uc3QgZmlyc3ROYW1lID0gKHNwLmdldCgiZmlyc3RfbmFtZSIpIHx8ICIiKS5yZXBsYWNlKC9bXkEtWmEtelxzJy1dL2csICIiKS5zbGljZSgwLCA0MCk7CiAgY29uc3QgbGFzdE5hbWUgPSAoc3AuZ2V0KCJsYXN0X25hbWUiKSB8fCAiIikucmVwbGFjZSgvW15BLVphLXpccyctXS9nLCAiIikuc2xpY2UoMCwgNDApOwogIGNvbnN0IGZ1bGxOYW1lID0gW2ZpcnN0TmFtZSwgbGFzdE5hbWVdLmZpbHRlcihCb29sZWFuKS5qb2luKCIgIikudHJpbSgpOwogIGNvbnN0IGVtYWlsID0gKHNwLmdldCgiZW1haWwiKSB8fCAiIikuc2xpY2UoMCwgMTIwKTsKICBjb25zdCBwaG9uZSA9IChzcC5nZXQoInBob25lIikgfHwgIiIpLnNsaWNlKDAsIDI0KTsKCiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIGlmIChlbWFpbCkgcG9zdGhvZy5pZGVudGlmeShlbWFpbCwgeyBlbWFpbCwgZmlyc3RfbmFtZTogZmlyc3ROYW1lLCBsYXN0X25hbWU6IGxhc3ROYW1lLCBwaG9uZSB9KTsKICAgIHBvc3Rob2cuY2FwdHVyZSgiYm9va19wYWdlX3ZpZXdlZCIsIHsgZW1haWw6IGVtYWlsIHx8IHVuZGVmaW5lZCB9KTsKICAvLyBlc2xpbnQtZGlzYWJsZS1uZXh0LWxpbmUgcmVhY3QtaG9va3MvZXhoYXVzdGl2ZS1kZXBzCiAgfSwgW10pOwoKICBjb25zdCBjYWxlbmRseVVybCA9IHVzZU1lbW8oKCkgPT4gYnVpbGRDYWxlbmRseVVybChmdWxsTmFtZSwgZW1haWwsIHBob25lKSwgW2Z1bGxOYW1lLCBlbWFpbCwgcGhvbmVdKTsKCiAgLy8gRGlyZWN0IGlmcmFtZSBlbWJlZCDigJQgbm8gQ2FsZW5kbHkgd2lkZ2V0IHNjcmlwdC4gQ3V0cyB+NeKAkzEwcyBvZmYgbG9hZCB0aW1lCiAgLy8gYmVjYXVzZSB3ZSBza2lwIHRoZSBzY3JpcHQgZmV0Y2gg4oaSIG9uTG9hZCDihpIgaW5pdElubGluZVdpZGdldCBwaXBlbGluZSBhbmQKICAvLyBsZXQgdGhlIGJyb3dzZXIgbG9hZCB0aGUgaWZyYW1lIGltbWVkaWF0ZWx5IG9uIG1vdW50LgogIHJldHVybiAoCiAgICA8aWZyYW1lCiAgICAgIHNyYz17Y2FsZW5kbHlVcmx9CiAgICAgIHRpdGxlPSJRdWFudHVtIENpcGhlciDCtyBCb29rIE9wZXJhdG9yIENhbGwiCiAgICAgIGxvYWRpbmc9ImVhZ2VyIgogICAgICBzdHlsZT17eyB3aWR0aDogIjEwMCUiLCBoZWlnaHQ6IDc2MCwgbWluSGVpZ2h0OiA3NjAsIGJvcmRlcjogMCwgYmFja2dyb3VuZDogInRyYW5zcGFyZW50IiwgZGlzcGxheTogImJsb2NrIiB9fQogICAgICBhbGxvdz0iY2FtZXJhOyBtaWNyb3Bob25lOyBhdXRvcGxheTsgZW5jcnlwdGVkLW1lZGlhOyBmdWxsc2NyZWVuOyBwaWN0dXJlLWluLXBpY3R1cmUiCiAgICAvPgogICk7Cn0KCmZ1bmN0aW9uIEZpcnN0TmFtZUdyZWV0aW5nKCkgewogIGNvbnN0IHNwID0gdXNlU2VhcmNoUGFyYW1zKCk7CiAgY29uc3QgZm4gPSAoc3AuZ2V0KCJmaXJzdF9uYW1lIikgfHwgIiIpLnJlcGxhY2UoL1teQS1aYS16XHMnLV0vZywgIiIpLnNsaWNlKDAsIDI0KTsKICBpZiAoIWZuKSByZXR1cm4gbnVsbDsKICByZXR1cm4gKAogICAgPD4KICAgICAgLCA8ZW0gc3R5bGU9e3sgY29sb3I6ICJ2YXIoLS1hY2lkKSIgfX0+e2ZufTwvZW0+CiAgICA8Lz4KICApOwp9CgovLyBGYWxsYmFjayBmb3IgdmlzaXRvcnMgd2hvIHJlYWNoIHRoZSBjYWxlbmRhciBidXQgZG9uJ3QgcGljayBhIHNsb3Qg4oCUCi8vIGhpc3RvcmljYWxseSB+NCBpbiA1IG9mIHRoZW0uIE9uZSB0YXAgZmxhZ3MgdGhlIGxlYWQgaW4gQ2xvc2UgKyBwaW5ncwovLyBzZXR0ZXJzIGluIERpc2NvcmQgc28gdGhlIGludGVudCBpc24ndCBsb3N0IHdoZW4gdGhleSBjbG9zZSB0aGUgdGFiLgovLwovLyBEZWxpYmVyYXRlbHkgYSBzYWZldHkgbmV0LCBub3QgYW4gb3B0aW9uOiBpdCBzdGF5cyBoaWRkZW4gZm9yIHRoZSBmaXJzdAovLyA3NSBzZWNvbmRzIOKAlCBpbnNpZGUgdGhlIHdpbmRvdyB3aGVyZSBjb21taXR0ZWQgcGVvcGxlIHBpY2sgYSBzbG90IOKAlCBzbyBpdAovLyBjYW4ndCBzaXBob24gYW55b25lIGF3YXkgZnJvbSBzZWxmLWJvb2tpbmcuIE9ubHkgbGluZ2VyZXJzICh0aGUgY29ob3J0Ci8vIHRoYXQgaGlzdG9yaWNhbGx5IGJvdW5jZXMgd2l0aCBub3RoaW5nKSBldmVyIHNlZSBpdC4KY29uc3QgRkFMTEJBQ0tfREVMQVlfTVMgPSA3NV8wMDA7CgpmdW5jdGlvbiBDYWxsYmFja0ZhbGxiYWNrKCkgewogIGNvbnN0IHNwID0gdXNlU2VhcmNoUGFyYW1zKCk7CiAgY29uc3QgZW1haWwgPSAoc3AuZ2V0KCJlbWFpbCIpIHx8ICIiKS5zbGljZSgwLCAxMjApOwogIGNvbnN0IGZpcnN0TmFtZSA9IChzcC5nZXQoImZpcnN0X25hbWUiKSB8fCAiIikucmVwbGFjZSgvW15BLVphLXpccyctXS9nLCAiIikuc2xpY2UoMCwgNDApOwogIGNvbnN0IGxhc3ROYW1lID0gKHNwLmdldCgibGFzdF9uYW1lIikgfHwgIiIpLnJlcGxhY2UoL1teQS1aYS16XHMnLV0vZywgIiIpLnNsaWNlKDAsIDQwKTsKICBjb25zdCBwaG9uZSA9IChzcC5nZXQoInBob25lIikgfHwgIiIpLnNsaWNlKDAsIDI0KTsKICBjb25zdCBbc3RhdHVzLCBzZXRTdGF0dXNdID0gdXNlU3RhdGU8ImlkbGUiIHwgInNlbmRpbmciIHwgImRvbmUiIHwgImVycm9yIj4oImlkbGUiKTsKICBjb25zdCBbdmlzaWJsZSwgc2V0VmlzaWJsZV0gPSB1c2VTdGF0ZShmYWxzZSk7CgogIHVzZUVmZmVjdCgoKSA9PiB7CiAgICBjb25zdCB0ID0gd2luZG93LnNldFRpbWVvdXQoKCkgPT4gc2V0VmlzaWJsZSh0cnVlKSwgRkFMTEJBQ0tfREVMQVlfTVMpOwogICAgcmV0dXJuICgpID0+IHdpbmRvdy5jbGVhclRpbWVvdXQodCk7CiAgfSwgW10pOwoKICAvLyBXaXRob3V0IGFuIGVtYWlsIHdlIGNhbid0IHRpZSB0aGUgcmVxdWVzdCB0byBhIGxlYWQg4oCUIGhpZGUgdGhlIG9mZmVyLgogIGlmICghZW1haWwgfHwgIXZpc2libGUpIHJldHVybiBudWxsOwoKICBhc3luYyBmdW5jdGlvbiByZXF1ZXN0KCkgewogICAgaWYgKHN0YXR1cyA9PT0gInNlbmRpbmciIHx8IHN0YXR1cyA9PT0gImRvbmUiKSByZXR1cm47CiAgICBzZXRTdGF0dXMoInNlbmRpbmciKTsKICAgIHBvc3Rob2cuY2FwdHVyZSgiYm9va19mYWxsYmFja19yZXF1ZXN0ZWQiKTsKICAgIHRyeSB7CiAgICAgIGNvbnN0IHJlcyA9IGF3YWl0IGZldGNoKCIvYXBpL2NhbGxiYWNrLXJlcXVlc3QiLCB7CiAgICAgICAgbWV0aG9kOiAiUE9TVCIsCiAgICAgICAgaGVhZGVyczogeyAiQ29udGVudC1UeXBlIjogImFwcGxpY2F0aW9uL2pzb24iIH0sCiAgICAgICAgYm9keTogSlNPTi5zdHJpbmdpZnkoeyBmaXJzdF9uYW1lOiBmaXJzdE5hbWUsIGxhc3RfbmFtZTogbGFzdE5hbWUsIGVtYWlsLCBwaG9uZSB9KSwKICAgICAgfSk7CiAgICAgIGNvbnN0IGRhdGEgPSBhd2FpdCByZXMuanNvbigpLmNhdGNoKCgpID0+ICh7fSkpOwogICAgICBpZiAoIXJlcy5vayB8fCBkYXRhPy5vayA9PT0gZmFsc2UpIHRocm93IG5ldyBFcnJvcigpOwogICAgICBzZXRTdGF0dXMoImRvbmUiKTsKICAgIH0gY2F0Y2ggewogICAgICBzZXRTdGF0dXMoImVycm9yIik7CiAgICB9CiAgfQoKICBpZiAoc3RhdHVzID09PSAiZG9uZSIpIHsKICAgIHJldHVybiAoCiAgICAgIDxkaXYgc3R5bGU9e3sgbWFyZ2luVG9wOiAxNCwgcGFkZGluZzogIjE4cHggMjJweCIsIGJvcmRlcjogIjFweCBzb2xpZCB2YXIoLS1hY2lkKSIsIGJhY2tncm91bmQ6ICJyZ2JhKDE5MSwyNTAsNzAsMC4wNikiLCBkaXNwbGF5OiAiZmxleCIsIGFsaWduSXRlbXM6ICJjZW50ZXIiLCBnYXA6IDE0IH19PgogICAgICAgIDxzcGFuIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LWRpc3BsYXkpIiwgZm9udFNpemU6IDE4LCBmb250V2VpZ2h0OiA3MDAsIGNvbG9yOiAidmFyKC0tYWNpZCkiLCBsaW5lSGVpZ2h0OiAxIH19PuKckzwvc3Bhbj4KICAgICAgICA8c3BhbiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1ib2R5KSIsIGZvbnRTaXplOiAxNSwgY29sb3I6ICJ2YXIoLS1ib25lKSIgfX0+CiAgICAgICAgICBHb3QgaXQg4oCUIHRoZSB0ZWFtIHdpbGwgcmVhY2ggb3V0IHRvIHlvdSBzaG9ydGx5e3Bob25lID8gYCBhdCAke3Bob25lfWAgOiAiIn0uCiAgICAgICAgPC9zcGFuPgogICAgICA8L2Rpdj4KICAgICk7CiAgfQoKICByZXR1cm4gKAogICAgPGRpdiBzdHlsZT17eyBtYXJnaW5Ub3A6IDE0LCBwYWRkaW5nOiAiMThweCAyMnB4IiwgYm9yZGVyOiAiMXB4IHNvbGlkIHZhcigtLWxpbmUpIiwgYmFja2dyb3VuZDogInZhcigtLWJnLTEpIiwgZGlzcGxheTogImZsZXgiLCBhbGlnbkl0ZW1zOiAiY2VudGVyIiwganVzdGlmeUNvbnRlbnQ6ICJzcGFjZS1iZXR3ZWVuIiwgZ2FwOiAxNiwgZmxleFdyYXA6ICJ3cmFwIiwgYW5pbWF0aW9uOiAibGJJbiA0MDBtcyBlYXNlIGJvdGgiIH19PgogICAgICA8c3BhbiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1ib2R5KSIsIGZvbnRTaXplOiAxNSwgY29sb3I6ICJ2YXIoLS1hc2gpIiB9fT4KICAgICAgICBDYW4mcnNxdW87dCBmaW5kIGEgdGltZSB0aGF0IHdvcmtzPwogICAgICA8L3NwYW4+CiAgICAgIDxkaXYgc3R5bGU9e3sgZGlzcGxheTogImZsZXgiLCBhbGlnbkl0ZW1zOiAiY2VudGVyIiwgZ2FwOiAxNCwgZmxleFdyYXA6ICJ3cmFwIiB9fT4KICAgICAgICB7c3RhdHVzID09PSAiZXJyb3IiICYmICgKICAgICAgICAgIDxzcGFuIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LW1vbm8pIiwgZm9udFNpemU6IDEwLCBjb2xvcjogInZhcigtLXBpbmspIiwgbGV0dGVyU3BhY2luZzogIjAuMWVtIiB9fT5Tb21ldGhpbmcgd2VudCB3cm9uZyDigJQgdHJ5IGFnYWluPC9zcGFuPgogICAgICAgICl9CiAgICAgICAgPGJ1dHRvbgogICAgICAgICAgb25DbGljaz17cmVxdWVzdH0KICAgICAgICAgIGRpc2FibGVkPXtzdGF0dXMgPT09ICJzZW5kaW5nIn0KICAgICAgICAgIGNsYXNzTmFtZT0iYnRuLWdob3N0IgogICAgICAgICAgc3R5bGU9e3sgcGFkZGluZzogIjEycHggMjBweCIsIGJhY2tncm91bmQ6ICJ0cmFuc3BhcmVudCIsIGJvcmRlcjogMCwgYm94U2hhZG93OiAiMCAwIDAgMXB4IHZhcigtLWxpbmUtMikiLCBjb2xvcjogInZhcigtLWJvbmUpIiwgZm9udEZhbWlseTogInZhcigtLWZvbnQtbW9ubykiLCBmb250U2l6ZTogMTEsIGZvbnRXZWlnaHQ6IDcwMCwgbGV0dGVyU3BhY2luZzogIjAuMTZlbSIsIHRleHRUcmFuc2Zvcm06ICJ1cHBlcmNhc2UiLCBjdXJzb3I6IHN0YXR1cyA9PT0gInNlbmRpbmciID8gIndhaXQiIDogInBvaW50ZXIiIH19CiAgICAgICAgPgogICAgICAgICAge3N0YXR1cyA9PT0gInNlbmRpbmciID8gIlNlbmRpbmcuLi4iIDogIkhhdmUgdGhlIHRlYW0gY2FsbCBtZSDihpIifQogICAgICAgIDwvYnV0dG9uPgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0KCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIEJvb2tQYWdlKCkgewogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0iZ3JpZC1iZyIgc3R5bGU9e3sgbWluSGVpZ2h0OiAiMTAwdmgiLCBiYWNrZ3JvdW5kOiAidmFyKC0tYmcpIiwgY29sb3I6ICJ2YXIoLS1ib25lKSIgfX0+CiAgICAgIHsvKiBIRUFERVIgKi99CiAgICAgIDxoZWFkZXIgc3R5bGU9e3sgYm9yZGVyQm90dG9tOiAiMXB4IHNvbGlkIHZhcigtLWxpbmUpIiwgcGFkZGluZzogIjIwcHggNDhweCIsIGRpc3BsYXk6ICJmbGV4IiwganVzdGlmeUNvbnRlbnQ6ICJzcGFjZS1iZXR3ZWVuIiwgYWxpZ25JdGVtczogImNlbnRlciIgfX0+CiAgICAgICAgPExvZ28gLz4KICAgICAgICA8ZGl2IHN0eWxlPXt7IGRpc3BsYXk6ICJmbGV4IiwgYWxpZ25JdGVtczogImNlbnRlciIsIGdhcDogMTQgfX0+CiAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InB1bHNlIiBzdHlsZT17eyB3aWR0aDogNiwgaGVpZ2h0OiA2LCBiYWNrZ3JvdW5kOiAidmFyKC0tYWNpZCkiLCBkaXNwbGF5OiAiaW5saW5lLWJsb2NrIiB9fSAvPgogICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1tb25vKSIsIGZvbnRTaXplOiAxMCwgZm9udFdlaWdodDogNzAwLCBjb2xvcjogInZhcigtLWFjaWQpIiwgbGV0dGVyU3BhY2luZzogIjAuMjJlbSIsIHRleHRUcmFuc2Zvcm06ICJ1cHBlcmNhc2UiIH19PgogICAgICAgICAgICDCtyBRdWFsaWZpZWQgwrcgUGljayB5b3VyIHRpbWUgwrcKICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICA8L2hlYWRlcj4KCiAgICAgIHsvKiBIRVJPIOKAlCBjb21wYWN0IG9uIHB1cnBvc2U6IHRoZSBjYWxlbmRhciBpcyB0aGUgY29udmVyc2lvbiBzdXJmYWNlLAogICAgICAgICAga2VlcCBpdCBhcyBjbG9zZSB0byB0aGUgZm9sZCBhcyBwb3NzaWJsZSAqL30KICAgICAgPHNlY3Rpb24gc3R5bGU9e3sgbWF4V2lkdGg6IDExODAsIG1hcmdpbjogIjAgYXV0byIsIHBhZGRpbmc6ICI0MHB4IDQ4cHggMjRweCIsIHRleHRBbGlnbjogImNlbnRlciIsIHBvc2l0aW9uOiAicmVsYXRpdmUiIH19PgogICAgICAgIDxkaXYgc3R5bGU9e3sgcG9zaXRpb246ICJhYnNvbHV0ZSIsIGluc2V0OiAwLCBwb2ludGVyRXZlbnRzOiAibm9uZSIsIGJhY2tncm91bmQ6ICJyYWRpYWwtZ3JhZGllbnQoODAwcHggMzYwcHggYXQgNTAlIDAlLCByZ2JhKDE5MSwyNTAsNzAsMC4xMCksIHRyYW5zcGFyZW50IDYwJSkiIH19IC8+CiAgICAgICAgPGRpdiBzdHlsZT17eyBwb3NpdGlvbjogInJlbGF0aXZlIiB9fT4KICAgICAgICAgIDxkaXYgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtbW9ubykiLCBmb250U2l6ZTogMTEsIGZvbnRXZWlnaHQ6IDcwMCwgY29sb3I6ICJ2YXIoLS1hY2lkKSIsIGxldHRlclNwYWNpbmc6ICIwLjIyZW0iLCB0ZXh0VHJhbnNmb3JtOiAidXBwZXJjYXNlIiwgbWFyZ2luQm90dG9tOiAxNCB9fT4KICAgICAgICAgICAgwrcgWW91JnJzcXVvO3JlIGluIMK3IEZpbmFsIHN0ZXAgwrcKICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPGgxIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LWRpc3BsYXkpIiwgZm9udFdlaWdodDogNjAwLCBmb250U2l6ZTogNDgsIGxpbmVIZWlnaHQ6IDAuOTgsIGxldHRlclNwYWNpbmc6ICItMC4wNDVlbSIsIGNvbG9yOiAidmFyKC0tYm9uZSkiLCBtYXJnaW46ICIwIDAgMTRweCIgfX0+CiAgICAgICAgICAgIFBpY2sgYSB0aW1lCiAgICAgICAgICAgIDxTdXNwZW5zZSBmYWxsYmFjaz17bnVsbH0+PEZpcnN0TmFtZUdyZWV0aW5nIC8+PC9TdXNwZW5zZT4uCiAgICAgICAgICA8L2gxPgogICAgICAgICAgPHAgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtYm9keSkiLCBmb250U2l6ZTogMTcsIGxpbmVIZWlnaHQ6IDEuNTUsIGNvbG9yOiAidmFyKC0tYXNoKSIsIG1hcmdpbjogIjAgYXV0byIsIG1heFdpZHRoOiA2NDAsIGZvbnRXZWlnaHQ6IDQwMCB9fT4KICAgICAgICAgICAgMzAgbWludXRlcyB3aXRoIHRoZSB0ZWFtIOKAlCB3ZSZyc3F1bztsbCB3YWxrIHRoZSBzeXN0ZW0sIHNlZSBpZiBpdCBmaXRzIHdoZXJlIHlvdSBhcmUsIGFuZCBhbnN3ZXIgYW55dGhpbmcgb24geW91ciBtaW5kLiBHcmFiYmluZyBhIHNsb3QgdGFrZXMgMzAgc2Vjb25kcy4KICAgICAgICAgIDwvcD4KICAgICAgICA8L2Rpdj4KICAgICAgPC9zZWN0aW9uPgoKICAgICAgey8qIENBTEVORExZIEVNQkVEICovfQogICAgICA8c2VjdGlvbiBzdHlsZT17eyBtYXhXaWR0aDogMTE4MCwgbWFyZ2luOiAiMCBhdXRvIiwgcGFkZGluZzogIjAgNDhweCAzMnB4IiB9fT4KICAgICAgICA8ZGl2IHN0eWxlPXt7IGJhY2tncm91bmQ6ICJ2YXIoLS1iZy0xKSIsIGJvcmRlcjogIjFweCBzb2xpZCB2YXIoLS1saW5lKSIsIHBhZGRpbmc6IDAsIG92ZXJmbG93OiAiaGlkZGVuIiwgcG9zaXRpb246ICJyZWxhdGl2ZSIgfX0+CiAgICAgICAgICA8U3VzcGVuc2UgZmFsbGJhY2s9ewogICAgICAgICAgICA8ZGl2IHN0eWxlPXt7IGRpc3BsYXk6ICJmbGV4IiwgYWxpZ25JdGVtczogImNlbnRlciIsIGp1c3RpZnlDb250ZW50OiAiY2VudGVyIiwgaGVpZ2h0OiA3NjAsIGNvbG9yOiAidmFyKC0tYXNoKSIsIGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LW1vbm8pIiwgZm9udFNpemU6IDExLCBmb250V2VpZ2h0OiA3MDAsIGxldHRlclNwYWNpbmc6ICIwLjIyZW0iLCB0ZXh0VHJhbnNmb3JtOiAidXBwZXJjYXNlIiB9fT4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InB1bHNlIiBzdHlsZT17eyB3aWR0aDogOCwgaGVpZ2h0OiA4LCBiYWNrZ3JvdW5kOiAidmFyKC0tYWNpZCkiLCBtYXJnaW5SaWdodDogMTIsIGRpc3BsYXk6ICJpbmxpbmUtYmxvY2siIH19IC8+CiAgICAgICAgICAgICAgwrcgUHJlcGFyaW5nIGNhbGVuZGFyIMK3CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgfT4KICAgICAgICAgICAgPEJvb2tJbm5lciAvPgogICAgICAgICAgPC9TdXNwZW5zZT4KICAgICAgICA8L2Rpdj4KICAgICAgICA8U3VzcGVuc2UgZmFsbGJhY2s9e251bGx9PgogICAgICAgICAgPENhbGxiYWNrRmFsbGJhY2sgLz4KICAgICAgICA8L1N1c3BlbnNlPgogICAgICA8L3NlY3Rpb24+CgogICAgICB7LyogV0hBVCBUTyBFWFBFQ1QgKi99CiAgICAgIDxzZWN0aW9uIHN0eWxlPXt7IG1heFdpZHRoOiAxMTgwLCBtYXJnaW46ICIwIGF1dG8iLCBwYWRkaW5nOiAiMCA0OHB4IDgwcHgiIH19PgogICAgICAgIDxkaXYgc3R5bGU9e3sgZGlzcGxheTogImdyaWQiLCBncmlkVGVtcGxhdGVDb2x1bW5zOiAicmVwZWF0KDMsIDFmcikiLCBnYXA6IDE0IH19PgogICAgICAgICAge1sKICAgICAgICAgICAgeyBuOiAiMDEiLCB0OiAiVGVsbCB1cyB5b3VyIHNpdHVhdGlvbiIsIGQ6ICI1IG1pbnV0ZXMgb24gd2hlcmUgeW91IGFyZSwgd2hhdCB5b3UndmUgdHJpZWQsIGFuZCB3aGF0IHlvdSBhY3R1YWxseSB3YW50LiIgfSwKICAgICAgICAgICAgeyBuOiAiMDIiLCB0OiAiV2Ugd2FsayB0aGUgc3lzdGVtIiwgZDogIkhvdyB0aGUgUXVhbnR1bSBDaXBoZXIgZnJhbWV3b3JrIGFjdHVhbGx5IHdvcmtzIOKAlCBwaGFzZXMsIHN3aW5nIHNldHVwcywgd2Vla2x5IHBsYW4uIiB9LAogICAgICAgICAgICB7IG46ICIwMyIsIHQ6ICJEZWNpZGUgdG9nZXRoZXIiLCBkOiAiSWYgd2UncmUgYSBmaXQgeW91J2xsIGtub3cgb24gdGhlIGNhbGwuIElmIHdlJ3JlIG5vdCwgd2UnbGwgcG9pbnQgeW91IHNvbWV3aGVyZSB1c2VmdWwuIiB9LAogICAgICAgICAgXS5tYXAoKHMsIGkpID0+ICgKICAgICAgICAgICAgPGRpdiBrZXk9e2l9IHN0eWxlPXt7IGJhY2tncm91bmQ6ICJ2YXIoLS1iZy0xKSIsIGJvcmRlcjogIjFweCBzb2xpZCB2YXIoLS1saW5lKSIsIGJvcmRlclRvcDogIjFweCBzb2xpZCB2YXIoLS1hY2lkKSIsIHBhZGRpbmc6ICIyMHB4IDIycHgiIH19PgogICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtbW9ubykiLCBmb250U2l6ZTogMTAsIGZvbnRXZWlnaHQ6IDcwMCwgY29sb3I6ICJ2YXIoLS1hY2lkKSIsIGxldHRlclNwYWNpbmc6ICIwLjIyZW0iLCBtYXJnaW5Cb3R0b206IDEwIH19PsK3IHtzLm59IMK3PC9kaXY+CiAgICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1kaXNwbGF5KSIsIGZvbnRTaXplOiAyMCwgZm9udFdlaWdodDogNjAwLCBjb2xvcjogInZhcigtLWJvbmUpIiwgbGV0dGVyU3BhY2luZzogIi0wLjAxNWVtIiwgbWFyZ2luQm90dG9tOiA4IH19PntzLnR9PC9kaXY+CiAgICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1ib2R5KSIsIGZvbnRTaXplOiAxNCwgbGluZUhlaWdodDogMS41NSwgY29sb3I6ICJ2YXIoLS1hc2gpIiwgZm9udFdlaWdodDogNDAwIH19PntzLmR9PC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgKSl9CiAgICAgICAgPC9kaXY+CiAgICAgIDwvc2VjdGlvbj4KCiAgICAgIHsvKiBGT09URVIgKi99CiAgICAgIDxmb290ZXIgc3R5bGU9e3sgYm9yZGVyVG9wOiAiMXB4IHNvbGlkIHZhcigtLWxpbmUpIiwgcGFkZGluZzogIjMycHggNDhweCIsIGRpc3BsYXk6ICJmbGV4IiwganVzdGlmeUNvbnRlbnQ6ICJzcGFjZS1iZXR3ZWVuIiwgYWxpZ25JdGVtczogImNlbnRlciIsIGZsZXhXcmFwOiAid3JhcCIsIGdhcDogMTYsIGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LW1vbm8pIiwgZm9udFNpemU6IDEwLCBmb250V2VpZ2h0OiA3MDAsIGNvbG9yOiAidmFyKC0tbXV0ZWQpIiwgbGV0dGVyU3BhY2luZzogIjAuMjJlbSIsIHRleHRUcmFuc2Zvcm06ICJ1cHBlcmNhc2UiIH19PgogICAgICAgIDxzcGFuPsKpIDIwMjYgwrcgaWtua2Z4IGluYyDCtyBBbGwgUmlnaHRzIFJlc2VydmVkPC9zcGFuPgogICAgICAgIDxzcGFuPsK3IE5vdCBmaW5hbmNpYWwgYWR2aWNlIMK3IFRyYWRpbmcgaW52b2x2ZXMgcmVhbCByaXNrIG9mIGxvc3Mgwrc8L3NwYW4+CiAgICAgIDwvZm9vdGVyPgogICAgPC9kaXY+CiAgKTsKfQo="}
+"use client";
+
+import { Suspense, useEffect, useMemo, useState } from "react";
+import { useSearchParams } from "next/navigation";
+import Link from "next/link";
+import posthog from "posthog-js";
+
+const BASE_CALENDLY = process.env.NEXT_PUBLIC_CALENDLY_URL || "https://calendly.com/benitezsalescontact/30min";
+
+// Brand-themed Calendly via URL params (hex without #)
+const CALENDLY_THEME = {
+  background_color: "06070A",
+  text_color: "F2F0E6",
+  primary_color: "BFFA46",
+  hide_event_type_details: "1",
+  hide_landing_page_details: "1",
+};
+
+function buildCalendlyUrl(name: string, email: string, _phone: string) {
+  const params = new URLSearchParams({ ...CALENDLY_THEME });
+  if (name) params.set("name", name);
+  if (email) params.set("email", email);
+  // Phone is intentionally NOT pre-filled here. The Calendly event currently
+  // has no Phone custom question — so `a1=` would land in "Please share
+  // anything for our meeting" which is confusing. Phone is already in Close
+  // and Discord; setters can dial from there. To re-enable: add a Phone
+  // question as the FIRST custom question on the Calendly event, then
+  // restore `params.set("a1", _phone)`.
+  // URLSearchParams encodes spaces as "+"; Calendly's prefill parser
+  // interprets "+" literally, so swap to %20 to render "Cameron Fous"
+  // correctly instead of "Cameron+Fous".
+  return `${BASE_CALENDLY}?${params.toString().replace(/\+/g, "%20")}`;
+}
+
+function Logo() {
+  return (
+    <Link href="/" style={{ display: "flex", alignItems: "center", gap: 12, textDecoration: "none", flexShrink: 0, whiteSpace: "nowrap" }}>
+      <svg width="28" height="28" viewBox="0 0 28 28" fill="none">
+        <rect x="0.5" y="0.5" width="27" height="27" stroke="var(--acid)" strokeWidth="1" />
+        <rect x="7" y="7" width="14" height="14" fill="var(--acid)" />
+        <rect x="11" y="11" width="6" height="6" fill="var(--bg)" />
+      </svg>
+      <span style={{ fontFamily: "var(--font-mono)", fontSize: 13, fontWeight: 700, color: "var(--bone)", letterSpacing: "0.18em", textTransform: "uppercase" }}>
+        Quantum Cipher
+      </span>
+    </Link>
+  );
+}
+
+function BookInner() {
+  const sp = useSearchParams();
+  const firstName = (sp.get("first_name") || "").replace(/[^A-Za-z\s'-]/g, "").slice(0, 40);
+  const lastName = (sp.get("last_name") || "").replace(/[^A-Za-z\s'-]/g, "").slice(0, 40);
+  const fullName = [firstName, lastName].filter(Boolean).join(" ").trim();
+  const email = (sp.get("email") || "").slice(0, 120);
+  const phone = (sp.get("phone") || "").slice(0, 24);
+
+  useEffect(() => {
+    if (email) posthog.identify(email, { email, first_name: firstName, last_name: lastName, phone });
+    posthog.capture("book_page_viewed", { email: email || undefined });
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
+  const calendlyUrl = useMemo(() => buildCalendlyUrl(fullName, email, phone), [fullName, email, phone]);
+
+  // Direct iframe embed — no Calendly widget script. Cuts ~5–10s off load time
+  // because we skip the script fetch → onLoad → initInlineWidget pipeline and
+  // let the browser load the iframe immediately on mount.
+  return (
+    <iframe
+      src={calendlyUrl}
+      title="Quantum Cipher · Book Operator Call"
+      loading="eager"
+      style={{ width: "100%", height: 760, minHeight: 760, border: 0, background: "transparent", display: "block" }}
+      allow="camera; microphone; autoplay; encrypted-media; fullscreen; picture-in-picture"
+    />
+  );
+}
+
+function FirstNameGreeting() {
+  const sp = useSearchParams();
+  const fn = (sp.get("first_name") || "").replace(/[^A-Za-z\s'-]/g, "").slice(0, 24);
+  if (!fn) return null;
+  return (
+    <>
+      , <em style={{ color: "var(--acid)" }}>{fn}</em>
+    </>
+  );
+}
+
+// Fallback for visitors who reach the calendar but don't pick a slot —
+// historically ~4 in 5 of them. One tap flags the lead in Close + pings
+// setters in Discord so the intent isn't lost when they close the tab.
+//
+// Deliberately a safety net, not an option: it stays hidden for the first
+// 75 seconds — inside the window where committed people pick a slot — so it
+// can't siphon anyone away from self-booking. Only lingerers (the cohort
+// that historically bounces with nothing) ever see it.
+const FALLBACK_DELAY_MS = 75_000;
+
+function CallbackFallback() {
+  const sp = useSearchParams();
+  const email = (sp.get("email") || "").slice(0, 120);
+  const firstName = (sp.get("first_name") || "").replace(/[^A-Za-z\s'-]/g, "").slice(0, 40);
+  const lastName = (sp.get("last_name") || "").replace(/[^A-Za-z\s'-]/g, "").slice(0, 40);
+  const phone = (sp.get("phone") || "").slice(0, 24);
+  const [status, setStatus] = useState<"idle" | "sending" | "done" | "error">("idle");
+  const [visible, setVisible] = useState(false);
+
+  useEffect(() => {
+    const t = window.setTimeout(() => setVisible(true), FALLBACK_DELAY_MS);
+    return () => window.clearTimeout(t);
+  }, []);
+
+  // Without an email we can't tie the request to a lead — hide the offer.
+  if (!email || !visible) return null;
+
+  async function request() {
+    if (status === "sending" || status === "done") return;
+    setStatus("sending");
+    posthog.capture("book_fallback_requested");
+    try {
+      const res = await fetch("/api/callback-request", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ first_name: firstName, last_name: lastName, email, phone }),
+      });
+      const data = await res.json().catch(() => ({}));
+      if (!res.ok || data?.ok === false) throw new Error();
+      setStatus("done");
+    } catch {
+      setStatus("error");
+    }
+  }
+
+  if (status === "done") {
+    return (
+      <div style={{ marginTop: 14, padding: "18px 22px", border: "1px solid var(--acid)", background: "rgba(191,250,70,0.06)", display: "flex", alignItems: "center", gap: 14 }}>
+        <span style={{ fontFamily: "var(--font-display)", fontSize: 18, fontWeight: 700, color: "var(--acid)", lineHeight: 1 }}>✓</span>
+        <span style={{ fontFamily: "var(--font-body)", fontSize: 15, color: "var(--bone)" }}>
+          Got it — the team will reach out to you shortly{phone ? ` at ${phone}` : ""}.
+        </span>
+      </div>
+    );
+  }
+
+  return (
+    <div style={{ marginTop: 14, padding: "18px 22px", border: "1px solid var(--line)", background: "var(--bg-1)", display: "flex", alignItems: "center", justifyContent: "space-between", gap: 16, flexWrap: "wrap", animation: "lbIn 400ms ease both" }}>
+      <span style={{ fontFamily: "var(--font-body)", fontSize: 15, color: "var(--ash)" }}>
+        Can&rsquo;t find a time that works?
+      </span>
+      <div style={{ display: "flex", alignItems: "center", gap: 14, flexWrap: "wrap" }}>
+        {status === "error" && (
+          <span style={{ fontFamily: "var(--font-mono)", fontSize: 10, color: "var(--pink)", letterSpacing: "0.1em" }}>Something went wrong — try again</span>
+        )}
+        <button
+          onClick={request}
+          disabled={status === "sending"}
+          className="btn-ghost"
+          style={{ padding: "12px 20px", background: "transparent", border: 0, boxShadow: "0 0 0 1px var(--line-2)", color: "var(--bone)", fontFamily: "var(--font-mono)", fontSize: 11, fontWeight: 700, letterSpacing: "0.16em", textTransform: "uppercase", cursor: status === "sending" ? "wait" : "pointer" }}
+        >
+          {status === "sending" ? "Sending..." : "Have the team call me →"}
+        </button>
+      </div>
+    </div>
+  );
+}
+
+export default function BookPage() {
+  return (
+    <div className="grid-bg" style={{ minHeight: "100vh", background: "var(--bg)", color: "var(--bone)" }}>
+      {/* HEADER */}
+      <header style={{ borderBottom: "1px solid var(--line)", padding: "20px 48px", display: "flex", justifyContent: "space-between", alignItems: "center" }}>
+        <Logo />
+        <div style={{ display: "flex", alignItems: "center", gap: 14 }}>
+          <span className="pulse" style={{ width: 6, height: 6, background: "var(--acid)", display: "inline-block" }} />
+          <div style={{ fontFamily: "var(--font-mono)", fontSize: 10, fontWeight: 700, color: "var(--acid)", letterSpacing: "0.22em", textTransform: "uppercase" }}>
+            · Qualified · Pick your time ·
+          </div>
+        </div>
+      </header>
+
+      {/* HERO — compact on purpose: the calendar is the conversion surface,
+          keep it as close to the fold as possible */}
+      <section style={{ maxWidth: 1180, margin: "0 auto", padding: "40px 48px 24px", textAlign: "center", position: "relative" }}>
+        <div style={{ position: "absolute", inset: 0, pointerEvents: "none", background: "radial-gradient(800px 360px at 50% 0%, rgba(191,250,70,0.10), transparent 60%)" }} />
+        <div style={{ position: "relative" }}>
+          <div style={{ fontFamily: "var(--font-mono)", fontSize: 11, fontWeight: 700, color: "var(--acid)", letterSpacing: "0.22em", textTransform: "uppercase", marginBottom: 14 }}>
+            · You&rsquo;re in · Final step ·
+          </div>
+          <h1 style={{ fontFamily: "var(--font-display)", fontWeight: 600, fontSize: 48, lineHeight: 0.98, letterSpacing: "-0.045em", color: "var(--bone)", margin: "0 0 14px" }}>
+            Pick a time
+            <Suspense fallback={null}><FirstNameGreeting /></Suspense>.
+          </h1>
+          <p style={{ fontFamily: "var(--font-body)", fontSize: 17, lineHeight: 1.55, color: "var(--ash)", margin: "0 auto", maxWidth: 640, fontWeight: 400 }}>
+            30 minutes with the team — we&rsquo;ll walk the system, see if it fits where you are, and answer anything on your mind. Grabbing a slot takes 30 seconds.
+          </p>
+        </div>
+      </section>
+
+      {/* CALENDLY EMBED */}
+      <section style={{ maxWidth: 1180, margin: "0 auto", padding: "0 48px 32px" }}>
+        <div style={{ background: "var(--bg-1)", border: "1px solid var(--line)", padding: 0, overflow: "hidden", position: "relative" }}>
+          <Suspense fallback={
+            <div style={{ display: "flex", alignItems: "center", justifyContent: "center", height: 760, color: "var(--ash)", fontFamily: "var(--font-mono)", fontSize: 11, fontWeight: 700, letterSpacing: "0.22em", textTransform: "uppercase" }}>
+              <span className="pulse" style={{ width: 8, height: 8, background: "var(--acid)", marginRight: 12, display: "inline-block" }} />
+              · Preparing calendar ·
+            </div>
+          }>
+            <BookInner />
+          </Suspense>
+        </div>
+        <Suspense fallback={null}>
+          <CallbackFallback />
+        </Suspense>
+      </section>
+
+      {/* WHAT TO EXPECT */}
+      <section style={{ maxWidth: 1180, margin: "0 auto", padding: "0 48px 80px" }}>
+        <div style={{ display: "grid", gridTemplateColumns: "repeat(3, 1fr)", gap: 14 }}>
+          {[
+            { n: "01", t: "Tell us your situation", d: "5 minutes on where you are, what you've tried, and what you actually want." },
+            { n: "02", t: "We walk the system", d: "How the Quantum Cipher framework actually works — phases, swing setups, weekly plan." },
+            { n: "03", t: "Decide together", d: "If we're a fit you'll know on the call. If we're not, we'll point you somewhere useful." },
+          ].map((s, i) => (
+            <div key={i} style={{ background: "var(--bg-1)", border: "1px solid var(--line)", borderTop: "1px solid var(--acid)", padding: "20px 22px" }}>
+              <div style={{ fontFamily: "var(--font-mono)", fontSize: 10, fontWeight: 700, color: "var(--acid)", letterSpacing: "0.22em", marginBottom: 10 }}>· {s.n} ·</div>
+              <div style={{ fontFamily: "var(--font-display)", fontSize: 20, fontWeight: 600, color: "var(--bone)", letterSpacing: "-0.015em", marginBottom: 8 }}>{s.t}</div>
+              <div style={{ fontFamily: "var(--font-body)", fontSize: 14, lineHeight: 1.55, color: "var(--ash)", fontWeight: 400 }}>{s.d}</div>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      {/* FOOTER */}
+      <footer style={{ borderTop: "1px solid var(--line)", padding: "32px 48px", display: "flex", justifyContent: "space-between", alignItems: "center", flexWrap: "wrap", gap: 16, fontFamily: "var(--font-mono)", fontSize: 10, fontWeight: 700, color: "var(--muted)", letterSpacing: "0.22em", textTransform: "uppercase" }}>
+        <span>© 2026 · iknkfx inc · All Rights Reserved</span>
+        <span>· Not financial advice · Trading involves real risk of loss ·</span>
+      </footer>
+    </div>
+  );
+}

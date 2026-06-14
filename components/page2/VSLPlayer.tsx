@@ -1,1 +1,135 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7Cgpjb25zdCBZVF9JRCA9ICJZVUIzc3FJV0dncyI7CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBWU0xQbGF5ZXIoKSB7CiAgY29uc3QgW3BsYXlpbmcsIHNldFBsYXlpbmddID0gdXNlU3RhdGUoZmFsc2UpOwogIGNvbnN0IFtob3ZlcmVkLCBzZXRIb3ZlcmVkXSA9IHVzZVN0YXRlKGZhbHNlKTsKICBjb25zdCBbaW1nU3JjLCBzZXRJbWdTcmNdID0gdXNlU3RhdGUoYGh0dHBzOi8vaS55dGltZy5jb20vdmkvJHtZVF9JRH0vbWF4cmVzZGVmYXVsdC5qcGdgKTsKCiAgcmV0dXJuICgKICAgIDxkaXYKICAgICAgc3R5bGU9e3sKICAgICAgICBwb3NpdGlvbjogInJlbGF0aXZlIiwKICAgICAgICBhc3BlY3RSYXRpbzogIjE2LzkiLAogICAgICAgIGJhY2tncm91bmQ6ICJ2YXIoLS1iZy0yKSIsCiAgICAgICAgYm9yZGVyOiBgMXB4IHNvbGlkICR7cGxheWluZyB8fCBob3ZlcmVkID8gInZhcigtLWFjaWQpIiA6ICJ2YXIoLS1saW5lKSJ9YCwKICAgICAgICBvdmVyZmxvdzogImhpZGRlbiIsCiAgICAgICAgdHJhbnNpdGlvbjogImJvcmRlci1jb2xvciAyMDBtcyBlYXNlIiwKICAgICAgfX0KICAgICAgb25Nb3VzZUVudGVyPXsoKSA9PiAhcGxheWluZyAmJiBzZXRIb3ZlcmVkKHRydWUpfQogICAgICBvbk1vdXNlTGVhdmU9eygpID0+IHNldEhvdmVyZWQoZmFsc2UpfQogICAgPgogICAgICB7cGxheWluZyA/ICgKICAgICAgICA8aWZyYW1lCiAgICAgICAgICBzcmM9e2BodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC8ke1lUX0lEfT9hdXRvcGxheT0xJnJlbD0wJm1vZGVzdGJyYW5kaW5nPTEmcGxheXNpbmxpbmU9MWB9CiAgICAgICAgICB0aXRsZT0iUXVhbnR1bSBDaXBoZXIgwrcgRnJlZSBUcmFpbmluZyIKICAgICAgICAgIGFsbG93PSJhY2NlbGVyb21ldGVyOyBhdXRvcGxheTsgY2xpcGJvYXJkLXdyaXRlOyBlbmNyeXB0ZWQtbWVkaWE7IGd5cm9zY29wZTsgcGljdHVyZS1pbi1waWN0dXJlOyB3ZWItc2hhcmUiCiAgICAgICAgICBhbGxvd0Z1bGxTY3JlZW4KICAgICAgICAgIHJlZmVycmVyUG9saWN5PSJzdHJpY3Qtb3JpZ2luLXdoZW4tY3Jvc3Mtb3JpZ2luIgogICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgcG9zaXRpb246ICJhYnNvbHV0ZSIsCiAgICAgICAgICAgIGluc2V0OiAwLAogICAgICAgICAgICB3aWR0aDogIjEwMCUiLAogICAgICAgICAgICBoZWlnaHQ6ICIxMDAlIiwKICAgICAgICAgICAgYm9yZGVyOiAwLAogICAgICAgICAgfX0KICAgICAgICAvPgogICAgICApIDogKAogICAgICAgIDxidXR0b24KICAgICAgICAgIHR5cGU9ImJ1dHRvbiIKICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHNldFBsYXlpbmcodHJ1ZSl9CiAgICAgICAgICBhcmlhLWxhYmVsPSJQbGF5IHRyYWluaW5nIHZpZGVvIgogICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgcG9zaXRpb246ICJhYnNvbHV0ZSIsCiAgICAgICAgICAgIGluc2V0OiAwLAogICAgICAgICAgICBwYWRkaW5nOiAwLAogICAgICAgICAgICBiYWNrZ3JvdW5kOiAidHJhbnNwYXJlbnQiLAogICAgICAgICAgICBib3JkZXI6IDAsCiAgICAgICAgICAgIGN1cnNvcjogInBvaW50ZXIiLAogICAgICAgICAgICBjb2xvcjogImluaGVyaXQiLAogICAgICAgICAgfX0KICAgICAgICA+CiAgICAgICAgICB7LyogVGh1bWJuYWlsICovfQogICAgICAgICAgey8qIGVzbGludC1kaXNhYmxlLW5leHQtbGluZSBAbmV4dC9uZXh0L25vLWltZy1lbGVtZW50ICovfQogICAgICAgICAgPGltZwogICAgICAgICAgICBzcmM9e2ltZ1NyY30KICAgICAgICAgICAgYWx0PSJDYW1lcm9uIEZvdXMgwrcgRnJlZSBUcmFpbmluZyIKICAgICAgICAgICAgb25FcnJvcj17KCkgPT4gc2V0SW1nU3JjKGBodHRwczovL2kueXRpbWcuY29tL3ZpLyR7WVRfSUR9L2hxZGVmYXVsdC5qcGdgKX0KICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICBwb3NpdGlvbjogImFic29sdXRlIiwKICAgICAgICAgICAgICBpbnNldDogMCwKICAgICAgICAgICAgICB3aWR0aDogIjEwMCUiLAogICAgICAgICAgICAgIGhlaWdodDogIjEwMCUiLAogICAgICAgICAgICAgIG9iamVjdEZpdDogImNvdmVyIiwKICAgICAgICAgICAgICBvYmplY3RQb3NpdGlvbjogImNlbnRlciIsCiAgICAgICAgICAgIH19CiAgICAgICAgICAvPgoKICAgICAgICAgIHsvKiBEaW0gKyByYWRpYWwgdmlnbmV0dGUgKi99CiAgICAgICAgICA8ZGl2CiAgICAgICAgICAgIGFyaWEtaGlkZGVuCiAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgcG9zaXRpb246ICJhYnNvbHV0ZSIsCiAgICAgICAgICAgICAgaW5zZXQ6IDAsCiAgICAgICAgICAgICAgYmFja2dyb3VuZDoKICAgICAgICAgICAgICAgICJyYWRpYWwtZ3JhZGllbnQoZWxsaXBzZSBhdCA1MCUgNTAlLCByZ2JhKDYsNywxMCwwLjI1KSAwJSwgcmdiYSg2LDcsMTAsMC42NSkgMTAwJSkiLAogICAgICAgICAgICAgIHBvaW50ZXJFdmVudHM6ICJub25lIiwKICAgICAgICAgICAgfX0KICAgICAgICAgIC8+CgogICAgICAgICAgey8qIENlbnRlcmVkIHBsYXkgb3ZlcmxheSAqL30KICAgICAgICAgIDxkaXYKICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICBwb3NpdGlvbjogImFic29sdXRlIiwKICAgICAgICAgICAgICBpbnNldDogMCwKICAgICAgICAgICAgICBkaXNwbGF5OiAiZmxleCIsCiAgICAgICAgICAgICAgZmxleERpcmVjdGlvbjogImNvbHVtbiIsCiAgICAgICAgICAgICAgYWxpZ25JdGVtczogImNlbnRlciIsCiAgICAgICAgICAgICAganVzdGlmeUNvbnRlbnQ6ICJjZW50ZXIiLAogICAgICAgICAgICAgIGdhcDogMTYsCiAgICAgICAgICAgICAgcG9pbnRlckV2ZW50czogIm5vbmUiLAogICAgICAgICAgICB9fQogICAgICAgICAgPgogICAgICAgICAgICA8ZGl2CiAgICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICAgIHdpZHRoOiAxMjAsCiAgICAgICAgICAgICAgICBoZWlnaHQ6IDEyMCwKICAgICAgICAgICAgICAgIGJhY2tncm91bmQ6ICJ2YXIoLS1hY2lkKSIsCiAgICAgICAgICAgICAgICBkaXNwbGF5OiAiZmxleCIsCiAgICAgICAgICAgICAgICBhbGlnbkl0ZW1zOiAiY2VudGVyIiwKICAgICAgICAgICAgICAgIGp1c3RpZnlDb250ZW50OiAiY2VudGVyIiwKICAgICAgICAgICAgICAgIGJveFNoYWRvdzogaG92ZXJlZAogICAgICAgICAgICAgICAgICA/ICIwIDAgMCAxcHggdmFyKC0tYWNpZCksIDAgMCA5NnB4IHJnYmEoMTkxLDI1MCw3MCwwLjU1KSIKICAgICAgICAgICAgICAgICAgOiAiMCAwIDAgMXB4IHZhcigtLWFjaWQpLCAwIDAgNjRweCByZ2JhKDE5MSwyNTAsNzAsMC4zNSkiLAogICAgICAgICAgICAgICAgdHJhbnNmb3JtOiBob3ZlcmVkID8gInNjYWxlKDEuMDQpIiA6ICJzY2FsZSgxKSIsCiAgICAgICAgICAgICAgICB0cmFuc2l0aW9uOiAidHJhbnNmb3JtIDIwMG1zIGVhc2UsIGJveC1zaGFkb3cgMjAwbXMgZWFzZSIsCiAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgPgogICAgICAgICAgICAgIDxzdmcgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiB2aWV3Qm94PSIwIDAgNDAgNDAiPgogICAgICAgICAgICAgICAgPHBvbHlnb24gcG9pbnRzPSIxMiw2IDEyLDM0IDM2LDIwIiBmaWxsPSJ2YXIoLS1iZykiIC8+CiAgICAgICAgICAgICAgPC9zdmc+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8c3BhbgogICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICBwYWRkaW5nOiAiOHB4IDE0cHgiLAogICAgICAgICAgICAgICAgYmFja2dyb3VuZDogInJnYmEoNiw3LDEwLDAuNzgpIiwKICAgICAgICAgICAgICAgIGJvcmRlcjogIjFweCBzb2xpZCB2YXIoLS1saW5lLTIpIiwKICAgICAgICAgICAgICAgIGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LW1vbm8pIiwKICAgICAgICAgICAgICAgIGZvbnRTaXplOiAxMSwKICAgICAgICAgICAgICAgIGZvbnRXZWlnaHQ6IDYwMCwKICAgICAgICAgICAgICAgIGNvbG9yOiAidmFyKC0tYm9uZSkiLAogICAgICAgICAgICAgICAgbGV0dGVyU3BhY2luZzogIjAuMjJlbSIsCiAgICAgICAgICAgICAgICB0ZXh0VHJhbnNmb3JtOiAidXBwZXJjYXNlIiwKICAgICAgICAgICAgICB9fQogICAgICAgICAgICA+CiAgICAgICAgICAgICAgwrcgQ2xpY2sgdG8gc3RhcnQgdGhlIHRyYWluaW5nIMK3CiAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvYnV0dG9uPgogICAgICApfQogICAgPC9kaXY+CiAgKTsKfQo="}
+"use client";
+
+import { useState } from "react";
+
+const YT_ID = "YUB3sqIWGgs";
+
+export default function VSLPlayer() {
+  const [playing, setPlaying] = useState(false);
+  const [hovered, setHovered] = useState(false);
+  const [imgSrc, setImgSrc] = useState(`https://i.ytimg.com/vi/${YT_ID}/maxresdefault.jpg`);
+
+  return (
+    <div
+      style={{
+        position: "relative",
+        aspectRatio: "16/9",
+        background: "var(--bg-2)",
+        border: `1px solid ${playing || hovered ? "var(--acid)" : "var(--line)"}`,
+        overflow: "hidden",
+        transition: "border-color 200ms ease",
+      }}
+      onMouseEnter={() => !playing && setHovered(true)}
+      onMouseLeave={() => setHovered(false)}
+    >
+      {playing ? (
+        <iframe
+          src={`https://www.youtube.com/embed/${YT_ID}?autoplay=1&rel=0&modestbranding=1&playsinline=1`}
+          title="Quantum Cipher · Free Training"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowFullScreen
+          referrerPolicy="strict-origin-when-cross-origin"
+          style={{
+            position: "absolute",
+            inset: 0,
+            width: "100%",
+            height: "100%",
+            border: 0,
+          }}
+        />
+      ) : (
+        <button
+          type="button"
+          onClick={() => setPlaying(true)}
+          aria-label="Play training video"
+          style={{
+            position: "absolute",
+            inset: 0,
+            padding: 0,
+            background: "transparent",
+            border: 0,
+            cursor: "pointer",
+            color: "inherit",
+          }}
+        >
+          {/* Thumbnail */}
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            src={imgSrc}
+            alt="Cameron Fous · Free Training"
+            onError={() => setImgSrc(`https://i.ytimg.com/vi/${YT_ID}/hqdefault.jpg`)}
+            style={{
+              position: "absolute",
+              inset: 0,
+              width: "100%",
+              height: "100%",
+              objectFit: "cover",
+              objectPosition: "center",
+            }}
+          />
+
+          {/* Dim + radial vignette */}
+          <div
+            aria-hidden
+            style={{
+              position: "absolute",
+              inset: 0,
+              background:
+                "radial-gradient(ellipse at 50% 50%, rgba(6,7,10,0.25) 0%, rgba(6,7,10,0.65) 100%)",
+              pointerEvents: "none",
+            }}
+          />
+
+          {/* Centered play overlay */}
+          <div
+            style={{
+              position: "absolute",
+              inset: 0,
+              display: "flex",
+              flexDirection: "column",
+              alignItems: "center",
+              justifyContent: "center",
+              gap: 16,
+              pointerEvents: "none",
+            }}
+          >
+            <div
+              style={{
+                width: 120,
+                height: 120,
+                background: "var(--acid)",
+                display: "flex",
+                alignItems: "center",
+                justifyContent: "center",
+                boxShadow: hovered
+                  ? "0 0 0 1px var(--acid), 0 0 96px rgba(191,250,70,0.55)"
+                  : "0 0 0 1px var(--acid), 0 0 64px rgba(191,250,70,0.35)",
+                transform: hovered ? "scale(1.04)" : "scale(1)",
+                transition: "transform 200ms ease, box-shadow 200ms ease",
+              }}
+            >
+              <svg width="40" height="40" viewBox="0 0 40 40">
+                <polygon points="12,6 12,34 36,20" fill="var(--bg)" />
+              </svg>
+            </div>
+            <span
+              style={{
+                padding: "8px 14px",
+                background: "rgba(6,7,10,0.78)",
+                border: "1px solid var(--line-2)",
+                fontFamily: "var(--font-mono)",
+                fontSize: 11,
+                fontWeight: 600,
+                color: "var(--bone)",
+                letterSpacing: "0.22em",
+                textTransform: "uppercase",
+              }}
+            >
+              · Click to start the training ·
+            </span>
+          </div>
+        </button>
+      )}
+    </div>
+  );
+}

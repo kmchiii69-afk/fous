@@ -1,1 +1,222 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7Cgpjb25zdCBEVl9NT05USFMgPSBbCiAgeyBtOiAxLCAgZGF5OiB7IHBubDogICAtNTAwLCB0cmFkZXM6IDExNywgIGFwbHVzOiAyMywgIGJncmFkZTogMzUsICBjZGdyYWRlOiA1OSwgIGZlZXM6ICA1ODAsICBibG93dXBzOiAwLCBzdHJlc3M6IDU4LCBzY3JlZW46IDE5NSwgdmFjYXRpb246IDAgIH0sIHN3ZzogeyBwbmw6ICAgNzIwLCB0cmFkZXM6IDUsICAgIGZlZXM6ICAzNiwgICAgZHJhd2Rvd246IGZhbHNlLCBzdHJlc3M6IDIyLCBzY3JlZW46IDgsICAgdmFjYXRpb246IDIgIH0gfSwKICB7IG06IDIsICBkYXk6IHsgcG5sOiAgLTE0MDAsIHRyYWRlczogMjM0LCAgYXBsdXM6IDQ3LCAgYmdyYWRlOiA3MCwgIGNkZ3JhZGU6MTE3LCAgZmVlczogMTE5MCwgIGJsb3d1cHM6IDAsIHN0cmVzczogNjQsIHNjcmVlbjogNDEwLCB2YWNhdGlvbjogMCAgfSwgc3dnOiB7IHBubDogIDE1NjAsIHRyYWRlczoxMCwgICAgZmVlczogIDcyLCAgICBkcmF3ZG93bjogZmFsc2UsIHN0cmVzczogMjQsIHNjcmVlbjogMTcsICB2YWNhdGlvbjogNCAgfSB9LAogIHsgbTogMywgIGRheTogeyBwbmw6ICAtMzEwMCwgdHJhZGVzOiAzNTAsICBhcGx1czogNzAsICBiZ3JhZGU6MTA1LCAgY2RncmFkZToxNzUsICBmZWVzOiAxODYwLCAgYmxvd3VwczogMCwgc3RyZXNzOiA3Miwgc2NyZWVuOiA2MjAsIHZhY2F0aW9uOiAwICB9LCBzd2c6IHsgcG5sOiAgMjg4MCwgdHJhZGVzOjE1LCAgICBmZWVzOiAxMDgsICAgIGRyYXdkb3duOiBmYWxzZSwgc3RyZXNzOiAyOCwgc2NyZWVuOiAyNiwgIHZhY2F0aW9uOiA2ICB9IH0sCiAgeyBtOiA0LCAgZGF5OiB7IHBubDogLTEwMDAwLCB0cmFkZXM6IDQ2NywgIGFwbHVzOiA5MywgIGJncmFkZToxNDAsICBjZGdyYWRlOjIzNCwgIGZlZXM6IDI3MTAsICBibG93dXBzOiAxLCBzdHJlc3M6IDkyLCBzY3JlZW46IDgzNSwgdmFjYXRpb246IDAgIH0sIHN3ZzogeyBwbmw6ICAyMzIwLCB0cmFkZXM6MjAsICAgIGZlZXM6IDE0NCwgICAgZHJhd2Rvd246IHRydWUsICBzdHJlc3M6IDM2LCBzY3JlZW46IDM1LCAgdmFjYXRpb246IDYgIH0gfSwKICB7IG06IDUsICBkYXk6IHsgcG5sOiAtMTE1MDAsIHRyYWRlczogNTg0LCAgYXBsdXM6MTE3LCAgYmdyYWRlOjE3NSwgIGNkZ3JhZGU6MjkyLCAgZmVlczogMzQwMCwgIGJsb3d1cHM6IDEsIHN0cmVzczogODYsIHNjcmVlbjoxMDUwLCB2YWNhdGlvbjogMCAgfSwgc3dnOiB7IHBubDogIDQ5NjAsIHRyYWRlczoyNSwgICAgZmVlczogMTgwLCAgICBkcmF3ZG93bjogZmFsc2UsIHN0cmVzczogMjYsIHNjcmVlbjogNDQsICB2YWNhdGlvbjogOCAgfSB9LAogIHsgbTogNiwgIGRheTogeyBwbmw6IC0xMzIwMCwgdHJhZGVzOiA3MDAsICBhcGx1czoxNDAsICBiZ3JhZGU6MjEwLCAgY2RncmFkZTozNTAsICBmZWVzOiA0MTAwLCAgYmxvd3VwczogMSwgc3RyZXNzOiA5MCwgc2NyZWVuOjEyNjUsIHZhY2F0aW9uOiAwICB9LCBzd2c6IHsgcG5sOiAgODQwMCwgdHJhZGVzOjMwLCAgICBmZWVzOiAyMTYsICAgIGRyYXdkb3duOiBmYWxzZSwgc3RyZXNzOiAyNCwgc2NyZWVuOiA1MiwgIHZhY2F0aW9uOjEwIH0gfSwKICB7IG06IDcsICBkYXk6IHsgcG5sOiAtMTUwMDAsIHRyYWRlczogODE3LCAgYXBsdXM6MTYzLCAgYmdyYWRlOjI0NSwgIGNkZ3JhZGU6NDA5LCAgZmVlczogNDgwMCwgIGJsb3d1cHM6IDEsIHN0cmVzczogOTIsIHNjcmVlbjoxNDgwLCB2YWNhdGlvbjogMCAgfSwgc3dnOiB7IHBubDogMTMxMjAsIHRyYWRlczozNSwgICAgZmVlczogMjUyLCAgICBkcmF3ZG93bjogZmFsc2UsIHN0cmVzczogMjIsIHNjcmVlbjogNjAsICB2YWNhdGlvbjoxMiB9IH0sCiAgeyBtOiA4LCAgZGF5OiB7IHBubDogLTIwMDAwLCB0cmFkZXM6IDkzNCwgIGFwbHVzOjE4NywgIGJncmFkZToyODAsICBjZGdyYWRlOjQ2NywgIGZlZXM6IDU1MDAsICBibG93dXBzOiAyLCBzdHJlc3M6MTAwLCBzY3JlZW46MTY5NSwgdmFjYXRpb246IDAgIH0sIHN3ZzogeyBwbmw6IDE2NjAwLCB0cmFkZXM6NDAsICAgIGZlZXM6IDI4OCwgICAgZHJhd2Rvd246IHRydWUsICBzdHJlc3M6IDM0LCBzY3JlZW46IDY4LCAgdmFjYXRpb246MTQgfSB9LAogIHsgbTogOSwgIGRheTogeyBwbmw6IC0yMTUwMCwgdHJhZGVzOjEwNTAsICBhcGx1czoyMTAsICBiZ3JhZGU6MzE1LCAgY2RncmFkZTo1MjUsICBmZWVzOiA2MjAwLCAgYmxvd3VwczogMiwgc3RyZXNzOiA5NCwgc2NyZWVuOjE5MTAsIHZhY2F0aW9uOiAwICB9LCBzd2c6IHsgcG5sOiAyMzM2MCwgdHJhZGVzOjQ1LCAgICBmZWVzOiAzMjQsICAgIGRyYXdkb3duOiBmYWxzZSwgc3RyZXNzOiAyMiwgc2NyZWVuOiA3NiwgIHZhY2F0aW9uOjE4IH0gfSwKICB7IG06MTAsICBkYXk6IHsgcG5sOiAtMjMwMDAsIHRyYWRlczoxMTY3LCAgYXBsdXM6MjMzLCAgYmdyYWRlOjM1MCwgIGNkZ3JhZGU6NTg0LCAgZmVlczogNjkwMCwgIGJsb3d1cHM6IDIsIHN0cmVzczogOTYsIHNjcmVlbjoyMTI1LCB2YWNhdGlvbjogMCAgfSwgc3dnOiB7IHBubDogMzE0NDAsIHRyYWRlczo1MCwgICAgZmVlczogMzYwLCAgICBkcmF3ZG93bjogZmFsc2UsIHN0cmVzczogMjAsIHNjcmVlbjogODQsICB2YWNhdGlvbjoyMiB9IH0sCiAgeyBtOjExLCAgZGF5OiB7IHBubDogLTI0NTAwLCB0cmFkZXM6MTI4NCwgIGFwbHVzOjI1NywgIGJncmFkZTozODUsICBjZGdyYWRlOjY0MiwgIGZlZXM6IDc2MDAsICBibG93dXBzOiAyLCBzdHJlc3M6IDk4LCBzY3JlZW46MjM0MCwgdmFjYXRpb246IDAgIH0sIHN3ZzogeyBwbmw6IDQwOTYwLCB0cmFkZXM6NTUsICAgIGZlZXM6IDM5NiwgICAgZHJhd2Rvd246IGZhbHNlLCBzdHJlc3M6IDE4LCBzY3JlZW46IDkyLCAgdmFjYXRpb246MzAgfSB9LAogIHsgbToxMiwgIGRheTogeyBwbmw6IC0yNjAwMCwgdHJhZGVzOjE0MDAsICBhcGx1czoyODAsICBiZ3JhZGU6NDIwLCAgY2RncmFkZTo3MDAsICBmZWVzOiA4MjQwLCAgYmxvd3VwczogMiwgc3RyZXNzOjEwMCwgc2NyZWVuOjI1NTUsIHZhY2F0aW9uOiAwICB9LCBzd2c6IHsgcG5sOiA1NTI4MCwgdHJhZGVzOjYwLCAgICBmZWVzOiA0MzIsICAgIGRyYXdkb3duOiBmYWxzZSwgc3RyZXNzOiAxNiwgc2NyZWVuOjEwMCwgIHZhY2F0aW9uOjQyIH0gfSwKXTsKCmNvbnN0IFNUQVJUID0gMTAwMDA7CmNvbnN0IGRheUJhbGFuY2VzID0gRFZfTU9OVEhTLm1hcChzID0+IE1hdGgubWF4KDAsIFNUQVJUICogKDEgKyBzLmRheS5ibG93dXBzKSArIHMuZGF5LnBubCkpOwpjb25zdCBzd2dCYWxhbmNlcyA9IERWX01PTlRIUy5tYXAocyA9PiBTVEFSVCArIHMuc3dnLnBubCk7CmNvbnN0IG1heEJhbGFuY2UgPSBNYXRoLm1heCguLi5zd2dCYWxhbmNlcyk7CgpmdW5jdGlvbiBiYWxhbmNlWShiOiBudW1iZXIpIHsKICBjb25zdCB0ID0gYiAvIG1heEJhbGFuY2U7CiAgcmV0dXJuIDI0MCAtIHQgKiAyMDA7Cn0KZnVuY3Rpb24gbW9udGhYKG06IG51bWJlcikgewogIHJldHVybiA2MCArICgobSAtIDEpIC8gMTEpICogMTA4MDsKfQoKY29uc3QgZGF5UGF0aCA9IERWX01PTlRIUy5tYXAoKHMsIGkpID0+IGAke2kgPT09IDAgPyAiTSIgOiAiTCJ9ICR7bW9udGhYKHMubSl9ICR7YmFsYW5jZVkoZGF5QmFsYW5jZXNbaV0pfWApLmpvaW4oIiAiKTsKY29uc3Qgc3dnUGF0aCA9IERWX01PTlRIUy5tYXAoKHMsIGkpID0+IGAke2kgPT09IDAgPyAiTSIgOiAiTCJ9ICR7bW9udGhYKHMubSl9ICR7YmFsYW5jZVkoc3dnQmFsYW5jZXNbaV0pfWApLmpvaW4oIiAiKTsKY29uc3Qgc3RhcnRZID0gYmFsYW5jZVkoU1RBUlQpOwoKZnVuY3Rpb24gZm10TW9uZXkobjogbnVtYmVyKSB7CiAgY29uc3QgYWJzID0gTWF0aC5hYnMobik7CiAgY29uc3Qgc2lnbiA9IG4gPCAwID8gIuKIkiIgOiAiKyI7CiAgaWYgKGFicyA+PSAxMDAwKSByZXR1cm4gYCR7c2lnbn0kJHsoYWJzIC8gMTAwMCkudG9GaXhlZCgxKX1LYDsKICByZXR1cm4gYCR7c2lnbn0kJHthYnMudG9Mb2NhbGVTdHJpbmcoKX1gOwp9CgpmdW5jdGlvbiBEdkNhcmQoeyBraWNrZXIsIGhhbmRsZSwgYWNjZW50LCBwbmwsIGJhbGFuY2UsIHRvdGFsRGVwb3NpdGVkLCBtZXRyaWNzLCBzdHJlc3NMYWJlbCwgc3RyZXNzVmFsdWUsIG5vdGUsIHBvc2l0aXZlIH06IHsKICBraWNrZXI6IHN0cmluZzsgaGFuZGxlOiBzdHJpbmc7IGFjY2VudDogc3RyaW5nOyBwbmw6IG51bWJlcjsgYmFsYW5jZTogbnVtYmVyOwogIHRvdGFsRGVwb3NpdGVkPzogbnVtYmVyOyBtZXRyaWNzOiB7IHY6IHN0cmluZyB8IG51bWJlcjsgazogc3RyaW5nOyBoaWdobGlnaHQ/OiBib29sZWFuIH1bXTsKICBzdHJlc3NMYWJlbDogc3RyaW5nOyBzdHJlc3NWYWx1ZTogbnVtYmVyOyBub3RlOiBzdHJpbmc7IHBvc2l0aXZlPzogYm9vbGVhbjsKfSkgewogIHJldHVybiAoCiAgICA8ZGl2IHN0eWxlPXt7IGJhY2tncm91bmQ6ICJ2YXIoLS1iZy0yKSIsIGJvcmRlcjogIjFweCBzb2xpZCB2YXIoLS1saW5lKSIsIGJvcmRlclRvcDogYDJweCBzb2xpZCAke2FjY2VudH1gLCBwYWRkaW5nOiAiMjJweCAyNHB4IiwgZGlzcGxheTogImZsZXgiLCBmbGV4RGlyZWN0aW9uOiAiY29sdW1uIiB9fT4KICAgICAgPGRpdiBzdHlsZT17eyBtYXJnaW5Cb3R0b206IDE2IH19PgogICAgICAgIDxkaXYgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtbW9ubykiLCBmb250U2l6ZTogMTAsIGZvbnRXZWlnaHQ6IDcwMCwgY29sb3I6IGFjY2VudCwgbGV0dGVyU3BhY2luZzogIjAuMjJlbSIsIHRleHRUcmFuc2Zvcm06ICJ1cHBlcmNhc2UiIH19PsK3IHtraWNrZXJ9IMK3PC9kaXY+CiAgICAgICAgPGRpdiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1tb25vKSIsIGZvbnRTaXplOiA4LjUsIGZvbnRXZWlnaHQ6IDcwMCwgY29sb3I6ICJ2YXIoLS1hc2gpIiwgbGV0dGVyU3BhY2luZzogIjAuMjJlbSIsIHRleHRUcmFuc2Zvcm06ICJ1cHBlcmNhc2UiLCBtYXJnaW5Ub3A6IDggfX0+e2hhbmRsZX08L2Rpdj4KICAgICAgPC9kaXY+CiAgICAgIDxkaXYgc3R5bGU9e3sgZGlzcGxheTogImZsZXgiLCBhbGlnbkl0ZW1zOiAiYmFzZWxpbmUiLCBnYXA6IDE0LCBtYXJnaW5Cb3R0b206IDE4LCBmbGV4V3JhcDogIndyYXAiIH19PgogICAgICAgIDxkaXYgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtZGlzcGxheSkiLCBmb250U2l6ZTogNDgsIGZvbnRXZWlnaHQ6IDcwMCwgY29sb3I6IGFjY2VudCwgbGV0dGVyU3BhY2luZzogIi0wLjAzNWVtIiwgbGluZUhlaWdodDogMC45LCB0ZXh0U2hhZG93OiBwb3NpdGl2ZSA/ICIwIDAgMjRweCByZ2JhKDE5MSwyNTAsNzAsMC4zKSIgOiAibm9uZSIgfX0+CiAgICAgICAgICB7Zm10TW9uZXkocG5sKX0KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2PgogICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1tb25vKSIsIGZvbnRTaXplOiA4LCBmb250V2VpZ2h0OiA3MDAsIGNvbG9yOiAidmFyKC0tYXNoKSIsIGxldHRlclNwYWNpbmc6ICIwLjIyZW0iLCB0ZXh0VHJhbnNmb3JtOiAidXBwZXJjYXNlIiB9fT4KICAgICAgICAgICAgwrcgQWN0aXZlIGJhbGFuY2V7dG90YWxEZXBvc2l0ZWQgJiYgdG90YWxEZXBvc2l0ZWQgPiBTVEFSVCA/IGAgwrcgJCR7KHRvdGFsRGVwb3NpdGVkIC8gMTAwMCkudG9GaXhlZCgwKX1LIGRlcG9zaXRlZGAgOiAiIn0KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1kaXNwbGF5KSIsIGZvbnRTaXplOiAxNiwgZm9udFdlaWdodDogNjAwLCBjb2xvcjogInZhcigtLWJvbmUpIiwgbGV0dGVyU3BhY2luZzogIi0wLjAyZW0iLCBtYXJnaW5Ub3A6IDIgfX0+CiAgICAgICAgICAgICR7YmFsYW5jZS50b0xvY2FsZVN0cmluZygpfQogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgICA8ZGl2IHN0eWxlPXt7IGRpc3BsYXk6ICJncmlkIiwgZ3JpZFRlbXBsYXRlQ29sdW1uczogIjFmciAxZnIiLCBnYXA6IDEwLCBwYWRkaW5nOiAiMTRweCAwIiwgYm9yZGVyVG9wOiAiMXB4IHNvbGlkIHZhcigtLWxpbmUpIiwgYm9yZGVyQm90dG9tOiAiMXB4IHNvbGlkIHZhcigtLWxpbmUpIiB9fT4KICAgICAgICB7bWV0cmljcy5tYXAoKG0sIGkpID0+ICgKICAgICAgICAgIDxkaXYga2V5PXtpfT4KICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1kaXNwbGF5KSIsIGZvbnRTaXplOiAxNywgZm9udFdlaWdodDogNzAwLCBjb2xvcjogbS5oaWdobGlnaHQgPyBhY2NlbnQgOiAidmFyKC0tYm9uZSkiLCBsZXR0ZXJTcGFjaW5nOiAiLTAuMDJlbSIsIGxpbmVIZWlnaHQ6IDEgfX0+e20udn08L2Rpdj4KICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1tb25vKSIsIGZvbnRTaXplOiA4LCBmb250V2VpZ2h0OiA3MDAsIGNvbG9yOiAidmFyKC0tYXNoKSIsIGxldHRlclNwYWNpbmc6ICIwLjIyZW0iLCB0ZXh0VHJhbnNmb3JtOiAidXBwZXJjYXNlIiwgbWFyZ2luVG9wOiA2IH19PsK3IHttLmt9PC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICApKX0KICAgICAgPC9kaXY+CiAgICAgIDxkaXYgc3R5bGU9e3sgbWFyZ2luVG9wOiAxNiB9fT4KICAgICAgICA8ZGl2IHN0eWxlPXt7IGRpc3BsYXk6ICJmbGV4IiwganVzdGlmeUNvbnRlbnQ6ICJzcGFjZS1iZXR3ZWVuIiwgYWxpZ25JdGVtczogImJhc2VsaW5lIiwgbWFyZ2luQm90dG9tOiA4IH19PgogICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1tb25vKSIsIGZvbnRTaXplOiA4LCBmb250V2VpZ2h0OiA3MDAsIGNvbG9yOiAidmFyKC0tYXNoKSIsIGxldHRlclNwYWNpbmc6ICIwLjIyZW0iLCB0ZXh0VHJhbnNmb3JtOiAidXBwZXJjYXNlIiB9fT7CtyB7c3RyZXNzTGFiZWx9PC9kaXY+CiAgICAgICAgICA8c3BhbiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1tb25vKSIsIGZvbnRTaXplOiA5LCBmb250V2VpZ2h0OiA3MDAsIGNvbG9yOiBhY2NlbnQsIGxldHRlclNwYWNpbmc6ICIwLjE4ZW0iIH19PntzdHJlc3NWYWx1ZX0gLyAxMDA8L3NwYW4+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdiBzdHlsZT17eyBoZWlnaHQ6IDYsIGJhY2tncm91bmQ6ICJ2YXIoLS1iZy0zKSIsIG92ZXJmbG93OiAiaGlkZGVuIiB9fT4KICAgICAgICAgIDxkaXYgc3R5bGU9e3sgd2lkdGg6IGAke3N0cmVzc1ZhbHVlfSVgLCBoZWlnaHQ6ICIxMDAlIiwgYmFja2dyb3VuZDogYWNjZW50LCB0cmFuc2l0aW9uOiAid2lkdGggMjgwbXMgY3ViaWMtYmV6aWVyKDAuMiwwLjgsMC4yLDEpIiwgYm94U2hhZG93OiBgMCAwIDEycHggJHthY2NlbnR9YCB9fSAvPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgICAgPHAgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtZGlzcGxheSkiLCBmb250U2l6ZTogMTQsIGZvbnRXZWlnaHQ6IDUwMCwgZm9udFN0eWxlOiAiaXRhbGljIiwgY29sb3I6ICJ2YXIoLS1hc2gpIiwgbGluZUhlaWdodDogMS40LCBtYXJnaW46ICIxNnB4IDAgMCIsIGxldHRlclNwYWNpbmc6ICItMC4wMWVtIiB9fT57bm90ZX08L3A+CiAgICA8L2Rpdj4KICApOwp9CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBEYXlWc1N3aW5nQ29tcGFyaXNvbigpIHsKICBjb25zdCBbbW9udGgsIHNldE1vbnRoXSA9IHVzZVN0YXRlKDMpOwogIGNvbnN0IGlkeCA9IG1vbnRoIC0gMTsKICBjb25zdCBjdXIgPSBEVl9NT05USFNbaWR4XTsKCiAgcmV0dXJuICgKICAgIDxkaXYgc3R5bGU9e3sgYmFja2dyb3VuZDogInZhcigtLWJnLTEpIiwgYm9yZGVyOiAiMXB4IHNvbGlkIHZhcigtLWxpbmUpIiwgcGFkZGluZzogIjQ0cHggNDRweCAzMnB4IiwgbWFyZ2luQm90dG9tOiA1NiwgcG9zaXRpb246ICJyZWxhdGl2ZSIsIG92ZXJmbG93OiAiaGlkZGVuIiB9fT4KICAgICAgPGRpdiBzdHlsZT17eyBwb3NpdGlvbjogImFic29sdXRlIiwgaW5zZXQ6IDAsIHBvaW50ZXJFdmVudHM6ICJub25lIiwgYmFja2dyb3VuZDogInJhZGlhbC1ncmFkaWVudCg5MDBweCA0MDBweCBhdCA1MCUgNTAlLCByZ2JhKDE5MSwyNTAsNzAsMC4wNCksIHRyYW5zcGFyZW50IDYwJSkiIH19IC8+CiAgICAgIDxkaXYgc3R5bGU9e3sgcG9zaXRpb246ICJyZWxhdGl2ZSIgfX0+CiAgICAgICAgPGRpdiBzdHlsZT17eyBkaXNwbGF5OiAiZmxleCIsIGp1c3RpZnlDb250ZW50OiAic3BhY2UtYmV0d2VlbiIsIGFsaWduSXRlbXM6ICJiYXNlbGluZSIsIG1hcmdpbkJvdHRvbTogMjQsIGZsZXhXcmFwOiAid3JhcCIsIGdhcDogMTYgfX0+CiAgICAgICAgICA8ZGl2PgogICAgICAgICAgICA8ZGl2IHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LW1vbm8pIiwgZm9udFNpemU6IDksIGZvbnRXZWlnaHQ6IDcwMCwgY29sb3I6ICJ2YXIoLS1hc2gpIiwgbGV0dGVyU3BhY2luZzogIjAuMjJlbSIsIHRleHRUcmFuc2Zvcm06ICJ1cHBlcmNhc2UiLCBtYXJnaW5Cb3R0b206IDEwIH19PsK3IDEyIG1vbnRocyDCtyBzYW1lICQxMEsgc3RhcnQgwrcgdHdvIHBhdGhzIMK3PC9kaXY+CiAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtZGlzcGxheSkiLCBmb250U2l6ZTogMzYsIGZvbnRXZWlnaHQ6IDYwMCwgY29sb3I6ICJ2YXIoLS1ib25lKSIsIGxldHRlclNwYWNpbmc6ICItMC4wMjVlbSIsIGxpbmVIZWlnaHQ6IDEuMCB9fT4KICAgICAgICAgICAgICBTY3J1YiB0aGUgdGltZWxpbmUuIDxlbSBzdHlsZT17eyBjb2xvcjogInZhcigtLWFjaWQpIiB9fT5XYXRjaCBib3RoIGxpdmVzIHBsYXkgb3V0LjwvZW0+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8ZGl2IHN0eWxlPXt7IGRpc3BsYXk6ICJmbGV4IiwgZmxleERpcmVjdGlvbjogImNvbHVtbiIsIGFsaWduSXRlbXM6ICJmbGV4LWVuZCIsIGdhcDogNCB9fT4KICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1tb25vKSIsIGZvbnRTaXplOiAxMCwgZm9udFdlaWdodDogNzAwLCBjb2xvcjogInZhcigtLWFjaWQpIiwgbGV0dGVyU3BhY2luZzogIjAuMjJlbSIsIHRleHRUcmFuc2Zvcm06ICJ1cHBlcmNhc2UiIH19PsK3IE1vbnRoIHtTdHJpbmcobW9udGgpLnBhZFN0YXJ0KDIsICIwIil9IC8gMTIgwrc8L2Rpdj4KICAgICAgICAgICAgPHNwYW4gc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtbW9ubykiLCBmb250U2l6ZTogOSwgZm9udFdlaWdodDogNjAwLCBjb2xvcjogInZhcigtLW11dGVkKSIsIGxldHRlclNwYWNpbmc6ICIwLjIyZW0iIH19PsK3IERyYWcgdGhlIHNsaWRlciBiZWxvdyDCtzwvc3Bhbj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgoKICAgICAgICA8ZGl2IHN0eWxlPXt7IGJhY2tncm91bmQ6ICJ2YXIoLS1iZy0yKSIsIGJvcmRlcjogIjFweCBzb2xpZCB2YXIoLS1saW5lKSIsIHBhZGRpbmc6ICIyMHB4IDI0cHgiLCBtYXJnaW5Cb3R0b206IDIwLCBvdmVyZmxvdzogImhpZGRlbiIgfX0+CiAgICAgICAgICA8c3ZnIHZpZXdCb3g9IjAgMCAxMjAwIDI4MCIgc3R5bGU9e3sgd2lkdGg6ICIxMDAlIiwgZGlzcGxheTogImJsb2NrIiwgb3ZlcmZsb3c6ICJ2aXNpYmxlIiB9fT4KICAgICAgICAgICAge1s0MCwgOTAsIDE0MCwgMTkwLCAyNDBdLm1hcCgoeSwgaSkgPT4gKAogICAgICAgICAgICAgIDxsaW5lIGtleT17aX0geDE9IjYwIiB4Mj0iMTE0MCIgeTE9e3l9IHkyPXt5fSBzdHJva2U9InZhcigtLWxpbmUpIiBzdHJva2VXaWR0aD0iMSIgc3Ryb2tlRGFzaGFycmF5PSIyIDYiIG9wYWNpdHk9IjAuNSIgLz4KICAgICAgICAgICAgKSl9CiAgICAgICAgICAgIHtbeyB5OiA0MCwgdjogbWF4QmFsYW5jZSB9LCB7IHk6IDE0MCwgdjogU1RBUlQgfSwgeyB5OiAyNDAsIHY6IDAgfV0ubWFwKChnLCBpKSA9PiAoCiAgICAgICAgICAgICAgPHRleHQga2V5PXtpfSB4PSI1MiIgeT17Zy55ICsgM30gdGV4dEFuY2hvcj0iZW5kIiBmaWxsPSJ2YXIoLS1tdXRlZCkiCiAgICAgICAgICAgICAgICBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1tb25vKSIsIGZvbnRTaXplOiA5LCBmb250V2VpZ2h0OiA3MDAsIGxldHRlclNwYWNpbmc6ICIwLjE4ZW0iIH19PgogICAgICAgICAgICAgICAgJHsoZy52IC8gMTAwMCkudG9GaXhlZCgwKX1LCiAgICAgICAgICAgICAgPC90ZXh0PgogICAgICAgICAgICApKX0KICAgICAgICAgICAgPGxpbmUgeDE9IjYwIiB4Mj0iMTE0MCIgeTE9e3N0YXJ0WX0geTI9e3N0YXJ0WX0gc3Ryb2tlPSJ2YXIoLS1hc2gpIiBzdHJva2VXaWR0aD0iMSIgc3Ryb2tlRGFzaGFycmF5PSI0IDQiIG9wYWNpdHk9IjAuNCIgLz4KICAgICAgICAgICAgPHRleHQgeD0iMTE0NSIgeT17c3RhcnRZICsgM30gZmlsbD0idmFyKC0tYXNoKSIgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtbW9ubykiLCBmb250U2l6ZTogOSwgZm9udFdlaWdodDogNzAwLCBsZXR0ZXJTcGFjaW5nOiAiMC4xOGVtIiB9fT5TVEFSVDwvdGV4dD4KICAgICAgICAgICAgPGRlZnM+CiAgICAgICAgICAgICAgPGNsaXBQYXRoIGlkPSJkdi1jbGlwIj4KICAgICAgICAgICAgICAgIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPXttb250aFgobW9udGgpICsgNH0gaGVpZ2h0PSIyODAiIC8+CiAgICAgICAgICAgICAgPC9jbGlwUGF0aD4KICAgICAgICAgICAgPC9kZWZzPgogICAgICAgICAgICA8cGF0aCBkPXtkYXlQYXRofSBmaWxsPSJub25lIiBzdHJva2U9InZhcigtLXBpbmspIiBzdHJva2VXaWR0aD0iMi4yIiBvcGFjaXR5PSIwLjgiIGNsaXBQYXRoPSJ1cmwoI2R2LWNsaXApIiBzdHlsZT17eyBmaWx0ZXI6ICJkcm9wLXNoYWRvdygwIDAgOHB4IHJnYmEoMjU1LDQ1LDE3MSwwLjM1KSkiIH19IC8+CiAgICAgICAgICAgIDxwYXRoIGQ9e3N3Z1BhdGh9IGZpbGw9Im5vbmUiIHN0cm9rZT0idmFyKC0tYWNpZCkiIHN0cm9rZVdpZHRoPSIyLjIiIG9wYWNpdHk9IjAuOTUiIGNsaXBQYXRoPSJ1cmwoI2R2LWNsaXApIiBzdHlsZT17eyBmaWx0ZXI6ICJkcm9wLXNoYWRvdygwIDAgMTBweCByZ2JhKDE5MSwyNTAsNzAsMC40KSkiIH19IC8+CiAgICAgICAgICAgIDxsaW5lIHgxPXttb250aFgobW9udGgpfSB4Mj17bW9udGhYKG1vbnRoKX0geTE9IjIwIiB5Mj0iMjYwIiBzdHJva2U9InZhcigtLWJvbmUpIiBzdHJva2VXaWR0aD0iMSIgc3Ryb2tlRGFzaGFycmF5PSIzIDUiIG9wYWNpdHk9IjAuNSIgLz4KICAgICAgICAgICAgPGNpcmNsZSBjeD17bW9udGhYKG1vbnRoKX0gY3k9e2JhbGFuY2VZKGRheUJhbGFuY2VzW2lkeF0pfSByPSI2IiBmaWxsPSJ2YXIoLS1iZy0xKSIgc3Ryb2tlPSJ2YXIoLS1waW5rKSIgc3Ryb2tlV2lkdGg9IjIuNSIgc3R5bGU9e3sgZmlsdGVyOiAiZHJvcC1zaGFkb3coMCAwIDhweCB2YXIoLS1waW5rKSkiIH19IC8+CiAgICAgICAgICAgIDxjaXJjbGUgY3g9e21vbnRoWChtb250aCl9IGN5PXtiYWxhbmNlWShzd2dCYWxhbmNlc1tpZHhdKX0gcj0iNiIgZmlsbD0idmFyKC0tYmctMSkiIHN0cm9rZT0idmFyKC0tYWNpZCkiIHN0cm9rZVdpZHRoPSIyLjUiIHN0eWxlPXt7IGZpbHRlcjogImRyb3Atc2hhZG93KDAgMCA4cHggdmFyKC0tYWNpZCkpIiB9fSAvPgogICAgICAgICAgICB7RFZfTU9OVEhTLm1hcCgocywgaSkgPT4gKAogICAgICAgICAgICAgIDx0ZXh0IGtleT17aX0geD17bW9udGhYKHMubSl9IHk9IjI3MiIgdGV4dEFuY2hvcj0ibWlkZGxlIiBmaWxsPXtzLm0gPT09IG1vbnRoID8gInZhcigtLWJvbmUpIiA6ICJ2YXIoLS1tdXRlZCkifSBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1tb25vKSIsIGZvbnRTaXplOiA5LCBmb250V2VpZ2h0OiA3MDAsIGxldHRlclNwYWNpbmc6ICIwLjE0ZW0iIH19Pk17cy5tfTwvdGV4dD4KICAgICAgICAgICAgKSl9CiAgICAgICAgICA8L3N2Zz4KICAgICAgICA8L2Rpdj4KCiAgICAgICAgPGRpdiBzdHlsZT17eyBtYXJnaW5Cb3R0b206IDI4LCBwYWRkaW5nOiAiMCA0cHgiIH19PgogICAgICAgICAgPGlucHV0CiAgICAgICAgICAgIHR5cGU9InJhbmdlIgogICAgICAgICAgICBtaW49ezF9CiAgICAgICAgICAgIG1heD17MTJ9CiAgICAgICAgICAgIHN0ZXA9ezF9CiAgICAgICAgICAgIHZhbHVlPXttb250aH0KICAgICAgICAgICAgb25DaGFuZ2U9eyhlKSA9PiBzZXRNb250aChwYXJzZUludChlLnRhcmdldC52YWx1ZSwgMTApKX0KICAgICAgICAgICAgYXJpYS1sYWJlbD0iTW9udGgiCiAgICAgICAgICAgIGNsYXNzTmFtZT0icWMtZHYtc2xpZGVyIgogICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgIHdpZHRoOiAiMTAwJSIsCiAgICAgICAgICAgICAgaGVpZ2h0OiA0LAogICAgICAgICAgICAgIGFwcGVhcmFuY2U6ICJub25lIiwKICAgICAgICAgICAgICBiYWNrZ3JvdW5kOiBgbGluZWFyLWdyYWRpZW50KHRvIHJpZ2h0LCB2YXIoLS1hY2lkKSAwJSwgdmFyKC0tYWNpZCkgJHsoKG1vbnRoIC0gMSkgLyAxMSkgKiAxMDB9JSwgdmFyKC0tbGluZS0yKSAkeygobW9udGggLSAxKSAvIDExKSAqIDEwMH0lLCB2YXIoLS1saW5lLTIpIDEwMCUpYCwKICAgICAgICAgICAgICBvdXRsaW5lOiAibm9uZSIsCiAgICAgICAgICAgICAgY3Vyc29yOiAicG9pbnRlciIsCiAgICAgICAgICAgIH19CiAgICAgICAgICAvPgogICAgICAgIDwvZGl2PgoKICAgICAgICA8ZGl2IHN0eWxlPXt7IGRpc3BsYXk6ICJncmlkIiwgZ3JpZFRlbXBsYXRlQ29sdW1uczogIjFmciAxZnIiLCBnYXA6IDE2IH19PgogICAgICAgICAgPER2Q2FyZAogICAgICAgICAgICBraWNrZXI9IlRoZSBkYXkgdHJhZGVyIgogICAgICAgICAgICBoYW5kbGU9Ik92ZXItdHJhZGluZyB0byBkZWF0aCDCtyBzY3JlZW4tYm91bmQgwrcgcmV2ZW5nZSBjeWNsZSIKICAgICAgICAgICAgYWNjZW50PSJ2YXIoLS1waW5rKSIKICAgICAgICAgICAgcG5sPXtjdXIuZGF5LnBubH0KICAgICAgICAgICAgYmFsYW5jZT17ZGF5QmFsYW5jZXNbaWR4XX0KICAgICAgICAgICAgdG90YWxEZXBvc2l0ZWQ9e1NUQVJUICogKDEgKyBjdXIuZGF5LmJsb3d1cHMpfQogICAgICAgICAgICBtZXRyaWNzPXtbCiAgICAgICAgICAgICAgeyB2OiBjdXIuZGF5LnRyYWRlcy50b0xvY2FsZVN0cmluZygpLCBrOiAiVHJhZGVzIHBsYWNlZCIgfSwKICAgICAgICAgICAgICB7IHY6IGAke2N1ci5kYXkuYXBsdXN9IC8gJHtjdXIuZGF5LmJncmFkZX0gLyAke2N1ci5kYXkuY2RncmFkZX1gLCBrOiAiQSsgLyBCIC8gQy1EIGdyYWRlIiwgaGlnaGxpZ2h0OiB0cnVlIH0sCiAgICAgICAgICAgICAgeyB2OiBgJCR7Y3VyLmRheS5mZWVzLnRvTG9jYWxlU3RyaW5nKCl9YCwgazogIkZlZXMgcGFpZCIgfSwKICAgICAgICAgICAgICB7IHY6IGN1ci5kYXkuYmxvd3VwcywgazogIlRpbWVzIGJsb3duIHVwIiwgaGlnaGxpZ2h0OiBjdXIuZGF5LmJsb3d1cHMgPiAwIH0sCiAgICAgICAgICAgICAgeyB2OiBgJHtjdXIuZGF5LnNjcmVlbi50b0xvY2FsZVN0cmluZygpfSBocnNgLCBrOiAiU2NyZWVuIHRpbWUiIH0sCiAgICAgICAgICAgICAgeyB2OiBgJHtjdXIuZGF5LnZhY2F0aW9ufWAsIGs6ICJWYWNhdGlvbiBkYXlzIiB9LAogICAgICAgICAgICBdfQogICAgICAgICAgICBzdHJlc3NMYWJlbD0iU3RyZXNzICsgY29ydGlzb2wiCiAgICAgICAgICAgIHN0cmVzc1ZhbHVlPXtjdXIuZGF5LnN0cmVzc30KICAgICAgICAgICAgbm90ZT17Y3VyLmRheS5ibG93dXBzID4gMCA/IGBBY2NvdW50IGJsZXcgdXAgJHtjdXIuZGF5LmJsb3d1cHN9w5cg4oCUIHJlLWRlcG9zaXRlZCwgc3RhcnRlZCBvdmVyLmAgOiAiU2xvd2x5IGJsZWVkaW5nIG91dC4gQ29udmluY2VkICd0aGlzIG1vbnRoIGlzIHRoZSBvbmUuJyJ9CiAgICAgICAgICAvPgogICAgICAgICAgPER2Q2FyZAogICAgICAgICAgICBraWNrZXI9IlRoZSBzd2luZyBvcGVyYXRvciIKICAgICAgICAgICAgaGFuZGxlPSI1IEErIHNldHVwcyBhIG1vbnRoIMK3IHBsYW4gwrcgcGxhY2Ugwrcgd2FsayBhd2F5IgogICAgICAgICAgICBhY2NlbnQ9InZhcigtLWFjaWQpIgogICAgICAgICAgICBwbmw9e2N1ci5zd2cucG5sfQogICAgICAgICAgICBiYWxhbmNlPXtzd2dCYWxhbmNlc1tpZHhdfQogICAgICAgICAgICBtZXRyaWNzPXtbCiAgICAgICAgICAgICAgeyB2OiBjdXIuc3dnLnRyYWRlcy50b0xvY2FsZVN0cmluZygpLCBrOiAiVHJhZGVzIHBsYWNlZCIgfSwKICAgICAgICAgICAgICB7IHY6ICIxMDAlIEErIiwgazogIlNldHVwIHF1YWxpdHkiLCBoaWdobGlnaHQ6IHRydWUgfSwKICAgICAgICAgICAgICB7IHY6IGAkJHtjdXIuc3dnLmZlZXMudG9Mb2NhbGVTdHJpbmcoKX1gLCBrOiAiRmVlcyBwYWlkIiB9LAogICAgICAgICAgICAgIHsgdjogY3VyLnN3Zy5kcmF3ZG93biA/ICJEcmF3ZG93biIgOiAiQ29tcG91bmRpbmciLCBrOiAiRXF1aXR5IHN0YXRlIiB9LAogICAgICAgICAgICAgIHsgdjogYCR7Y3VyLnN3Zy5zY3JlZW59IGhyc2AsIGs6ICJTY3JlZW4gdGltZSIgfSwKICAgICAgICAgICAgICB7IHY6IGAke2N1ci5zd2cudmFjYXRpb259YCwgazogIlZhY2F0aW9uIGRheXMiIH0sCiAgICAgICAgICAgIF19CiAgICAgICAgICAgIHN0cmVzc0xhYmVsPSJTdHJlc3MgKyBjb3J0aXNvbCIKICAgICAgICAgICAgc3RyZXNzVmFsdWU9e2N1ci5zd2cuc3RyZXNzfQogICAgICAgICAgICBub3RlPXtjdXIuc3dnLmRyYXdkb3duID8gIlNtYWxsIGRyYXdkb3duLiBTdG9wcyB3b3JrZWQuIFBsYW4gdW5jaGFuZ2VkLiIgOiAiQ29tcG91bmRpbmcgdGhyb3VnaCB0aGUgY3ljbGUuIFNsZWVwaW5nIHRocm91Z2ggdGhlIG5pZ2h0LiJ9CiAgICAgICAgICAgIHBvc2l0aXZlCiAgICAgICAgICAvPgogICAgICAgIDwvZGl2PgoKICAgICAgICB7bW9udGggPT09IDEyICYmICgKICAgICAgICAgIDxkaXYgc3R5bGU9e3sgbWFyZ2luVG9wOiAyMCwgcGFkZGluZzogIjIwcHggMjZweCIsIGJhY2tncm91bmQ6ICJ2YXIoLS1iZy0yKSIsIGJvcmRlcjogIjFweCBzb2xpZCB2YXIoLS1hY2lkKSIsIGRpc3BsYXk6ICJncmlkIiwgZ3JpZFRlbXBsYXRlQ29sdW1uczogImF1dG8gMWZyIGF1dG8iLCBnYXA6IDI0LCBhbGlnbkl0ZW1zOiAiY2VudGVyIiB9fT4KICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LW1vbm8pIiwgZm9udFNpemU6IDksIGZvbnRXZWlnaHQ6IDcwMCwgY29sb3I6ICJ2YXIoLS1waW5rKSIsIGxldHRlclNwYWNpbmc6ICIwLjIyZW0iLCB0ZXh0VHJhbnNmb3JtOiAidXBwZXJjYXNlIiB9fT7CtyBEYXkgdHJhZGVyIMK3IHllYXIgZW5kPC9kaXY+CiAgICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1kaXNwbGF5KSIsIGZvbnRTaXplOiAyOCwgZm9udFdlaWdodDogNzAwLCBjb2xvcjogInZhcigtLXBpbmspIiwgbGV0dGVyU3BhY2luZzogIi0wLjAyNWVtIiwgbGluZUhlaWdodDogMSwgbWFyZ2luVG9wOiA0IH19PntmbXRNb25leShjdXIuZGF5LnBubCl9PC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IHN0eWxlPXt7IHRleHRBbGlnbjogImNlbnRlciIgfX0+CiAgICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1tb25vKSIsIGZvbnRTaXplOiA5LCBmb250V2VpZ2h0OiA3MDAsIGNvbG9yOiAidmFyKC0tYm9uZSkiLCBsZXR0ZXJTcGFjaW5nOiAiMC4yMmVtIiwgdGV4dFRyYW5zZm9ybTogInVwcGVyY2FzZSIgfX0+wrcgU2FtZSBzdGFydCDCtyBzYW1lIHllYXIgwrc8L2Rpdj4KICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LWRpc3BsYXkpIiwgZm9udFNpemU6IDE2LCBmb250V2VpZ2h0OiA1MDAsIGZvbnRTdHlsZTogIml0YWxpYyIsIGNvbG9yOiAidmFyKC0tYXNoKSIsIGxldHRlclNwYWNpbmc6ICItMC4wMWVtIiwgbWFyZ2luVG9wOiA2IH19Pk9uZSBwYXRoIGRlc3Ryb3lzIHlvdS4gVGhlIG90aGVyIGNvbXBvdW5kcy48L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgdGV4dEFsaWduOiAicmlnaHQiIH19PgogICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtbW9ubykiLCBmb250U2l6ZTogOSwgZm9udFdlaWdodDogNzAwLCBjb2xvcjogInZhcigtLWFjaWQpIiwgbGV0dGVyU3BhY2luZzogIjAuMjJlbSIsIHRleHRUcmFuc2Zvcm06ICJ1cHBlcmNhc2UiIH19PsK3IFN3aW5nIHRyYWRlciDCtyB5ZWFyIGVuZDwvZGl2PgogICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtZGlzcGxheSkiLCBmb250U2l6ZTogMjgsIGZvbnRXZWlnaHQ6IDcwMCwgY29sb3I6ICJ2YXIoLS1hY2lkKSIsIGxldHRlclNwYWNpbmc6ICItMC4wMjVlbSIsIGxpbmVIZWlnaHQ6IDEsIG1hcmdpblRvcDogNCwgdGV4dFNoYWRvdzogIjAgMCAyNHB4IHJnYmEoMTkxLDI1MCw3MCwwLjQpIiB9fT57Zm10TW9uZXkoY3VyLnN3Zy5wbmwpfTwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgICl9CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgKTsKfQo="}
+"use client";
+
+import { useState } from "react";
+
+const DV_MONTHS = [
+  { m: 1,  day: { pnl:   -500, trades: 117,  aplus: 23,  bgrade: 35,  cdgrade: 59,  fees:  580,  blowups: 0, stress: 58, screen: 195, vacation: 0  }, swg: { pnl:   720, trades: 5,    fees:  36,    drawdown: false, stress: 22, screen: 8,   vacation: 2  } },
+  { m: 2,  day: { pnl:  -1400, trades: 234,  aplus: 47,  bgrade: 70,  cdgrade:117,  fees: 1190,  blowups: 0, stress: 64, screen: 410, vacation: 0  }, swg: { pnl:  1560, trades:10,    fees:  72,    drawdown: false, stress: 24, screen: 17,  vacation: 4  } },
+  { m: 3,  day: { pnl:  -3100, trades: 350,  aplus: 70,  bgrade:105,  cdgrade:175,  fees: 1860,  blowups: 0, stress: 72, screen: 620, vacation: 0  }, swg: { pnl:  2880, trades:15,    fees: 108,    drawdown: false, stress: 28, screen: 26,  vacation: 6  } },
+  { m: 4,  day: { pnl: -10000, trades: 467,  aplus: 93,  bgrade:140,  cdgrade:234,  fees: 2710,  blowups: 1, stress: 92, screen: 835, vacation: 0  }, swg: { pnl:  2320, trades:20,    fees: 144,    drawdown: true,  stress: 36, screen: 35,  vacation: 6  } },
+  { m: 5,  day: { pnl: -11500, trades: 584,  aplus:117,  bgrade:175,  cdgrade:292,  fees: 3400,  blowups: 1, stress: 86, screen:1050, vacation: 0  }, swg: { pnl:  4960, trades:25,    fees: 180,    drawdown: false, stress: 26, screen: 44,  vacation: 8  } },
+  { m: 6,  day: { pnl: -13200, trades: 700,  aplus:140,  bgrade:210,  cdgrade:350,  fees: 4100,  blowups: 1, stress: 90, screen:1265, vacation: 0  }, swg: { pnl:  8400, trades:30,    fees: 216,    drawdown: false, stress: 24, screen: 52,  vacation:10 } },
+  { m: 7,  day: { pnl: -15000, trades: 817,  aplus:163,  bgrade:245,  cdgrade:409,  fees: 4800,  blowups: 1, stress: 92, screen:1480, vacation: 0  }, swg: { pnl: 13120, trades:35,    fees: 252,    drawdown: false, stress: 22, screen: 60,  vacation:12 } },
+  { m: 8,  day: { pnl: -20000, trades: 934,  aplus:187,  bgrade:280,  cdgrade:467,  fees: 5500,  blowups: 2, stress:100, screen:1695, vacation: 0  }, swg: { pnl: 16600, trades:40,    fees: 288,    drawdown: true,  stress: 34, screen: 68,  vacation:14 } },
+  { m: 9,  day: { pnl: -21500, trades:1050,  aplus:210,  bgrade:315,  cdgrade:525,  fees: 6200,  blowups: 2, stress: 94, screen:1910, vacation: 0  }, swg: { pnl: 23360, trades:45,    fees: 324,    drawdown: false, stress: 22, screen: 76,  vacation:18 } },
+  { m:10,  day: { pnl: -23000, trades:1167,  aplus:233,  bgrade:350,  cdgrade:584,  fees: 6900,  blowups: 2, stress: 96, screen:2125, vacation: 0  }, swg: { pnl: 31440, trades:50,    fees: 360,    drawdown: false, stress: 20, screen: 84,  vacation:22 } },
+  { m:11,  day: { pnl: -24500, trades:1284,  aplus:257,  bgrade:385,  cdgrade:642,  fees: 7600,  blowups: 2, stress: 98, screen:2340, vacation: 0  }, swg: { pnl: 40960, trades:55,    fees: 396,    drawdown: false, stress: 18, screen: 92,  vacation:30 } },
+  { m:12,  day: { pnl: -26000, trades:1400,  aplus:280,  bgrade:420,  cdgrade:700,  fees: 8240,  blowups: 2, stress:100, screen:2555, vacation: 0  }, swg: { pnl: 55280, trades:60,    fees: 432,    drawdown: false, stress: 16, screen:100,  vacation:42 } },
+];
+
+const START = 10000;
+const dayBalances = DV_MONTHS.map(s => Math.max(0, START * (1 + s.day.blowups) + s.day.pnl));
+const swgBalances = DV_MONTHS.map(s => START + s.swg.pnl);
+const maxBalance = Math.max(...swgBalances);
+
+function balanceY(b: number) {
+  const t = b / maxBalance;
+  return 240 - t * 200;
+}
+function monthX(m: number) {
+  return 60 + ((m - 1) / 11) * 1080;
+}
+
+const dayPath = DV_MONTHS.map((s, i) => `${i === 0 ? "M" : "L"} ${monthX(s.m)} ${balanceY(dayBalances[i])}`).join(" ");
+const swgPath = DV_MONTHS.map((s, i) => `${i === 0 ? "M" : "L"} ${monthX(s.m)} ${balanceY(swgBalances[i])}`).join(" ");
+const startY = balanceY(START);
+
+function fmtMoney(n: number) {
+  const abs = Math.abs(n);
+  const sign = n < 0 ? "−" : "+";
+  if (abs >= 1000) return `${sign}$${(abs / 1000).toFixed(1)}K`;
+  return `${sign}$${abs.toLocaleString()}`;
+}
+
+function DvCard({ kicker, handle, accent, pnl, balance, totalDeposited, metrics, stressLabel, stressValue, note, positive }: {
+  kicker: string; handle: string; accent: string; pnl: number; balance: number;
+  totalDeposited?: number; metrics: { v: string | number; k: string; highlight?: boolean }[];
+  stressLabel: string; stressValue: number; note: string; positive?: boolean;
+}) {
+  return (
+    <div style={{ background: "var(--bg-2)", border: "1px solid var(--line)", borderTop: `2px solid ${accent}`, padding: "22px 24px", display: "flex", flexDirection: "column" }}>
+      <div style={{ marginBottom: 16 }}>
+        <div style={{ fontFamily: "var(--font-mono)", fontSize: 10, fontWeight: 700, color: accent, letterSpacing: "0.22em", textTransform: "uppercase" }}>· {kicker} ·</div>
+        <div style={{ fontFamily: "var(--font-mono)", fontSize: 8.5, fontWeight: 700, color: "var(--ash)", letterSpacing: "0.22em", textTransform: "uppercase", marginTop: 8 }}>{handle}</div>
+      </div>
+      <div style={{ display: "flex", alignItems: "baseline", gap: 14, marginBottom: 18, flexWrap: "wrap" }}>
+        <div style={{ fontFamily: "var(--font-display)", fontSize: 48, fontWeight: 700, color: accent, letterSpacing: "-0.035em", lineHeight: 0.9, textShadow: positive ? "0 0 24px rgba(191,250,70,0.3)" : "none" }}>
+          {fmtMoney(pnl)}
+        </div>
+        <div>
+          <div style={{ fontFamily: "var(--font-mono)", fontSize: 8, fontWeight: 700, color: "var(--ash)", letterSpacing: "0.22em", textTransform: "uppercase" }}>
+            · Active balance{totalDeposited && totalDeposited > START ? ` · $${(totalDeposited / 1000).toFixed(0)}K deposited` : ""}
+          </div>
+          <div style={{ fontFamily: "var(--font-display)", fontSize: 16, fontWeight: 600, color: "var(--bone)", letterSpacing: "-0.02em", marginTop: 2 }}>
+            ${balance.toLocaleString()}
+          </div>
+        </div>
+      </div>
+      <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 10, padding: "14px 0", borderTop: "1px solid var(--line)", borderBottom: "1px solid var(--line)" }}>
+        {metrics.map((m, i) => (
+          <div key={i}>
+            <div style={{ fontFamily: "var(--font-display)", fontSize: 17, fontWeight: 700, color: m.highlight ? accent : "var(--bone)", letterSpacing: "-0.02em", lineHeight: 1 }}>{m.v}</div>
+            <div style={{ fontFamily: "var(--font-mono)", fontSize: 8, fontWeight: 700, color: "var(--ash)", letterSpacing: "0.22em", textTransform: "uppercase", marginTop: 6 }}>· {m.k}</div>
+          </div>
+        ))}
+      </div>
+      <div style={{ marginTop: 16 }}>
+        <div style={{ display: "flex", justifyContent: "space-between", alignItems: "baseline", marginBottom: 8 }}>
+          <div style={{ fontFamily: "var(--font-mono)", fontSize: 8, fontWeight: 700, color: "var(--ash)", letterSpacing: "0.22em", textTransform: "uppercase" }}>· {stressLabel}</div>
+          <span style={{ fontFamily: "var(--font-mono)", fontSize: 9, fontWeight: 700, color: accent, letterSpacing: "0.18em" }}>{stressValue} / 100</span>
+        </div>
+        <div style={{ height: 6, background: "var(--bg-3)", overflow: "hidden" }}>
+          <div style={{ width: `${stressValue}%`, height: "100%", background: accent, transition: "width 280ms cubic-bezier(0.2,0.8,0.2,1)", boxShadow: `0 0 12px ${accent}` }} />
+        </div>
+      </div>
+      <p style={{ fontFamily: "var(--font-display)", fontSize: 14, fontWeight: 500, fontStyle: "italic", color: "var(--ash)", lineHeight: 1.4, margin: "16px 0 0", letterSpacing: "-0.01em" }}>{note}</p>
+    </div>
+  );
+}
+
+export default function DayVsSwingComparison() {
+  const [month, setMonth] = useState(3);
+  const idx = month - 1;
+  const cur = DV_MONTHS[idx];
+
+  return (
+    <div style={{ background: "var(--bg-1)", border: "1px solid var(--line)", padding: "44px 44px 32px", marginBottom: 56, position: "relative", overflow: "hidden" }}>
+      <div style={{ position: "absolute", inset: 0, pointerEvents: "none", background: "radial-gradient(900px 400px at 50% 50%, rgba(191,250,70,0.04), transparent 60%)" }} />
+      <div style={{ position: "relative" }}>
+        <div style={{ display: "flex", justifyContent: "space-between", alignItems: "baseline", marginBottom: 24, flexWrap: "wrap", gap: 16 }}>
+          <div>
+            <div style={{ fontFamily: "var(--font-mono)", fontSize: 9, fontWeight: 700, color: "var(--ash)", letterSpacing: "0.22em", textTransform: "uppercase", marginBottom: 10 }}>· 12 months · same $10K start · two paths ·</div>
+            <div style={{ fontFamily: "var(--font-display)", fontSize: 36, fontWeight: 600, color: "var(--bone)", letterSpacing: "-0.025em", lineHeight: 1.0 }}>
+              Scrub the timeline. <em style={{ color: "var(--acid)" }}>Watch both lives play out.</em>
+            </div>
+          </div>
+          <div style={{ display: "flex", flexDirection: "column", alignItems: "flex-end", gap: 4 }}>
+            <div style={{ fontFamily: "var(--font-mono)", fontSize: 10, fontWeight: 700, color: "var(--acid)", letterSpacing: "0.22em", textTransform: "uppercase" }}>· Month {String(month).padStart(2, "0")} / 12 ·</div>
+            <span style={{ fontFamily: "var(--font-mono)", fontSize: 9, fontWeight: 600, color: "var(--muted)", letterSpacing: "0.22em" }}>· Drag the slider below ·</span>
+          </div>
+        </div>
+
+        <div style={{ background: "var(--bg-2)", border: "1px solid var(--line)", padding: "20px 24px", marginBottom: 20, overflow: "hidden" }}>
+          <svg viewBox="0 0 1200 280" style={{ width: "100%", display: "block", overflow: "visible" }}>
+            {[40, 90, 140, 190, 240].map((y, i) => (
+              <line key={i} x1="60" x2="1140" y1={y} y2={y} stroke="var(--line)" strokeWidth="1" strokeDasharray="2 6" opacity="0.5" />
+            ))}
+            {[{ y: 40, v: maxBalance }, { y: 140, v: START }, { y: 240, v: 0 }].map((g, i) => (
+              <text key={i} x="52" y={g.y + 3} textAnchor="end" fill="var(--muted)"
+                style={{ fontFamily: "var(--font-mono)", fontSize: 9, fontWeight: 700, letterSpacing: "0.18em" }}>
+                ${(g.v / 1000).toFixed(0)}K
+              </text>
+            ))}
+            <line x1="60" x2="1140" y1={startY} y2={startY} stroke="var(--ash)" strokeWidth="1" strokeDasharray="4 4" opacity="0.4" />
+            <text x="1145" y={startY + 3} fill="var(--ash)" style={{ fontFamily: "var(--font-mono)", fontSize: 9, fontWeight: 700, letterSpacing: "0.18em" }}>START</text>
+            <defs>
+              <clipPath id="dv-clip">
+                <rect x="0" y="0" width={monthX(month) + 4} height="280" />
+              </clipPath>
+            </defs>
+            <path d={dayPath} fill="none" stroke="var(--pink)" strokeWidth="2.2" opacity="0.8" clipPath="url(#dv-clip)" style={{ filter: "drop-shadow(0 0 8px rgba(255,45,171,0.35))" }} />
+            <path d={swgPath} fill="none" stroke="var(--acid)" strokeWidth="2.2" opacity="0.95" clipPath="url(#dv-clip)" style={{ filter: "drop-shadow(0 0 10px rgba(191,250,70,0.4))" }} />
+            <line x1={monthX(month)} x2={monthX(month)} y1="20" y2="260" stroke="var(--bone)" strokeWidth="1" strokeDasharray="3 5" opacity="0.5" />
+            <circle cx={monthX(month)} cy={balanceY(dayBalances[idx])} r="6" fill="var(--bg-1)" stroke="var(--pink)" strokeWidth="2.5" style={{ filter: "drop-shadow(0 0 8px var(--pink))" }} />
+            <circle cx={monthX(month)} cy={balanceY(swgBalances[idx])} r="6" fill="var(--bg-1)" stroke="var(--acid)" strokeWidth="2.5" style={{ filter: "drop-shadow(0 0 8px var(--acid))" }} />
+            {DV_MONTHS.map((s, i) => (
+              <text key={i} x={monthX(s.m)} y="272" textAnchor="middle" fill={s.m === month ? "var(--bone)" : "var(--muted)"} style={{ fontFamily: "var(--font-mono)", fontSize: 9, fontWeight: 700, letterSpacing: "0.14em" }}>M{s.m}</text>
+            ))}
+          </svg>
+        </div>
+
+        <div style={{ marginBottom: 28, padding: "0 4px" }}>
+          <input
+            type="range"
+            min={1}
+            max={12}
+            step={1}
+            value={month}
+            onChange={(e) => setMonth(parseInt(e.target.value, 10))}
+            aria-label="Month"
+            className="qc-dv-slider"
+            style={{
+              width: "100%",
+              height: 4,
+              appearance: "none",
+              background: `linear-gradient(to right, var(--acid) 0%, var(--acid) ${((month - 1) / 11) * 100}%, var(--line-2) ${((month - 1) / 11) * 100}%, var(--line-2) 100%)`,
+              outline: "none",
+              cursor: "pointer",
+            }}
+          />
+        </div>
+
+        <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 16 }}>
+          <DvCard
+            kicker="The day trader"
+            handle="Over-trading to death · screen-bound · revenge cycle"
+            accent="var(--pink)"
+            pnl={cur.day.pnl}
+            balance={dayBalances[idx]}
+            totalDeposited={START * (1 + cur.day.blowups)}
+            metrics={[
+              { v: cur.day.trades.toLocaleString(), k: "Trades placed" },
+              { v: `${cur.day.aplus} / ${cur.day.bgrade} / ${cur.day.cdgrade}`, k: "A+ / B / C-D grade", highlight: true },
+              { v: `$${cur.day.fees.toLocaleString()}`, k: "Fees paid" },
+              { v: cur.day.blowups, k: "Times blown up", highlight: cur.day.blowups > 0 },
+              { v: `${cur.day.screen.toLocaleString()} hrs`, k: "Screen time" },
+              { v: `${cur.day.vacation}`, k: "Vacation days" },
+            ]}
+            stressLabel="Stress + cortisol"
+            stressValue={cur.day.stress}
+            note={cur.day.blowups > 0 ? `Account blew up ${cur.day.blowups}× — re-deposited, started over.` : "Slowly bleeding out. Convinced 'this month is the one.'"}
+          />
+          <DvCard
+            kicker="The swing operator"
+            handle="5 A+ setups a month · plan · place · walk away"
+            accent="var(--acid)"
+            pnl={cur.swg.pnl}
+            balance={swgBalances[idx]}
+            metrics={[
+              { v: cur.swg.trades.toLocaleString(), k: "Trades placed" },
+              { v: "100% A+", k: "Setup quality", highlight: true },
+              { v: `$${cur.swg.fees.toLocaleString()}`, k: "Fees paid" },
+              { v: cur.swg.drawdown ? "Drawdown" : "Compounding", k: "Equity state" },
+              { v: `${cur.swg.screen} hrs`, k: "Screen time" },
+              { v: `${cur.swg.vacation}`, k: "Vacation days" },
+            ]}
+            stressLabel="Stress + cortisol"
+            stressValue={cur.swg.stress}
+            note={cur.swg.drawdown ? "Small drawdown. Stops worked. Plan unchanged." : "Compounding through the cycle. Sleeping through the night."}
+            positive
+          />
+        </div>
+
+        {month === 12 && (
+          <div style={{ marginTop: 20, padding: "20px 26px", background: "var(--bg-2)", border: "1px solid var(--acid)", display: "grid", gridTemplateColumns: "auto 1fr auto", gap: 24, alignItems: "center" }}>
+            <div>
+              <div style={{ fontFamily: "var(--font-mono)", fontSize: 9, fontWeight: 700, color: "var(--pink)", letterSpacing: "0.22em", textTransform: "uppercase" }}>· Day trader · year end</div>
+              <div style={{ fontFamily: "var(--font-display)", fontSize: 28, fontWeight: 700, color: "var(--pink)", letterSpacing: "-0.025em", lineHeight: 1, marginTop: 4 }}>{fmtMoney(cur.day.pnl)}</div>
+            </div>
+            <div style={{ textAlign: "center" }}>
+              <div style={{ fontFamily: "var(--font-mono)", fontSize: 9, fontWeight: 700, color: "var(--bone)", letterSpacing: "0.22em", textTransform: "uppercase" }}>· Same start · same year ·</div>
+              <div style={{ fontFamily: "var(--font-display)", fontSize: 16, fontWeight: 500, fontStyle: "italic", color: "var(--ash)", letterSpacing: "-0.01em", marginTop: 6 }}>One path destroys you. The other compounds.</div>
+            </div>
+            <div style={{ textAlign: "right" }}>
+              <div style={{ fontFamily: "var(--font-mono)", fontSize: 9, fontWeight: 700, color: "var(--acid)", letterSpacing: "0.22em", textTransform: "uppercase" }}>· Swing trader · year end</div>
+              <div style={{ fontFamily: "var(--font-display)", fontSize: 28, fontWeight: 700, color: "var(--acid)", letterSpacing: "-0.025em", lineHeight: 1, marginTop: 4, textShadow: "0 0 24px rgba(191,250,70,0.4)" }}>{fmtMoney(cur.swg.pnl)}</div>
+            </div>
+          </div>
+        )}
+      </div>
+    </div>
+  );
+}

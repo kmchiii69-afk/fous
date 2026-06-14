@@ -1,1 +1,203 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CmltcG9ydCBDeWNsZVNjcnViYmVyLCB7IENZQ0xFX1BIQVNFUyB9IGZyb20gIi4vQ3ljbGVTY3J1YmJlciI7CmltcG9ydCB7IFNlY3Rpb24gfSBmcm9tICJAL2NvbXBvbmVudHMvc2hhcmVkL0giOwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gQ3ljbGVTZWN0aW9uKCkgewogIGNvbnN0IFthY3RpdmVJZHgsIHNldEFjdGl2ZUlkeF0gPSB1c2VTdGF0ZSgwKTsKICBjb25zdCBhY3RpdmUgPSBDWUNMRV9QSEFTRVNbYWN0aXZlSWR4XTsKICBjb25zdCBhY3RpdmVDb2xvciA9IGFjdGl2ZS52ID09PSAibG9uZyIgPyAidmFyKC0tYWNpZCkiIDogInZhcigtLXBpbmspIjsKICBjb25zdCBzaWRlTGFiZWwgPSBhY3RpdmUudiA9PT0gImxvbmciID8gIkxvbmciIDogIlNob3J0IjsKCiAgcmV0dXJuICgKICAgIDxTZWN0aW9uIHB5PXsxNDB9IHN0eWxlPXt7IGJvcmRlckJvdHRvbTogIjFweCBzb2xpZCB2YXIoLS1saW5lKSIgfX0+CiAgICAgIDxkaXYgc3R5bGU9e3sgbWFyZ2luQm90dG9tOiA0OCwgbWF4V2lkdGg6IDExODAgfX0+CiAgICAgICAgPGRpdiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1tb25vKSIsIGZvbnRTaXplOiAxMSwgZm9udFdlaWdodDogNzAwLCBjb2xvcjogInZhcigtLWFjaWQpIiwgbGV0dGVyU3BhY2luZzogIjAuMjJlbSIsIHRleHRUcmFuc2Zvcm06ICJ1cHBlcmNhc2UiLCBtYXJnaW5Cb3R0b206IDE0IH19PgogICAgICAgICAgwrcgVGhlIEtyeXB0b24gMi4wIG1ldGhvZCDCtwogICAgICAgIDwvZGl2PgogICAgICAgIDxoMgogICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgZm9udEZhbWlseTogInZhcigtLWZvbnQtZGlzcGxheSkiLAogICAgICAgICAgICBmb250V2VpZ2h0OiA2MDAsCiAgICAgICAgICAgIGZvbnRTaXplOiA3MiwKICAgICAgICAgICAgbGluZUhlaWdodDogMC45NywKICAgICAgICAgICAgbGV0dGVyU3BhY2luZzogIi0wLjA0ZW0iLAogICAgICAgICAgICBjb2xvcjogInZhcigtLWJvbmUpIiwKICAgICAgICAgICAgbWFyZ2luOiAwLAogICAgICAgICAgfX0KICAgICAgICA+CiAgICAgICAgICBPbmUgZnVsbCBjeWNsZS57IiAifQogICAgICAgICAgPGVtIHN0eWxlPXt7IGNvbG9yOiAidmFyKC0tYWNpZCkiIH19Pk5pbmUgZGlzdGluY3QgcGhhc2VzLjwvZW0+CiAgICAgICAgICA8YnIgLz4KICAgICAgICAgIFRoZSBzYW1lIHBsYXlib29rIGV2ZXJ5IHRpbWUuCiAgICAgICAgPC9oMj4KICAgICAgICA8cAogICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgZm9udEZhbWlseTogInZhcigtLWZvbnQtYm9keSkiLAogICAgICAgICAgICBmb250U2l6ZTogMTksCiAgICAgICAgICAgIGxpbmVIZWlnaHQ6IDEuNTUsCiAgICAgICAgICAgIGNvbG9yOiAidmFyKC0tYXNoKSIsCiAgICAgICAgICAgIG1hcmdpbjogIjI0cHggMCAwIiwKICAgICAgICAgICAgbWF4V2lkdGg6IDkyMCwKICAgICAgICAgICAgZm9udFdlaWdodDogNDAwLAogICAgICAgICAgfX0KICAgICAgICA+CiAgICAgICAgICBFdmVyeSBjeWNsZSBtb3ZlcyB0aHJvdWdoIHRoZSBzYW1lIG5pbmUgcGhhc2VzLiBEcmFnIHRoZSBkb3QgYmVsb3cgdG8gd2FsayB0aHJvdWdoIHRoZW0g4oCUIGxvbmcgYmlhcywgc2hvcnQgYmlhcywgd2hhdCBlYWNoIG9uZSBsb29rcyBsaWtlIG9uIHRoZSBjaGFydCwgYW5kIHdoZXJlIHJldGFpbCBnZXRzIHdhc2hlZCBvdXQuCiAgICAgICAgPC9wPgogICAgICA8L2Rpdj4KCiAgICAgIDxkaXYKICAgICAgICBzdHlsZT17ewogICAgICAgICAgYmFja2dyb3VuZDogInZhcigtLWJnLTEpIiwKICAgICAgICAgIGJvcmRlcjogIjFweCBzb2xpZCB2YXIoLS1saW5lKSIsCiAgICAgICAgICBwYWRkaW5nOiAiNDRweCA0OHB4IDM2cHgiLAogICAgICAgICAgbWFyZ2luQm90dG9tOiAyNCwKICAgICAgICAgIHBvc2l0aW9uOiAicmVsYXRpdmUiLAogICAgICAgICAgb3ZlcmZsb3c6ICJoaWRkZW4iLAogICAgICAgIH19CiAgICAgID4KICAgICAgICA8ZGl2CiAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICBwb3NpdGlvbjogImFic29sdXRlIiwKICAgICAgICAgICAgaW5zZXQ6IDAsCiAgICAgICAgICAgIHBvaW50ZXJFdmVudHM6ICJub25lIiwKICAgICAgICAgICAgYmFja2dyb3VuZDogInJhZGlhbC1ncmFkaWVudCg5MDBweCA0MDBweCBhdCA1MCUgNTAlLCByZ2JhKDE5MSwyNTAsNzAsMC4wNiksIHRyYW5zcGFyZW50IDYwJSkiLAogICAgICAgICAgfX0KICAgICAgICAvPgogICAgICAgIDxkaXYgc3R5bGU9e3sgcG9zaXRpb246ICJyZWxhdGl2ZSIgfX0+CiAgICAgICAgICA8Q3ljbGVTY3J1YmJlciBhY3RpdmVJZHg9e2FjdGl2ZUlkeH0gc2V0QWN0aXZlSWR4PXtzZXRBY3RpdmVJZHh9IC8+CgogICAgICAgICAgPGRpdgogICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgIG1hcmdpblRvcDogMzYsCiAgICAgICAgICAgICAgcGFkZGluZ1RvcDogMjgsCiAgICAgICAgICAgICAgYm9yZGVyVG9wOiAiMXB4IHNvbGlkIHZhcigtLWxpbmUpIiwKICAgICAgICAgICAgICBkaXNwbGF5OiAiZ3JpZCIsCiAgICAgICAgICAgICAgZ3JpZFRlbXBsYXRlQ29sdW1uczogImF1dG8gMWZyIGF1dG8iLAogICAgICAgICAgICAgIGdhcDogMjgsCiAgICAgICAgICAgICAgYWxpZ25JdGVtczogInN0YXJ0IiwKICAgICAgICAgICAgfX0KICAgICAgICAgID4KICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBtaW5XaWR0aDogMjAwIH19PgogICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtbW9ubykiLCBmb250U2l6ZTogMTEsIGZvbnRXZWlnaHQ6IDcwMCwgY29sb3I6IGFjdGl2ZUNvbG9yLCBsZXR0ZXJTcGFjaW5nOiAiMC4yMmVtIiwgdGV4dFRyYW5zZm9ybTogInVwcGVyY2FzZSIsIG1hcmdpbkJvdHRvbTogMTQgfX0+CiAgICAgICAgICAgICAgICDCtyBQSEFTRSB7YWN0aXZlLmlkfSDCtwogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDxkaXYKICAgICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgIGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LWRpc3BsYXkpIiwKICAgICAgICAgICAgICAgICAgZm9udFNpemU6IDU2LAogICAgICAgICAgICAgICAgICBmb250V2VpZ2h0OiA2MDAsCiAgICAgICAgICAgICAgICAgIGNvbG9yOiAidmFyKC0tYm9uZSkiLAogICAgICAgICAgICAgICAgICBsZXR0ZXJTcGFjaW5nOiAiLTAuMDM1ZW0iLAogICAgICAgICAgICAgICAgICBsaW5lSGVpZ2h0OiAwLjk1LAogICAgICAgICAgICAgICAgICBtYXJnaW5Cb3R0b206IDE0LAogICAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICB7YWN0aXZlLm5hbWV9CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPHNwYW4KICAgICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgIGRpc3BsYXk6ICJpbmxpbmUtYmxvY2siLAogICAgICAgICAgICAgICAgICBmb250RmFtaWx5OiAidmFyKC0tZm9udC1tb25vKSIsCiAgICAgICAgICAgICAgICAgIGZvbnRTaXplOiAxMCwKICAgICAgICAgICAgICAgICAgZm9udFdlaWdodDogNzAwLAogICAgICAgICAgICAgICAgICBjb2xvcjogYWN0aXZlQ29sb3IsCiAgICAgICAgICAgICAgICAgIGxldHRlclNwYWNpbmc6ICIwLjIyZW0iLAogICAgICAgICAgICAgICAgICBib3JkZXI6IGAxcHggc29saWQgJHthY3RpdmVDb2xvcn1gLAogICAgICAgICAgICAgICAgICBwYWRkaW5nOiAiNHB4IDEwcHgiLAogICAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICB7c2lkZUxhYmVsLnRvVXBwZXJDYXNlKCl9IEJJQVMKICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8cAogICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICBmb250RmFtaWx5OiAidmFyKC0tZm9udC1ib2R5KSIsCiAgICAgICAgICAgICAgICBmb250U2l6ZTogMTcsCiAgICAgICAgICAgICAgICBsaW5lSGVpZ2h0OiAxLjU1LAogICAgICAgICAgICAgICAgY29sb3I6ICJ2YXIoLS1hc2gpIiwKICAgICAgICAgICAgICAgIG1hcmdpbjogMCwKICAgICAgICAgICAgICAgIGZvbnRXZWlnaHQ6IDQwMCwKICAgICAgICAgICAgICAgIG1heFdpZHRoOiA3MjAsCiAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgPgogICAgICAgICAgICAgIHthY3RpdmUuZGVzY30KICAgICAgICAgICAgPC9wPgogICAgICAgICAgICA8ZGl2IHN0eWxlPXt7IGRpc3BsYXk6ICJmbGV4IiwgZmxleERpcmVjdGlvbjogImNvbHVtbiIsIGdhcDogMTAgfX0+CiAgICAgICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4gc2V0QWN0aXZlSWR4KE1hdGgubWF4KDAsIGFjdGl2ZUlkeCAtIDEpKX0KICAgICAgICAgICAgICAgIGRpc2FibGVkPXthY3RpdmVJZHggPT09IDB9CiAgICAgICAgICAgICAgICBhcmlhLWxhYmVsPSJQcmV2aW91cyBwaGFzZSIKICAgICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgIHdpZHRoOiA0NCwKICAgICAgICAgICAgICAgICAgaGVpZ2h0OiA0NCwKICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZDogInZhcigtLWJnLTIpIiwKICAgICAgICAgICAgICAgICAgYm9yZGVyOiAiMXB4IHNvbGlkIHZhcigtLWxpbmUtMikiLAogICAgICAgICAgICAgICAgICBjb2xvcjogInZhcigtLWJvbmUpIiwKICAgICAgICAgICAgICAgICAgY3Vyc29yOiBhY3RpdmVJZHggPT09IDAgPyAiZGVmYXVsdCIgOiAicG9pbnRlciIsCiAgICAgICAgICAgICAgICAgIG9wYWNpdHk6IGFjdGl2ZUlkeCA9PT0gMCA/IDAuNCA6IDEsCiAgICAgICAgICAgICAgICAgIGRpc3BsYXk6ICJmbGV4IiwKICAgICAgICAgICAgICAgICAgYWxpZ25JdGVtczogImNlbnRlciIsCiAgICAgICAgICAgICAgICAgIGp1c3RpZnlDb250ZW50OiAiY2VudGVyIiwKICAgICAgICAgICAgICAgIH19CiAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgPHN2ZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHZpZXdCb3g9IjAgMCAxNCAxNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZVdpZHRoPSIxLjgiPjxwb2x5bGluZSBwb2ludHM9IjksMiAzLDcgOSwxMiIgLz48L3N2Zz4KICAgICAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgICAgICA8YnV0dG9uCiAgICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiBzZXRBY3RpdmVJZHgoTWF0aC5taW4oQ1lDTEVfUEhBU0VTLmxlbmd0aCAtIDEsIGFjdGl2ZUlkeCArIDEpKX0KICAgICAgICAgICAgICAgIGRpc2FibGVkPXthY3RpdmVJZHggPT09IENZQ0xFX1BIQVNFUy5sZW5ndGggLSAxfQogICAgICAgICAgICAgICAgYXJpYS1sYWJlbD0iTmV4dCBwaGFzZSIKICAgICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgIHdpZHRoOiA0NCwKICAgICAgICAgICAgICAgICAgaGVpZ2h0OiA0NCwKICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZDogInZhcigtLWJnLTIpIiwKICAgICAgICAgICAgICAgICAgYm9yZGVyOiAiMXB4IHNvbGlkIHZhcigtLWxpbmUtMikiLAogICAgICAgICAgICAgICAgICBjb2xvcjogInZhcigtLWJvbmUpIiwKICAgICAgICAgICAgICAgICAgY3Vyc29yOiBhY3RpdmVJZHggPT09IENZQ0xFX1BIQVNFUy5sZW5ndGggLSAxID8gImRlZmF1bHQiIDogInBvaW50ZXIiLAogICAgICAgICAgICAgICAgICBvcGFjaXR5OiBhY3RpdmVJZHggPT09IENZQ0xFX1BIQVNFUy5sZW5ndGggLSAxID8gMC40IDogMSwKICAgICAgICAgICAgICAgICAgZGlzcGxheTogImZsZXgiLAogICAgICAgICAgICAgICAgICBhbGlnbkl0ZW1zOiAiY2VudGVyIiwKICAgICAgICAgICAgICAgICAganVzdGlmeUNvbnRlbnQ6ICJjZW50ZXIiLAogICAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICA8c3ZnIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDE0IDE0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlV2lkdGg9IjEuOCI+PHBvbHlsaW5lIHBvaW50cz0iNSwyIDExLDcgNSwxMiIgLz48L3N2Zz4KICAgICAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICA8ZGl2IHN0eWxlPXt7IGRpc3BsYXk6ICJmbGV4IiwganVzdGlmeUNvbnRlbnQ6ICJjZW50ZXIiLCBnYXA6IDQwLCBtYXJnaW5Ub3A6IDI4LCBwYWRkaW5nVG9wOiAyNCwgYm9yZGVyVG9wOiAiMXB4IHNvbGlkIHZhcigtLWxpbmUpIiB9fT4KICAgICAgICAgICAge1sKICAgICAgICAgICAgICB7IGM6ICJ2YXIoLS1hY2lkKSIsIGw6ICJMb25nIG9wcG9ydHVuaXR5IMK3IDYgcGhhc2VzIiB9LAogICAgICAgICAgICAgIHsgYzogInZhcigtLXBpbmspIiwgbDogIlNob3J0IG9wcG9ydHVuaXR5IMK3IDMgcGhhc2VzIiB9LAogICAgICAgICAgICBdLm1hcCgoeCwgaSkgPT4gKAogICAgICAgICAgICAgIDxkaXYga2V5PXtpfSBzdHlsZT17eyBkaXNwbGF5OiAiZmxleCIsIGFsaWduSXRlbXM6ICJjZW50ZXIiLCBnYXA6IDEwIH19PgogICAgICAgICAgICAgICAgPHNwYW4gc3R5bGU9e3sgd2lkdGg6IDEwLCBoZWlnaHQ6IDEwLCBiYWNrZ3JvdW5kOiB4LmMsIGRpc3BsYXk6ICJpbmxpbmUtYmxvY2siIH19IC8+CiAgICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LW1vbm8pIiwgZm9udFNpemU6IDEwLCBmb250V2VpZ2h0OiA3MDAsIGNvbG9yOiAidmFyKC0tYXNoKSIsIGxldHRlclNwYWNpbmc6ICIwLjIyZW0iLCB0ZXh0VHJhbnNmb3JtOiAidXBwZXJjYXNlIiB9fT4KICAgICAgICAgICAgICAgICAgwrcge3gubH0gwrcKICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICApKX0KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KCiAgICAgIDxwCiAgICAgICAgc3R5bGU9e3sKICAgICAgICAgIGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LWRpc3BsYXkpIiwKICAgICAgICAgIGZvbnRTaXplOiAyMiwKICAgICAgICAgIGZvbnRXZWlnaHQ6IDUwMCwKICAgICAgICAgIGZvbnRTdHlsZTogIml0YWxpYyIsCiAgICAgICAgICBjb2xvcjogInZhcigtLWFzaCkiLAogICAgICAgICAgdGV4dEFsaWduOiAiY2VudGVyIiwKICAgICAgICAgIG1hcmdpbjogIjQwcHggYXV0byAwIiwKICAgICAgICAgIG1heFdpZHRoOiA5MjAsCiAgICAgICAgICBsZXR0ZXJTcGFjaW5nOiAiLTAuMDFlbSIsCiAgICAgICAgICBsaW5lSGVpZ2h0OiAxLjQsCiAgICAgICAgfX0KICAgICAgPgogICAgICAgIENhbWVyb24gd2Fsa3MgdGhyb3VnaCBldmVyeSBwaGFzZSBsaXZlIGluc2lkZSBRdWFudHVtIENpcGhlciDigJQgd2l0aCByZWFsLCBjdXJyZW50IGV4YW1wbGVzIGZyb20gdGhlIGNyeXB0byBtYXJrZXQuCiAgICAgIDwvcD4KICAgIDwvU2VjdGlvbj4KICApOwp9Cg=="}
+"use client";
+
+import { useState } from "react";
+import CycleScrubber, { CYCLE_PHASES } from "./CycleScrubber";
+import { Section } from "@/components/shared/H";
+
+export default function CycleSection() {
+  const [activeIdx, setActiveIdx] = useState(0);
+  const active = CYCLE_PHASES[activeIdx];
+  const activeColor = active.v === "long" ? "var(--acid)" : "var(--pink)";
+  const sideLabel = active.v === "long" ? "Long" : "Short";
+
+  return (
+    <Section py={140} style={{ borderBottom: "1px solid var(--line)" }}>
+      <div style={{ marginBottom: 48, maxWidth: 1180 }}>
+        <div style={{ fontFamily: "var(--font-mono)", fontSize: 11, fontWeight: 700, color: "var(--acid)", letterSpacing: "0.22em", textTransform: "uppercase", marginBottom: 14 }}>
+          · The Krypton 2.0 method ·
+        </div>
+        <h2
+          style={{
+            fontFamily: "var(--font-display)",
+            fontWeight: 600,
+            fontSize: 72,
+            lineHeight: 0.97,
+            letterSpacing: "-0.04em",
+            color: "var(--bone)",
+            margin: 0,
+          }}
+        >
+          One full cycle.{" "}
+          <em style={{ color: "var(--acid)" }}>Nine distinct phases.</em>
+          <br />
+          The same playbook every time.
+        </h2>
+        <p
+          style={{
+            fontFamily: "var(--font-body)",
+            fontSize: 19,
+            lineHeight: 1.55,
+            color: "var(--ash)",
+            margin: "24px 0 0",
+            maxWidth: 920,
+            fontWeight: 400,
+          }}
+        >
+          Every cycle moves through the same nine phases. Drag the dot below to walk through them — long bias, short bias, what each one looks like on the chart, and where retail gets washed out.
+        </p>
+      </div>
+
+      <div
+        style={{
+          background: "var(--bg-1)",
+          border: "1px solid var(--line)",
+          padding: "44px 48px 36px",
+          marginBottom: 24,
+          position: "relative",
+          overflow: "hidden",
+        }}
+      >
+        <div
+          style={{
+            position: "absolute",
+            inset: 0,
+            pointerEvents: "none",
+            background: "radial-gradient(900px 400px at 50% 50%, rgba(191,250,70,0.06), transparent 60%)",
+          }}
+        />
+        <div style={{ position: "relative" }}>
+          <CycleScrubber activeIdx={activeIdx} setActiveIdx={setActiveIdx} />
+
+          <div
+            style={{
+              marginTop: 36,
+              paddingTop: 28,
+              borderTop: "1px solid var(--line)",
+              display: "grid",
+              gridTemplateColumns: "auto 1fr auto",
+              gap: 28,
+              alignItems: "start",
+            }}
+          >
+            <div style={{ minWidth: 200 }}>
+              <div style={{ fontFamily: "var(--font-mono)", fontSize: 11, fontWeight: 700, color: activeColor, letterSpacing: "0.22em", textTransform: "uppercase", marginBottom: 14 }}>
+                · PHASE {active.id} ·
+              </div>
+              <div
+                style={{
+                  fontFamily: "var(--font-display)",
+                  fontSize: 56,
+                  fontWeight: 600,
+                  color: "var(--bone)",
+                  letterSpacing: "-0.035em",
+                  lineHeight: 0.95,
+                  marginBottom: 14,
+                }}
+              >
+                {active.name}
+              </div>
+              <span
+                style={{
+                  display: "inline-block",
+                  fontFamily: "var(--font-mono)",
+                  fontSize: 10,
+                  fontWeight: 700,
+                  color: activeColor,
+                  letterSpacing: "0.22em",
+                  border: `1px solid ${activeColor}`,
+                  padding: "4px 10px",
+                }}
+              >
+                {sideLabel.toUpperCase()} BIAS
+              </span>
+            </div>
+            <p
+              style={{
+                fontFamily: "var(--font-body)",
+                fontSize: 17,
+                lineHeight: 1.55,
+                color: "var(--ash)",
+                margin: 0,
+                fontWeight: 400,
+                maxWidth: 720,
+              }}
+            >
+              {active.desc}
+            </p>
+            <div style={{ display: "flex", flexDirection: "column", gap: 10 }}>
+              <button
+                onClick={() => setActiveIdx(Math.max(0, activeIdx - 1))}
+                disabled={activeIdx === 0}
+                aria-label="Previous phase"
+                style={{
+                  width: 44,
+                  height: 44,
+                  background: "var(--bg-2)",
+                  border: "1px solid var(--line-2)",
+                  color: "var(--bone)",
+                  cursor: activeIdx === 0 ? "default" : "pointer",
+                  opacity: activeIdx === 0 ? 0.4 : 1,
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "center",
+                }}
+              >
+                <svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="currentColor" strokeWidth="1.8"><polyline points="9,2 3,7 9,12" /></svg>
+              </button>
+              <button
+                onClick={() => setActiveIdx(Math.min(CYCLE_PHASES.length - 1, activeIdx + 1))}
+                disabled={activeIdx === CYCLE_PHASES.length - 1}
+                aria-label="Next phase"
+                style={{
+                  width: 44,
+                  height: 44,
+                  background: "var(--bg-2)",
+                  border: "1px solid var(--line-2)",
+                  color: "var(--bone)",
+                  cursor: activeIdx === CYCLE_PHASES.length - 1 ? "default" : "pointer",
+                  opacity: activeIdx === CYCLE_PHASES.length - 1 ? 0.4 : 1,
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "center",
+                }}
+              >
+                <svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="currentColor" strokeWidth="1.8"><polyline points="5,2 11,7 5,12" /></svg>
+              </button>
+            </div>
+          </div>
+
+          <div style={{ display: "flex", justifyContent: "center", gap: 40, marginTop: 28, paddingTop: 24, borderTop: "1px solid var(--line)" }}>
+            {[
+              { c: "var(--acid)", l: "Long opportunity · 6 phases" },
+              { c: "var(--pink)", l: "Short opportunity · 3 phases" },
+            ].map((x, i) => (
+              <div key={i} style={{ display: "flex", alignItems: "center", gap: 10 }}>
+                <span style={{ width: 10, height: 10, background: x.c, display: "inline-block" }} />
+                <div style={{ fontFamily: "var(--font-mono)", fontSize: 10, fontWeight: 700, color: "var(--ash)", letterSpacing: "0.22em", textTransform: "uppercase" }}>
+                  · {x.l} ·
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </div>
+
+      <p
+        style={{
+          fontFamily: "var(--font-display)",
+          fontSize: 22,
+          fontWeight: 500,
+          fontStyle: "italic",
+          color: "var(--ash)",
+          textAlign: "center",
+          margin: "40px auto 0",
+          maxWidth: 920,
+          letterSpacing: "-0.01em",
+          lineHeight: 1.4,
+        }}
+      >
+        Cameron walks through every phase live inside Quantum Cipher — with real, current examples from the crypto market.
+      </p>
+    </Section>
+  );
+}

@@ -1,1 +1,27 @@
-{"data":"aW1wb3J0IFJlYWN0IGZyb20gInJlYWN0IjsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIE1vbm9MYWJlbCh7CiAgY2hpbGRyZW4sCiAgY29sb3IgPSAidmFyKC0tYWNpZCkiLAogIHN0eWxlLAp9OiB7CiAgY2hpbGRyZW46IFJlYWN0LlJlYWN0Tm9kZTsKICBjb2xvcj86IHN0cmluZzsKICBzdHlsZT86IFJlYWN0LkNTU1Byb3BlcnRpZXM7Cn0pIHsKICByZXR1cm4gKAogICAgPGRpdgogICAgICBzdHlsZT17ewogICAgICAgIGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LW1vbm8pIiwKICAgICAgICBmb250U2l6ZTogMTEsCiAgICAgICAgZm9udFdlaWdodDogNzAwLAogICAgICAgIGxldHRlclNwYWNpbmc6ICIwLjIyZW0iLAogICAgICAgIHRleHRUcmFuc2Zvcm06ICJ1cHBlcmNhc2UiLAogICAgICAgIGNvbG9yLAogICAgICAgIC4uLnN0eWxlLAogICAgICB9fQogICAgPgogICAgICB7Y2hpbGRyZW59CiAgICA8L2Rpdj4KICApOwp9Cg=="}
+import React from "react";
+
+export default function MonoLabel({
+  children,
+  color = "var(--acid)",
+  style,
+}: {
+  children: React.ReactNode;
+  color?: string;
+  style?: React.CSSProperties;
+}) {
+  return (
+    <div
+      style={{
+        fontFamily: "var(--font-mono)",
+        fontSize: 11,
+        fontWeight: 700,
+        letterSpacing: "0.22em",
+        textTransform: "uppercase",
+        color,
+        ...style,
+      }}
+    >
+      {children}
+    </div>
+  );
+}

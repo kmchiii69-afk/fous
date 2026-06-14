@@ -1,1 +1,184 @@
-{"data":"InVzZSBjbGllbnQiOwovKiBlc2xpbnQtZGlzYWJsZSBAdHlwZXNjcmlwdC1lc2xpbnQvbm8tZXhwbGljaXQtYW55ICovCi8vIEpBUlZJUyBwYW5lbCDigJQgb3JiIChyZWFjdGl2ZSksIHR5cGV3cml0ZXIgYnJpZWZpbmcsICJNeSByZWFkIiwgdG9wIGRpcmVjdGl2ZSwKLy8gVk9JQ0UgKFdlYiBTcGVlY2ggQVBJKSwgYW5kIGEgZGV0ZXJtaW5pc3RpYyBrZXl3b3JkIGFzay1pdCAobm8gTExNL2tleSkuCgppbXBvcnQgeyB1c2VFZmZlY3QsIHVzZVJlZiwgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CgpleHBvcnQgZnVuY3Rpb24gSmFydmlzT3JiKHsgZW5lcmd5ID0gMCwgc2l6ZSA9IDU2LCBsaXN0ZW5pbmcgPSBmYWxzZSB9OiB7IGVuZXJneT86IG51bWJlcjsgc2l6ZT86IG51bWJlcjsgbGlzdGVuaW5nPzogYm9vbGVhbiB9KSB7CiAgY29uc3QgZSA9IE1hdGgubWluKDEsIGVuZXJneSk7CiAgY29uc3QgZ2xvdyA9IDYgKyBlICogMjI7CiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJvcmItd3JhcCIgc3R5bGU9e3sgd2lkdGg6IHNpemUsIGhlaWdodDogc2l6ZSB9fT4KICAgICAgPHN2ZyB3aWR0aD17c2l6ZX0gaGVpZ2h0PXtzaXplfSB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgc3R5bGU9e3sgZmlsdGVyOiBgZHJvcC1zaGFkb3coMCAwICR7Z2xvd31weCByZ2JhKDE5MSwyNTAsNzAsJHswLjM1ICsgZSAqIDAuNX0pKWAsIHRyYW5zZm9ybTogYHNjYWxlKCR7MSArIGUgKiAwLjA2fSlgLCB0cmFuc2l0aW9uOiAidHJhbnNmb3JtIDEyMG1zIGVhc2UiIH19PgogICAgICAgIDxkZWZzPgogICAgICAgICAgPHJhZGlhbEdyYWRpZW50IGlkPSJvcmJjb3JlIiBjeD0iNTAlIiBjeT0iNTAlIiByPSI1MCUiPgogICAgICAgICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wQ29sb3I9IiNFQUZGQjAiIC8+PHN0b3Agb2Zmc2V0PSI0NSUiIHN0b3BDb2xvcj0iI0JGRkE0NiIgLz48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3BDb2xvcj0iIzhGQ0UxNyIgLz4KICAgICAgICAgIDwvcmFkaWFsR3JhZGllbnQ+CiAgICAgICAgPC9kZWZzPgogICAgICAgIDxnIHN0eWxlPXt7IHRyYW5zZm9ybU9yaWdpbjogIjUwcHggNTBweCIsIGFuaW1hdGlvbjogIm9yYnNwaW4gMTRzIGxpbmVhciBpbmZpbml0ZSIgfX0+CiAgICAgICAgICA8Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQkZGQTQ2IiBzdHJva2VPcGFjaXR5PSIwLjQ1IiBzdHJva2VXaWR0aD0iMS40IiBzdHJva2VEYXNoYXJyYXk9IjMgNyIgLz4KICAgICAgICA8L2c+CiAgICAgICAgPGcgc3R5bGU9e3sgdHJhbnNmb3JtT3JpZ2luOiAiNTBweCA1MHB4IiwgYW5pbWF0aW9uOiAib3Jic3BpbiA5cyBsaW5lYXIgaW5maW5pdGUgcmV2ZXJzZSIgfX0+CiAgICAgICAgICA8Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSIzNyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjOEZEMEZGIiBzdHJva2VPcGFjaXR5PSIwLjUiIHN0cm9rZVdpZHRoPSIxIiBzdHJva2VEYXNoYXJyYXk9IjE0IDYiIC8+CiAgICAgICAgPC9nPgogICAgICAgIHtBcnJheS5mcm9tKHsgbGVuZ3RoOiAyNCB9KS5tYXAoKF8sIGkpID0+IHsKICAgICAgICAgIGNvbnN0IGEgPSAoaSAvIDI0KSAqIE1hdGguUEkgKiAyLCBvbiA9IGkgJSAyID09PSAwLCByMSA9IDI4LCByMiA9IG9uID8gMzIgOiAzMC41OwogICAgICAgICAgcmV0dXJuIDxsaW5lIGtleT17aX0geDE9ezUwICsgTWF0aC5jb3MoYSkgKiByMX0geTE9ezUwICsgTWF0aC5zaW4oYSkgKiByMX0geDI9ezUwICsgTWF0aC5jb3MoYSkgKiByMn0geTI9ezUwICsgTWF0aC5zaW4oYSkgKiByMn0gc3Ryb2tlPSIjQkZGQTQ2IiBzdHJva2VPcGFjaXR5PXtvbiA/IDAuNSA6IDAuMjJ9IHN0cm9rZVdpZHRoPSIxIiAvPjsKICAgICAgICB9KX0KICAgICAgICA8Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPXsxOCArIGUgKiA4fSBmaWxsPSJub25lIiBzdHJva2U9IiNCRkZBNDYiIHN0cm9rZU9wYWNpdHk9e2UgKiAwLjd9IHN0cm9rZVdpZHRoPSIxLjUiIC8+CiAgICAgICAgPGNpcmNsZSBjeD0iNTAiIGN5PSI1MCIgcj17OSArIGUgKiAzfSBmaWxsPSJ1cmwoI29yYmNvcmUpIiAvPgogICAgICAgIDxjaXJjbGUgY3g9IjUwIiBjeT0iNTAiIHI9ezkgKyBlICogM30gZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRUFGRkIwIiBzdHJva2VPcGFjaXR5PSIwLjYiIHN0cm9rZVdpZHRoPSIwLjYiIC8+CiAgICAgIDwvc3ZnPgogICAgICB7bGlzdGVuaW5nICYmIDxkaXYgc3R5bGU9e3sgcG9zaXRpb246ICJhYnNvbHV0ZSIsIGluc2V0OiAtNCwgYm9yZGVyOiAiMXB4IHNvbGlkIHJnYmEoMTQzLDIwOCwyNTUsMC41KSIsIGJvcmRlclJhZGl1czogIjUwJSIsIGFuaW1hdGlvbjogIm9yYnNwaW4gM3MgbGluZWFyIGluZmluaXRlIiB9fSAvPn0KICAgIDwvZGl2PgogICk7Cn0KCmZ1bmN0aW9uIGh1ZEhpZ2hsaWdodCh0ZXh0OiBzdHJpbmcpIHsKICBjb25zdCBodG1sID0gdGV4dC5yZXBsYWNlKC8oXCRbXGQsXSspL2csICI8Yj4kMTwvYj4iKS5yZXBsYWNlKC8oXGQrJSkvZywgJzxzcGFuIGNsYXNzPSJkcm9wIj4kMTwvc3Bhbj4nKTsKICByZXR1cm4geyBfX2h0bWw6IGh0bWwgfTsKfQoKZnVuY3Rpb24gVHlwZWRBbnN3ZXIoeyB0ZXh0IH06IHsgdGV4dDogc3RyaW5nIH0pIHsKICBjb25zdCBbc2hvd24sIHNldFNob3duXSA9IHVzZVN0YXRlKCIiKTsKICB1c2VFZmZlY3QoKCkgPT4gewogICAgbGV0IGkgPSAwOyBjb25zdCBpZCA9IHNldEludGVydmFsKCgpID0+IHsgaSArPSAzOyBzZXRTaG93bih0ZXh0LnNsaWNlKDAsIGkpKTsgaWYgKGkgPj0gdGV4dC5sZW5ndGgpIGNsZWFySW50ZXJ2YWwoaWQpOyB9LCAxNCk7CiAgICByZXR1cm4gKCkgPT4gY2xlYXJJbnRlcnZhbChpZCk7CiAgfSwgW3RleHRdKTsKICByZXR1cm4gPGRpdiBjbGFzc05hbWU9InFhLWEiPntzaG93bn08L2Rpdj47Cn0KCmV4cG9ydCBmdW5jdGlvbiBKYXJ2aXNQYW5lbCh7IGRhdGEsIGVuZXJneSwgb25Bc2sgfTogeyBkYXRhOiBhbnk7IGVuZXJneTogbnVtYmVyOyBvbkFzaz86ICgpID0+IHZvaWQgfSkgewogIGNvbnN0IEogPSBkYXRhLkpBUlZJUzsKICBjb25zdCBEID0gZGF0YS5ESVJFQ1RJVkVTWzBdOwogIGNvbnN0IFt0eXBlZCwgc2V0VHlwZWRdID0gdXNlU3RhdGUoIiIpOwogIGNvbnN0IFtkb25lLCBzZXREb25lXSA9IHVzZVN0YXRlKGZhbHNlKTsKICBjb25zdCBbdGhyZWFkLCBzZXRUaHJlYWRdID0gdXNlU3RhdGU8YW55W10+KFtdKTsKICBjb25zdCBbaW5wdXQsIHNldElucHV0XSA9IHVzZVN0YXRlKCIiKTsKICBjb25zdCBbc3BlYWtpbmcsIHNldFNwZWFraW5nXSA9IHVzZVN0YXRlKGZhbHNlKTsKICBjb25zdCB0aHJlYWRSZWYgPSB1c2VSZWY8SFRNTERpdkVsZW1lbnQ+KG51bGwpOwogIGNvbnN0IHZvaWNlUmVmID0gdXNlUmVmPFNwZWVjaFN5bnRoZXNpc1ZvaWNlIHwgbnVsbD4obnVsbCk7CgogIHVzZUVmZmVjdCgoKSA9PiB7CiAgICBjb25zdCBmdWxsOiBzdHJpbmcgPSBKLmJyaWVmaW5nOwogICAgbGV0IGkgPSAwOwogICAgY29uc3QgaWQgPSBzZXRJbnRlcnZhbCgoKSA9PiB7IGkgKz0gMjsgc2V0VHlwZWQoZnVsbC5zbGljZSgwLCBpKSk7IGlmIChpID49IGZ1bGwubGVuZ3RoKSB7IGNsZWFySW50ZXJ2YWwoaWQpOyBzZXREb25lKHRydWUpOyB9IH0sIDE2KTsKICAgIHJldHVybiAoKSA9PiBjbGVhckludGVydmFsKGlkKTsKICB9LCBbSi5icmllZmluZ10pOwoKICB1c2VFZmZlY3QoKCkgPT4gewogICAgaWYgKHR5cGVvZiB3aW5kb3cgPT09ICJ1bmRlZmluZWQiIHx8ICEoInNwZWVjaFN5bnRoZXNpcyIgaW4gd2luZG93KSkgcmV0dXJuOwogICAgY29uc3Qgc3ludGggPSB3aW5kb3cuc3BlZWNoU3ludGhlc2lzOwogICAgY29uc3QgcGljayA9ICgpID0+IHsKICAgICAgY29uc3QgdnMgPSBzeW50aC5nZXRWb2ljZXMoKTsgaWYgKCF2cy5sZW5ndGgpIHJldHVybjsKICAgICAgY29uc3QgcHJlZmVyID0gWyJEYW5pZWwiLCAiR29vZ2xlIFVLIEVuZ2xpc2ggTWFsZSIsICJBbGV4IiwgIkdvb2dsZSBVUyBFbmdsaXNoIiwgIlNhbWFudGhhIl07CiAgICAgIHZvaWNlUmVmLmN1cnJlbnQgPSBwcmVmZXIubWFwKChuKSA9PiB2cy5maW5kKCh2KSA9PiB2Lm5hbWUgPT09IG4pKS5maW5kKEJvb2xlYW4pIHx8IHZzLmZpbmQoKHYpID0+IHYubGFuZz8uc3RhcnRzV2l0aCgiZW4iKSkgfHwgdnNbMF07CiAgICB9OwogICAgcGljaygpOyBzeW50aC5vbnZvaWNlc2NoYW5nZWQgPSBwaWNrOwogICAgcmV0dXJuICgpID0+IHsgc3ludGgub252b2ljZXNjaGFuZ2VkID0gbnVsbDsgc3ludGguY2FuY2VsKCk7IH07CiAgfSwgW10pOwoKICB1c2VFZmZlY3QoKCkgPT4geyBpZiAodGhyZWFkUmVmLmN1cnJlbnQpIHRocmVhZFJlZi5jdXJyZW50LnNjcm9sbFRvcCA9IHRocmVhZFJlZi5jdXJyZW50LnNjcm9sbEhlaWdodDsgfSwgW3RocmVhZF0pOwoKICBmdW5jdGlvbiBhbnN3ZXIocTogc3RyaW5nKSB7CiAgICBjb25zdCBxbCA9IHEudG9Mb3dlckNhc2UoKTsKICAgIGxldCBiZXN0OiBhbnkgPSBudWxsLCBiZXN0U2NvcmUgPSAwOwogICAgZm9yIChjb25zdCBpdGVtIG9mIEoucWEpIHsKICAgICAgbGV0IHNjb3JlID0gMDsKICAgICAgZm9yIChjb25zdCB3IG9mIGl0ZW0ucS5zcGxpdCgiICIpKSBpZiAocWwuaW5jbHVkZXModykpIHNjb3JlKys7CiAgICAgIGlmIChxbC5pbmNsdWRlcygiZml4IikgJiYgaXRlbS5xLmluY2x1ZGVzKCJmaXgiKSkgc2NvcmUgKz0gMjsKICAgICAgaWYgKHFsLmluY2x1ZGVzKCJ3b2xmIikgJiYgaXRlbS5xLmluY2x1ZGVzKCJ3b2xmIikpIHNjb3JlICs9IDM7CiAgICAgIGlmICgocWwuaW5jbHVkZXMoImxlYWQiKSB8fCBxbC5pbmNsdWRlcygidHJhZmZpYyIpIHx8IHFsLmluY2x1ZGVzKCJjb21lIikpICYmIGl0ZW0ucS5pbmNsdWRlcygiY29tZSIpKSBzY29yZSArPSAzOwogICAgICBpZiAoKHFsLmluY2x1ZGVzKCJ0YWJsZSIpIHx8IHFsLmluY2x1ZGVzKCJtb25leSIpIHx8IHFsLmluY2x1ZGVzKCJtdWNoIikpICYmIGl0ZW0ucS5pbmNsdWRlcygibXVjaCIpKSBzY29yZSArPSAzOwogICAgICBpZiAoKHFsLmluY2x1ZGVzKCJ3b3JraW5nIikgfHwgcWwuaW5jbHVkZXMoImdvb2QiKSkgJiYgaXRlbS5xLmluY2x1ZGVzKCJ3b3JraW5nIikpIHNjb3JlICs9IDM7CiAgICAgIGlmIChzY29yZSA+IGJlc3RTY29yZSkgeyBiZXN0U2NvcmUgPSBzY29yZTsgYmVzdCA9IGl0ZW07IH0KICAgIH0KICAgIHJldHVybiBiZXN0U2NvcmUgPiAwID8gYmVzdC5hIDogSi5mYWxsYmFjazsKICB9CgogIGZ1bmN0aW9uIHN1Ym1pdChxOiBzdHJpbmcpIHsKICAgIGlmICghcS50cmltKCkpIHJldHVybjsKICAgIG9uQXNrPy4oKTsKICAgIHNldElucHV0KCIiKTsKICAgIGNvbnN0IGEgPSBhbnN3ZXIocSk7CiAgICBzZXRUaHJlYWQoKHQpID0+IFsuLi50LCB7IHEsIGEgfV0pOwogIH0KCiAgZnVuY3Rpb24gdG9nZ2xlU3BlYWsoKSB7CiAgICBpZiAodHlwZW9mIHdpbmRvdyA9PT0gInVuZGVmaW5lZCIgfHwgISgic3BlZWNoU3ludGhlc2lzIiBpbiB3aW5kb3cpKSByZXR1cm47CiAgICBjb25zdCBzeW50aCA9IHdpbmRvdy5zcGVlY2hTeW50aGVzaXM7CiAgICBpZiAoc3BlYWtpbmcpIHsgc3ludGguY2FuY2VsKCk7IHNldFNwZWFraW5nKGZhbHNlKTsgcmV0dXJuOyB9CiAgICBjb25zdCB0ZXh0ID0gSi5icmllZmluZyArICIgSGVyZSdzIG15IHJlYWQuICIgKyBKLm15UmVhZC5tYXAoKG06IGFueSkgPT4gbS50ZXh0KS5qb2luKCIgIik7CiAgICBzeW50aC5jYW5jZWwoKTsKICAgIGNvbnN0IHNlbnRlbmNlcyA9IHRleHQubWF0Y2goL1teLiE/XStbLiE/XSsvZykgfHwgW3RleHRdOwogICAgc2VudGVuY2VzLmZvckVhY2goKHMsIGkpID0+IHsKICAgICAgY29uc3QgdSA9IG5ldyBTcGVlY2hTeW50aGVzaXNVdHRlcmFuY2Uocy50cmltKCkpOwogICAgICBpZiAodm9pY2VSZWYuY3VycmVudCkgdS52b2ljZSA9IHZvaWNlUmVmLmN1cnJlbnQ7CiAgICAgIHUucmF0ZSA9IDEuMDM7CiAgICAgIGlmIChpID09PSAwKSB1Lm9uc3RhcnQgPSAoKSA9PiBzZXRTcGVha2luZyh0cnVlKTsKICAgICAgaWYgKGkgPT09IHNlbnRlbmNlcy5sZW5ndGggLSAxKSB1Lm9uZW5kID0gKCkgPT4gc2V0U3BlYWtpbmcoZmFsc2UpOwogICAgICB1Lm9uZXJyb3IgPSAoKSA9PiBzZXRTcGVha2luZyhmYWxzZSk7CiAgICAgIHN5bnRoLnNwZWFrKHUpOwogICAgfSk7CiAgfQoKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9InBhbmVsIGphcnZpcyI+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJqaGVhZCI+CiAgICAgICAgPEphcnZpc09yYiBlbmVyZ3k9e2VuZXJneX0gbGlzdGVuaW5nPXtlbmVyZ3kgPiAwLjN9IC8+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImptZXRhIj48Yj5KQVJWSVM8L2I+PHNwYW4+PGkgLz5GVU5ORUwgQ09NTUFORCDCtyBPTkxJTkU8L3NwYW4+PC9kaXY+CiAgICAgIDwvZGl2PgoKICAgICAgPGRpdiBjbGFzc05hbWU9Impib2R5Ij4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYnJpZWZpbmciPgogICAgICAgICAge2RvbmUgPyA8c3BhbiBkYW5nZXJvdXNseVNldElubmVySFRNTD17aHVkSGlnaGxpZ2h0KHR5cGVkKX0gLz4gOiA8c3Bhbj57dHlwZWR9PHNwYW4gY2xhc3NOYW1lPSJjdXJzb3IiIC8+PC9zcGFuPn0KICAgICAgICA8L2Rpdj4KICAgICAgICB7ZG9uZSAmJiAoCiAgICAgICAgICA8ZGl2IHN0eWxlPXt7IG1hcmdpblRvcDogMTIgfX0+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJqcmVhZC1oIj5NeSByZWFkPC9kaXY+CiAgICAgICAgICAgIHtKLm15UmVhZC5tYXAoKG06IGFueSwgaTogbnVtYmVyKSA9PiAoCiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImpyZWFkLXJvdyIga2V5PXtpfT48c3BhbiBjbGFzc05hbWU9ImRvdCIgc3R5bGU9e3sgYmFja2dyb3VuZDogbS5jb2xvciwgYm94U2hhZG93OiBgMCAwIDZweCAke20uY29sb3J9YCB9fSAvPjxzcGFuIGNsYXNzTmFtZT0idHh0Ij57bS50ZXh0fTwvc3Bhbj48L2Rpdj4KICAgICAgICAgICAgKSl9CiAgICAgICAgICA8L2Rpdj4KICAgICAgICApfQogICAgICAgIHtkb25lICYmIEQgJiYgKAogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImpkaXJlY3RpdmUiPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iamQtayI+PHNwYW4gY2xhc3NOYW1lPSJzZXZkb3QiIHN0eWxlPXt7IHdpZHRoOiA3LCBoZWlnaHQ6IDcsIGJhY2tncm91bmQ6IEQuY29sb3IgfX0gLz5UT1AgRElSRUNUSVZFIMK3IHtELnNldn08L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImpkLXQiPntELnRpdGxlfTwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iamQtbSI+e0QubW9uZXkgPiAwID8gYH4kJHtELm1vbmV5LnRvTG9jYWxlU3RyaW5nKCl9IG9uIHRoZSB0YWJsZSDCtyBgIDogIiJ9e0QubWV0cmljfTwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgKX0KICAgICAgPC9kaXY+CgogICAgICA8ZGl2IGNsYXNzTmFtZT0ianZvaWNlIj4KICAgICAgICA8YnV0dG9uIGNsYXNzTmFtZT17c3BlYWtpbmcgPyAic3BlYWtpbmciIDogIiJ9IG9uQ2xpY2s9e3RvZ2dsZVNwZWFrfT4KICAgICAgICAgIHtzcGVha2luZyA/IDw+PHNwYW4gc3R5bGU9e3sgd2lkdGg6IDksIGhlaWdodDogOSwgYmFja2dyb3VuZDogImN1cnJlbnRDb2xvciIsIGRpc3BsYXk6ICJpbmxpbmUtYmxvY2siIH19IC8+IFN0b3A8Lz4gOiA8PjxzcGFuIHN0eWxlPXt7IHdpZHRoOiAwLCBoZWlnaHQ6IDAsIGJvcmRlckxlZnQ6ICI5cHggc29saWQgY3VycmVudENvbG9yIiwgYm9yZGVyVG9wOiAiNnB4IHNvbGlkIHRyYW5zcGFyZW50IiwgYm9yZGVyQm90dG9tOiAiNnB4IHNvbGlkIHRyYW5zcGFyZW50IiB9fSAvPiBCcmllZiBtZSBvdXQgbG91ZDwvPn0KICAgICAgICA8L2J1dHRvbj4KICAgICAgICA8c3Bhbj57c3BlYWtpbmcgPyAic3BlYWtpbmfigKYiIDogInJlYWRzIHlvdXIgYnJpZWYgKyByZWFkIGFsb3VkIn08L3NwYW4+CiAgICAgIDwvZGl2PgoKICAgICAgPGRpdiBjbGFzc05hbWU9ImFza2l0Ij4KICAgICAgICB7dGhyZWFkLmxlbmd0aCA+IDAgJiYgKAogICAgICAgICAgPGRpdiBjbGFzc05hbWU9InFhLXRocmVhZCIgcmVmPXt0aHJlYWRSZWZ9PgogICAgICAgICAgICB7dGhyZWFkLm1hcCgodCwgaSkgPT4gKAogICAgICAgICAgICAgIDxkaXYga2V5PXtpfSBzdHlsZT17eyBkaXNwbGF5OiAiY29udGVudHMiIH19PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InFhLXEiPnt0LnF9PC9kaXY+CiAgICAgICAgICAgICAgICA8VHlwZWRBbnN3ZXIgdGV4dD17dC5hfSAvPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICApKX0KICAgICAgICAgIDwvZGl2PgogICAgICAgICl9CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNoaXBzIj4KICAgICAgICAgIHtbIndoYXQgc2hvdWxkIGkgZml4PyIsICJob3cncyB0aGUgd29sZiBwYXRoPyIsICJ3aGVyZSBkaWQgbGVhZHMgY29tZSBmcm9tPyIsICJpcyBpdCB3b3JraW5nPyJdLm1hcCgoYykgPT4gKAogICAgICAgICAgICA8YnV0dG9uIGtleT17Y30gY2xhc3NOYW1lPSJjaGlwIiBvbkNsaWNrPXsoKSA9PiBzdWJtaXQoYyl9PntjfTwvYnV0dG9uPgogICAgICAgICAgKSl9CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGZvcm0gb25TdWJtaXQ9eyhlKSA9PiB7IGUucHJldmVudERlZmF1bHQoKTsgc3VibWl0KGlucHV0KTsgfX0+CiAgICAgICAgICA8aW5wdXQgdmFsdWU9e2lucHV0fSBvbkNoYW5nZT17KGUpID0+IHNldElucHV0KGUudGFyZ2V0LnZhbHVlKX0gcGxhY2Vob2xkZXI9IkFzayBKQVJWSVPigKYiIC8+CiAgICAgICAgICA8YnV0dG9uIGNsYXNzTmFtZT0ic2VuZCIgdHlwZT0ic3VibWl0Ij7ihpI8L2J1dHRvbj4KICAgICAgICA8L2Zvcm0+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgKTsKfQo="}
+"use client";
+/* eslint-disable @typescript-eslint/no-explicit-any */
+// JARVIS panel — orb (reactive), typewriter briefing, "My read", top directive,
+// VOICE (Web Speech API), and a deterministic keyword ask-it (no LLM/key).
+
+import { useEffect, useRef, useState } from "react";
+
+export function JarvisOrb({ energy = 0, size = 56, listening = false }: { energy?: number; size?: number; listening?: boolean }) {
+  const e = Math.min(1, energy);
+  const glow = 6 + e * 22;
+  return (
+    <div className="orb-wrap" style={{ width: size, height: size }}>
+      <svg width={size} height={size} viewBox="0 0 100 100" style={{ filter: `drop-shadow(0 0 ${glow}px rgba(191,250,70,${0.35 + e * 0.5}))`, transform: `scale(${1 + e * 0.06})`, transition: "transform 120ms ease" }}>
+        <defs>
+          <radialGradient id="orbcore" cx="50%" cy="50%" r="50%">
+            <stop offset="0%" stopColor="#EAFFB0" /><stop offset="45%" stopColor="#BFFA46" /><stop offset="100%" stopColor="#8FCE17" />
+          </radialGradient>
+        </defs>
+        <g style={{ transformOrigin: "50px 50px", animation: "orbspin 14s linear infinite" }}>
+          <circle cx="50" cy="50" r="45" fill="none" stroke="#BFFA46" strokeOpacity="0.45" strokeWidth="1.4" strokeDasharray="3 7" />
+        </g>
+        <g style={{ transformOrigin: "50px 50px", animation: "orbspin 9s linear infinite reverse" }}>
+          <circle cx="50" cy="50" r="37" fill="none" stroke="#8FD0FF" strokeOpacity="0.5" strokeWidth="1" strokeDasharray="14 6" />
+        </g>
+        {Array.from({ length: 24 }).map((_, i) => {
+          const a = (i / 24) * Math.PI * 2, on = i % 2 === 0, r1 = 28, r2 = on ? 32 : 30.5;
+          return <line key={i} x1={50 + Math.cos(a) * r1} y1={50 + Math.sin(a) * r1} x2={50 + Math.cos(a) * r2} y2={50 + Math.sin(a) * r2} stroke="#BFFA46" strokeOpacity={on ? 0.5 : 0.22} strokeWidth="1" />;
+        })}
+        <circle cx="50" cy="50" r={18 + e * 8} fill="none" stroke="#BFFA46" strokeOpacity={e * 0.7} strokeWidth="1.5" />
+        <circle cx="50" cy="50" r={9 + e * 3} fill="url(#orbcore)" />
+        <circle cx="50" cy="50" r={9 + e * 3} fill="none" stroke="#EAFFB0" strokeOpacity="0.6" strokeWidth="0.6" />
+      </svg>
+      {listening && <div style={{ position: "absolute", inset: -4, border: "1px solid rgba(143,208,255,0.5)", borderRadius: "50%", animation: "orbspin 3s linear infinite" }} />}
+    </div>
+  );
+}
+
+function hudHighlight(text: string) {
+  const html = text.replace(/(\$[\d,]+)/g, "<b>$1</b>").replace(/(\d+%)/g, '<span class="drop">$1</span>');
+  return { __html: html };
+}
+
+function TypedAnswer({ text }: { text: string }) {
+  const [shown, setShown] = useState("");
+  useEffect(() => {
+    let i = 0; const id = setInterval(() => { i += 3; setShown(text.slice(0, i)); if (i >= text.length) clearInterval(id); }, 14);
+    return () => clearInterval(id);
+  }, [text]);
+  return <div className="qa-a">{shown}</div>;
+}
+
+export function JarvisPanel({ data, energy, onAsk }: { data: any; energy: number; onAsk?: () => void }) {
+  const J = data.JARVIS;
+  const D = data.DIRECTIVES[0];
+  const [typed, setTyped] = useState("");
+  const [done, setDone] = useState(false);
+  const [thread, setThread] = useState<any[]>([]);
+  const [input, setInput] = useState("");
+  const [speaking, setSpeaking] = useState(false);
+  const threadRef = useRef<HTMLDivElement>(null);
+  const voiceRef = useRef<SpeechSynthesisVoice | null>(null);
+
+  useEffect(() => {
+    const full: string = J.briefing;
+    let i = 0;
+    const id = setInterval(() => { i += 2; setTyped(full.slice(0, i)); if (i >= full.length) { clearInterval(id); setDone(true); } }, 16);
+    return () => clearInterval(id);
+  }, [J.briefing]);
+
+  useEffect(() => {
+    if (typeof window === "undefined" || !("speechSynthesis" in window)) return;
+    const synth = window.speechSynthesis;
+    const pick = () => {
+      const vs = synth.getVoices(); if (!vs.length) return;
+      const prefer = ["Daniel", "Google UK English Male", "Alex", "Google US English", "Samantha"];
+      voiceRef.current = prefer.map((n) => vs.find((v) => v.name === n)).find(Boolean) || vs.find((v) => v.lang?.startsWith("en")) || vs[0];
+    };
+    pick(); synth.onvoiceschanged = pick;
+    return () => { synth.onvoiceschanged = null; synth.cancel(); };
+  }, []);
+
+  useEffect(() => { if (threadRef.current) threadRef.current.scrollTop = threadRef.current.scrollHeight; }, [thread]);
+
+  function answer(q: string) {
+    const ql = q.toLowerCase();
+    let best: any = null, bestScore = 0;
+    for (const item of J.qa) {
+      let score = 0;
+      for (const w of item.q.split(" ")) if (ql.includes(w)) score++;
+      if (ql.includes("fix") && item.q.includes("fix")) score += 2;
+      if (ql.includes("wolf") && item.q.includes("wolf")) score += 3;
+      if ((ql.includes("lead") || ql.includes("traffic") || ql.includes("come")) && item.q.includes("come")) score += 3;
+      if ((ql.includes("table") || ql.includes("money") || ql.includes("much")) && item.q.includes("much")) score += 3;
+      if ((ql.includes("working") || ql.includes("good")) && item.q.includes("working")) score += 3;
+      if (score > bestScore) { bestScore = score; best = item; }
+    }
+    return bestScore > 0 ? best.a : J.fallback;
+  }
+
+  function submit(q: string) {
+    if (!q.trim()) return;
+    onAsk?.();
+    setInput("");
+    const a = answer(q);
+    setThread((t) => [...t, { q, a }]);
+  }
+
+  function toggleSpeak() {
+    if (typeof window === "undefined" || !("speechSynthesis" in window)) return;
+    const synth = window.speechSynthesis;
+    if (speaking) { synth.cancel(); setSpeaking(false); return; }
+    const text = J.briefing + " Here's my read. " + J.myRead.map((m: any) => m.text).join(" ");
+    synth.cancel();
+    const sentences = text.match(/[^.!?]+[.!?]+/g) || [text];
+    sentences.forEach((s, i) => {
+      const u = new SpeechSynthesisUtterance(s.trim());
+      if (voiceRef.current) u.voice = voiceRef.current;
+      u.rate = 1.03;
+      if (i === 0) u.onstart = () => setSpeaking(true);
+      if (i === sentences.length - 1) u.onend = () => setSpeaking(false);
+      u.onerror = () => setSpeaking(false);
+      synth.speak(u);
+    });
+  }
+
+  return (
+    <div className="panel jarvis">
+      <div className="jhead">
+        <JarvisOrb energy={energy} listening={energy > 0.3} />
+        <div className="jmeta"><b>JARVIS</b><span><i />FUNNEL COMMAND · ONLINE</span></div>
+      </div>
+
+      <div className="jbody">
+        <div className="briefing">
+          {done ? <span dangerouslySetInnerHTML={hudHighlight(typed)} /> : <span>{typed}<span className="cursor" /></span>}
+        </div>
+        {done && (
+          <div style={{ marginTop: 12 }}>
+            <div className="jread-h">My read</div>
+            {J.myRead.map((m: any, i: number) => (
+              <div className="jread-row" key={i}><span className="dot" style={{ background: m.color, boxShadow: `0 0 6px ${m.color}` }} /><span className="txt">{m.text}</span></div>
+            ))}
+          </div>
+        )}
+        {done && D && (
+          <div className="jdirective">
+            <div className="jd-k"><span className="sevdot" style={{ width: 7, height: 7, background: D.color }} />TOP DIRECTIVE · {D.sev}</div>
+            <div className="jd-t">{D.title}</div>
+            <div className="jd-m">{D.money > 0 ? `~$${D.money.toLocaleString()} on the table · ` : ""}{D.metric}</div>
+          </div>
+        )}
+      </div>
+
+      <div className="jvoice">
+        <button className={speaking ? "speaking" : ""} onClick={toggleSpeak}>
+          {speaking ? <><span style={{ width: 9, height: 9, background: "currentColor", display: "inline-block" }} /> Stop</> : <><span style={{ width: 0, height: 0, borderLeft: "9px solid currentColor", borderTop: "6px solid transparent", borderBottom: "6px solid transparent" }} /> Brief me out loud</>}
+        </button>
+        <span>{speaking ? "speaking…" : "reads your brief + read aloud"}</span>
+      </div>
+
+      <div className="askit">
+        {thread.length > 0 && (
+          <div className="qa-thread" ref={threadRef}>
+            {thread.map((t, i) => (
+              <div key={i} style={{ display: "contents" }}>
+                <div className="qa-q">{t.q}</div>
+                <TypedAnswer text={t.a} />
+              </div>
+            ))}
+          </div>
+        )}
+        <div className="chips">
+          {["what should i fix?", "how's the wolf path?", "where did leads come from?", "is it working?"].map((c) => (
+            <button key={c} className="chip" onClick={() => submit(c)}>{c}</button>
+          ))}
+        </div>
+        <form onSubmit={(e) => { e.preventDefault(); submit(input); }}>
+          <input value={input} onChange={(e) => setInput(e.target.value)} placeholder="Ask JARVIS…" />
+          <button className="send" type="submit">→</button>
+        </form>
+      </div>
+    </div>
+  );
+}

@@ -1,1 +1,107 @@
-{"data":"aW1wb3J0IExlZ2FsU2hlbGwsIHsgSDIsIFAsIFVMLCBMSSwgQ2FsbG91dCB9IGZyb20gIkAvY29tcG9uZW50cy9sZWdhbC9MZWdhbFNoZWxsIjsKCmV4cG9ydCBjb25zdCBtZXRhZGF0YSA9IHsKICB0aXRsZTogIkRpc2NsYWltZXIgwrcgUXVhbnR1bSBDaXBoZXIgTGFiIiwKICBkZXNjcmlwdGlvbjogIlJpc2sgZGlzY2xvc3VyZSBmb3IgdHJhZGluZyBlZHVjYXRpb24gYW5kIFF1YW50dW0gQ2lwaGVyIExhYiBjb250ZW50LiIsCn07CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBEaXNjbGFpbWVyUGFnZSgpIHsKICByZXR1cm4gKAogICAgPExlZ2FsU2hlbGwga2lja2VyPSJMZWdhbCIgdGl0bGU9IkRpc2NsYWltZXIiIGVmZmVjdGl2ZURhdGU9Ik1heSAxOCwgMjAyNiI+CiAgICAgIDxDYWxsb3V0PgogICAgICAgIFRyYWRpbmcgdGhlIGZpbmFuY2lhbCBtYXJrZXRzIOKAlCBpbmNsdWRpbmcgYnV0IG5vdCBsaW1pdGVkIHRvIGNyeXB0b2N1cnJlbmNpZXMsIHN0b2NrcywgZm9yZXgsIGZ1dHVyZXMsIG9wdGlvbnMsIGFuZCBDRkRzIOKAlCBpbnZvbHZlcyA8c3Ryb25nIHN0eWxlPXt7IGNvbG9yOiAidmFyKC0tYm9uZSkiIH19PnN1YnN0YW50aWFsIHJpc2sgb2YgbG9zczwvc3Ryb25nPiBhbmQgaXMgbm90IHN1aXRhYmxlIGZvciBldmVyeSBpbnZlc3Rvci4gWW91IGNhbiBsb3NlIGFsbCBvZiB0aGUgY2FwaXRhbCB5b3UgY29tbWl0LCBhbmQgaW4gc29tZSBwcm9kdWN0cywgbW9yZSB0aGFuIHlvdXIgaW5pdGlhbCBkZXBvc2l0LiBQYXN0IHBlcmZvcm1hbmNlIGlzIG5vdCBpbmRpY2F0aXZlIG9mIGZ1dHVyZSByZXN1bHRzLgogICAgICA8L0NhbGxvdXQ+CgogICAgICA8SDI+MS4gRWR1Y2F0aW9uYWwgQ29udGVudCBPbmx5PC9IMj4KICAgICAgPFA+CiAgICAgICAgQWxsIGNvbnRlbnQgcHVibGlzaGVkIGJ5IDxzdHJvbmcgc3R5bGU9e3sgY29sb3I6ICJ2YXIoLS1ib25lKSIgfX0+aWtua2Z4IGluYzwvc3Ryb25nPiwgb3BlcmF0aW5nIHVuZGVyIHRoZSBicmFuZCA8c3Ryb25nIHN0eWxlPXt7IGNvbG9yOiAidmFyKC0tYm9uZSkiIH19PlF1YW50dW0gQ2lwaGVyIExhYjwvc3Ryb25nPiDigJQgaW5jbHVkaW5nIGJ1dCBub3QgbGltaXRlZCB0byB3ZWJzaXRlcywgY291cnNlcywgdmlkZW9zLCBsaXZlc3RyZWFtcywgcG9kY2FzdHMsIHdyaXR0ZW4gbWF0ZXJpYWxzLCBzb2Z0d2FyZSwgaW5kaWNhdG9ycywgc2NyaXB0cywgZnJhbWV3b3Jrcywgc29jaWFsIG1lZGlhIHBvc3RzLCBhbmQgb25lLW9uLW9uZSBjb2FjaGluZyDigJQgaXMgcHJvdmlkZWQgc3RyaWN0bHkgZm9yIDxzdHJvbmcgc3R5bGU9e3sgY29sb3I6ICJ2YXIoLS1ib25lKSIgfX0+ZWR1Y2F0aW9uYWwgYW5kIGluZm9ybWF0aW9uYWwgcHVycG9zZXM8L3N0cm9uZz4uCiAgICAgIDwvUD4KICAgICAgPFA+CiAgICAgICAgTm90aGluZyB3ZSBwdWJsaXNoIHNob3VsZCBiZSBjb25zdHJ1ZWQgYXMgcGVyc29uYWxpemVkIGludmVzdG1lbnQgYWR2aWNlIG9yIGEgcmVjb21tZW5kYXRpb24gdG8gYnV5LCBzZWxsLCBvciBob2xkIGFueSBmaW5hbmNpYWwgaW5zdHJ1bWVudC4KICAgICAgPC9QPgoKICAgICAgPEgyPjIuIE5vdCBGaW5hbmNpYWwsIEludmVzdG1lbnQsIFRheCwgb3IgTGVnYWwgQWR2aWNlPC9IMj4KICAgICAgPFA+CiAgICAgICAgV2UgYXJlIDxzdHJvbmcgc3R5bGU9e3sgY29sb3I6ICJ2YXIoLS1ib25lKSIgfX0+bm90PC9zdHJvbmc+OgogICAgICA8L1A+CiAgICAgIDxVTD4KICAgICAgICA8TEk+QSByZWdpc3RlcmVkIGludmVzdG1lbnQgYWR2aXNlciAoUklBKTwvTEk+CiAgICAgICAgPExJPkEgYnJva2VyLWRlYWxlcjwvTEk+CiAgICAgICAgPExJPkEgbGljZW5zZWQgZmluYW5jaWFsIHBsYW5uZXI8L0xJPgogICAgICAgIDxMST5BIGNlcnRpZmllZCBwdWJsaWMgYWNjb3VudGFudCAoQ1BBKSBvciB0YXggcHJvZmVzc2lvbmFsPC9MST4KICAgICAgICA8TEk+QW4gYXR0b3JuZXk8L0xJPgogICAgICAgIDxMST5BIGZpZHVjaWFyeSBvZiBhbnkga2luZCBmb3IgYW55IHVzZXIsIHZpZXdlciwgc3R1ZGVudCwgb3IgY2xpZW50PC9MST4KICAgICAgPC9VTD4KICAgICAgPFA+CiAgICAgICAgWW91IHNob3VsZCBjb25zdWx0IHF1YWxpZmllZCwgbGljZW5zZWQgcHJvZmVzc2lvbmFscyBiZWZvcmUgbWFraW5nIGFueSBmaW5hbmNpYWwsIGludmVzdG1lbnQsIHRheCwgb3IgbGVnYWwgZGVjaXNpb24uIEFueSByZWxpYW5jZSB5b3UgcGxhY2Ugb24gb3VyIGNvbnRlbnQgaXMgc3RyaWN0bHkgYXQgeW91ciBvd24gcmlzay4KICAgICAgPC9QPgoKICAgICAgPEgyPjMuIFRyYWRpbmcgUmlzayBEaXNjbG9zdXJlPC9IMj4KICAgICAgPFA+CiAgICAgICAgVHJhZGluZyBhbmQgaW52ZXN0aW5nIGNhcnJ5IGluaGVyZW50IGFuZCBzdWJzdGFudGlhbCByaXNrOgogICAgICA8L1A+CiAgICAgIDxVTD4KICAgICAgICA8TEk+PHN0cm9uZyBzdHlsZT17eyBjb2xvcjogInZhcigtLWJvbmUpIiB9fT5Nb3N0IHJldGFpbCB0cmFkZXJzIGxvc2UgbW9uZXkuPC9zdHJvbmc+IFRoZSBtYWpvcml0eSBvZiBwZW9wbGUgd2hvIGF0dGVtcHQgdG8gdHJhZGUgYWN0aXZlbHkgbG9zZSBzb21lIG9yIGFsbCBvZiB0aGVpciBjYXBpdGFsLjwvTEk+CiAgICAgICAgPExJPjxzdHJvbmcgc3R5bGU9e3sgY29sb3I6ICJ2YXIoLS1ib25lKSIgfX0+WW91IGNhbiBsb3NlIG1vcmUgdGhhbiB5b3VyIGluaXRpYWwgZGVwb3NpdDwvc3Ryb25nPiBpbiBsZXZlcmFnZWQgcHJvZHVjdHMgc3VjaCBhcyBmdXR1cmVzLCBvcHRpb25zLCBwZXJwZXR1YWxzLCBhbmQgbWFyZ2luIGFjY291bnRzLjwvTEk+CiAgICAgICAgPExJPjxzdHJvbmcgc3R5bGU9e3sgY29sb3I6ICJ2YXIoLS1ib25lKSIgfX0+Q3J5cHRvY3VycmVuY2llcyBhcmUgaGlnaGx5IHZvbGF0aWxlPC9zdHJvbmc+IGFuZCBsYXJnZWx5IHVucmVndWxhdGVkLiBNYW55IHRva2VucyBnbyB0byB6ZXJvLjwvTEk+CiAgICAgICAgPExJPjxzdHJvbmcgc3R5bGU9e3sgY29sb3I6ICJ2YXIoLS1ib25lKSIgfX0+Tm8gc3lzdGVtLCBzdHJhdGVneSwgb3IgbWV0aG9kb2xvZ3kg4oCUIGluY2x1ZGluZyBvdXJzIOKAlCBndWFyYW50ZWVzIHByb2ZpdC48L3N0cm9uZz4gTWFya2V0cyBjaGFuZ2UsIGVkZ2VzIGVyb2RlLCBhbmQgZXhlY3V0aW9uIGlzIHlvdXIgcmVzcG9uc2liaWxpdHkuPC9MST4KICAgICAgICA8TEk+T25seSB0cmFkZSB3aXRoIGNhcGl0YWwgeW91IGNhbiBhZmZvcmQgdG8gbG9zZSBjb21wbGV0ZWx5LjwvTEk+CiAgICAgIDwvVUw+CgogICAgICA8SDI+NC4gSHlwb3RoZXRpY2FsIGFuZCBQYXN0IFBlcmZvcm1hbmNlPC9IMj4KICAgICAgPFA+CiAgICAgICAgQW55IHJlZmVyZW5jZXMgdG8gY2hhcnRzLCB0cmFkZSBleGFtcGxlcywgYmFja3Rlc3RzLCBoeXBvdGhldGljYWwgcmVzdWx0cywgb3IgaGlzdG9yaWNhbCBwZXJmb3JtYW5jZSBhcmUgcHJlc2VudGVkIGZvciBlZHVjYXRpb25hbCBpbGx1c3RyYXRpb24gb25seS4gPHN0cm9uZyBzdHlsZT17eyBjb2xvcjogInZhcigtLWJvbmUpIiB9fT5QYXN0IHBlcmZvcm1hbmNlIGlzIG5vdCBhIHJlbGlhYmxlIGluZGljYXRvciBvZiBmdXR1cmUgcmVzdWx0cy48L3N0cm9uZz4gSHlwb3RoZXRpY2FsIG9yIHNpbXVsYXRlZCByZXN1bHRzIGhhdmUgaW5oZXJlbnQgbGltaXRhdGlvbnMgYW5kIG1heSBub3QgcmVmbGVjdCB0aGUgaW1wYWN0IG9mIHJlYWwgbWFya2V0IGNvbmRpdGlvbnMsIHNsaXBwYWdlLCBsaXF1aWRpdHksIGZlZXMsIG9yIHBzeWNob2xvZ3kuCiAgICAgIDwvUD4KCiAgICAgIDxIMj41LiBUZXN0aW1vbmlhbCBEaXNjbGFpbWVyPC9IMj4KICAgICAgPFA+CiAgICAgICAgU3R1ZGVudCB0ZXN0aW1vbmlhbHMsIGNhc2Ugc3R1ZGllcywgc2NyZWVuc2hvdHMgb2YgUCZhbXA7TCwgdmlkZW8gcmV2aWV3cywgYW5kIG90aGVyIHNvY2lhbCBwcm9vZiBzaG93biBvbiBvdXIgd2Vic2l0ZSBvciBpbiBvdXIgbWFya2V0aW5nIHJlcHJlc2VudCA8c3Ryb25nIHN0eWxlPXt7IGNvbG9yOiAidmFyKC0tYm9uZSkiIH19PmluZGl2aWR1YWwgZXhwZXJpZW5jZXM8L3N0cm9uZz4uIFRoZXNlIHJlc3VsdHMgYXJlIG5vdCB0eXBpY2FsLCBub3QgZ3VhcmFudGVlZCwgYW5kIGRlcGVuZCBvbiBhIHdpZGUgcmFuZ2Ugb2YgZmFjdG9ycyBpbmNsdWRpbmcgYnV0IG5vdCBsaW1pdGVkIHRvIGNhcGl0YWwsIHJpc2sgbWFuYWdlbWVudCwgbWFya2V0IGNvbmRpdGlvbnMsIHRpbWUgY29tbWl0bWVudCwgZGlzY2lwbGluZSwgYW5kIHByaW9yIGV4cGVyaWVuY2UuCiAgICAgIDwvUD4KICAgICAgPFA+CiAgICAgICAgTW9zdCBzdHVkZW50cyBkbyBub3QgYWNoaWV2ZSByZXN1bHRzIGNvbXBhcmFibGUgdG8gdGhvc2UgZmVhdHVyZWQuIFNvbWUgc3R1ZGVudHMgbG9zZSBtb25leS4gRmVhdHVyZWQgdGVzdGltb25pYWxzIG1heSBoYXZlIGJlZW4gY29tcGVuc2F0ZWQgaW4gc29tZSBmb3JtLCBzdWNoIGFzIHJlY2VpdmluZyBmcmVlIG9yIGRpc2NvdW50ZWQgYWNjZXNzIHRvIGEgcHJvZ3JhbS4KICAgICAgPC9QPgoKICAgICAgPEgyPjYuIEluY29tZSBEaXNjbGFpbWVyPC9IMj4KICAgICAgPFA+CiAgICAgICAgQW55IHJlZmVyZW5jZXMgdG8gaW5jb21lLCBwcm9maXQsIG9yIGZpbmFuY2lhbCBzdWNjZXNzIHRoYXQgeW91IG1heSBlYXJuIG9yIGdlbmVyYXRlIGZyb20gdHJhZGluZywgb3VyIHByb2dyYW1zLCBvciBhcHBseWluZyBvdXIgbWV0aG9kb2xvZ3kgYXJlIGlsbHVzdHJhdGl2ZSBvbmx5LiBXZSBtYWtlIDxzdHJvbmcgc3R5bGU9e3sgY29sb3I6ICJ2YXIoLS1ib25lKSIgfX0+bm8gcmVwcmVzZW50YXRpb24sIHdhcnJhbnR5LCBvciBndWFyYW50ZWU8L3N0cm9uZz4gdGhhdCB5b3Ugd2lsbCBhY2hpZXZlIGFueSBzcGVjaWZpYyBpbmNvbWUgb3IgcmVzdWx0LiBUaGUgc3VjY2VzcyBvZiBhbnkgaW5kaXZpZHVhbCBkZXBlbmRzIG9uIG51bWVyb3VzIGZhY3RvcnMgb3V0c2lkZSBvdXIgY29udHJvbC4KICAgICAgPC9QPgoKICAgICAgPEgyPjcuIEZvcndhcmQtTG9va2luZyBTdGF0ZW1lbnRzPC9IMj4KICAgICAgPFA+CiAgICAgICAgT3VyIGNvbnRlbnQgbWF5IGNvbnRhaW4gZm9yd2FyZC1sb29raW5nIHN0YXRlbWVudHMgYWJvdXQgbWFya2V0IGNvbmRpdGlvbnMsIHRyZW5kcywgb3Igc3RyYXRlZ2llcy4gVGhlc2Ugc3RhdGVtZW50cyByZWZsZWN0IG91ciBvcGluaW9uIGF0IGEgcG9pbnQgaW4gdGltZSBhbmQgYXJlIHN1YmplY3QgdG8gcmlza3MsIHVuY2VydGFpbnRpZXMsIGFuZCBhc3N1bXB0aW9ucy4gQWN0dWFsIHJlc3VsdHMgbWF5IGRpZmZlciBtYXRlcmlhbGx5LgogICAgICA8L1A+CgogICAgICA8SDI+OC4gVGhpcmQtUGFydHkgQ29udGVudCBhbmQgQWZmaWxpYXRpb25zPC9IMj4KICAgICAgPFA+CiAgICAgICAgV2UgbWF5IHJlZmVyZW5jZSB0aGlyZC1wYXJ0eSBicm9rZXJzLCBleGNoYW5nZXMsIHByb3AgZmlybXMsIHRvb2xzLCBvciBzZXJ2aWNlcy4gV2UgZG8gbm90IGVuZG9yc2UsIGd1YXJhbnRlZSwgb3IgdGFrZSByZXNwb25zaWJpbGl0eSBmb3IgdGhlIGFjY3VyYWN5LCBzYWZldHksIG9yIHBlcmZvcm1hbmNlIG9mIGFueSB0aGlyZCBwYXJ0eS4gV2UgbWF5IHJlY2VpdmUgY29tcGVuc2F0aW9uIG9yIGFmZmlsaWF0ZSBjb21taXNzaW9ucyBmcm9tIHNvbWUgdGhpcmQgcGFydGllcyB3ZSBtZW50aW9uLgogICAgICA8L1A+CgogICAgICA8SDI+OS4gTm8gU29saWNpdGF0aW9uPC9IMj4KICAgICAgPFA+CiAgICAgICAgTm90aGluZyBvbiBvdXIgd2Vic2l0ZSBvciBpbiBvdXIgY29udGVudCBpcyBhbiBvZmZlciBvciBzb2xpY2l0YXRpb24gdG8gYnV5IG9yIHNlbGwgYW55IHNlY3VyaXR5LCBkZXJpdmF0aXZlLCBvciBmaW5hbmNpYWwgaW5zdHJ1bWVudCBpbiBhbnkganVyaXNkaWN0aW9uIGluIHdoaWNoIHN1Y2ggb2ZmZXIgb3Igc29saWNpdGF0aW9uIHdvdWxkIGJlIHVubGF3ZnVsLgogICAgICA8L1A+CgogICAgICA8SDI+MTAuIFlvdXIgUmVzcG9uc2liaWxpdHk8L0gyPgogICAgICA8UD4KICAgICAgICBCeSBlbmdhZ2luZyB3aXRoIGFueSBvZiBvdXIgY29udGVudCwgcHJvZHVjdHMsIG9yIHNlcnZpY2VzLCB5b3UgYWNrbm93bGVkZ2UgYW5kIGFncmVlIHRoYXQ6CiAgICAgIDwvUD4KICAgICAgPFVMPgogICAgICAgIDxMST5Zb3UgYXJlIHNvbGVseSByZXNwb25zaWJsZSBmb3IgeW91ciB0cmFkaW5nIGFuZCBpbnZlc3RtZW50IGRlY2lzaW9ucy48L0xJPgogICAgICAgIDxMST5Zb3UgaGF2ZSByZWFkIGFuZCB1bmRlcnN0b29kIHRoaXMgRGlzY2xhaW1lciBpbiBpdHMgZW50aXJldHkuPC9MST4KICAgICAgICA8TEk+WW91IHdpbGwgbm90IGhvbGQgaWtua2Z4IGluYyBvciBhbnkgb2YgaXRzIG9mZmljZXJzLCBlbXBsb3llZXMsIGNvbnRyYWN0b3JzLCBvciBhZmZpbGlhdGVzIGxpYWJsZSBmb3IgYW55IGxvc3NlcywgZGFtYWdlcywgb3IgY29zdHMgYXJpc2luZyBmcm9tIHlvdXIgdXNlIG9mIG91ciBjb250ZW50IG9yIHlvdXIgdHJhZGluZyBhY3Rpdml0eS48L0xJPgogICAgICAgIDxMST5Zb3UgdW5kZXJzdGFuZCB0aGF0IGFueSBkZWNpc2lvbnMgeW91IG1ha2UgYXJlIHlvdXJzIGFsb25lLjwvTEk+CiAgICAgIDwvVUw+CgogICAgICA8SDI+MTEuIENvbnRhY3Q8L0gyPgogICAgICA8UD4KICAgICAgICBRdWVzdGlvbnMgYWJvdXQgdGhpcyBEaXNjbGFpbWVyOjxiciAvPgogICAgICAgIDxzdHJvbmcgc3R5bGU9e3sgY29sb3I6ICJ2YXIoLS1ib25lKSIgfX0+aWtua2Z4IGluYzwvc3Ryb25nPjxiciAvPgogICAgICAgIFN1Ym1pdCBhIHJlcXVlc3QgdGhyb3VnaCBvdXIgY29udGFjdCBmb3JtIGF0IDxhIGhyZWY9Imh0dHBzOi8vcXVhbnR1bWNpcGhlcmxhYi5jb20vY29udGFjdCIgc3R5bGU9e3sgY29sb3I6ICJ2YXIoLS1hY2lkKSIgfX0+cXVhbnR1bWNpcGhlcmxhYi5jb20vY29udGFjdDwvYT4uCiAgICAgIDwvUD4KCiAgICAgIDxDYWxsb3V0PgogICAgICAgIFRoaXMgZGlzY2xhaW1lciBpcyBhIHN0YXJ0aW5nIHRlbXBsYXRlIHR1bmVkIGZvciB0cmFkaW5nIGVkdWNhdGlvbi4gVGhlIHRyYWRpbmcgZWR1Y2F0aW9uIHNwYWNlIGF0dHJhY3RzIGhlaWdodGVuZWQgc2NydXRpbnkgZnJvbSB0aGUgU0VDLCBGVEMsIENGVEMsIHN0YXRlIHJlZ3VsYXRvcnMsIGFuZCBjbGFzcy1hY3Rpb24gYXR0b3JuZXlzLiBIYXZlIHRoaXMgcmV2aWV3ZWQgYnkgYW4gYXR0b3JuZXkgZmFtaWxpYXIgd2l0aCBGVEMgZW5kb3JzZW1lbnQgcnVsZXMsIHNlY3VyaXRpZXMgYWR2ZXJ0aXNpbmcgcnVsZXMsIGFuZCBhbnkgc3RhdGUtc3BlY2lmaWMgb2JsaWdhdGlvbnMgYmVmb3JlIGdvaW5nIGxpdmUuCiAgICAgIDwvQ2FsbG91dD4KICAgIDwvTGVnYWxTaGVsbD4KICApOwp9Cg=="}
+import LegalShell, { H2, P, UL, LI, Callout } from "@/components/legal/LegalShell";
+
+export const metadata = {
+  title: "Disclaimer · Quantum Cipher Lab",
+  description: "Risk disclosure for trading education and Quantum Cipher Lab content.",
+};
+
+export default function DisclaimerPage() {
+  return (
+    <LegalShell kicker="Legal" title="Disclaimer" effectiveDate="May 18, 2026">
+      <Callout>
+        Trading the financial markets — including but not limited to cryptocurrencies, stocks, forex, futures, options, and CFDs — involves <strong style={{ color: "var(--bone)" }}>substantial risk of loss</strong> and is not suitable for every investor. You can lose all of the capital you commit, and in some products, more than your initial deposit. Past performance is not indicative of future results.
+      </Callout>
+
+      <H2>1. Educational Content Only</H2>
+      <P>
+        All content published by <strong style={{ color: "var(--bone)" }}>iknkfx inc</strong>, operating under the brand <strong style={{ color: "var(--bone)" }}>Quantum Cipher Lab</strong> — including but not limited to websites, courses, videos, livestreams, podcasts, written materials, software, indicators, scripts, frameworks, social media posts, and one-on-one coaching — is provided strictly for <strong style={{ color: "var(--bone)" }}>educational and informational purposes</strong>.
+      </P>
+      <P>
+        Nothing we publish should be construed as personalized investment advice or a recommendation to buy, sell, or hold any financial instrument.
+      </P>
+
+      <H2>2. Not Financial, Investment, Tax, or Legal Advice</H2>
+      <P>
+        We are <strong style={{ color: "var(--bone)" }}>not</strong>:
+      </P>
+      <UL>
+        <LI>A registered investment adviser (RIA)</LI>
+        <LI>A broker-dealer</LI>
+        <LI>A licensed financial planner</LI>
+        <LI>A certified public accountant (CPA) or tax professional</LI>
+        <LI>An attorney</LI>
+        <LI>A fiduciary of any kind for any user, viewer, student, or client</LI>
+      </UL>
+      <P>
+        You should consult qualified, licensed professionals before making any financial, investment, tax, or legal decision. Any reliance you place on our content is strictly at your own risk.
+      </P>
+
+      <H2>3. Trading Risk Disclosure</H2>
+      <P>
+        Trading and investing carry inherent and substantial risk:
+      </P>
+      <UL>
+        <LI><strong style={{ color: "var(--bone)" }}>Most retail traders lose money.</strong> The majority of people who attempt to trade actively lose some or all of their capital.</LI>
+        <LI><strong style={{ color: "var(--bone)" }}>You can lose more than your initial deposit</strong> in leveraged products such as futures, options, perpetuals, and margin accounts.</LI>
+        <LI><strong style={{ color: "var(--bone)" }}>Cryptocurrencies are highly volatile</strong> and largely unregulated. Many tokens go to zero.</LI>
+        <LI><strong style={{ color: "var(--bone)" }}>No system, strategy, or methodology — including ours — guarantees profit.</strong> Markets change, edges erode, and execution is your responsibility.</LI>
+        <LI>Only trade with capital you can afford to lose completely.</LI>
+      </UL>
+
+      <H2>4. Hypothetical and Past Performance</H2>
+      <P>
+        Any references to charts, trade examples, backtests, hypothetical results, or historical performance are presented for educational illustration only. <strong style={{ color: "var(--bone)" }}>Past performance is not a reliable indicator of future results.</strong> Hypothetical or simulated results have inherent limitations and may not reflect the impact of real market conditions, slippage, liquidity, fees, or psychology.
+      </P>
+
+      <H2>5. Testimonial Disclaimer</H2>
+      <P>
+        Student testimonials, case studies, screenshots of P&amp;L, video reviews, and other social proof shown on our website or in our marketing represent <strong style={{ color: "var(--bone)" }}>individual experiences</strong>. These results are not typical, not guaranteed, and depend on a wide range of factors including but not limited to capital, risk management, market conditions, time commitment, discipline, and prior experience.
+      </P>
+      <P>
+        Most students do not achieve results comparable to those featured. Some students lose money. Featured testimonials may have been compensated in some form, such as receiving free or discounted access to a program.
+      </P>
+
+      <H2>6. Income Disclaimer</H2>
+      <P>
+        Any references to income, profit, or financial success that you may earn or generate from trading, our programs, or applying our methodology are illustrative only. We make <strong style={{ color: "var(--bone)" }}>no representation, warranty, or guarantee</strong> that you will achieve any specific income or result. The success of any individual depends on numerous factors outside our control.
+      </P>
+
+      <H2>7. Forward-Looking Statements</H2>
+      <P>
+        Our content may contain forward-looking statements about market conditions, trends, or strategies. These statements reflect our opinion at a point in time and are subject to risks, uncertainties, and assumptions. Actual results may differ materially.
+      </P>
+
+      <H2>8. Third-Party Content and Affiliations</H2>
+      <P>
+        We may reference third-party brokers, exchanges, prop firms, tools, or services. We do not endorse, guarantee, or take responsibility for the accuracy, safety, or performance of any third party. We may receive compensation or affiliate commissions from some third parties we mention.
+      </P>
+
+      <H2>9. No Solicitation</H2>
+      <P>
+        Nothing on our website or in our content is an offer or solicitation to buy or sell any security, derivative, or financial instrument in any jurisdiction in which such offer or solicitation would be unlawful.
+      </P>
+
+      <H2>10. Your Responsibility</H2>
+      <P>
+        By engaging with any of our content, products, or services, you acknowledge and agree that:
+      </P>
+      <UL>
+        <LI>You are solely responsible for your trading and investment decisions.</LI>
+        <LI>You have read and understood this Disclaimer in its entirety.</LI>
+        <LI>You will not hold iknkfx inc or any of its officers, employees, contractors, or affiliates liable for any losses, damages, or costs arising from your use of our content or your trading activity.</LI>
+        <LI>You understand that any decisions you make are yours alone.</LI>
+      </UL>
+
+      <H2>11. Contact</H2>
+      <P>
+        Questions about this Disclaimer:<br />
+        <strong style={{ color: "var(--bone)" }}>iknkfx inc</strong><br />
+        Submit a request through our contact form at <a href="https://quantumcipherlab.com/contact" style={{ color: "var(--acid)" }}>quantumcipherlab.com/contact</a>.
+      </P>
+
+      <Callout>
+        This disclaimer is a starting template tuned for trading education. The trading education space attracts heightened scrutiny from the SEC, FTC, CFTC, state regulators, and class-action attorneys. Have this reviewed by an attorney familiar with FTC endorsement rules, securities advertising rules, and any state-specific obligations before going live.
+      </Callout>
+    </LegalShell>
+  );
+}

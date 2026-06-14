@@ -1,1 +1,113 @@
-{"data":"aW1wb3J0IExpbmsgZnJvbSAibmV4dC9saW5rIjsKaW1wb3J0IHR5cGUgeyBSZWFjdE5vZGUgfSBmcm9tICJyZWFjdCI7Cgpjb25zdCBMRUdBTF9MSU5LUyA9IFsKICB7IGhyZWY6ICIvcHJpdmFjeSIsIGxhYmVsOiAiUHJpdmFjeSIgfSwKICB7IGhyZWY6ICIvdGVybXMiLCBsYWJlbDogIlRlcm1zIiB9LAogIHsgaHJlZjogIi9yZWZ1bmQiLCBsYWJlbDogIlJlZnVuZCIgfSwKICB7IGhyZWY6ICIvZGlzY2xhaW1lciIsIGxhYmVsOiAiRGlzY2xhaW1lciIgfSwKXTsKCmZ1bmN0aW9uIExvZ28oKSB7CiAgcmV0dXJuICgKICAgIDxMaW5rIGhyZWY9Ii8iIHN0eWxlPXt7IGRpc3BsYXk6ICJmbGV4IiwgYWxpZ25JdGVtczogImNlbnRlciIsIGdhcDogMTIsIHRleHREZWNvcmF0aW9uOiAibm9uZSIsIGZsZXhTaHJpbms6IDAsIHdoaXRlU3BhY2U6ICJub3dyYXAiIH19PgogICAgICA8c3ZnIHdpZHRoPSIyOCIgaGVpZ2h0PSIyOCIgdmlld0JveD0iMCAwIDI4IDI4IiBmaWxsPSJub25lIj4KICAgICAgICA8cmVjdCB4PSIwLjUiIHk9IjAuNSIgd2lkdGg9IjI3IiBoZWlnaHQ9IjI3IiBzdHJva2U9InZhcigtLWFjaWQpIiBzdHJva2VXaWR0aD0iMSIgLz4KICAgICAgICA8cmVjdCB4PSI3IiB5PSI3IiB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIGZpbGw9InZhcigtLWFjaWQpIiAvPgogICAgICAgIDxyZWN0IHg9IjExIiB5PSIxMSIgd2lkdGg9IjYiIGhlaWdodD0iNiIgZmlsbD0idmFyKC0tYmcpIiAvPgogICAgICA8L3N2Zz4KICAgICAgPHNwYW4gc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtbW9ubykiLCBmb250U2l6ZTogMTMsIGZvbnRXZWlnaHQ6IDcwMCwgY29sb3I6ICJ2YXIoLS1ib25lKSIsIGxldHRlclNwYWNpbmc6ICIwLjE4ZW0iLCB0ZXh0VHJhbnNmb3JtOiAidXBwZXJjYXNlIiB9fT4KICAgICAgICBRdWFudHVtIENpcGhlcgogICAgICA8L3NwYW4+CiAgICA8L0xpbms+CiAgKTsKfQoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gTGVnYWxTaGVsbCh7CiAgdGl0bGUsCiAga2lja2VyLAogIGVmZmVjdGl2ZURhdGUsCiAgY2hpbGRyZW4sCn06IHsKICB0aXRsZTogc3RyaW5nOwogIGtpY2tlcjogc3RyaW5nOwogIGVmZmVjdGl2ZURhdGU6IHN0cmluZzsKICBjaGlsZHJlbjogUmVhY3ROb2RlOwp9KSB7CiAgcmV0dXJuICgKICAgIDxkaXYgc3R5bGU9e3sgbWluSGVpZ2h0OiAiMTAwdmgiLCBiYWNrZ3JvdW5kOiAidmFyKC0tYmcpIiwgY29sb3I6ICJ2YXIoLS1ib25lKSIgfX0+CiAgICAgIHsvKiBIRUFERVIgKi99CiAgICAgIDxoZWFkZXIgc3R5bGU9e3sgYm9yZGVyQm90dG9tOiAiMXB4IHNvbGlkIHZhcigtLWxpbmUpIiwgcGFkZGluZzogIjIwcHggNDhweCIsIGRpc3BsYXk6ICJmbGV4IiwganVzdGlmeUNvbnRlbnQ6ICJzcGFjZS1iZXR3ZWVuIiwgYWxpZ25JdGVtczogImNlbnRlciIgfX0+CiAgICAgICAgPExvZ28gLz4KICAgICAgICA8bmF2IHN0eWxlPXt7IGRpc3BsYXk6ICJmbGV4IiwgZ2FwOiAyNCwgYWxpZ25JdGVtczogImNlbnRlciIgfX0+CiAgICAgICAgICB7TEVHQUxfTElOS1MubWFwKChsKSA9PiAoCiAgICAgICAgICAgIDxMaW5rIGtleT17bC5ocmVmfSBocmVmPXtsLmhyZWZ9CiAgICAgICAgICAgICAgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtbW9ubykiLCBmb250U2l6ZTogMTAsIGZvbnRXZWlnaHQ6IDcwMCwgY29sb3I6ICJ2YXIoLS1hc2gpIiwgbGV0dGVyU3BhY2luZzogIjAuMjJlbSIsIHRleHRUcmFuc2Zvcm06ICJ1cHBlcmNhc2UiLCB0ZXh0RGVjb3JhdGlvbjogIm5vbmUiIH19PgogICAgICAgICAgICAgIMK3IHtsLmxhYmVsfQogICAgICAgICAgICA8L0xpbms+CiAgICAgICAgICApKX0KICAgICAgICA8L25hdj4KICAgICAgPC9oZWFkZXI+CgogICAgICB7LyogVElUTEUgQkxPQ0sgKi99CiAgICAgIDxkaXYgc3R5bGU9e3sgbWF4V2lkdGg6IDg4MCwgbWFyZ2luOiAiMCBhdXRvIiwgcGFkZGluZzogIjk2cHggNDhweCA0OHB4IiB9fT4KICAgICAgICA8ZGl2IHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LW1vbm8pIiwgZm9udFNpemU6IDExLCBmb250V2VpZ2h0OiA3MDAsIGNvbG9yOiAidmFyKC0tYWNpZCkiLCBsZXR0ZXJTcGFjaW5nOiAiMC4yMmVtIiwgdGV4dFRyYW5zZm9ybTogInVwcGVyY2FzZSIsIG1hcmdpbkJvdHRvbTogMTggfX0+CiAgICAgICAgICDCtyB7a2lja2VyfSDCtwogICAgICAgIDwvZGl2PgogICAgICAgIDxoMSBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1kaXNwbGF5KSIsIGZvbnRXZWlnaHQ6IDYwMCwgZm9udFNpemU6IDcyLCBsaW5lSGVpZ2h0OiAwLjk2LCBsZXR0ZXJTcGFjaW5nOiAiLTAuMDQ1ZW0iLCBjb2xvcjogInZhcigtLWJvbmUpIiwgbWFyZ2luOiAiMCAwIDMycHgiIH19PgogICAgICAgICAge3RpdGxlfQogICAgICAgIDwvaDE+CiAgICAgICAgPGRpdiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1tb25vKSIsIGZvbnRTaXplOiAxMSwgZm9udFdlaWdodDogNzAwLCBjb2xvcjogInZhcigtLWFzaCkiLCBsZXR0ZXJTcGFjaW5nOiAiMC4yMmVtIiwgdGV4dFRyYW5zZm9ybTogInVwcGVyY2FzZSIsIGJvcmRlclRvcDogIjFweCBzb2xpZCB2YXIoLS1saW5lKSIsIGJvcmRlckJvdHRvbTogIjFweCBzb2xpZCB2YXIoLS1saW5lKSIsIHBhZGRpbmc6ICIxNnB4IDAiIH19PgogICAgICAgICAgwrcgRWZmZWN0aXZlIHtlZmZlY3RpdmVEYXRlfSDCtyBpa25rZnggaW5jIMK3IERCQSBRdWFudHVtIENpcGhlciBMYWIgwrcKICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CgogICAgICB7LyogQ09OVEVOVCAqL30KICAgICAgPG1haW4gc3R5bGU9e3sgbWF4V2lkdGg6IDg4MCwgbWFyZ2luOiAiMCBhdXRvIiwgcGFkZGluZzogIjAgNDhweCAxMjBweCIsIGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LWJvZHkpIiwgZm9udFNpemU6IDE2LCBsaW5lSGVpZ2h0OiAxLjcsIGNvbG9yOiAidmFyKC0tYXNoKSIsIGZvbnRXZWlnaHQ6IDQwMCB9fT4KICAgICAgICB7Y2hpbGRyZW59CiAgICAgIDwvbWFpbj4KCiAgICAgIHsvKiBGT09URVIgKi99CiAgICAgIDxmb290ZXIgc3R5bGU9e3sgYm9yZGVyVG9wOiAiMXB4IHNvbGlkIHZhcigtLWxpbmUpIiwgcGFkZGluZzogIjMycHggNDhweCIsIGRpc3BsYXk6ICJmbGV4IiwganVzdGlmeUNvbnRlbnQ6ICJzcGFjZS1iZXR3ZWVuIiwgYWxpZ25JdGVtczogImNlbnRlciIsIGZsZXhXcmFwOiAid3JhcCIsIGdhcDogMTYsIGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LW1vbm8pIiwgZm9udFNpemU6IDEwLCBmb250V2VpZ2h0OiA3MDAsIGNvbG9yOiAidmFyKC0tbXV0ZWQpIiwgbGV0dGVyU3BhY2luZzogIjAuMjJlbSIsIHRleHRUcmFuc2Zvcm06ICJ1cHBlcmNhc2UiIH19PgogICAgICAgIDxzcGFuPsKpIDIwMjYgwrcgaWtua2Z4IGluYyDCtyBBbGwgUmlnaHRzIFJlc2VydmVkPC9zcGFuPgogICAgICAgIDxzcGFuPsK3IE5vdCBmaW5hbmNpYWwgYWR2aWNlIMK3IFRyYWRpbmcgaW52b2x2ZXMgcmVhbCByaXNrIG9mIGxvc3Mgwrc8L3NwYW4+CiAgICAgIDwvZm9vdGVyPgogICAgPC9kaXY+CiAgKTsKfQoKZXhwb3J0IGZ1bmN0aW9uIEgyKHsgY2hpbGRyZW4gfTogeyBjaGlsZHJlbjogUmVhY3ROb2RlIH0pIHsKICByZXR1cm4gKAogICAgPGgyIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LWRpc3BsYXkpIiwgZm9udFdlaWdodDogNjAwLCBmb250U2l6ZTogMzIsIGxpbmVIZWlnaHQ6IDEuMDUsIGxldHRlclNwYWNpbmc6ICItMC4wMjVlbSIsIGNvbG9yOiAidmFyKC0tYm9uZSkiLCBtYXJnaW46ICI1NnB4IDAgMThweCIgfX0+CiAgICAgIHtjaGlsZHJlbn0KICAgIDwvaDI+CiAgKTsKfQoKZXhwb3J0IGZ1bmN0aW9uIEgzKHsgY2hpbGRyZW4gfTogeyBjaGlsZHJlbjogUmVhY3ROb2RlIH0pIHsKICByZXR1cm4gKAogICAgPGgzIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LWRpc3BsYXkpIiwgZm9udFdlaWdodDogNjAwLCBmb250U2l6ZTogMjAsIGxpbmVIZWlnaHQ6IDEuMiwgbGV0dGVyU3BhY2luZzogIi0wLjAxNWVtIiwgY29sb3I6ICJ2YXIoLS1ib25lKSIsIG1hcmdpbjogIjMycHggMCAxMnB4IiB9fT4KICAgICAge2NoaWxkcmVufQogICAgPC9oMz4KICApOwp9CgpleHBvcnQgZnVuY3Rpb24gUCh7IGNoaWxkcmVuIH06IHsgY2hpbGRyZW46IFJlYWN0Tm9kZSB9KSB7CiAgcmV0dXJuIDxwIHN0eWxlPXt7IG1hcmdpbjogIjAgMCAxOHB4IiB9fT57Y2hpbGRyZW59PC9wPjsKfQoKZXhwb3J0IGZ1bmN0aW9uIFVMKHsgY2hpbGRyZW4gfTogeyBjaGlsZHJlbjogUmVhY3ROb2RlIH0pIHsKICByZXR1cm4gPHVsIHN0eWxlPXt7IG1hcmdpbjogIjAgMCAxOHB4IiwgcGFkZGluZ0xlZnQ6IDIyIH19PntjaGlsZHJlbn08L3VsPjsKfQoKZXhwb3J0IGZ1bmN0aW9uIExJKHsgY2hpbGRyZW4gfTogeyBjaGlsZHJlbjogUmVhY3ROb2RlIH0pIHsKICByZXR1cm4gPGxpIHN0eWxlPXt7IG1hcmdpbjogIjAgMCA4cHgiIH19PntjaGlsZHJlbn08L2xpPjsKfQoKZXhwb3J0IGZ1bmN0aW9uIENhbGxvdXQoeyBjaGlsZHJlbiB9OiB7IGNoaWxkcmVuOiBSZWFjdE5vZGUgfSkgewogIHJldHVybiAoCiAgICA8ZGl2IHN0eWxlPXt7IGJhY2tncm91bmQ6ICJ2YXIoLS1iZy0xKSIsIGJvcmRlcjogIjFweCBzb2xpZCB2YXIoLS1hY2lkKSIsIGJvcmRlckxlZnQ6ICIycHggc29saWQgdmFyKC0tYWNpZCkiLCBwYWRkaW5nOiAiMjBweCAyNHB4IiwgbWFyZ2luOiAiMjRweCAwIiwgZm9udEZhbWlseTogInZhcigtLWZvbnQtYm9keSkiLCBmb250U2l6ZTogMTUsIGxpbmVIZWlnaHQ6IDEuNiwgY29sb3I6ICJ2YXIoLS1ib25lKSIsIGZvbnRXZWlnaHQ6IDUwMCB9fT4KICAgICAge2NoaWxkcmVufQogICAgPC9kaXY+CiAgKTsKfQo="}
+import Link from "next/link";
+import type { ReactNode } from "react";
+
+const LEGAL_LINKS = [
+  { href: "/privacy", label: "Privacy" },
+  { href: "/terms", label: "Terms" },
+  { href: "/refund", label: "Refund" },
+  { href: "/disclaimer", label: "Disclaimer" },
+];
+
+function Logo() {
+  return (
+    <Link href="/" style={{ display: "flex", alignItems: "center", gap: 12, textDecoration: "none", flexShrink: 0, whiteSpace: "nowrap" }}>
+      <svg width="28" height="28" viewBox="0 0 28 28" fill="none">
+        <rect x="0.5" y="0.5" width="27" height="27" stroke="var(--acid)" strokeWidth="1" />
+        <rect x="7" y="7" width="14" height="14" fill="var(--acid)" />
+        <rect x="11" y="11" width="6" height="6" fill="var(--bg)" />
+      </svg>
+      <span style={{ fontFamily: "var(--font-mono)", fontSize: 13, fontWeight: 700, color: "var(--bone)", letterSpacing: "0.18em", textTransform: "uppercase" }}>
+        Quantum Cipher
+      </span>
+    </Link>
+  );
+}
+
+export default function LegalShell({
+  title,
+  kicker,
+  effectiveDate,
+  children,
+}: {
+  title: string;
+  kicker: string;
+  effectiveDate: string;
+  children: ReactNode;
+}) {
+  return (
+    <div style={{ minHeight: "100vh", background: "var(--bg)", color: "var(--bone)" }}>
+      {/* HEADER */}
+      <header style={{ borderBottom: "1px solid var(--line)", padding: "20px 48px", display: "flex", justifyContent: "space-between", alignItems: "center" }}>
+        <Logo />
+        <nav style={{ display: "flex", gap: 24, alignItems: "center" }}>
+          {LEGAL_LINKS.map((l) => (
+            <Link key={l.href} href={l.href}
+              style={{ fontFamily: "var(--font-mono)", fontSize: 10, fontWeight: 700, color: "var(--ash)", letterSpacing: "0.22em", textTransform: "uppercase", textDecoration: "none" }}>
+              · {l.label}
+            </Link>
+          ))}
+        </nav>
+      </header>
+
+      {/* TITLE BLOCK */}
+      <div style={{ maxWidth: 880, margin: "0 auto", padding: "96px 48px 48px" }}>
+        <div style={{ fontFamily: "var(--font-mono)", fontSize: 11, fontWeight: 700, color: "var(--acid)", letterSpacing: "0.22em", textTransform: "uppercase", marginBottom: 18 }}>
+          · {kicker} ·
+        </div>
+        <h1 style={{ fontFamily: "var(--font-display)", fontWeight: 600, fontSize: 72, lineHeight: 0.96, letterSpacing: "-0.045em", color: "var(--bone)", margin: "0 0 32px" }}>
+          {title}
+        </h1>
+        <div style={{ fontFamily: "var(--font-mono)", fontSize: 11, fontWeight: 700, color: "var(--ash)", letterSpacing: "0.22em", textTransform: "uppercase", borderTop: "1px solid var(--line)", borderBottom: "1px solid var(--line)", padding: "16px 0" }}>
+          · Effective {effectiveDate} · iknkfx inc · DBA Quantum Cipher Lab ·
+        </div>
+      </div>
+
+      {/* CONTENT */}
+      <main style={{ maxWidth: 880, margin: "0 auto", padding: "0 48px 120px", fontFamily: "var(--font-body)", fontSize: 16, lineHeight: 1.7, color: "var(--ash)", fontWeight: 400 }}>
+        {children}
+      </main>
+
+      {/* FOOTER */}
+      <footer style={{ borderTop: "1px solid var(--line)", padding: "32px 48px", display: "flex", justifyContent: "space-between", alignItems: "center", flexWrap: "wrap", gap: 16, fontFamily: "var(--font-mono)", fontSize: 10, fontWeight: 700, color: "var(--muted)", letterSpacing: "0.22em", textTransform: "uppercase" }}>
+        <span>© 2026 · iknkfx inc · All Rights Reserved</span>
+        <span>· Not financial advice · Trading involves real risk of loss ·</span>
+      </footer>
+    </div>
+  );
+}
+
+export function H2({ children }: { children: ReactNode }) {
+  return (
+    <h2 style={{ fontFamily: "var(--font-display)", fontWeight: 600, fontSize: 32, lineHeight: 1.05, letterSpacing: "-0.025em", color: "var(--bone)", margin: "56px 0 18px" }}>
+      {children}
+    </h2>
+  );
+}
+
+export function H3({ children }: { children: ReactNode }) {
+  return (
+    <h3 style={{ fontFamily: "var(--font-display)", fontWeight: 600, fontSize: 20, lineHeight: 1.2, letterSpacing: "-0.015em", color: "var(--bone)", margin: "32px 0 12px" }}>
+      {children}
+    </h3>
+  );
+}
+
+export function P({ children }: { children: ReactNode }) {
+  return <p style={{ margin: "0 0 18px" }}>{children}</p>;
+}
+
+export function UL({ children }: { children: ReactNode }) {
+  return <ul style={{ margin: "0 0 18px", paddingLeft: 22 }}>{children}</ul>;
+}
+
+export function LI({ children }: { children: ReactNode }) {
+  return <li style={{ margin: "0 0 8px" }}>{children}</li>;
+}
+
+export function Callout({ children }: { children: ReactNode }) {
+  return (
+    <div style={{ background: "var(--bg-1)", border: "1px solid var(--acid)", borderLeft: "2px solid var(--acid)", padding: "20px 24px", margin: "24px 0", fontFamily: "var(--font-body)", fontSize: 15, lineHeight: 1.6, color: "var(--bone)", fontWeight: 500 }}>
+      {children}
+    </div>
+  );
+}

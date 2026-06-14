@@ -1,1 +1,80 @@
-{"data":"Ly8gR0VUIC9hcGkvYW5hbHl0aWNzL3RyZW5kcwovLwovLyBMb25nLXJhbmdlIGdyb3d0aCB0cmVuZHMg4oCUIHRoZSB2aWV3IGEgMzAtZGF5IHNuYXBzaG90IGNhbid0IHNob3cuIE1vbnRobHkKLy8gcmV2ZW51ZSAob25lLXRpbWUgdnMgcmVjdXJyaW5nKSArIG1lbWJlcnNoaXAgY2h1cm4gZnJvbSBXaG9wLCBwbHVzIHdlZWtseQovLyBsZWFkcy92aWV3cyBmcm9tIFBvc3RIb2cuIEhlYXZ5IGhpc3RvcmljYWwgYWdncmVnYXRpb24sIGNhY2hlZCAxaCwgbG9hZGVkCi8vIGxhemlseSBieSB0aGUgZGFzaGJvYXJkIHNvIGl0IG5ldmVyIGJsb2NrcyB0aGUgbWFpbiB2aWV3LgoKaW1wb3J0IHsgTmV4dFJlcXVlc3QsIE5leHRSZXNwb25zZSB9IGZyb20gIm5leHQvc2VydmVyIjsKaW1wb3J0IHsgaXNBdXRoZWQgfSBmcm9tICJAL2xpYi9hbmFseXRpY3MtYXV0aCI7CmltcG9ydCB7IGZldGNoV2hvcFRyZW5kcyB9IGZyb20gIkAvbGliL3dob3AiOwppbXBvcnQgeyBmZXRjaFNlZ0F0dHJpYnV0aW9uIH0gZnJvbSAiQC9saWIvc2VnbWV0cmljcyI7CmltcG9ydCB7IGZldGNoRnJlZUNvdXJzZVJvaSB9IGZyb20gIkAvbGliL2ZyZWVjb3Vyc2UiOwoKZXhwb3J0IGNvbnN0IHJ1bnRpbWUgPSAibm9kZWpzIjsKZXhwb3J0IGNvbnN0IGR5bmFtaWMgPSAiZm9yY2UtZHluYW1pYyI7CmV4cG9ydCBjb25zdCBtYXhEdXJhdGlvbiA9IDYwOwoKY29uc3QgUEhfUFJPSkVDVCA9ICI0MzA4ODciOwpjb25zdCBQSF9IT1NUID0gImh0dHBzOi8vdXMuaS5wb3N0aG9nLmNvbSI7Cgphc3luYyBmdW5jdGlvbiBob2dxbChxdWVyeTogc3RyaW5nKTogUHJvbWlzZTx1bmtub3duW11bXT4gewogIGNvbnN0IGFwaUtleSA9IHByb2Nlc3MuZW52LlBPU1RIT0dfUEVSU09OQUxfQVBJX0tFWSB8fCAiIjsKICBpZiAoIWFwaUtleSkgcmV0dXJuIFtdOwogIHRyeSB7CiAgICBjb25zdCByZXMgPSBhd2FpdCBmZXRjaChgJHtQSF9IT1NUfS9hcGkvcHJvamVjdHMvJHtQSF9QUk9KRUNUfS9xdWVyeWAsIHsKICAgICAgbWV0aG9kOiAiUE9TVCIsCiAgICAgIGhlYWRlcnM6IHsgQXV0aG9yaXphdGlvbjogYEJlYXJlciAke2FwaUtleX1gLCAiQ29udGVudC1UeXBlIjogImFwcGxpY2F0aW9uL2pzb24iIH0sCiAgICAgIGJvZHk6IEpTT04uc3RyaW5naWZ5KHsgcXVlcnk6IHsga2luZDogIkhvZ1FMUXVlcnkiLCBxdWVyeSB9IH0pLAogICAgICBuZXh0OiB7IHJldmFsaWRhdGU6IDE4MDAgfSwKICAgIH0pOwogICAgaWYgKCFyZXMub2spIHJldHVybiBbXTsKICAgIHJldHVybiAoKGF3YWl0IHJlcy5qc29uKCkpLnJlc3VsdHMgPz8gW10pIGFzIHVua25vd25bXVtdOwogIH0gY2F0Y2ggewogICAgLy8gYSBzbG93L3VucmVhY2hhYmxlIHVwc3RyZWFtIG11c3Qgbm90IDUwMCB0aGUgd2hvbGUgdHJlbmRzIHJvdXRlIOKAlAogICAgLy8gcmV0dXJuIGVtcHR5IHNvIHRoZSBvdGhlciBzb3VyY2VzIHN0aWxsIHJlbmRlciAoY2xpZW50IHNlZWRzIHRoZSByZXN0KQogICAgcmV0dXJuIFtdOwogIH0KfQoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIEdFVChyZXE6IE5leHRSZXF1ZXN0KSB7CiAgaWYgKCFpc0F1dGhlZChyZXEuY29va2llcy5nZXQoInFjX2F1dGgiKT8udmFsdWUpKSB7CiAgICByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oeyBlcnJvcjogIlVuYXV0aG9yaXplZCIgfSwgeyBzdGF0dXM6IDQwMSB9KTsKICB9CgogIGNvbnN0IHdlZWtseVF1ZXJ5ID0gYAogICAgU0VMRUNUIHRvU3RhcnRPZldlZWsodGltZXN0YW1wKSBBUyB3aywKICAgICAgY291bnRJZihldmVudCA9ICckcGFnZXZpZXcnKSBBUyB2aWV3cywKICAgICAgdW5pcUlmKHBlcnNvbl9pZCwgZXZlbnQgPSAnJHBhZ2V2aWV3JykgQVMgdmlzaXRvcnMsCiAgICAgIGNvdW50SWYoZXZlbnQgPSAnZnJlZV9jb3Vyc2Vfc3VibWl0dGVkJykgQVMgZnJlZSwKICAgICAgY291bnRJZihldmVudCA9ICdsZWFkX3N1Ym1pdHRlZCcpIEFTIHZzbCwKICAgICAgY291bnRJZihldmVudCA9ICdxdWFsaWZ5X2Zvcm1fc3VibWl0dGVkJykgQVMgcXVhbGlmaWVkCiAgICBGUk9NIGV2ZW50cwogICAgV0hFUkUgdGltZXN0YW1wID49IG5vdygpIC0gSU5URVJWQUwgODQgREFZCiAgICBHUk9VUCBCWSB3ayBPUkRFUiBCWSB3awogIGA7CgogIGNvbnN0IFt0cmVuZHMsIHdlZWtseVJvd3MsIGF0dHJpYnV0aW9uLCBmcmVlQ291cnNlUm9pXSA9IGF3YWl0IFByb21pc2UuYWxsKFsKICAgIGZldGNoV2hvcFRyZW5kcyg4KS5jYXRjaCgoKSA9PiBudWxsKSwKICAgIGhvZ3FsKHdlZWtseVF1ZXJ5KSwKICAgIGZldGNoU2VnQXR0cmlidXRpb24oKS5jYXRjaCgoKSA9PiBudWxsKSwKICAgIGZldGNoRnJlZUNvdXJzZVJvaSgxMjApLmNhdGNoKCgpID0+IG51bGwpLAogIF0pOwoKICBjb25zdCB3ZWVrbHkgPSB3ZWVrbHlSb3dzLm1hcCgocikgPT4gKHsKICAgIHdlZWs6IFN0cmluZyhyWzBdID8/ICIiKS5zbGljZSgwLCAxMCksCiAgICB2aWV3czogTnVtYmVyKHJbMV0gPz8gMCksCiAgICB2aXNpdG9yczogTnVtYmVyKHJbMl0gPz8gMCksCiAgICBmcmVlOiBOdW1iZXIoclszXSA/PyAwKSwKICAgIHZzbDogTnVtYmVyKHJbNF0gPz8gMCksCiAgICBxdWFsaWZpZWQ6IE51bWJlcihyWzVdID8/IDApLAogIH0pKTsKCiAgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKHsKICAgIG1vbnRobHk6IHRyZW5kcz8ubW9udGhseSA/PyBbXSwKICAgIG1lbWJlcnNoaXBzOiB0cmVuZHM/Lm1lbWJlcnNoaXBzID8/IHsgYWN0aXZlOiAwLCBjYW5jZWxlZDogMCwgZXhwaXJlZDogMCwgY29tcGxldGVkOiAwIH0sCiAgICB3ZWVrbHksCiAgICBhdHRyaWJ1dGlvbiwKICAgIGZyZWVDb3Vyc2VSb2ksCiAgfSk7Cn0K"}
+// GET /api/analytics/trends
+//
+// Long-range growth trends — the view a 30-day snapshot can't show. Monthly
+// revenue (one-time vs recurring) + membership churn from Whop, plus weekly
+// leads/views from PostHog. Heavy historical aggregation, cached 1h, loaded
+// lazily by the dashboard so it never blocks the main view.
+
+import { NextRequest, NextResponse } from "next/server";
+import { isAuthed } from "@/lib/analytics-auth";
+import { fetchWhopTrends } from "@/lib/whop";
+import { fetchSegAttribution } from "@/lib/segmetrics";
+import { fetchFreeCourseRoi } from "@/lib/freecourse";
+
+export const runtime = "nodejs";
+export const dynamic = "force-dynamic";
+export const maxDuration = 60;
+
+const PH_PROJECT = "430887";
+const PH_HOST = "https://us.i.posthog.com";
+
+async function hogql(query: string): Promise<unknown[][]> {
+  const apiKey = process.env.POSTHOG_PERSONAL_API_KEY || "";
+  if (!apiKey) return [];
+  try {
+    const res = await fetch(`${PH_HOST}/api/projects/${PH_PROJECT}/query`, {
+      method: "POST",
+      headers: { Authorization: `Bearer ${apiKey}`, "Content-Type": "application/json" },
+      body: JSON.stringify({ query: { kind: "HogQLQuery", query } }),
+      next: { revalidate: 1800 },
+    });
+    if (!res.ok) return [];
+    return ((await res.json()).results ?? []) as unknown[][];
+  } catch {
+    // a slow/unreachable upstream must not 500 the whole trends route —
+    // return empty so the other sources still render (client seeds the rest)
+    return [];
+  }
+}
+
+export async function GET(req: NextRequest) {
+  if (!isAuthed(req.cookies.get("qc_auth")?.value)) {
+    return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+  }
+
+  const weeklyQuery = `
+    SELECT toStartOfWeek(timestamp) AS wk,
+      countIf(event = '$pageview') AS views,
+      uniqIf(person_id, event = '$pageview') AS visitors,
+      countIf(event = 'free_course_submitted') AS free,
+      countIf(event = 'lead_submitted') AS vsl,
+      countIf(event = 'qualify_form_submitted') AS qualified
+    FROM events
+    WHERE timestamp >= now() - INTERVAL 84 DAY
+    GROUP BY wk ORDER BY wk
+  `;
+
+  const [trends, weeklyRows, attribution, freeCourseRoi] = await Promise.all([
+    fetchWhopTrends(8).catch(() => null),
+    hogql(weeklyQuery),
+    fetchSegAttribution().catch(() => null),
+    fetchFreeCourseRoi(120).catch(() => null),
+  ]);
+
+  const weekly = weeklyRows.map((r) => ({
+    week: String(r[0] ?? "").slice(0, 10),
+    views: Number(r[1] ?? 0),
+    visitors: Number(r[2] ?? 0),
+    free: Number(r[3] ?? 0),
+    vsl: Number(r[4] ?? 0),
+    qualified: Number(r[5] ?? 0),
+  }));
+
+  return NextResponse.json({
+    monthly: trends?.monthly ?? [],
+    memberships: trends?.memberships ?? { active: 0, canceled: 0, expired: 0, completed: 0 },
+    weekly,
+    attribution,
+    freeCourseRoi,
+  });
+}

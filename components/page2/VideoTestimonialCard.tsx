@@ -1,1 +1,179 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBWaWRlb1Rlc3RpbW9uaWFsQ2FyZCh7CiAgdmlkZW9JZCwKICBoZWFkbGluZSwKICBib2R5LAp9OiB7CiAgdmlkZW9JZDogc3RyaW5nOwogIGhlYWRsaW5lOiBzdHJpbmc7CiAgYm9keTogc3RyaW5nOwp9KSB7CiAgY29uc3QgW2xvYWRlZCwgc2V0TG9hZGVkXSA9IHVzZVN0YXRlKGZhbHNlKTsKICBjb25zdCB0aHVtYiA9IGBodHRwczovL2kueXRpbWcuY29tL3ZpLyR7dmlkZW9JZH0vaHFkZWZhdWx0LmpwZ2A7CiAgY29uc3QgZW1iZWQgPSBgaHR0cHM6Ly93d3cueW91dHViZS5jb20vZW1iZWQvJHt2aWRlb0lkfT9hdXRvcGxheT0xJnJlbD0wJm1vZGVzdGJyYW5kaW5nPTFgOwoKICByZXR1cm4gKAogICAgPGRpdgogICAgICBzdHlsZT17ewogICAgICAgIGJhY2tncm91bmQ6ICJ2YXIoLS1iZy0xKSIsCiAgICAgICAgYm9yZGVyOiAiMXB4IHNvbGlkIHZhcigtLWxpbmUpIiwKICAgICAgICBkaXNwbGF5OiAiZmxleCIsCiAgICAgICAgZmxleERpcmVjdGlvbjogImNvbHVtbiIsCiAgICAgICAgdHJhbnNpdGlvbjogImJvcmRlci1jb2xvciAyMDBtcyBlYXNlLCB0cmFuc2Zvcm0gMjAwbXMgZWFzZSIsCiAgICAgIH19CiAgICAgIG9uTW91c2VFbnRlcj17KGUpID0+IHsKICAgICAgICAoZS5jdXJyZW50VGFyZ2V0IGFzIEhUTUxEaXZFbGVtZW50KS5zdHlsZS5ib3JkZXJDb2xvciA9ICJ2YXIoLS1hY2lkKSI7CiAgICAgICAgKGUuY3VycmVudFRhcmdldCBhcyBIVE1MRGl2RWxlbWVudCkuc3R5bGUudHJhbnNmb3JtID0gInRyYW5zbGF0ZVkoLTNweCkiOwogICAgICB9fQogICAgICBvbk1vdXNlTGVhdmU9eyhlKSA9PiB7CiAgICAgICAgKGUuY3VycmVudFRhcmdldCBhcyBIVE1MRGl2RWxlbWVudCkuc3R5bGUuYm9yZGVyQ29sb3IgPSAidmFyKC0tbGluZSkiOwogICAgICAgIChlLmN1cnJlbnRUYXJnZXQgYXMgSFRNTERpdkVsZW1lbnQpLnN0eWxlLnRyYW5zZm9ybSA9ICJ0cmFuc2xhdGVZKDApIjsKICAgICAgfX0KICAgID4KICAgICAgPGRpdgogICAgICAgIG9uQ2xpY2s9eygpID0+ICFsb2FkZWQgJiYgc2V0TG9hZGVkKHRydWUpfQogICAgICAgIHN0eWxlPXt7CiAgICAgICAgICBwb3NpdGlvbjogInJlbGF0aXZlIiwKICAgICAgICAgIGFzcGVjdFJhdGlvOiAiOS8xNiIsCiAgICAgICAgICBiYWNrZ3JvdW5kOiAidmFyKC0tYmctMikiLAogICAgICAgICAgY3Vyc29yOiBsb2FkZWQgPyAiZGVmYXVsdCIgOiAicG9pbnRlciIsCiAgICAgICAgICBvdmVyZmxvdzogImhpZGRlbiIsCiAgICAgICAgICBib3JkZXJCb3R0b206ICIxcHggc29saWQgdmFyKC0tbGluZSkiLAogICAgICAgIH19CiAgICAgID4KICAgICAgICB7IWxvYWRlZCA/ICgKICAgICAgICAgIDw+CiAgICAgICAgICAgIHsvKiBlc2xpbnQtZGlzYWJsZS1uZXh0LWxpbmUgQG5leHQvbmV4dC9uby1pbWctZWxlbWVudCAqL30KICAgICAgICAgICAgPGltZwogICAgICAgICAgICAgIHNyYz17dGh1bWJ9CiAgICAgICAgICAgICAgYWx0PXtoZWFkbGluZX0KICAgICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgICAgcG9zaXRpb246ICJhYnNvbHV0ZSIsCiAgICAgICAgICAgICAgICBpbnNldDogMCwKICAgICAgICAgICAgICAgIHdpZHRoOiAiMTAwJSIsCiAgICAgICAgICAgICAgICBoZWlnaHQ6ICIxMDAlIiwKICAgICAgICAgICAgICAgIG9iamVjdEZpdDogImNvdmVyIiwKICAgICAgICAgICAgICAgIG9iamVjdFBvc2l0aW9uOiAiY2VudGVyIiwKICAgICAgICAgICAgICB9fQogICAgICAgICAgICAvPgogICAgICAgICAgICA8ZGl2CiAgICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICAgIHBvc2l0aW9uOiAiYWJzb2x1dGUiLAogICAgICAgICAgICAgICAgaW5zZXQ6IDAsCiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kOgogICAgICAgICAgICAgICAgICAibGluZWFyLWdyYWRpZW50KDE4MGRlZywgcmdiYSg2LDcsMTAsMC4yNSkgMCUsIHJnYmEoNiw3LDEwLDAuMDUpIDQwJSwgcmdiYSg2LDcsMTAsMC44NSkgMTAwJSkiLAogICAgICAgICAgICAgIH19CiAgICAgICAgICAgIC8+CiAgICAgICAgICAgIDxkaXYKICAgICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgICAgcG9zaXRpb246ICJhYnNvbHV0ZSIsCiAgICAgICAgICAgICAgICBpbnNldDogMCwKICAgICAgICAgICAgICAgIGRpc3BsYXk6ICJmbGV4IiwKICAgICAgICAgICAgICAgIGFsaWduSXRlbXM6ICJjZW50ZXIiLAogICAgICAgICAgICAgICAganVzdGlmeUNvbnRlbnQ6ICJjZW50ZXIiLAogICAgICAgICAgICAgIH19CiAgICAgICAgICAgID4KICAgICAgICAgICAgICA8ZGl2CiAgICAgICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgICAgICB3aWR0aDogNjQsCiAgICAgICAgICAgICAgICAgIGhlaWdodDogNjQsCiAgICAgICAgICAgICAgICAgIGJhY2tncm91bmQ6ICJ2YXIoLS1hY2lkKSIsCiAgICAgICAgICAgICAgICAgIGRpc3BsYXk6ICJmbGV4IiwKICAgICAgICAgICAgICAgICAgYWxpZ25JdGVtczogImNlbnRlciIsCiAgICAgICAgICAgICAgICAgIGp1c3RpZnlDb250ZW50OiAiY2VudGVyIiwKICAgICAgICAgICAgICAgICAgYm94U2hhZG93OiAiMCAwIDQwcHggcmdiYSgxOTEsMjUwLDcwLDAuNDUpLCAwIDAgMTAwcHggcmdiYSgxOTEsMjUwLDcwLDAuMTgpIiwKICAgICAgICAgICAgICAgIH19CiAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgPHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCI+CiAgICAgICAgICAgICAgICAgIDxwb2x5Z29uIHBvaW50cz0iNyw0IDcsMjAgMjEsMTIiIGZpbGw9InZhcigtLWJnKSIgLz4KICAgICAgICAgICAgICAgIDwvc3ZnPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGRpdgogICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICBwb3NpdGlvbjogImFic29sdXRlIiwKICAgICAgICAgICAgICAgIHRvcDogMTAsCiAgICAgICAgICAgICAgICBsZWZ0OiAxMCwKICAgICAgICAgICAgICAgIHBhZGRpbmc6ICIzcHggN3B4IiwKICAgICAgICAgICAgICAgIGJhY2tncm91bmQ6ICJyZ2JhKDYsNywxMCwwLjg1KSIsCiAgICAgICAgICAgICAgICBib3JkZXI6ICIxcHggc29saWQgdmFyKC0tYWNpZCkiLAogICAgICAgICAgICAgICAgZm9udEZhbWlseTogInZhcigtLWZvbnQtbW9ubykiLAogICAgICAgICAgICAgICAgZm9udFNpemU6IDgsCiAgICAgICAgICAgICAgICBmb250V2VpZ2h0OiA3MDAsCiAgICAgICAgICAgICAgICBjb2xvcjogInZhcigtLWFjaWQpIiwKICAgICAgICAgICAgICAgIGxldHRlclNwYWNpbmc6ICIwLjIyZW0iLAogICAgICAgICAgICAgICAgd2hpdGVTcGFjZTogIm5vd3JhcCIsCiAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgPgogICAgICAgICAgICAgIMK3IExJVkUgwrcgVEVTVElNT05JQUwKICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXYKICAgICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgICAgcG9zaXRpb246ICJhYnNvbHV0ZSIsCiAgICAgICAgICAgICAgICBib3R0b206IDEwLAogICAgICAgICAgICAgICAgcmlnaHQ6IDEwLAogICAgICAgICAgICAgICAgcGFkZGluZzogIjNweCA3cHgiLAogICAgICAgICAgICAgICAgYmFja2dyb3VuZDogInJnYmEoNiw3LDEwLDAuODUpIiwKICAgICAgICAgICAgICAgIGJvcmRlcjogIjFweCBzb2xpZCB2YXIoLS1saW5lLTIpIiwKICAgICAgICAgICAgICAgIGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LW1vbm8pIiwKICAgICAgICAgICAgICAgIGZvbnRTaXplOiA4LAogICAgICAgICAgICAgICAgZm9udFdlaWdodDogNzAwLAogICAgICAgICAgICAgICAgY29sb3I6ICJ2YXIoLS1ib25lKSIsCiAgICAgICAgICAgICAgICBsZXR0ZXJTcGFjaW5nOiAiMC4yMmVtIiwKICAgICAgICAgICAgICAgIHdoaXRlU3BhY2U6ICJub3dyYXAiLAogICAgICAgICAgICAgIH19CiAgICAgICAgICAgID4KICAgICAgICAgICAgICBZVCBTSE9SVAogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvPgogICAgICAgICkgOiAoCiAgICAgICAgICA8aWZyYW1lCiAgICAgICAgICAgIHNyYz17ZW1iZWR9CiAgICAgICAgICAgIHRpdGxlPXtoZWFkbGluZX0KICAgICAgICAgICAgYWxsb3c9ImFjY2VsZXJvbWV0ZXI7IGF1dG9wbGF5OyBjbGlwYm9hcmQtd3JpdGU7IGVuY3J5cHRlZC1tZWRpYTsgZ3lyb3Njb3BlOyBwaWN0dXJlLWluLXBpY3R1cmUiCiAgICAgICAgICAgIGFsbG93RnVsbFNjcmVlbgogICAgICAgICAgICByZWZlcnJlclBvbGljeT0ic3RyaWN0LW9yaWdpbi13aGVuLWNyb3NzLW9yaWdpbiIKICAgICAgICAgICAgc3R5bGU9e3sgcG9zaXRpb246ICJhYnNvbHV0ZSIsIGluc2V0OiAwLCB3aWR0aDogIjEwMCUiLCBoZWlnaHQ6ICIxMDAlIiwgYm9yZGVyOiAwIH19CiAgICAgICAgICAvPgogICAgICAgICl9CiAgICAgIDwvZGl2PgogICAgICA8ZGl2CiAgICAgICAgc3R5bGU9e3sKICAgICAgICAgIHBhZGRpbmc6ICIxOHB4IDIwcHggMjJweCIsCiAgICAgICAgICBkaXNwbGF5OiAiZmxleCIsCiAgICAgICAgICBmbGV4RGlyZWN0aW9uOiAiY29sdW1uIiwKICAgICAgICAgIGdhcDogOCwKICAgICAgICAgIGZsZXg6IDEsCiAgICAgICAgfX0KICAgICAgPgogICAgICAgIDxkaXYKICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgIGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LWRpc3BsYXkpIiwKICAgICAgICAgICAgZm9udFNpemU6IDE3LAogICAgICAgICAgICBmb250V2VpZ2h0OiA2MDAsCiAgICAgICAgICAgIGNvbG9yOiAidmFyKC0tYm9uZSkiLAogICAgICAgICAgICBsZXR0ZXJTcGFjaW5nOiAiLTAuMDJlbSIsCiAgICAgICAgICAgIGxpbmVIZWlnaHQ6IDEuMiwKICAgICAgICAgIH19CiAgICAgICAgPgogICAgICAgICAge2hlYWRsaW5lfQogICAgICAgIDwvZGl2PgogICAgICAgIDxwCiAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICBmb250RmFtaWx5OiAidmFyKC0tZm9udC1ib2R5KSIsCiAgICAgICAgICAgIGZvbnRTaXplOiAxMi41LAogICAgICAgICAgICBsaW5lSGVpZ2h0OiAxLjU1LAogICAgICAgICAgICBjb2xvcjogInZhcigtLWFzaCkiLAogICAgICAgICAgICBtYXJnaW46IDAsCiAgICAgICAgICAgIGZvbnRXZWlnaHQ6IDQwMCwKICAgICAgICAgIH19CiAgICAgICAgPgogICAgICAgICAge2JvZHl9CiAgICAgICAgPC9wPgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0K"}
+"use client";
+
+import { useState } from "react";
+
+export default function VideoTestimonialCard({
+  videoId,
+  headline,
+  body,
+}: {
+  videoId: string;
+  headline: string;
+  body: string;
+}) {
+  const [loaded, setLoaded] = useState(false);
+  const thumb = `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`;
+  const embed = `https://www.youtube.com/embed/${videoId}?autoplay=1&rel=0&modestbranding=1`;
+
+  return (
+    <div
+      style={{
+        background: "var(--bg-1)",
+        border: "1px solid var(--line)",
+        display: "flex",
+        flexDirection: "column",
+        transition: "border-color 200ms ease, transform 200ms ease",
+      }}
+      onMouseEnter={(e) => {
+        (e.currentTarget as HTMLDivElement).style.borderColor = "var(--acid)";
+        (e.currentTarget as HTMLDivElement).style.transform = "translateY(-3px)";
+      }}
+      onMouseLeave={(e) => {
+        (e.currentTarget as HTMLDivElement).style.borderColor = "var(--line)";
+        (e.currentTarget as HTMLDivElement).style.transform = "translateY(0)";
+      }}
+    >
+      <div
+        onClick={() => !loaded && setLoaded(true)}
+        style={{
+          position: "relative",
+          aspectRatio: "9/16",
+          background: "var(--bg-2)",
+          cursor: loaded ? "default" : "pointer",
+          overflow: "hidden",
+          borderBottom: "1px solid var(--line)",
+        }}
+      >
+        {!loaded ? (
+          <>
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src={thumb}
+              alt={headline}
+              style={{
+                position: "absolute",
+                inset: 0,
+                width: "100%",
+                height: "100%",
+                objectFit: "cover",
+                objectPosition: "center",
+              }}
+            />
+            <div
+              style={{
+                position: "absolute",
+                inset: 0,
+                background:
+                  "linear-gradient(180deg, rgba(6,7,10,0.25) 0%, rgba(6,7,10,0.05) 40%, rgba(6,7,10,0.85) 100%)",
+              }}
+            />
+            <div
+              style={{
+                position: "absolute",
+                inset: 0,
+                display: "flex",
+                alignItems: "center",
+                justifyContent: "center",
+              }}
+            >
+              <div
+                style={{
+                  width: 64,
+                  height: 64,
+                  background: "var(--acid)",
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "center",
+                  boxShadow: "0 0 40px rgba(191,250,70,0.45), 0 0 100px rgba(191,250,70,0.18)",
+                }}
+              >
+                <svg width="24" height="24" viewBox="0 0 24 24">
+                  <polygon points="7,4 7,20 21,12" fill="var(--bg)" />
+                </svg>
+              </div>
+            </div>
+            <div
+              style={{
+                position: "absolute",
+                top: 10,
+                left: 10,
+                padding: "3px 7px",
+                background: "rgba(6,7,10,0.85)",
+                border: "1px solid var(--acid)",
+                fontFamily: "var(--font-mono)",
+                fontSize: 8,
+                fontWeight: 700,
+                color: "var(--acid)",
+                letterSpacing: "0.22em",
+                whiteSpace: "nowrap",
+              }}
+            >
+              · LIVE · TESTIMONIAL
+            </div>
+            <div
+              style={{
+                position: "absolute",
+                bottom: 10,
+                right: 10,
+                padding: "3px 7px",
+                background: "rgba(6,7,10,0.85)",
+                border: "1px solid var(--line-2)",
+                fontFamily: "var(--font-mono)",
+                fontSize: 8,
+                fontWeight: 700,
+                color: "var(--bone)",
+                letterSpacing: "0.22em",
+                whiteSpace: "nowrap",
+              }}
+            >
+              YT SHORT
+            </div>
+          </>
+        ) : (
+          <iframe
+            src={embed}
+            title={headline}
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen
+            referrerPolicy="strict-origin-when-cross-origin"
+            style={{ position: "absolute", inset: 0, width: "100%", height: "100%", border: 0 }}
+          />
+        )}
+      </div>
+      <div
+        style={{
+          padding: "18px 20px 22px",
+          display: "flex",
+          flexDirection: "column",
+          gap: 8,
+          flex: 1,
+        }}
+      >
+        <div
+          style={{
+            fontFamily: "var(--font-display)",
+            fontSize: 17,
+            fontWeight: 600,
+            color: "var(--bone)",
+            letterSpacing: "-0.02em",
+            lineHeight: 1.2,
+          }}
+        >
+          {headline}
+        </div>
+        <p
+          style={{
+            fontFamily: "var(--font-body)",
+            fontSize: 12.5,
+            lineHeight: 1.55,
+            color: "var(--ash)",
+            margin: 0,
+            fontWeight: 400,
+          }}
+        >
+          {body}
+        </p>
+      </div>
+    </div>
+  );
+}

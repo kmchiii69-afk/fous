@@ -1,1 +1,35 @@
-{"data":"aW1wb3J0IFdyYXAgZnJvbSAiLi9XcmFwIjsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIEFwcGx5QmFuZCh7CiAgY2FwdGlvbiwKICBocmVmID0gIiNhcHBseSIsCn06IHsKICBjYXB0aW9uPzogc3RyaW5nOwogIGhyZWY/OiBzdHJpbmc7Cn0pIHsKICByZXR1cm4gKAogICAgPGRpdiBzdHlsZT17eyBiYWNrZ3JvdW5kOiAidmFyKC0tYmctMikiLCBib3JkZXJUb3A6ICIxcHggc29saWQgdmFyKC0tbGluZSkiLCBib3JkZXJCb3R0b206ICIxcHggc29saWQgdmFyKC0tbGluZSkiLCBwYWRkaW5nOiAiNDhweCAwIiB9fT4KICAgICAgPFdyYXA+CiAgICAgICAgPGRpdiBzdHlsZT17eyBkaXNwbGF5OiAiZmxleCIsIGFsaWduSXRlbXM6ICJjZW50ZXIiLCBqdXN0aWZ5Q29udGVudDogInNwYWNlLWJldHdlZW4iLCBnYXA6IDI0LCBmbGV4V3JhcDogIndyYXAiIH19PgogICAgICAgICAge2NhcHRpb24gJiYgKAogICAgICAgICAgICA8ZGl2CiAgICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICAgIGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LW1vbm8pIiwKICAgICAgICAgICAgICAgIGZvbnRTaXplOiAxMSwKICAgICAgICAgICAgICAgIGZvbnRXZWlnaHQ6IDcwMCwKICAgICAgICAgICAgICAgIGxldHRlclNwYWNpbmc6ICIwLjIyZW0iLAogICAgICAgICAgICAgICAgdGV4dFRyYW5zZm9ybTogInVwcGVyY2FzZSIsCiAgICAgICAgICAgICAgICBjb2xvcjogInZhcigtLWFzaCkiLAogICAgICAgICAgICAgIH19CiAgICAgICAgICAgID4KICAgICAgICAgICAgICB7Y2FwdGlvbn0KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICApfQogICAgICAgICAgPGEgaHJlZj17aHJlZn0gY2xhc3NOYW1lPSJidG4gYnRuLWxnIiBzdHlsZT17eyBtYXJnaW5MZWZ0OiAiYXV0byIgfX0+CiAgICAgICAgICAgIEFwcGx5IE5vdyDihpIKICAgICAgICAgIDwvYT4KICAgICAgICA8L2Rpdj4KICAgICAgPC9XcmFwPgogICAgPC9kaXY+CiAgKTsKfQo="}
+import Wrap from "./Wrap";
+
+export default function ApplyBand({
+  caption,
+  href = "#apply",
+}: {
+  caption?: string;
+  href?: string;
+}) {
+  return (
+    <div style={{ background: "var(--bg-2)", borderTop: "1px solid var(--line)", borderBottom: "1px solid var(--line)", padding: "48px 0" }}>
+      <Wrap>
+        <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", gap: 24, flexWrap: "wrap" }}>
+          {caption && (
+            <div
+              style={{
+                fontFamily: "var(--font-mono)",
+                fontSize: 11,
+                fontWeight: 700,
+                letterSpacing: "0.22em",
+                textTransform: "uppercase",
+                color: "var(--ash)",
+              }}
+            >
+              {caption}
+            </div>
+          )}
+          <a href={href} className="btn btn-lg" style={{ marginLeft: "auto" }}>
+            Apply Now →
+          </a>
+        </div>
+      </Wrap>
+    </div>
+  );
+}

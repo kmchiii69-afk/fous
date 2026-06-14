@@ -1,1 +1,11 @@
-{"data":"aW1wb3J0IHsgY3JlYXRlSGFzaCB9IGZyb20gImNyeXB0byI7CgovLyBTaGFyZWQgYXV0aCBjaGVjayBmb3IgdGhlIEZ1bm5lbG1heHhpbmcvYW5hbHl0aWNzIEFQSSByb3V0ZXMuIFRoZSB0b2tlbiBpcwovLyBhIHNoYTI1NiBvZiB0aGUgYW5hbHl0aWNzIHBhc3N3b3JkIHNldCBhcyB0aGUgYHFjX2F1dGhgIGNvb2tpZSBieQovLyAvYXBpL2FuYWx5dGljcy9hdXRoIOKAlCBzYW1lIHNjaGVtZSB0aGUgb3JpZ2luYWwgZGFzaGJvYXJkIHNoaXBwZWQgd2l0aC4KZXhwb3J0IGZ1bmN0aW9uIGlzQXV0aGVkKHRva2VuOiBzdHJpbmcgfCB1bmRlZmluZWQpOiBib29sZWFuIHsKICBjb25zdCBwYXNzd29yZCA9IChwcm9jZXNzLmVudi5BTkFMWVRJQ1NfUEFTU1dPUkQgfHwgIiIpLnRyaW0oKTsKICBpZiAoIXBhc3N3b3JkIHx8ICF0b2tlbikgcmV0dXJuIGZhbHNlOwogIGNvbnN0IGV4cGVjdGVkID0gY3JlYXRlSGFzaCgic2hhMjU2IikudXBkYXRlKGBxYy1hbmFseXRpY3M6JHtwYXNzd29yZH1gKS5kaWdlc3QoImhleCIpOwogIHJldHVybiB0b2tlbiA9PT0gZXhwZWN0ZWQ7Cn0K"}
+import { createHash } from "crypto";
+
+// Shared auth check for the Funnelmaxxing/analytics API routes. The token is
+// a sha256 of the analytics password set as the `qc_auth` cookie by
+// /api/analytics/auth — same scheme the original dashboard shipped with.
+export function isAuthed(token: string | undefined): boolean {
+  const password = (process.env.ANALYTICS_PASSWORD || "").trim();
+  if (!password || !token) return false;
+  const expected = createHash("sha256").update(`qc-analytics:${password}`).digest("hex");
+  return token === expected;
+}

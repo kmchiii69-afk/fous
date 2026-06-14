@@ -1,1 +1,129 @@
-{"data":"Ly8gR0VUIC9hcGkvYW5hbHl0aWNzL21vcm5pbmc/ZW5kPTxpc28+Ci8vCi8vIFRoZSBNb3JuaW5nIFJlcG9ydC4gSXQncyBhIDVhbSBzbmFwc2hvdCBvZiB0aGUgQ09NUExFVEVEIHByaW9yIGRheTogYGVuZGAgaXMKLy8gdGhlIHZpZXdlcidzIG1vc3QtcmVjZW50IGxvY2FsIDVhbSAoY29tcHV0ZWQgY2xpZW50LXNpZGUpLCBhbmQgdGhlIHdpbmRvdyBpcwovLyB0aGUgMjRoIEJFRk9SRSBpdCDigJQgW2VuZC0yNGgsIGVuZF0uIFNvIGF0IGFueSB0aW1lIG9mIGRheSB5b3Ugc2VlIGV2ZXJ5dGhpbmcKLy8gdGhhdCBoYXBwZW5lZCAieWVzdGVyZGF5IiwgYW5kIGl0IHJvbGxzIG92ZXIgYXQgdGhlIG5leHQgNWFtLiBEZWx0YXMgY29tcGFyZQovLyB0byB0aGUgMjRoIGJlZm9yZSB0aGF0IChbZW5kLTQ4aCwgZW5kLTI0aF0pLiBSZXZlbnVlIGlzIGZyb20gV2hvcC4KCmltcG9ydCB7IE5leHRSZXF1ZXN0LCBOZXh0UmVzcG9uc2UgfSBmcm9tICJuZXh0L3NlcnZlciI7CmltcG9ydCB7IGlzQXV0aGVkIH0gZnJvbSAiQC9saWIvYW5hbHl0aWNzLWF1dGgiOwoKZXhwb3J0IGNvbnN0IHJ1bnRpbWUgPSAibm9kZWpzIjsKZXhwb3J0IGNvbnN0IGR5bmFtaWMgPSAiZm9yY2UtZHluYW1pYyI7CmV4cG9ydCBjb25zdCBtYXhEdXJhdGlvbiA9IDYwOwoKLy8gV2hvcCByZXZlbnVlIHN0cmljdGx5IHdpdGhpbiBbc3RhcnRTZWMsIGVuZFNlY10g4oCUIGFjY3VyYXRlIHRvIHRoZSBtb3JuaW5nCi8vIHdpbmRvdy4gVlNMIGhpZ2gtdGlja2V0IHByb2R1Y3RzICsgdGhlIOKJpSQyLDUwMCBvbmUtdGltZSBydWxlIGRlZmluZSBhICJjbG9zZSIKLy8gKHNhbWUgYXMgdGhlIHJlc3Qgb2YgdGhlIGRhc2hib2FyZCkuCmFzeW5jIGZ1bmN0aW9uIHJldmVudWVXaXRoaW4oc3RhcnRTZWM6IG51bWJlciwgZW5kU2VjOiBudW1iZXIpIHsKICBjb25zdCBhcGlLZXkgPSBwcm9jZXNzLmVudi5XSE9QX0FQSV9LRVkgfHwgIiI7CiAgaWYgKCFhcGlLZXkpIHJldHVybiBudWxsOwogIGNvbnN0IGhlYWRlcnMgPSB7IEF1dGhvcml6YXRpb246IGBCZWFyZXIgJHthcGlLZXl9YCwgQWNjZXB0OiAiYXBwbGljYXRpb24vanNvbiIgfTsKICBjb25zdCBmbG9vciA9IHN0YXJ0U2VjIC0gMiAqIDg2XzQwMDsgLy8gc3RvcCBwYWdpbmcgYSBiaXQgcGFzdCB0aGUgd2luZG93CiAgY29uc3QgVlNMID0gbmV3IFNldChbInByb2RfMjN3eUUzUUE3WVJNMSIsICJwcm9kX25FWWQ2WlU0Y1ZQUWUiXSk7IC8vIFF1YW50dW0gQ2lwaGVyLCBNZW50b3JzaGlwIEVMSVRFCiAgdHlwZSBQYXkgPSB7IHN0YXR1cz86IHN0cmluZzsgZmluYWxfYW1vdW50PzogbnVtYmVyOyBwYWlkX2F0PzogbnVtYmVyOyBjcmVhdGVkX2F0PzogbnVtYmVyOyBiaWxsaW5nX3JlYXNvbj86IHN0cmluZzsgcHJvZHVjdD86IHN0cmluZyB9OwogIGxldCBuZXQgPSAwLCBjb3VudCA9IDAsIGhpZ2hUaWNrZXQgPSAwLCBoaWdoVGlja2V0UmV2ID0gMDsKICBmb3IgKGxldCBwZyA9IDE7IHBnIDw9IDIwOyBwZysrKSB7CiAgICBjb25zdCByZXMgPSBhd2FpdCBmZXRjaChgaHR0cHM6Ly9hcGkud2hvcC5jb20vYXBpL3YyL3BheW1lbnRzP3BhZ2U9JHtwZ30mcGVyPTUwYCwgeyBoZWFkZXJzLCBjYWNoZTogIm5vLXN0b3JlIiB9KTsKICAgIGlmICghcmVzLm9rKSBicmVhazsKICAgIGNvbnN0IGl0ZW1zOiBQYXlbXSA9IChhd2FpdCByZXMuanNvbigpKS5kYXRhID8/IFtdOwogICAgaWYgKGl0ZW1zLmxlbmd0aCA9PT0gMCkgYnJlYWs7CiAgICBmb3IgKGNvbnN0IHAgb2YgaXRlbXMpIHsKICAgICAgY29uc3QgdHMgPSBwLnBhaWRfYXQgPz8gcC5jcmVhdGVkX2F0ID8/IDA7CiAgICAgIGlmICh0cyA+PSBzdGFydFNlYyAmJiB0cyA8IGVuZFNlYyAmJiBwLnN0YXR1cyA9PT0gInBhaWQiKSB7CiAgICAgICAgY29uc3QgYW10ID0gcC5maW5hbF9hbW91bnQgPz8gMDsKICAgICAgICBuZXQgKz0gYW10OwogICAgICAgIGNvdW50Kys7CiAgICAgICAgY29uc3Qgb25lVGltZSA9IHAuYmlsbGluZ19yZWFzb24gPT09ICJvbmVfdGltZSIgfHwgcC5iaWxsaW5nX3JlYXNvbiA9PT0gInN1YnNjcmlwdGlvbl9jcmVhdGUiOwogICAgICAgIGlmIChvbmVUaW1lICYmIGFtdCA+PSAyNTAwICYmIFZTTC5oYXModHlwZW9mIHAucHJvZHVjdCA9PT0gInN0cmluZyIgPyBwLnByb2R1Y3QgOiAiIikpIHsKICAgICAgICAgIGhpZ2hUaWNrZXQrKzsKICAgICAgICAgIGhpZ2hUaWNrZXRSZXYgKz0gYW10OwogICAgICAgIH0KICAgICAgfQogICAgfQogICAgaWYgKE1hdGgubWluKC4uLml0ZW1zLm1hcCgocCkgPT4gcC5wYWlkX2F0ID8/IHAuY3JlYXRlZF9hdCA/PyAwKSkgPCBmbG9vcikgYnJlYWs7CiAgfQogIHJldHVybiB7IG5ldDogTWF0aC5yb3VuZChuZXQpLCBjb3VudCwgaGlnaFRpY2tldCwgaGlnaFRpY2tldFJldjogTWF0aC5yb3VuZChoaWdoVGlja2V0UmV2KSB9Owp9Cgpjb25zdCBQSF9QUk9KRUNUID0gIjQzMDg4NyI7CmNvbnN0IFBIX0hPU1QgPSAiaHR0cHM6Ly91cy5pLnBvc3Rob2cuY29tIjsKY29uc3QgRlJFRV9IT1NUID0gImZyZWUucXVhbnR1bWNpcGhlcmxhYi5jb20iOwoKYXN5bmMgZnVuY3Rpb24gaG9ncWwocXVlcnk6IHN0cmluZyk6IFByb21pc2U8dW5rbm93bltdW10+IHsKICBjb25zdCBhcGlLZXkgPSBwcm9jZXNzLmVudi5QT1NUSE9HX1BFUlNPTkFMX0FQSV9LRVkgfHwgIiI7CiAgaWYgKCFhcGlLZXkpIHJldHVybiBbXTsKICBjb25zdCByZXMgPSBhd2FpdCBmZXRjaChgJHtQSF9IT1NUfS9hcGkvcHJvamVjdHMvJHtQSF9QUk9KRUNUfS9xdWVyeWAsIHsKICAgIG1ldGhvZDogIlBPU1QiLAogICAgaGVhZGVyczogeyBBdXRob3JpemF0aW9uOiBgQmVhcmVyICR7YXBpS2V5fWAsICJDb250ZW50LVR5cGUiOiAiYXBwbGljYXRpb24vanNvbiIgfSwKICAgIGJvZHk6IEpTT04uc3RyaW5naWZ5KHsgcXVlcnk6IHsga2luZDogIkhvZ1FMUXVlcnkiLCBxdWVyeSB9IH0pLAogICAgY2FjaGU6ICJuby1zdG9yZSIsCiAgfSk7CiAgaWYgKCFyZXMub2spIHJldHVybiBbXTsKICByZXR1cm4gKChhd2FpdCByZXMuanNvbigpKS5yZXN1bHRzID8/IFtdKSBhcyB1bmtub3duW11bXTsKfQoKY29uc3QgZHQgPSAoaXNvOiBzdHJpbmcpID0+IGB0b0RhdGVUaW1lKCcke2lzby5zbGljZSgwLCAxOSkucmVwbGFjZSgiVCIsICIgIil9JylgOwpjb25zdCBpc29PayA9IChzOiBzdHJpbmcgfCBudWxsKSA9PiAhIXMgJiYgL15bXGRUOi5cLStaIF0rJC8udGVzdChzKTsKCi8vIGNvdW50cyBmb3IgW3N0YXJ0LCBlbmQpCmZ1bmN0aW9uIHdpbmRvd1F1ZXJ5KHN0YXJ0OiBzdHJpbmcsIGVuZDogc3RyaW5nKTogc3RyaW5nIHsKICByZXR1cm4gYAogICAgU0VMRUNUCiAgICAgIHVuaXFJZihwZXJzb25faWQsIGV2ZW50ID0gJyRwYWdldmlldycpIEFTIHZpc2l0b3JzLAogICAgICBjb3VudElmKGV2ZW50ID0gJyRwYWdldmlldycgQU5EIChwcm9wZXJ0aWVzLiRob3N0ID0gJyR7RlJFRV9IT1NUfScgT1IgcHJvcGVydGllcy4kcGF0aG5hbWUgPSAnL2ZyZWUtY291cnNlJykpIEFTIGZyZWVfdmlld3MsCiAgICAgIGNvdW50SWYoZXZlbnQgPSAnZnJlZV9jb3Vyc2Vfc3VibWl0dGVkJykgQVMgZnJlZV9zaWdudXBzLAogICAgICBjb3VudElmKGV2ZW50ID0gJ2xlYWRfc3VibWl0dGVkJykgQVMgdnNsX2xlYWRzLAogICAgICBjb3VudElmKGV2ZW50ID0gJ3F1YWxpZnlfZm9ybV9zdGFydGVkJykgQVMgYXBwc19zdGFydGVkLAogICAgICBjb3VudElmKGV2ZW50ID0gJ3F1YWxpZnlfZm9ybV9zdWJtaXR0ZWQnKSBBUyBxdWFsaWZpZWQsCiAgICAgIGNvdW50SWYoZXZlbnQgPSAncXVhbGlmeV9mb3JtX3N1Ym1pdHRlZCcgQU5EIHByb3BlcnRpZXMucm91dGluZyA9ICdib29rJykgQVMgcXVhbnR1bSwKICAgICAgY291bnRJZihldmVudCA9ICdxdWFsaWZ5X2Zvcm1fc3VibWl0dGVkJyBBTkQgcHJvcGVydGllcy5yb3V0aW5nID0gJ3dvbGZwYWNrJykgQVMgd29sZiwKICAgICAgY291bnRJZihldmVudCA9ICdicm9rZXJfb2ZmZXJfY2xpY2tlZCcpIEFTIGJyb2tlcl9jbGlja3MsCiAgICAgIGNvdW50SWYoZXZlbnQgPSAnYm9va19wYWdlX3ZpZXdlZCcpIEFTIGJvb2tfdmlld3MsCiAgICAgIGNvdW50SWYoZXZlbnQgPSAnY2FsbF9ib29rZWQnKSBBUyBib29rZWQsCiAgICAgIGNvdW50SWYoZXZlbnQgPSAnYm9va19mYWxsYmFja19yZXF1ZXN0ZWQnKSBBUyBjYWxsYmFja3MKICAgIEZST00gZXZlbnRzCiAgICBXSEVSRSB0aW1lc3RhbXAgPj0gJHtkdChzdGFydCl9IEFORCB0aW1lc3RhbXAgPCAke2R0KGVuZCl9CiAgYDsKfQoKY29uc3QgS0VZUyA9IFsidmlzaXRvcnMiLCAiZnJlZV92aWV3cyIsICJmcmVlX3NpZ251cHMiLCAidnNsX2xlYWRzIiwgImFwcHNfc3RhcnRlZCIsICJxdWFsaWZpZWQiLCAicXVhbnR1bSIsICJ3b2xmIiwgImJyb2tlcl9jbGlja3MiLCAiYm9va192aWV3cyIsICJib29rZWQiLCAiY2FsbGJhY2tzIl0gYXMgY29uc3Q7CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gR0VUKHJlcTogTmV4dFJlcXVlc3QpIHsKICBpZiAoIWlzQXV0aGVkKHJlcS5jb29raWVzLmdldCgicWNfYXV0aCIpPy52YWx1ZSkpIHsKICAgIHJldHVybiBOZXh0UmVzcG9uc2UuanNvbih7IGVycm9yOiAiVW5hdXRob3JpemVkIiB9LCB7IHN0YXR1czogNDAxIH0pOwogIH0KCiAgLy8gYGVuZGAgPSB0aGUgdmlld2VyJ3MgbW9zdC1yZWNlbnQgbG9jYWwgNWFtICh0aGUgcmVwb3J0IGFuY2hvcikuIFRoZSB3aW5kb3cKICAvLyBpcyB0aGUgY29tcGxldGVkIDI0aCBiZWZvcmUgaXQuIChgc2luY2VgIGFjY2VwdGVkIGFzIGEgbGVnYWN5IGFsaWFzLikKICBjb25zdCBlbmRQYXJhbSA9IHJlcS5uZXh0VXJsLnNlYXJjaFBhcmFtcy5nZXQoImVuZCIpIHx8IHJlcS5uZXh0VXJsLnNlYXJjaFBhcmFtcy5nZXQoInNpbmNlIik7CiAgY29uc3Qgbm93SXNvID0gbmV3IERhdGUoKS50b0lTT1N0cmluZygpOwogIGNvbnN0IERBWSA9IDg2XzQwMF8wMDA7CiAgY29uc3QgZW5kID0gaXNvT2soZW5kUGFyYW0pID8gKGVuZFBhcmFtIGFzIHN0cmluZykgOiBub3dJc287CiAgY29uc3QgZW5kTXMgPSBEYXRlLnBhcnNlKGVuZCk7CiAgY29uc3Qgc3RhcnQgPSBuZXcgRGF0ZShlbmRNcyAtIERBWSkudG9JU09TdHJpbmcoKTsgICAgICAgIC8vIDI0aCBiZWZvcmUgdGhlIDVhbSBhbmNob3IKICBjb25zdCBwcmV2U3RhcnQgPSBuZXcgRGF0ZShlbmRNcyAtIDIgKiBEQVkpLnRvSVNPU3RyaW5nKCk7IC8vIHRoZSBkYXkgYmVmb3JlIHRoYXQKCiAgY29uc3QgW2N1clJvd3MsIHByZXZSb3dzLCByZXZlbnVlXSA9IGF3YWl0IFByb21pc2UuYWxsKFsKICAgIGhvZ3FsKHdpbmRvd1F1ZXJ5KHN0YXJ0LCBlbmQpKSwKICAgIGhvZ3FsKHdpbmRvd1F1ZXJ5KHByZXZTdGFydCwgc3RhcnQpKSwKICAgIHJldmVudWVXaXRoaW4oTWF0aC5mbG9vcihEYXRlLnBhcnNlKHN0YXJ0KSAvIDEwMDApLCBNYXRoLmZsb29yKGVuZE1zIC8gMTAwMCkpLmNhdGNoKCgpID0+IG51bGwpLAogIF0pOwoKICBjb25zdCB0b09iaiA9IChyb3dzOiB1bmtub3duW11bXSkgPT4gewogICAgY29uc3Qgcm93ID0gcm93c1swXSA/PyBbXTsKICAgIGNvbnN0IG86IFJlY29yZDxzdHJpbmcsIG51bWJlcj4gPSB7fTsKICAgIEtFWVMuZm9yRWFjaCgoaywgaSkgPT4gKG9ba10gPSBOdW1iZXIocm93W2ldID8/IDApKSk7CiAgICByZXR1cm4gbzsKICB9OwoKICByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oewogICAgc3RhcnQsIGVuZCwKICAgIG5vdzogbm93SXNvLAogICAgd2luZG93SG91cnM6IE1hdGgucm91bmQoKGVuZE1zIC0gRGF0ZS5wYXJzZShzdGFydCkpIC8gM182MDBfMDAwKSwKICAgIGN1cnJlbnQ6IHRvT2JqKGN1clJvd3MpLAogICAgcHJldmlvdXM6IHRvT2JqKHByZXZSb3dzKSwKICAgIHJldmVudWUsCiAgfSk7Cn0K"}
+// GET /api/analytics/morning?end=<iso>
+//
+// The Morning Report. It's a 5am snapshot of the COMPLETED prior day: `end` is
+// the viewer's most-recent local 5am (computed client-side), and the window is
+// the 24h BEFORE it — [end-24h, end]. So at any time of day you see everything
+// that happened "yesterday", and it rolls over at the next 5am. Deltas compare
+// to the 24h before that ([end-48h, end-24h]). Revenue is from Whop.
+
+import { NextRequest, NextResponse } from "next/server";
+import { isAuthed } from "@/lib/analytics-auth";
+
+export const runtime = "nodejs";
+export const dynamic = "force-dynamic";
+export const maxDuration = 60;
+
+// Whop revenue strictly within [startSec, endSec] — accurate to the morning
+// window. VSL high-ticket products + the ≥$2,500 one-time rule define a "close"
+// (same as the rest of the dashboard).
+async function revenueWithin(startSec: number, endSec: number) {
+  const apiKey = process.env.WHOP_API_KEY || "";
+  if (!apiKey) return null;
+  const headers = { Authorization: `Bearer ${apiKey}`, Accept: "application/json" };
+  const floor = startSec - 2 * 86_400; // stop paging a bit past the window
+  const VSL = new Set(["prod_23wyE3QA7YRM1", "prod_nEYd6ZU4cVPQe"]); // Quantum Cipher, Mentorship ELITE
+  type Pay = { status?: string; final_amount?: number; paid_at?: number; created_at?: number; billing_reason?: string; product?: string };
+  let net = 0, count = 0, highTicket = 0, highTicketRev = 0;
+  for (let pg = 1; pg <= 20; pg++) {
+    const res = await fetch(`https://api.whop.com/api/v2/payments?page=${pg}&per=50`, { headers, cache: "no-store" });
+    if (!res.ok) break;
+    const items: Pay[] = (await res.json()).data ?? [];
+    if (items.length === 0) break;
+    for (const p of items) {
+      const ts = p.paid_at ?? p.created_at ?? 0;
+      if (ts >= startSec && ts < endSec && p.status === "paid") {
+        const amt = p.final_amount ?? 0;
+        net += amt;
+        count++;
+        const oneTime = p.billing_reason === "one_time" || p.billing_reason === "subscription_create";
+        if (oneTime && amt >= 2500 && VSL.has(typeof p.product === "string" ? p.product : "")) {
+          highTicket++;
+          highTicketRev += amt;
+        }
+      }
+    }
+    if (Math.min(...items.map((p) => p.paid_at ?? p.created_at ?? 0)) < floor) break;
+  }
+  return { net: Math.round(net), count, highTicket, highTicketRev: Math.round(highTicketRev) };
+}
+
+const PH_PROJECT = "430887";
+const PH_HOST = "https://us.i.posthog.com";
+const FREE_HOST = "free.quantumcipherlab.com";
+
+async function hogql(query: string): Promise<unknown[][]> {
+  const apiKey = process.env.POSTHOG_PERSONAL_API_KEY || "";
+  if (!apiKey) return [];
+  const res = await fetch(`${PH_HOST}/api/projects/${PH_PROJECT}/query`, {
+    method: "POST",
+    headers: { Authorization: `Bearer ${apiKey}`, "Content-Type": "application/json" },
+    body: JSON.stringify({ query: { kind: "HogQLQuery", query } }),
+    cache: "no-store",
+  });
+  if (!res.ok) return [];
+  return ((await res.json()).results ?? []) as unknown[][];
+}
+
+const dt = (iso: string) => `toDateTime('${iso.slice(0, 19).replace("T", " ")}')`;
+const isoOk = (s: string | null) => !!s && /^[\dT:.\-+Z ]+$/.test(s);
+
+// counts for [start, end)
+function windowQuery(start: string, end: string): string {
+  return `
+    SELECT
+      uniqIf(person_id, event = '$pageview') AS visitors,
+      countIf(event = '$pageview' AND (properties.$host = '${FREE_HOST}' OR properties.$pathname = '/free-course')) AS free_views,
+      countIf(event = 'free_course_submitted') AS free_signups,
+      countIf(event = 'lead_submitted') AS vsl_leads,
+      countIf(event = 'qualify_form_started') AS apps_started,
+      countIf(event = 'qualify_form_submitted') AS qualified,
+      countIf(event = 'qualify_form_submitted' AND properties.routing = 'book') AS quantum,
+      countIf(event = 'qualify_form_submitted' AND properties.routing = 'wolfpack') AS wolf,
+      countIf(event = 'broker_offer_clicked') AS broker_clicks,
+      countIf(event = 'book_page_viewed') AS book_views,
+      countIf(event = 'call_booked') AS booked,
+      countIf(event = 'book_fallback_requested') AS callbacks
+    FROM events
+    WHERE timestamp >= ${dt(start)} AND timestamp < ${dt(end)}
+  `;
+}
+
+const KEYS = ["visitors", "free_views", "free_signups", "vsl_leads", "apps_started", "qualified", "quantum", "wolf", "broker_clicks", "book_views", "booked", "callbacks"] as const;
+
+export async function GET(req: NextRequest) {
+  if (!isAuthed(req.cookies.get("qc_auth")?.value)) {
+    return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+  }
+
+  // `end` = the viewer's most-recent local 5am (the report anchor). The window
+  // is the completed 24h before it. (`since` accepted as a legacy alias.)
+  const endParam = req.nextUrl.searchParams.get("end") || req.nextUrl.searchParams.get("since");
+  const nowIso = new Date().toISOString();
+  const DAY = 86_400_000;
+  const end = isoOk(endParam) ? (endParam as string) : nowIso;
+  const endMs = Date.parse(end);
+  const start = new Date(endMs - DAY).toISOString();        // 24h before the 5am anchor
+  const prevStart = new Date(endMs - 2 * DAY).toISOString(); // the day before that
+
+  const [curRows, prevRows, revenue] = await Promise.all([
+    hogql(windowQuery(start, end)),
+    hogql(windowQuery(prevStart, start)),
+    revenueWithin(Math.floor(Date.parse(start) / 1000), Math.floor(endMs / 1000)).catch(() => null),
+  ]);
+
+  const toObj = (rows: unknown[][]) => {
+    const row = rows[0] ?? [];
+    const o: Record<string, number> = {};
+    KEYS.forEach((k, i) => (o[k] = Number(row[i] ?? 0)));
+    return o;
+  };
+
+  return NextResponse.json({
+    start, end,
+    now: nowIso,
+    windowHours: Math.round((endMs - Date.parse(start)) / 3_600_000),
+    current: toObj(curRows),
+    previous: toObj(prevRows),
+    revenue,
+  });
+}

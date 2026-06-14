@@ -1,1 +1,19 @@
-{"data":"Ly8gU2VydmVyLXNpZGUgUG9zdEhvZyBjYXB0dXJlIGZvciBldmVudHMgdGhhdCBvcmlnaW5hdGUgaW4gQVBJIHJvdXRlcwovLyAoQ2FsZW5kbHkgd2ViaG9va3MsIGdlby1nYXRlZCByb3V0aW5nIGRlY2lzaW9ucykuIEtleWVkIG9uIHRoZSBsZWFkJ3MKLy8gZW1haWwg4oCUIHRoZSBzYW1lIGRpc3RpbmN0X2lkIHRoZSBjbGllbnQgaWRlbnRpZmllcyB3aXRoIOKAlCBzbyBzZXJ2ZXIgYW5kCi8vIGJyb3dzZXIgZXZlbnRzIGpvaW4gdXAgb24gb25lIHBlcnNvbiB0aW1lbGluZS4KZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGNhcHR1cmVQb3N0SG9nKAogIGV2ZW50OiBzdHJpbmcsCiAgZGlzdGluY3RJZDogc3RyaW5nLAogIHByb3BlcnRpZXM6IFJlY29yZDxzdHJpbmcsIHVua25vd24+LAopIHsKICBjb25zdCBhcGlLZXkgPSAocHJvY2Vzcy5lbnYuTkVYVF9QVUJMSUNfUE9TVEhPR19LRVkgfHwgIiIpLnRyaW0oKTsKICBjb25zdCBob3N0ID0gKHByb2Nlc3MuZW52Lk5FWFRfUFVCTElDX1BPU1RIT0dfSE9TVCB8fCAiIikudHJpbSgpOwogIGlmICghYXBpS2V5IHx8ICFob3N0IHx8ICFkaXN0aW5jdElkKSByZXR1cm47CiAgY29uc3QgcmVzID0gYXdhaXQgZmV0Y2goYCR7aG9zdC5yZXBsYWNlKC9cLyQvLCAiIil9L2NhcHR1cmUvYCwgewogICAgbWV0aG9kOiAiUE9TVCIsCiAgICBoZWFkZXJzOiB7ICJDb250ZW50LVR5cGUiOiAiYXBwbGljYXRpb24vanNvbiIgfSwKICAgIGJvZHk6IEpTT04uc3RyaW5naWZ5KHsgYXBpX2tleTogYXBpS2V5LCBldmVudCwgZGlzdGluY3RfaWQ6IGRpc3RpbmN0SWQsIHByb3BlcnRpZXMgfSksCiAgfSk7CiAgaWYgKCFyZXMub2spIHRocm93IG5ldyBFcnJvcihgUG9zdEhvZyBjYXB0dXJlICR7cmVzLnN0YXR1c31gKTsKfQo="}
+// Server-side PostHog capture for events that originate in API routes
+// (Calendly webhooks, geo-gated routing decisions). Keyed on the lead's
+// email — the same distinct_id the client identifies with — so server and
+// browser events join up on one person timeline.
+export async function capturePostHog(
+  event: string,
+  distinctId: string,
+  properties: Record<string, unknown>,
+) {
+  const apiKey = (process.env.NEXT_PUBLIC_POSTHOG_KEY || "").trim();
+  const host = (process.env.NEXT_PUBLIC_POSTHOG_HOST || "").trim();
+  if (!apiKey || !host || !distinctId) return;
+  const res = await fetch(`${host.replace(/\/$/, "")}/capture/`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ api_key: apiKey, event, distinct_id: distinctId, properties }),
+  });
+  if (!res.ok) throw new Error(`PostHog capture ${res.status}`);
+}

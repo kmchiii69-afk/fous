@@ -1,1 +1,238 @@
-{"data":"Ly8gRGlzY29yZCB3ZWJob29rIGhlbHBlcnMKLy8KLy8gRm91ciB3ZWJob29rcyDigJQgb25lIHBlciBjaGFubmVsLiBFYWNoIGZ1bmN0aW9uIGJ1aWxkcyBhIG1lc3NhZ2Ugc3R5bGVkCi8vIGxpa2UgdGhlIGxlZ2FjeSBDbG9zZSDihpIgRGlzY29yZCBub3RpZmljYXRpb25zOiBib2xkIGhlYWRlciwgcm9sZSBtZW50aW9uCi8vIGZvciB0aGUgcmVzcG9uc2libGUgdGVhbSwgIlZpZXcgaW4gQ2xvc2UiIGRlZXAtbGluayB0byB0aGUgbGVhZCBwcm9maWxlLAovLyBhbmQgdGhlIGxlYWQncyBjb3JlIGNvbnRhY3QgaW5mbyBiZWxvdyBhIHNlcGFyYXRvci4KLy8KLy8gV2Ugc3dhbGxvdyBlcnJvcnMgYXQgdGhlIGNhbGxlciBsZXZlbCAoUHJvbWlzZS5hbGxTZXR0bGVkKSBzbyBhIERpc2NvcmQKLy8gb3V0YWdlIG5ldmVyIGJsb2NrcyBhIHJlYWwgbGVhZCBmcm9tIGJlaW5nIHNhdmVkIGluIENsb3NlLgoKdHlwZSBEaXNjb3JkUGF5bG9hZCA9IHsKICBjb250ZW50Pzogc3RyaW5nOwogIGVtYmVkcz86IERpc2NvcmRFbWJlZFtdOwogIGFsbG93ZWRfbWVudGlvbnM/OiB7IHBhcnNlPzogc3RyaW5nW107IHJvbGVzPzogc3RyaW5nW107IHVzZXJzPzogc3RyaW5nW10gfTsKfTsKCnR5cGUgRGlzY29yZEVtYmVkID0gewogIHRpdGxlPzogc3RyaW5nOwogIGRlc2NyaXB0aW9uPzogc3RyaW5nOwogIGNvbG9yPzogbnVtYmVyOwogIGZpZWxkcz86IEFycmF5PHsgbmFtZTogc3RyaW5nOyB2YWx1ZTogc3RyaW5nOyBpbmxpbmU/OiBib29sZWFuIH0+OwogIHRpbWVzdGFtcD86IHN0cmluZzsKICBmb290ZXI/OiB7IHRleHQ6IHN0cmluZyB9Owp9OwoKYXN5bmMgZnVuY3Rpb24gcG9zdFdlYmhvb2sodXJsOiBzdHJpbmcsIHBheWxvYWQ6IERpc2NvcmRQYXlsb2FkKSB7CiAgaWYgKCF1cmwpIHsKICAgIHRocm93IG5ldyBFcnJvcigiRGlzY29yZCB3ZWJob29rIFVSTCBub3QgY29uZmlndXJlZCIpOwogIH0KICBjb25zdCByZXMgPSBhd2FpdCBmZXRjaCh1cmwsIHsKICAgIG1ldGhvZDogIlBPU1QiLAogICAgaGVhZGVyczogeyAiQ29udGVudC1UeXBlIjogImFwcGxpY2F0aW9uL2pzb24iIH0sCiAgICBib2R5OiBKU09OLnN0cmluZ2lmeShwYXlsb2FkKSwKICB9KTsKICBpZiAoIXJlcy5vaykgewogICAgY29uc3QgdGV4dCA9IGF3YWl0IHJlcy50ZXh0KCkuY2F0Y2goKCkgPT4gIiIpOwogICAgdGhyb3cgbmV3IEVycm9yKGBEaXNjb3JkICR7cmVzLnN0YXR1c306ICR7dGV4dC5zbGljZSgwLCA0MDApfWApOwogIH0KfQoKLy8gQnVpbGQgYSBEaXNjb3JkIHJvbGUgbWVudGlvbiBzdHJpbmcuIElmIHRoZSByb2xlIElEIGVudiB2YXIgaXMgc2V0IHdlCi8vIGVtaXQgdGhlIHByb3BlciA8QCZJRD4gc3ludGF4IHdoaWNoIGFjdHVhbGx5IHBpbmdzIHRoZSByb2xlLiBJZiBpdAovLyBpc24ndCBzZXQgd2UgZW1pdCBhbiBlbXB0eSBzdHJpbmcg4oCUIGNhbGxlcnMgZmlsdGVyIGVtcHRpZXMgb3V0IHNvIHRoZQovLyBtZXNzYWdlIHJlYWRzIGNsZWFubHkgd2l0aG91dCBkZWFkICJAU2V0dGVycyIgcGxhY2Vob2xkZXJzLgpmdW5jdGlvbiBtZW50aW9uUm9sZSh0ZWFtOiAic2V0dGVycyIgfCAiY2xvc2VycyIpOiBzdHJpbmcgewogIGNvbnN0IGlkID0gdGVhbSA9PT0gInNldHRlcnMiID8gcHJvY2Vzcy5lbnYuRElTQ09SRF9TRVRURVJTX1JPTEVfSUQgOiBwcm9jZXNzLmVudi5ESVNDT1JEX0NMT1NFUlNfUk9MRV9JRDsKICByZXR1cm4gaWQgPyBgPEAmJHtpZH0+YCA6ICIiOwp9CgovLyBXaGl0ZWxpc3QgdGhlIHJvbGUgSURzIHdlIHdhbnQgdG8gYWN0dWFsbHkgcGluZy4gV2l0aG91dCB0aGlzIERpc2NvcmQKLy8gc3VwcHJlc3NlcyByb2xlIG1lbnRpb25zIHNlbnQgdmlhIHdlYmhvb2sgYnkgZGVmYXVsdC4KZnVuY3Rpb24gYWxsb3dlZE1lbnRpb25zKCk6IERpc2NvcmRQYXlsb2FkWyJhbGxvd2VkX21lbnRpb25zIl0gewogIGNvbnN0IHJvbGVzOiBzdHJpbmdbXSA9IFtdOwogIGlmIChwcm9jZXNzLmVudi5ESVNDT1JEX1NFVFRFUlNfUk9MRV9JRCkgcm9sZXMucHVzaChwcm9jZXNzLmVudi5ESVNDT1JEX1NFVFRFUlNfUk9MRV9JRCk7CiAgaWYgKHByb2Nlc3MuZW52LkRJU0NPUkRfQ0xPU0VSU19ST0xFX0lEKSByb2xlcy5wdXNoKHByb2Nlc3MuZW52LkRJU0NPUkRfQ0xPU0VSU19ST0xFX0lEKTsKICByZXR1cm4geyByb2xlcyB9Owp9CgpmdW5jdGlvbiB2aWV3SW5DbG9zZShsZWFkSWQ/OiBzdHJpbmcgfCBudWxsKTogc3RyaW5nIHsKICBpZiAoIWxlYWRJZCkgcmV0dXJuICIiOwogIHJldHVybiBg8J+RiSBbVmlldyBpbiBDbG9zZV0oaHR0cHM6Ly9hcHAuY2xvc2UuY29tL2xlYWQvJHtsZWFkSWR9LylgOwp9Cgpjb25zdCBTRVBBUkFUT1IgPSAi4pSB4pSB4pSB4pSB4pSB4pSB4pSB4pSB4pSB4pSB4pSB4pSB4pSB4pSB4pSB4pSB4pSB4pSB4pSB4pSB4pSB4pSB4pSB4pSB4pSB4pSB4pSBIjsKCi8vIOKUgOKUgOKUgCBDaGFubmVsIHBpbmdzIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIHBpbmdGcmVlQ291cnNlT3B0SW4obGVhZDogewogIGZpcnN0X25hbWU6IHN0cmluZzsKICBsYXN0X25hbWU6IHN0cmluZzsKICBlbWFpbDogc3RyaW5nOwogIHBob25lPzogc3RyaW5nOwogIGxlYWRfaWQ/OiBzdHJpbmcgfCBudWxsOwogIGNyZWF0ZWQ/OiBib29sZWFuOwp9KSB7CiAgY29uc3QgaXNOZXcgPSBsZWFkLmNyZWF0ZWQgIT09IGZhbHNlOwogIGNvbnN0IGhlYWRlciA9IGlzTmV3CiAgICA/ICLwn5OaICoqTkVXIEZyZWUgQ291cnNlIFNpZ24tVXAqKiIKICAgIDogIvCfk5ogKiooUmUtc3Vic2NyaWJlZCkgRnJlZSBDb3Vyc2UgU2lnbi1VcCoqIjsKICBjb25zdCBjYWxsb3V0ID0gdmlld0luQ2xvc2UobGVhZC5sZWFkX2lkKTsKICBjb25zdCBmdWxsTmFtZSA9IGAke2xlYWQuZmlyc3RfbmFtZX0gJHtsZWFkLmxhc3RfbmFtZX1gLnRyaW0oKSB8fCAi4oCUIjsKCiAgY29uc3QgbGluZXMgPSBbCiAgICBoZWFkZXIsCiAgICAuLi4oY2FsbG91dCA/IFtjYWxsb3V0XSA6IFtdKSwKICAgICIiLAogICAgYCoqTmFtZToqKiAke2Z1bGxOYW1lfWAsCiAgICBgKipFbWFpbDoqKiAke2xlYWQuZW1haWwgfHwgIuKAlCJ9YCwKICAgIC4uLihsZWFkLnBob25lID8gW2AqKlBob25lOioqICR7bGVhZC5waG9uZX1gXSA6IFtdKSwKICAgIFNFUEFSQVRPUiwKICBdOwoKICByZXR1cm4gcG9zdFdlYmhvb2socHJvY2Vzcy5lbnYuRElTQ09SRF9XRUJIT09LX0ZSRUVfQ09VUlNFIHx8ICIiLCB7CiAgICBjb250ZW50OiBsaW5lcy5qb2luKCJcbiIpLAogIH0pOwp9CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gcGluZ09wdEluKGxlYWQ6IHsKICBmaXJzdF9uYW1lOiBzdHJpbmc7CiAgbGFzdF9uYW1lOiBzdHJpbmc7CiAgZW1haWw6IHN0cmluZzsKICBwaG9uZTogc3RyaW5nOwogIGxlYWRfaWQ/OiBzdHJpbmcgfCBudWxsOwogIC8qKiBUcnVlIGlmIC9hcGkvbGVhZCBjcmVhdGVkIGEgYnJhbmQtbmV3IENsb3NlIHJlY29yZDsgZmFsc2UgaWYgaXQKICAgKiB1cGRhdGVkIGFuIGV4aXN0aW5nIG9uZSAoaS5lLiBzb21lb25lIG9wdGVkIGluIGFnYWluKS4gKi8KICBjcmVhdGVkPzogYm9vbGVhbjsKfSkgewogIGNvbnN0IGlzTmV3ID0gbGVhZC5jcmVhdGVkICE9PSBmYWxzZTsKICBjb25zdCBoZWFkZXIgPSBpc05ldwogICAgPyAi8J+UpSAqKk5FVyBWU0wgT3B0LUluKioiCiAgICA6ICLwn4yAICoqKE9wdGVkIEluIEFnYWluKSBWU0wgT3B0LUluKioiOwogIGNvbnN0IGNhbGxvdXQgPSBbbWVudGlvblJvbGUoInNldHRlcnMiKSwgdmlld0luQ2xvc2UobGVhZC5sZWFkX2lkKV0uZmlsdGVyKEJvb2xlYW4pLmpvaW4oIiDigJQgIik7CiAgY29uc3QgZnVsbE5hbWUgPSBgJHtsZWFkLmZpcnN0X25hbWV9ICR7bGVhZC5sYXN0X25hbWV9YC50cmltKCkgfHwgIuKAlCI7CgogIGNvbnN0IGNvbnRlbnQgPSBbCiAgICBoZWFkZXIsCiAgICBjYWxsb3V0LAogICAgIiIsCiAgICBgKipOYW1lOioqICR7ZnVsbE5hbWV9YCwKICAgIGAqKkVtYWlsOioqICR7bGVhZC5lbWFpbCB8fCAi4oCUIn1gLAogICAgYCoqUGhvbmU6KiogJHtsZWFkLnBob25lIHx8ICLigJQifWAsCiAgICBTRVBBUkFUT1IsCiAgXS5qb2luKCJcbiIpOwoKICByZXR1cm4gcG9zdFdlYmhvb2socHJvY2Vzcy5lbnYuRElTQ09SRF9XRUJIT09LX09QVElOUyB8fCAiIiwgewogICAgY29udGVudCwKICAgIGFsbG93ZWRfbWVudGlvbnM6IGFsbG93ZWRNZW50aW9ucygpLAogIH0pOwp9CgpleHBvcnQgdHlwZSBRdWFsaWZpZWRMZWFkID0gewogIGZpcnN0X25hbWU6IHN0cmluZzsKICBsYXN0X25hbWU6IHN0cmluZzsKICBlbWFpbDogc3RyaW5nOwogIHBob25lOiBzdHJpbmc7CiAgdGllcjogc3RyaW5nOwogIGFuc3dlcnM6IFJlY29yZDxzdHJpbmcsIHN0cmluZz47IC8vIHByZXR0eS1sYWJlbCDihpIgcmVhZGFibGUgdmFsdWUKICBsZWFkX2lkPzogc3RyaW5nIHwgbnVsbDsKfTsKCmV4cG9ydCBhc3luYyBmdW5jdGlvbiBwaW5nUXVhbnR1bVF1YWxpZmllZChsZWFkOiBRdWFsaWZpZWRMZWFkKSB7CiAgcmV0dXJuIHBvc3RXZWJob29rKHByb2Nlc3MuZW52LkRJU0NPUkRfV0VCSE9PS19RVUFMSUZJRUQgfHwgIiIsIGJ1aWxkUXVhbGlmaWVkUGF5bG9hZChsZWFkLCAiUXVhbnR1bSIpKTsKfQoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIHBpbmdXb2xmcGFja1F1YWxpZmllZChsZWFkOiBRdWFsaWZpZWRMZWFkKSB7CiAgcmV0dXJuIHBvc3RXZWJob29rKHByb2Nlc3MuZW52LkRJU0NPUkRfV0VCSE9PS19XT0xGUEFDS19RVUFMSUZJRUQgfHwgIiIsIGJ1aWxkUXVhbGlmaWVkUGF5bG9hZChsZWFkLCAiV29sZnBhY2siKSk7Cn0KCmZ1bmN0aW9uIGJ1aWxkUXVhbGlmaWVkUGF5bG9hZChsZWFkOiBRdWFsaWZpZWRMZWFkLCBwcm9ncmFtOiAiUXVhbnR1bSIgfCAiV29sZnBhY2siKTogRGlzY29yZFBheWxvYWQgewogIGNvbnN0IGhlYWRlciA9IHByb2dyYW0gPT09ICJRdWFudHVtIgogICAgPyAi8J+SjiAqKlFVQU5UVU0gUVVBTElGSUVEIExlYWQqKiIKICAgIDogIvCfkLogKipXT0xGUEFDSyBRVUFMSUZJRUQgTGVhZCoqIjsKICBjb25zdCBjYWxsb3V0ID0gW21lbnRpb25Sb2xlKCJzZXR0ZXJzIiksIHZpZXdJbkNsb3NlKGxlYWQubGVhZF9pZCldLmZpbHRlcihCb29sZWFuKS5qb2luKCIg4oCUICIpOwogIGNvbnN0IGZ1bGxOYW1lID0gYCR7bGVhZC5maXJzdF9uYW1lfSAke2xlYWQubGFzdF9uYW1lfWAudHJpbSgpIHx8ICLigJQiOwogIGNvbnN0IGFuc3dlcnNCbG9jayA9IE9iamVjdC5lbnRyaWVzKGxlYWQuYW5zd2VycykKICAgIC5zbGljZSgwLCAxNCkKICAgIC5tYXAoKFtrLCB2XSkgPT4gYOKAoiAqKiR7a306KiogJHt2fWApCiAgICAuam9pbigiXG4iKQogICAgLnNsaWNlKDAsIDM1MDApOwoKICBjb25zdCBjb250ZW50ID0gWwogICAgaGVhZGVyLAogICAgY2FsbG91dCwKICAgICIiLAogICAgYCoqTmFtZToqKiAke2Z1bGxOYW1lfWAsCiAgICBgKipFbWFpbDoqKiAke2xlYWQuZW1haWwgfHwgIuKAlCJ9YCwKICAgIGAqKlBob25lOioqICR7bGVhZC5waG9uZSB8fCAi4oCUIn1gLAogICAgYCoqSW52ZXN0bWVudCB0aWVyOioqICR7bGVhZC50aWVyIHx8ICLigJQifWAsCiAgICAiIiwKICAgIGFuc3dlcnNCbG9jaywKICAgIFNFUEFSQVRPUiwKICBdLmpvaW4oIlxuIik7CgogIHJldHVybiB7CiAgICBjb250ZW50LAogICAgYWxsb3dlZF9tZW50aW9uczogYWxsb3dlZE1lbnRpb25zKCksCiAgfTsKfQoKLy8gRmlyZWQgd2hlbiBhIHF1YWxpZmllZCBsZWFkIHJlYWNoZXMgdGhlIGJvb2tpbmcgY2FsZW5kYXIgYnV0IHRhcHMKLy8gImhhdmUgdGhlIHRlYW0gY2FsbCBtZSIgaW5zdGVhZCBvZiBwaWNraW5nIGEgc2xvdC4gR29lcyB0byB0aGUgcXVhbGlmaWVkCi8vIGNoYW5uZWwg4oCUIHNldHRlcnMgd29yayB0aGF0IHF1ZXVlIGFuZCB0aGVzZSBhcmUgdGhlIGhvdHRlc3QgaGFuZC1yYWlzZXJzLgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gcGluZ0NhbGxiYWNrUmVxdWVzdGVkKGxlYWQ6IHsKICBmaXJzdF9uYW1lOiBzdHJpbmc7CiAgbGFzdF9uYW1lOiBzdHJpbmc7CiAgZW1haWw6IHN0cmluZzsKICBwaG9uZTogc3RyaW5nOwogIGxlYWRfaWQ/OiBzdHJpbmcgfCBudWxsOwp9KSB7CiAgY29uc3QgY2FsbG91dCA9IFttZW50aW9uUm9sZSgic2V0dGVycyIpLCB2aWV3SW5DbG9zZShsZWFkLmxlYWRfaWQpXS5maWx0ZXIoQm9vbGVhbikuam9pbigiIOKAlCAiKTsKICBjb25zdCBmdWxsTmFtZSA9IGAke2xlYWQuZmlyc3RfbmFtZX0gJHtsZWFkLmxhc3RfbmFtZX1gLnRyaW0oKSB8fCAi4oCUIjsKCiAgY29uc3QgY29udGVudCA9IFsKICAgICLimI7vuI8gKipDQUxMQkFDSyBSRVFVRVNURUQg4oCUIHF1YWxpZmllZCBsZWFkIHNraXBwZWQgdGhlIGNhbGVuZGFyKioiLAogICAgY2FsbG91dCwKICAgICIiLAogICAgYCoqTmFtZToqKiAke2Z1bGxOYW1lfWAsCiAgICBgKipFbWFpbDoqKiAke2xlYWQuZW1haWwgfHwgIuKAlCJ9YCwKICAgIGAqKlBob25lOioqICR7bGVhZC5waG9uZSB8fCAi4oCUIn1gLAogICAgIlJlYWNoZWQgdGhlIGJvb2tpbmcgcGFnZSBhbmQgYXNrZWQgZm9yIGEgY2FsbCBpbnN0ZWFkIG9mIHNlbGYtc2NoZWR1bGluZy4gRGlhbCB3aGlsZSBpdCdzIGhvdC4iLAogICAgU0VQQVJBVE9SLAogIF0uam9pbigiXG4iKTsKCiAgcmV0dXJuIHBvc3RXZWJob29rKHByb2Nlc3MuZW52LkRJU0NPUkRfV0VCSE9PS19RVUFMSUZJRUQgfHwgIiIsIHsKICAgIGNvbnRlbnQsCiAgICBhbGxvd2VkX21lbnRpb25zOiBhbGxvd2VkTWVudGlvbnMoKSwKICB9KTsKfQoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIHBpbmdCb29rZWQoYm9va2luZzogewogIGZpcnN0X25hbWU6IHN0cmluZzsKICBsYXN0X25hbWU6IHN0cmluZzsKICBlbWFpbDogc3RyaW5nOwogIHBob25lOiBzdHJpbmc7CiAgY2FsbF90aW1lPzogc3RyaW5nOwogIGV2ZW50X25hbWU/OiBzdHJpbmc7CiAgbGVhZF9pZD86IHN0cmluZyB8IG51bGw7Cn0pIHsKICBjb25zdCBjYWxsb3V0ID0gW21lbnRpb25Sb2xlKCJjbG9zZXJzIiksIHZpZXdJbkNsb3NlKGJvb2tpbmcubGVhZF9pZCldLmZpbHRlcihCb29sZWFuKS5qb2luKCIg4oCUICIpOwogIGNvbnN0IGZ1bGxOYW1lID0gYCR7Ym9va2luZy5maXJzdF9uYW1lfSAke2Jvb2tpbmcubGFzdF9uYW1lfWAudHJpbSgpIHx8ICLigJQiOwoKICBjb25zdCBsaW5lcyA9IFsKICAgICLwn5OeICoqTkVXIEJPT0tJTkcg4oCUIENhbGwgU2NoZWR1bGVkKioiLAogICAgY2FsbG91dCwKICAgICIiLAogICAgYCoqTmFtZToqKiAke2Z1bGxOYW1lfWAsCiAgICBgKipFbWFpbDoqKiAke2Jvb2tpbmcuZW1haWwgfHwgIuKAlCJ9YCwKICAgIGAqKlBob25lOioqICR7Ym9va2luZy5waG9uZSB8fCAi4oCUIn1gLAogIF07CiAgaWYgKGJvb2tpbmcuY2FsbF90aW1lKSBsaW5lcy5wdXNoKGAqKkNhbGwgdGltZToqKiAke2Jvb2tpbmcuY2FsbF90aW1lfWApOwogIGlmIChib29raW5nLmV2ZW50X25hbWUpIGxpbmVzLnB1c2goYCoqRXZlbnQ6KiogJHtib29raW5nLmV2ZW50X25hbWV9YCk7CiAgbGluZXMucHVzaChTRVBBUkFUT1IpOwoKICByZXR1cm4gcG9zdFdlYmhvb2socHJvY2Vzcy5lbnYuRElTQ09SRF9XRUJIT09LX0JPT0tFRCB8fCAiIiwgewogICAgY29udGVudDogbGluZXMuam9pbigiXG4iKSwKICAgIGFsbG93ZWRfbWVudGlvbnM6IGFsbG93ZWRNZW50aW9ucygpLAogIH0pOwp9Cg=="}
+// Discord webhook helpers
+//
+// Four webhooks — one per channel. Each function builds a message styled
+// like the legacy Close → Discord notifications: bold header, role mention
+// for the responsible team, "View in Close" deep-link to the lead profile,
+// and the lead's core contact info below a separator.
+//
+// We swallow errors at the caller level (Promise.allSettled) so a Discord
+// outage never blocks a real lead from being saved in Close.
+
+type DiscordPayload = {
+  content?: string;
+  embeds?: DiscordEmbed[];
+  allowed_mentions?: { parse?: string[]; roles?: string[]; users?: string[] };
+};
+
+type DiscordEmbed = {
+  title?: string;
+  description?: string;
+  color?: number;
+  fields?: Array<{ name: string; value: string; inline?: boolean }>;
+  timestamp?: string;
+  footer?: { text: string };
+};
+
+async function postWebhook(url: string, payload: DiscordPayload) {
+  if (!url) {
+    throw new Error("Discord webhook URL not configured");
+  }
+  const res = await fetch(url, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(payload),
+  });
+  if (!res.ok) {
+    const text = await res.text().catch(() => "");
+    throw new Error(`Discord ${res.status}: ${text.slice(0, 400)}`);
+  }
+}
+
+// Build a Discord role mention string. If the role ID env var is set we
+// emit the proper <@&ID> syntax which actually pings the role. If it
+// isn't set we emit an empty string — callers filter empties out so the
+// message reads cleanly without dead "@Setters" placeholders.
+function mentionRole(team: "setters" | "closers"): string {
+  const id = team === "setters" ? process.env.DISCORD_SETTERS_ROLE_ID : process.env.DISCORD_CLOSERS_ROLE_ID;
+  return id ? `<@&${id}>` : "";
+}
+
+// Whitelist the role IDs we want to actually ping. Without this Discord
+// suppresses role mentions sent via webhook by default.
+function allowedMentions(): DiscordPayload["allowed_mentions"] {
+  const roles: string[] = [];
+  if (process.env.DISCORD_SETTERS_ROLE_ID) roles.push(process.env.DISCORD_SETTERS_ROLE_ID);
+  if (process.env.DISCORD_CLOSERS_ROLE_ID) roles.push(process.env.DISCORD_CLOSERS_ROLE_ID);
+  return { roles };
+}
+
+function viewInClose(leadId?: string | null): string {
+  if (!leadId) return "";
+  return `👉 [View in Close](https://app.close.com/lead/${leadId}/)`;
+}
+
+const SEPARATOR = "━━━━━━━━━━━━━━━━━━━━━━━━━━━";
+
+// ─── Channel pings ────────────────────────────────────────────────
+
+export async function pingFreeCourseOptIn(lead: {
+  first_name: string;
+  last_name: string;
+  email: string;
+  phone?: string;
+  lead_id?: string | null;
+  created?: boolean;
+}) {
+  const isNew = lead.created !== false;
+  const header = isNew
+    ? "📚 **NEW Free Course Sign-Up**"
+    : "📚 **(Re-subscribed) Free Course Sign-Up**";
+  const callout = viewInClose(lead.lead_id);
+  const fullName = `${lead.first_name} ${lead.last_name}`.trim() || "—";
+
+  const lines = [
+    header,
+    ...(callout ? [callout] : []),
+    "",
+    `**Name:** ${fullName}`,
+    `**Email:** ${lead.email || "—"}`,
+    ...(lead.phone ? [`**Phone:** ${lead.phone}`] : []),
+    SEPARATOR,
+  ];
+
+  return postWebhook(process.env.DISCORD_WEBHOOK_FREE_COURSE || "", {
+    content: lines.join("\n"),
+  });
+}
+
+export async function pingOptIn(lead: {
+  first_name: string;
+  last_name: string;
+  email: string;
+  phone: string;
+  lead_id?: string | null;
+  /** True if /api/lead created a brand-new Close record; false if it
+   * updated an existing one (i.e. someone opted in again). */
+  created?: boolean;
+}) {
+  const isNew = lead.created !== false;
+  const header = isNew
+    ? "🔥 **NEW VSL Opt-In**"
+    : "🌀 **(Opted In Again) VSL Opt-In**";
+  const callout = [mentionRole("setters"), viewInClose(lead.lead_id)].filter(Boolean).join(" — ");
+  const fullName = `${lead.first_name} ${lead.last_name}`.trim() || "—";
+
+  const content = [
+    header,
+    callout,
+    "",
+    `**Name:** ${fullName}`,
+    `**Email:** ${lead.email || "—"}`,
+    `**Phone:** ${lead.phone || "—"}`,
+    SEPARATOR,
+  ].join("\n");
+
+  return postWebhook(process.env.DISCORD_WEBHOOK_OPTINS || "", {
+    content,
+    allowed_mentions: allowedMentions(),
+  });
+}
+
+export type QualifiedLead = {
+  first_name: string;
+  last_name: string;
+  email: string;
+  phone: string;
+  tier: string;
+  answers: Record<string, string>; // pretty-label → readable value
+  lead_id?: string | null;
+};
+
+export async function pingQuantumQualified(lead: QualifiedLead) {
+  return postWebhook(process.env.DISCORD_WEBHOOK_QUALIFIED || "", buildQualifiedPayload(lead, "Quantum"));
+}
+
+export async function pingWolfpackQualified(lead: QualifiedLead) {
+  return postWebhook(process.env.DISCORD_WEBHOOK_WOLFPACK_QUALIFIED || "", buildQualifiedPayload(lead, "Wolfpack"));
+}
+
+function buildQualifiedPayload(lead: QualifiedLead, program: "Quantum" | "Wolfpack"): DiscordPayload {
+  const header = program === "Quantum"
+    ? "💎 **QUANTUM QUALIFIED Lead**"
+    : "🐺 **WOLFPACK QUALIFIED Lead**";
+  const callout = [mentionRole("setters"), viewInClose(lead.lead_id)].filter(Boolean).join(" — ");
+  const fullName = `${lead.first_name} ${lead.last_name}`.trim() || "—";
+  const answersBlock = Object.entries(lead.answers)
+    .slice(0, 14)
+    .map(([k, v]) => `• **${k}:** ${v}`)
+    .join("\n")
+    .slice(0, 3500);
+
+  const content = [
+    header,
+    callout,
+    "",
+    `**Name:** ${fullName}`,
+    `**Email:** ${lead.email || "—"}`,
+    `**Phone:** ${lead.phone || "—"}`,
+    `**Investment tier:** ${lead.tier || "—"}`,
+    "",
+    answersBlock,
+    SEPARATOR,
+  ].join("\n");
+
+  return {
+    content,
+    allowed_mentions: allowedMentions(),
+  };
+}
+
+// Fired when a qualified lead reaches the booking calendar but taps
+// "have the team call me" instead of picking a slot. Goes to the qualified
+// channel — setters work that queue and these are the hottest hand-raisers.
+export async function pingCallbackRequested(lead: {
+  first_name: string;
+  last_name: string;
+  email: string;
+  phone: string;
+  lead_id?: string | null;
+}) {
+  const callout = [mentionRole("setters"), viewInClose(lead.lead_id)].filter(Boolean).join(" — ");
+  const fullName = `${lead.first_name} ${lead.last_name}`.trim() || "—";
+
+  const content = [
+    "☎️ **CALLBACK REQUESTED — qualified lead skipped the calendar**",
+    callout,
+    "",
+    `**Name:** ${fullName}`,
+    `**Email:** ${lead.email || "—"}`,
+    `**Phone:** ${lead.phone || "—"}`,
+    "Reached the booking page and asked for a call instead of self-scheduling. Dial while it's hot.",
+    SEPARATOR,
+  ].join("\n");
+
+  return postWebhook(process.env.DISCORD_WEBHOOK_QUALIFIED || "", {
+    content,
+    allowed_mentions: allowedMentions(),
+  });
+}
+
+export async function pingBooked(booking: {
+  first_name: string;
+  last_name: string;
+  email: string;
+  phone: string;
+  call_time?: string;
+  event_name?: string;
+  lead_id?: string | null;
+}) {
+  const callout = [mentionRole("closers"), viewInClose(booking.lead_id)].filter(Boolean).join(" — ");
+  const fullName = `${booking.first_name} ${booking.last_name}`.trim() || "—";
+
+  const lines = [
+    "📞 **NEW BOOKING — Call Scheduled**",
+    callout,
+    "",
+    `**Name:** ${fullName}`,
+    `**Email:** ${booking.email || "—"}`,
+    `**Phone:** ${booking.phone || "—"}`,
+  ];
+  if (booking.call_time) lines.push(`**Call time:** ${booking.call_time}`);
+  if (booking.event_name) lines.push(`**Event:** ${booking.event_name}`);
+  lines.push(SEPARATOR);
+
+  return postWebhook(process.env.DISCORD_WEBHOOK_BOOKED || "", {
+    content: lines.join("\n"),
+    allowed_mentions: allowedMentions(),
+  });
+}

@@ -1,1 +1,95 @@
-{"data":"aW1wb3J0IExlZ2FsU2hlbGwsIHsgSDIsIFAsIFVMLCBMSSwgQ2FsbG91dCB9IGZyb20gIkAvY29tcG9uZW50cy9sZWdhbC9MZWdhbFNoZWxsIjsKCmV4cG9ydCBjb25zdCBtZXRhZGF0YSA9IHsKICB0aXRsZTogIlJlZnVuZCBQb2xpY3kgwrcgUXVhbnR1bSBDaXBoZXIgTGFiIiwKICBkZXNjcmlwdGlvbjogIlJlZnVuZCBlbGlnaWJpbGl0eSwgY29uZGl0aW9ucywgYW5kIGhvdyB0byByZXF1ZXN0IGEgcmVmdW5kLiIsCn07CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBSZWZ1bmRQYWdlKCkgewogIHJldHVybiAoCiAgICA8TGVnYWxTaGVsbCBraWNrZXI9IkxlZ2FsIiB0aXRsZT0iUmVmdW5kIFBvbGljeSIgZWZmZWN0aXZlRGF0ZT0iTWF5IDE4LCAyMDI2Ij4KICAgICAgPFA+CiAgICAgICAgVGhpcyBSZWZ1bmQgUG9saWN5IGV4cGxhaW5zIHdoZW4gYW5kIGhvdyB5b3UgbWF5IHJlcXVlc3QgYSByZWZ1bmQgZm9yIHByb2R1Y3RzIGFuZCBzZXJ2aWNlcyBwdXJjaGFzZWQgZnJvbSA8c3Ryb25nIHN0eWxlPXt7IGNvbG9yOiAidmFyKC0tYm9uZSkiIH19PmlrbmtmeCBpbmM8L3N0cm9uZz4sIG9wZXJhdGluZyB1bmRlciB0aGUgYnJhbmQgPHN0cm9uZyBzdHlsZT17eyBjb2xvcjogInZhcigtLWJvbmUpIiB9fT5RdWFudHVtIENpcGhlciBMYWI8L3N0cm9uZz4uIEJ5IHB1cmNoYXNpbmcgYW55IHByb2R1Y3Qgb3Igc2VydmljZSBmcm9tIHVzLCB5b3UgYWdyZWUgdG8gdGhpcyBwb2xpY3kuCiAgICAgIDwvUD4KCiAgICAgIDxDYWxsb3V0PgogICAgICAgIFRyYWRpbmcgaW52b2x2ZXMgc3Vic3RhbnRpYWwgcmlzayBvZiBsb3NzLiBPdXIgcHJvZHVjdHMgYXJlIGVkdWNhdGlvbmFsIGFuZCBkbyBub3QgZ3VhcmFudGVlIHByb2ZpdC4gQSByZWZ1bmQgcmVxdWVzdCBiYXNlZCBvbiB0aGUgZmFjdCB0aGF0IHRyYWRpbmcgaXMgcmlza3ksIHRoYXQgeW91IGRpZCBub3QgbWFrZSBtb25leSwgb3IgdGhhdCB0aGUgbWFya2V0cyBtb3ZlZCBhZ2FpbnN0IHlvdSB3aWxsIG5vdCBiZSBhcHByb3ZlZC4gUmlzayBpcyBhIGZlYXR1cmUgb2YgdHJhZGluZywgbm90IGEgZGVmZWN0IG9mIG91ciBlZHVjYXRpb24uCiAgICAgIDwvQ2FsbG91dD4KCiAgICAgIDxIMj4xLiBBbGwgU2FsZXMgRmluYWwgYnkgRGVmYXVsdDwvSDI+CiAgICAgIDxQPgogICAgICAgIEJlY2F1c2Ugb3VyIHByb2R1Y3RzIGNvbnNpc3QgcHJpbWFyaWx5IG9mIGRpZ2l0YWwgZWR1Y2F0aW9uYWwgY29udGVudCwgbGl2ZSBzZXNzaW9ucywgY29tbXVuaXR5IGFjY2VzcywgYW5kIHByb3ByaWV0YXJ5IG1ldGhvZG9sb2d5IOKAlCBhbGwgb2Ygd2hpY2ggYXJlIGRlbGl2ZXJlZCBpbnN0YW50bHkgYW5kIGNhbm5vdCBiZSAmbGRxdW87cmV0dXJuZWQmcmRxdW87IOKAlCA8c3Ryb25nIHN0eWxlPXt7IGNvbG9yOiAidmFyKC0tYm9uZSkiIH19PmFsbCBzYWxlcyBhcmUgZmluYWwgdW5sZXNzIG90aGVyd2lzZSBzdGF0ZWQgaW4gdGhpcyBwb2xpY3kgb3IgaW4gdGhlIHNwZWNpZmljIHByb2R1Y3QmcnNxdW87cyBwdXJjaGFzZSB0ZXJtczwvc3Ryb25nPi4KICAgICAgPC9QPgoKICAgICAgPEgyPjIuIExpbWl0ZWQgNy1EYXkgUmVmdW5kIFdpbmRvdzwvSDI+CiAgICAgIDxQPgogICAgICAgIEZvciBjZXJ0YWluIGZsYWdzaGlwIHBhaWQgcHJvZ3JhbXMsIHdlIG9mZmVyIGEgPHN0cm9uZyBzdHlsZT17eyBjb2xvcjogInZhcigtLWJvbmUpIiB9fT43LWRheSByZWZ1bmQgd2luZG93PC9zdHJvbmc+IGZyb20gdGhlIGRhdGUgb2YgcHVyY2hhc2UsIHN1YmplY3QgdG8gPHN0cm9uZyBzdHlsZT17eyBjb2xvcjogInZhcigtLWJvbmUpIiB9fT5hbGw8L3N0cm9uZz4gb2YgdGhlIGZvbGxvd2luZyBjb25kaXRpb25zOgogICAgICA8L1A+CiAgICAgIDxVTD4KICAgICAgICA8TEk+VGhlIHJlZnVuZCByZXF1ZXN0IGlzIHN1Ym1pdHRlZCB0aHJvdWdoIG91ciBjb250YWN0IGZvcm0gYXQgPGEgaHJlZj0iaHR0cHM6Ly9xdWFudHVtY2lwaGVybGFiLmNvbS9jb250YWN0IiBzdHlsZT17eyBjb2xvcjogInZhcigtLWFjaWQpIiB9fT5xdWFudHVtY2lwaGVybGFiLmNvbS9jb250YWN0PC9hPiB3aXRoaW4gc2V2ZW4gKDcpIGNhbGVuZGFyIGRheXMgb2YgdGhlIG9yaWdpbmFsIHB1cmNoYXNlIGRhdGUuPC9MST4KICAgICAgICA8TEk+WW91IGhhdmUgY29uc3VtZWQgbGVzcyB0aGFuIDIwJSBvZiB0aGUgcHJvZ3JhbSZyc3F1bztzIGNvbnRlbnQgKG1lYXN1cmVkIGJ5IGxlc3NvbnMgdmlld2VkLCBtb2R1bGVzIGFjY2Vzc2VkLCBvciBzZXNzaW9ucyBhdHRlbmRlZCkuPC9MST4KICAgICAgICA8TEk+WW91IGhhdmUgbm90IGRvd25sb2FkZWQsIHNjcmVlbi1jYXB0dXJlZCwgb3IgcmVkaXN0cmlidXRlZCBhbnkgcHJvcHJpZXRhcnkgbWF0ZXJpYWxzLjwvTEk+CiAgICAgICAgPExJPllvdSBoYXZlIG5vdCB2aW9sYXRlZCB0aGUgPGEgaHJlZj0iL3Rlcm1zIiBzdHlsZT17eyBjb2xvcjogInZhcigtLWFjaWQpIiB9fT5UZXJtcyBvZiBTZXJ2aWNlPC9hPi48L0xJPgogICAgICA8L1VMPgogICAgICA8UD4KICAgICAgICBXZSByZXNlcnZlIHRoZSByaWdodCB0byBkZW55IHJlZnVuZCByZXF1ZXN0cyB0aGF0IGRvIG5vdCBtZWV0IGV2ZXJ5IGNvbmRpdGlvbiBhYm92ZS4gRGVjaXNpb25zIGFyZSBtYWRlIGF0IG91ciBzb2xlIGRpc2NyZXRpb24uCiAgICAgIDwvUD4KCiAgICAgIDxIMj4zLiBOb24tUmVmdW5kYWJsZSBQcm9kdWN0czwvSDI+CiAgICAgIDxQPlRoZSBmb2xsb3dpbmcgYXJlIDxzdHJvbmcgc3R5bGU9e3sgY29sb3I6ICJ2YXIoLS1ib25lKSIgfX0+bm90IGVsaWdpYmxlIGZvciBhIHJlZnVuZCB1bmRlciBhbnkgY2lyY3Vtc3RhbmNlPC9zdHJvbmc+OjwvUD4KICAgICAgPFVMPgogICAgICAgIDxMST5PbmUtb24tb25lIGNvYWNoaW5nLCBtZW50b3JzaGlwIHNlc3Npb25zLCBvciBzdHJhdGVneSBjYWxscywgb25jZSBzY2hlZHVsZWQgb3IgY29tcGxldGVkPC9MST4KICAgICAgICA8TEk+TGl2ZSBldmVudHMsIHdvcmtzaG9wcywgcmV0cmVhdHMsIGFuZCBpbi1wZXJzb24gZXhwZXJpZW5jZXMsIG9uY2UgYm9va2VkPC9MST4KICAgICAgICA8TEk+TGlmZXRpbWUtYWNjZXNzIHByb2R1Y3RzIGJleW9uZCB0aGUgNy1kYXkgd2luZG93PC9MST4KICAgICAgICA8TEk+U3Vic2NyaXB0aW9ucyBhZnRlciB0aGUgZmlyc3QgYmlsbGluZyBwZXJpb2Q8L0xJPgogICAgICAgIDxMST5EaWdpdGFsIGRvd25sb2FkcyAoUERGcywgaW5kaWNhdG9ycywgc2NyaXB0cywgd29ya3NoZWV0cywgZXRjLikgb25jZSBhY2Nlc3NlZDwvTEk+CiAgICAgICAgPExJPkZyZWUgdHJpYWxzIHRoYXQgY29udmVydCB0byBwYWlkIHN1YnNjcmlwdGlvbnMgKGNhbmNlbCBiZWZvcmUgY29udmVyc2lvbiB0byBhdm9pZCBjaGFyZ2VzKTwvTEk+CiAgICAgICAgPExJPkRpc2NvdW50ZWQsIHByb21vdGlvbmFsLCBvciBidW5kbGVkIG9mZmVycyAodW5sZXNzIHRoZSBvZmZlciBzcGVjaWZpY2FsbHkgc3RhdGVzIG90aGVyd2lzZSk8L0xJPgogICAgICA8L1VMPgoKICAgICAgPEgyPjQuIFN1YnNjcmlwdGlvbnM8L0gyPgogICAgICA8UD4KICAgICAgICBSZWN1cnJpbmcgc3Vic2NyaXB0aW9ucyBhdXRvLXJlbmV3IGF0IHRoZSBlbmQgb2YgZWFjaCBiaWxsaW5nIHBlcmlvZC4gVG8gc3RvcCBmdXR1cmUgY2hhcmdlcywgY2FuY2VsIGJlZm9yZSB5b3VyIG5leHQgcmVuZXdhbCBkYXRlLiBDYW5jZWxsaW5nIHN0b3BzIGZ1dHVyZSBiaWxsaW5nIGJ1dCBkb2VzIG5vdCByZWZ1bmQgdGhlIGN1cnJlbnQgYmlsbGluZyBwZXJpb2QuIFBhcnRpYWwtbW9udGggcmVmdW5kcyBhcmUgbm90IHByb3ZpZGVkLgogICAgICA8L1A+CgogICAgICA8SDI+NS4gQ2hhcmdlYmFja3MgYW5kIERpc3B1dGVzPC9IMj4KICAgICAgPFA+CiAgICAgICAgSWYgeW91IGhhdmUgYSBiaWxsaW5nIGNvbmNlcm4sIDxzdHJvbmcgc3R5bGU9e3sgY29sb3I6ICJ2YXIoLS1ib25lKSIgfX0+Y29udGFjdCB1cyBmaXJzdDwvc3Ryb25nPiBiZWZvcmUgZmlsaW5nIGEgY2hhcmdlYmFjayB3aXRoIHlvdXIgYmFuayBvciBjYXJkIGlzc3Vlci4gRmlsaW5nIGEgY2hhcmdlYmFjayB3aXRob3V0IGZpcnN0IGF0dGVtcHRpbmcgdG8gcmVzb2x2ZSB0aGUgbWF0dGVyIHdpdGggdXMgaXMgYSB2aW9sYXRpb24gb2YgdGhlc2UgdGVybXMgYW5kIG1heSByZXN1bHQgaW46CiAgICAgIDwvUD4KICAgICAgPFVMPgogICAgICAgIDxMST5JbW1lZGlhdGUgdGVybWluYXRpb24gb2YgeW91ciBhY2Nlc3MgdG8gYWxsIG91ciBwcm9kdWN0cyBhbmQgc2VydmljZXMsIHdpdGhvdXQgcmVmdW5kPC9MST4KICAgICAgICA8TEk+UGVybWFuZW50IGJhbm5pbmcgZnJvbSBmdXR1cmUgcHVyY2hhc2VzPC9MST4KICAgICAgICA8TEk+UmVjb3Zlcnkgb2YgYXNzb2NpYXRlZCBmZWVzLCBjb3N0cywgYW5kIHJlYXNvbmFibGUgYXR0b3JuZXlzJnJzcXVvOyBmZWVzIGluIGNvbGxlY3Rpb25zIG9yIGxpdGlnYXRpb248L0xJPgogICAgICA8L1VMPgoKICAgICAgPEgyPjYuIEhvdyB0byBSZXF1ZXN0IGEgUmVmdW5kPC9IMj4KICAgICAgPFA+VG8gcmVxdWVzdCBhIHJlZnVuZCwgc3VibWl0IGEgdGlja2V0IHRocm91Z2ggb3VyIGNvbnRhY3QgZm9ybSBhdCA8YSBocmVmPSJodHRwczovL3F1YW50dW1jaXBoZXJsYWIuY29tL2NvbnRhY3QiIHN0eWxlPXt7IGNvbG9yOiAidmFyKC0tYWNpZCkiIH19PnF1YW50dW1jaXBoZXJsYWIuY29tL2NvbnRhY3Q8L2E+IHdpdGg6PC9QPgogICAgICA8VUw+CiAgICAgICAgPExJPlRoZSBmdWxsIG5hbWUgb24gdGhlIG9yZGVyPC9MST4KICAgICAgICA8TEk+VGhlIGVtYWlsIGFkZHJlc3MgdXNlZCBhdCBwdXJjaGFzZTwvTEk+CiAgICAgICAgPExJPlRoZSBvcmRlciBJRCBvciByZWNlaXB0IG51bWJlcjwvTEk+CiAgICAgICAgPExJPlRoZSBwcm9kdWN0IG9yIHByb2dyYW0gbmFtZTwvTEk+CiAgICAgICAgPExJPkEgYnJpZWYgcmVhc29uIGZvciB0aGUgcmVxdWVzdDwvTEk+CiAgICAgIDwvVUw+CiAgICAgIDxQPgogICAgICAgIFdlIGFpbSB0byByZXNwb25kIHdpdGhpbiAzIGJ1c2luZXNzIGRheXMuIEFwcHJvdmVkIHJlZnVuZHMgYXJlIHByb2Nlc3NlZCBiYWNrIHRvIHRoZSBvcmlnaW5hbCBwYXltZW50IG1ldGhvZCB3aXRoaW4gNeKAkzEwIGJ1c2luZXNzIGRheXMuIFlvdXIgYmFuayBtYXkgdGFrZSBhZGRpdGlvbmFsIHRpbWUgdG8gcG9zdCB0aGUgY3JlZGl0LgogICAgICA8L1A+CgogICAgICA8SDI+Ny4gQ2hhbmdlcyB0byBUaGlzIFBvbGljeTwvSDI+CiAgICAgIDxQPgogICAgICAgIFdlIG1heSB1cGRhdGUgdGhpcyBSZWZ1bmQgUG9saWN5IGZyb20gdGltZSB0byB0aW1lLiBUaGUgJmxkcXVvO0VmZmVjdGl2ZSZyZHF1bzsgZGF0ZSBhdCB0aGUgdG9wIHJlZmxlY3RzIHRoZSBsYXRlc3QgcmV2aXNpb24uIFRoZSBwb2xpY3kgaW4gZWZmZWN0IGF0IHRoZSB0aW1lIG9mIHlvdXIgcHVyY2hhc2UgZ292ZXJucyB0aGF0IHB1cmNoYXNlLgogICAgICA8L1A+CgogICAgICA8SDI+OC4gQ29udGFjdDwvSDI+CiAgICAgIDxQPgogICAgICAgIFJlZnVuZC1yZWxhdGVkIHF1ZXN0aW9uczo8YnIgLz4KICAgICAgICA8c3Ryb25nIHN0eWxlPXt7IGNvbG9yOiAidmFyKC0tYm9uZSkiIH19PmlrbmtmeCBpbmM8L3N0cm9uZz48YnIgLz4KICAgICAgICBTdWJtaXQgYSB0aWNrZXQgdGhyb3VnaCBvdXIgY29udGFjdCBmb3JtIGF0IDxhIGhyZWY9Imh0dHBzOi8vcXVhbnR1bWNpcGhlcmxhYi5jb20vY29udGFjdCIgc3R5bGU9e3sgY29sb3I6ICJ2YXIoLS1hY2lkKSIgfX0+cXVhbnR1bWNpcGhlcmxhYi5jb20vY29udGFjdDwvYT4uCiAgICAgIDwvUD4KCiAgICAgIDxDYWxsb3V0PgogICAgICAgIFRoaXMgcmVmdW5kIHBvbGljeSBpcyBhIHN0YXJ0aW5nIHRlbXBsYXRlLiBDb25maXJtIHJlZnVuZCB3aW5kb3dzIGFuZCBjb25kaXRpb25zIG1hdGNoIHlvdXIgYWN0dWFsIG9mZmVycywgcGF5bWVudCBwcm9jZXNzb3IgcmVxdWlyZW1lbnRzIChTdHJpcGUsIGV0Yy4pLCBhbmQgYW55IGNvbnN1bWVyIHByb3RlY3Rpb24gbGF3cyBpbiBqdXJpc2RpY3Rpb25zIHdoZXJlIHlvdSBzZWxsLgogICAgICA8L0NhbGxvdXQ+CiAgICA8L0xlZ2FsU2hlbGw+CiAgKTsKfQo="}
+import LegalShell, { H2, P, UL, LI, Callout } from "@/components/legal/LegalShell";
+
+export const metadata = {
+  title: "Refund Policy · Quantum Cipher Lab",
+  description: "Refund eligibility, conditions, and how to request a refund.",
+};
+
+export default function RefundPage() {
+  return (
+    <LegalShell kicker="Legal" title="Refund Policy" effectiveDate="May 18, 2026">
+      <P>
+        This Refund Policy explains when and how you may request a refund for products and services purchased from <strong style={{ color: "var(--bone)" }}>iknkfx inc</strong>, operating under the brand <strong style={{ color: "var(--bone)" }}>Quantum Cipher Lab</strong>. By purchasing any product or service from us, you agree to this policy.
+      </P>
+
+      <Callout>
+        Trading involves substantial risk of loss. Our products are educational and do not guarantee profit. A refund request based on the fact that trading is risky, that you did not make money, or that the markets moved against you will not be approved. Risk is a feature of trading, not a defect of our education.
+      </Callout>
+
+      <H2>1. All Sales Final by Default</H2>
+      <P>
+        Because our products consist primarily of digital educational content, live sessions, community access, and proprietary methodology — all of which are delivered instantly and cannot be &ldquo;returned&rdquo; — <strong style={{ color: "var(--bone)" }}>all sales are final unless otherwise stated in this policy or in the specific product&rsquo;s purchase terms</strong>.
+      </P>
+
+      <H2>2. Limited 7-Day Refund Window</H2>
+      <P>
+        For certain flagship paid programs, we offer a <strong style={{ color: "var(--bone)" }}>7-day refund window</strong> from the date of purchase, subject to <strong style={{ color: "var(--bone)" }}>all</strong> of the following conditions:
+      </P>
+      <UL>
+        <LI>The refund request is submitted through our contact form at <a href="https://quantumcipherlab.com/contact" style={{ color: "var(--acid)" }}>quantumcipherlab.com/contact</a> within seven (7) calendar days of the original purchase date.</LI>
+        <LI>You have consumed less than 20% of the program&rsquo;s content (measured by lessons viewed, modules accessed, or sessions attended).</LI>
+        <LI>You have not downloaded, screen-captured, or redistributed any proprietary materials.</LI>
+        <LI>You have not violated the <a href="/terms" style={{ color: "var(--acid)" }}>Terms of Service</a>.</LI>
+      </UL>
+      <P>
+        We reserve the right to deny refund requests that do not meet every condition above. Decisions are made at our sole discretion.
+      </P>
+
+      <H2>3. Non-Refundable Products</H2>
+      <P>The following are <strong style={{ color: "var(--bone)" }}>not eligible for a refund under any circumstance</strong>:</P>
+      <UL>
+        <LI>One-on-one coaching, mentorship sessions, or strategy calls, once scheduled or completed</LI>
+        <LI>Live events, workshops, retreats, and in-person experiences, once booked</LI>
+        <LI>Lifetime-access products beyond the 7-day window</LI>
+        <LI>Subscriptions after the first billing period</LI>
+        <LI>Digital downloads (PDFs, indicators, scripts, worksheets, etc.) once accessed</LI>
+        <LI>Free trials that convert to paid subscriptions (cancel before conversion to avoid charges)</LI>
+        <LI>Discounted, promotional, or bundled offers (unless the offer specifically states otherwise)</LI>
+      </UL>
+
+      <H2>4. Subscriptions</H2>
+      <P>
+        Recurring subscriptions auto-renew at the end of each billing period. To stop future charges, cancel before your next renewal date. Cancelling stops future billing but does not refund the current billing period. Partial-month refunds are not provided.
+      </P>
+
+      <H2>5. Chargebacks and Disputes</H2>
+      <P>
+        If you have a billing concern, <strong style={{ color: "var(--bone)" }}>contact us first</strong> before filing a chargeback with your bank or card issuer. Filing a chargeback without first attempting to resolve the matter with us is a violation of these terms and may result in:
+      </P>
+      <UL>
+        <LI>Immediate termination of your access to all our products and services, without refund</LI>
+        <LI>Permanent banning from future purchases</LI>
+        <LI>Recovery of associated fees, costs, and reasonable attorneys&rsquo; fees in collections or litigation</LI>
+      </UL>
+
+      <H2>6. How to Request a Refund</H2>
+      <P>To request a refund, submit a ticket through our contact form at <a href="https://quantumcipherlab.com/contact" style={{ color: "var(--acid)" }}>quantumcipherlab.com/contact</a> with:</P>
+      <UL>
+        <LI>The full name on the order</LI>
+        <LI>The email address used at purchase</LI>
+        <LI>The order ID or receipt number</LI>
+        <LI>The product or program name</LI>
+        <LI>A brief reason for the request</LI>
+      </UL>
+      <P>
+        We aim to respond within 3 business days. Approved refunds are processed back to the original payment method within 5–10 business days. Your bank may take additional time to post the credit.
+      </P>
+
+      <H2>7. Changes to This Policy</H2>
+      <P>
+        We may update this Refund Policy from time to time. The &ldquo;Effective&rdquo; date at the top reflects the latest revision. The policy in effect at the time of your purchase governs that purchase.
+      </P>
+
+      <H2>8. Contact</H2>
+      <P>
+        Refund-related questions:<br />
+        <strong style={{ color: "var(--bone)" }}>iknkfx inc</strong><br />
+        Submit a ticket through our contact form at <a href="https://quantumcipherlab.com/contact" style={{ color: "var(--acid)" }}>quantumcipherlab.com/contact</a>.
+      </P>
+
+      <Callout>
+        This refund policy is a starting template. Confirm refund windows and conditions match your actual offers, payment processor requirements (Stripe, etc.), and any consumer protection laws in jurisdictions where you sell.
+      </Callout>
+    </LegalShell>
+  );
+}

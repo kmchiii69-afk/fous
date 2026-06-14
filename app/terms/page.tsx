@@ -1,1 +1,138 @@
-{"data":"aW1wb3J0IExlZ2FsU2hlbGwsIHsgSDIsIEgzLCBQLCBVTCwgTEksIENhbGxvdXQgfSBmcm9tICJAL2NvbXBvbmVudHMvbGVnYWwvTGVnYWxTaGVsbCI7CgpleHBvcnQgY29uc3QgbWV0YWRhdGEgPSB7CiAgdGl0bGU6ICJUZXJtcyBvZiBTZXJ2aWNlIMK3IFF1YW50dW0gQ2lwaGVyIExhYiIsCiAgZGVzY3JpcHRpb246ICJUaGUgdGVybXMgZ292ZXJuaW5nIHlvdXIgdXNlIG9mIFF1YW50dW0gQ2lwaGVyIExhYiBwcm9kdWN0cyBhbmQgc2VydmljZXMuIiwKfTsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIFRlcm1zUGFnZSgpIHsKICByZXR1cm4gKAogICAgPExlZ2FsU2hlbGwga2lja2VyPSJMZWdhbCIgdGl0bGU9IlRlcm1zIG9mIFNlcnZpY2UiIGVmZmVjdGl2ZURhdGU9Ik1heSAxOCwgMjAyNiI+CiAgICAgIDxQPgogICAgICAgIFRoZXNlIFRlcm1zIG9mIFNlcnZpY2UgKCZsZHF1bztUZXJtcyZyZHF1bzspIGZvcm0gYSBiaW5kaW5nIGFncmVlbWVudCBiZXR3ZWVuIHlvdSBhbmQgPHN0cm9uZyBzdHlsZT17eyBjb2xvcjogInZhcigtLWJvbmUpIiB9fT5pa25rZnggaW5jPC9zdHJvbmc+ICgmbGRxdW87Q29tcGFueSwmcmRxdW87ICZsZHF1bzt3ZSwmcmRxdW87ICZsZHF1bzt1cywmcmRxdW87IG9yICZsZHF1bztvdXImcmRxdW87KSwgb3BlcmF0aW5nIHVuZGVyIHRoZSBicmFuZCA8c3Ryb25nIHN0eWxlPXt7IGNvbG9yOiAidmFyKC0tYm9uZSkiIH19PlF1YW50dW0gQ2lwaGVyIExhYjwvc3Ryb25nPi4gVGhleSBnb3Zlcm4geW91ciBhY2Nlc3MgdG8gYW5kIHVzZSBvZiBvdXIgd2Vic2l0ZSwgYXBwbGljYXRpb25zLCBjb3Vyc2VzLCBjb21tdW5pdGllcywgY29hY2hpbmcsIG1lbnRvcnNoaXAsIGFuZCBhbnkgb3RoZXIgcHJvZHVjdHMgb3Igc2VydmljZXMgd2Ugb2ZmZXIgKGNvbGxlY3RpdmVseSwgdGhlICZsZHF1bztTZXJ2aWNlcyZyZHF1bzspLgogICAgICA8L1A+CiAgICAgIDxQPgogICAgICAgIEJ5IGFjY2Vzc2luZyBvciB1c2luZyB0aGUgU2VydmljZXMsIHlvdSBhZ3JlZSB0byB0aGVzZSBUZXJtcy4gSWYgeW91IGRvIG5vdCBhZ3JlZSwgZG8gbm90IHVzZSB0aGUgU2VydmljZXMuCiAgICAgIDwvUD4KCiAgICAgIDxIMj4xLiBFbGlnaWJpbGl0eTwvSDI+CiAgICAgIDxQPgogICAgICAgIFlvdSBtdXN0IGJlIGF0IGxlYXN0IDE4IHllYXJzIG9sZCBhbmQgaGF2ZSB0aGUgbGVnYWwgY2FwYWNpdHkgdG8gZW50ZXIgaW50byBhIGNvbnRyYWN0IHRvIHVzZSB0aGUgU2VydmljZXMuIEJ5IHVzaW5nIHRoZSBTZXJ2aWNlcywgeW91IHJlcHJlc2VudCBhbmQgd2FycmFudCB0aGF0IHlvdSBtZWV0IHRoZXNlIHJlcXVpcmVtZW50cy4KICAgICAgPC9QPgoKICAgICAgPEgyPjIuIEVkdWNhdGlvbmFsIENvbnRlbnQgT25seSDigJQgTm90IEZpbmFuY2lhbCBBZHZpY2U8L0gyPgogICAgICA8Q2FsbG91dD4KICAgICAgICBFdmVyeXRoaW5nIHdlIHB1Ymxpc2gsIHRlYWNoLCBicm9hZGNhc3QsIG9yIGRpc3RyaWJ1dGUgaXMgPHN0cm9uZyBzdHlsZT17eyBjb2xvcjogInZhcigtLWJvbmUpIiB9fT5lZHVjYXRpb25hbCBjb250ZW50IGFuZCBwZXJzb25hbCBvcGluaW9uPC9zdHJvbmc+LiBXZSBhcmUgbm90IGEgcmVnaXN0ZXJlZCBpbnZlc3RtZW50IGFkdmlzZXIsIGJyb2tlci1kZWFsZXIsIGZpbmFuY2lhbCBwbGFubmVyLCBvciBmaWR1Y2lhcnksIGFuZCBub3RoaW5nIGluIHRoZSBTZXJ2aWNlcyBjb25zdGl0dXRlcyBpbnZlc3RtZW50LCBmaW5hbmNpYWwsIHRheCwgbGVnYWwsIG9yIGFjY291bnRpbmcgYWR2aWNlLgogICAgICA8L0NhbGxvdXQ+CiAgICAgIDxQPgogICAgICAgIFlvdSBhbG9uZSBhcmUgcmVzcG9uc2libGUgZm9yIHlvdXIgdHJhZGluZyBkZWNpc2lvbnMuIFlvdSBzaG91bGQgY29uc3VsdCBhIGxpY2Vuc2VkIHByb2Zlc3Npb25hbCBiZWZvcmUgbWFraW5nIGFueSBmaW5hbmNpYWwgZGVjaXNpb24uIFNlZSBvdXIgZnVsbCA8YSBocmVmPSIvZGlzY2xhaW1lciIgc3R5bGU9e3sgY29sb3I6ICJ2YXIoLS1hY2lkKSIgfX0+RGlzY2xhaW1lcjwvYT4gZm9yIHRoZSBjb21wbGV0ZSByaXNrIGRpc2Nsb3N1cmUuCiAgICAgIDwvUD4KCiAgICAgIDxIMj4zLiBBY2NvdW50czwvSDI+CiAgICAgIDxVTD4KICAgICAgICA8TEk+WW91IGFyZSByZXNwb25zaWJsZSBmb3IgbWFpbnRhaW5pbmcgdGhlIGNvbmZpZGVudGlhbGl0eSBvZiB5b3VyIGxvZ2luIGNyZWRlbnRpYWxzLjwvTEk+CiAgICAgICAgPExJPllvdSBhcmUgcmVzcG9uc2libGUgZm9yIGFsbCBhY3Rpdml0eSB0aGF0IG9jY3VycyB1bmRlciB5b3VyIGFjY291bnQuPC9MST4KICAgICAgICA8TEk+WW91IGFncmVlIHRvIHByb3ZpZGUgYWNjdXJhdGUsIGN1cnJlbnQsIGFuZCBjb21wbGV0ZSBpbmZvcm1hdGlvbiBhbmQgdG8ga2VlcCBpdCB1cGRhdGVkLjwvTEk+CiAgICAgICAgPExJPk9uZSBhY2NvdW50IHBlciBwZXJzb24uIFNoYXJpbmcgYWNjb3VudHMgaXMgZ3JvdW5kcyBmb3IgdGVybWluYXRpb24gd2l0aG91dCByZWZ1bmQuPC9MST4KICAgICAgPC9VTD4KCiAgICAgIDxIMj40LiBQdXJjaGFzZXMsIFN1YnNjcmlwdGlvbnMsIGFuZCBQYXltZW50PC9IMj4KICAgICAgPFVMPgogICAgICAgIDxMST5BbGwgcHJpY2VzIGFyZSBsaXN0ZWQgaW4gVS5TLiBkb2xsYXJzIHVubGVzcyBvdGhlcndpc2Ugc3RhdGVkLjwvTEk+CiAgICAgICAgPExJPllvdSBhdXRob3JpemUgdXMgKG9yIG91ciBwYXltZW50IHByb2Nlc3NvcikgdG8gY2hhcmdlIHlvdXIgc2VsZWN0ZWQgcGF5bWVudCBtZXRob2QgZm9yIHRoZSBhbW91bnRzIHlvdSBhZ3JlZSB0by48L0xJPgogICAgICAgIDxMST5TdWJzY3JpcHRpb24gcHJvZHVjdHMgcmVuZXcgYXV0b21hdGljYWxseSB1bmxlc3MgY2FuY2VsbGVkIGJlZm9yZSB0aGUgcmVuZXdhbCBkYXRlLjwvTEk+CiAgICAgICAgPExJPlJlZnVuZHMgYXJlIGdvdmVybmVkIGJ5IG91ciA8YSBocmVmPSIvcmVmdW5kIiBzdHlsZT17eyBjb2xvcjogInZhcigtLWFjaWQpIiB9fT5SZWZ1bmQgUG9saWN5PC9hPi48L0xJPgogICAgICAgIDxMST5XZSBtYXkgY2hhbmdlIHByaWNpbmcgYXQgYW55IHRpbWU7IGNoYW5nZXMgYXBwbHkgdG8gZnV0dXJlIHB1cmNoYXNlcyBvbmx5LjwvTEk+CiAgICAgIDwvVUw+CgogICAgICA8SDI+NS4gSW50ZWxsZWN0dWFsIFByb3BlcnR5PC9IMj4KICAgICAgPFA+CiAgICAgICAgQWxsIGNvbnRlbnQgd2l0aGluIHRoZSBTZXJ2aWNlcyDigJQgaW5jbHVkaW5nIGJ1dCBub3QgbGltaXRlZCB0byB2aWRlb3MsIHdyaXR0ZW4gbGVzc29ucywgY2hhcnRzLCBpbmRpY2F0b3JzLCBzY3JpcHRzLCBmcmFtZXdvcmtzLCB0ZW1wbGF0ZXMsIHJlY29yZGluZ3MsIHNvZnR3YXJlLCBicmFuZGluZywgYW5kIHRoZSBRdWFudHVtIENpcGhlciBtZXRob2RvbG9neSDigJQgaXMgb3duZWQgYnkgaWtua2Z4IGluYyBvciBpdHMgbGljZW5zb3JzIGFuZCBpcyBwcm90ZWN0ZWQgYnkgY29weXJpZ2h0LCB0cmFkZW1hcmssIGFuZCBvdGhlciBpbnRlbGxlY3R1YWwgcHJvcGVydHkgbGF3cy4KICAgICAgPC9QPgogICAgICA8UD4KICAgICAgICBZb3UgYXJlIGdyYW50ZWQgYSBsaW1pdGVkLCBub24tZXhjbHVzaXZlLCBub24tdHJhbnNmZXJhYmxlLCByZXZvY2FibGUgbGljZW5zZSB0byBhY2Nlc3MgdGhlIGNvbnRlbnQgZm9yIHlvdXIgcGVyc29uYWwsIG5vbi1jb21tZXJjaWFsIHVzZSBvbmx5LiBZb3UgbWF5IG5vdDoKICAgICAgPC9QPgogICAgICA8VUw+CiAgICAgICAgPExJPlJlcHJvZHVjZSwgZGlzdHJpYnV0ZSwgcHVibGlzaCwgb3IgZGlzcGxheSBhbnkgY29udGVudCB3aXRob3V0IHdyaXR0ZW4gcGVybWlzc2lvbjwvTEk+CiAgICAgICAgPExJPlNlbGwsIHN1YmxpY2Vuc2UsIGxlYXNlLCByZW50LCBvciBvdGhlcndpc2UgdHJhbnNmZXIgYWNjZXNzIHRvIHRoZSBTZXJ2aWNlczwvTEk+CiAgICAgICAgPExJPlJlY29yZCwgZG93bmxvYWQsIHNjcmVlbi1jYXB0dXJlLCBvciB0cmFuc2NyaWJlIGxpdmUgc2Vzc2lvbnMgZm9yIHJlZGlzdHJpYnV0aW9uPC9MST4KICAgICAgICA8TEk+VXNlIHRoZSBjb250ZW50IHRvIHRyYWluIEFJIG1vZGVscyBvciBidWlsZCBjb21wZXRpbmcgcHJvZHVjdHM8L0xJPgogICAgICAgIDxMST5SZW1vdmUgb3IgbW9kaWZ5IGFueSBjb3B5cmlnaHQsIHRyYWRlbWFyaywgb3IgYXR0cmlidXRpb24gbm90aWNlczwvTEk+CiAgICAgIDwvVUw+CgogICAgICA8SDI+Ni4gQWNjZXB0YWJsZSBVc2U8L0gyPgogICAgICA8UD5Zb3UgYWdyZWUgbm90IHRvOjwvUD4KICAgICAgPFVMPgogICAgICAgIDxMST5Vc2UgdGhlIFNlcnZpY2VzIGZvciBhbnkgdW5sYXdmdWwgb3IgZnJhdWR1bGVudCBwdXJwb3NlPC9MST4KICAgICAgICA8TEk+SGFyYXNzLCB0aHJlYXRlbiwgZGVmYW1lLCBvciBpbXBlcnNvbmF0ZSBhbnkgcGVyc29uIG9yIGVudGl0eTwvTEk+CiAgICAgICAgPExJPlVwbG9hZCB2aXJ1c2VzLCBtYWx3YXJlLCBvciBvdGhlciBoYXJtZnVsIGNvZGU8L0xJPgogICAgICAgIDxMST5BdHRlbXB0IHRvIGdhaW4gdW5hdXRob3JpemVkIGFjY2VzcyB0byBhbnkgcG9ydGlvbiBvZiB0aGUgU2VydmljZXM8L0xJPgogICAgICAgIDxMST5TY3JhcGUsIG1pcnJvciwgb3Igc3lzdGVtYXRpY2FsbHkgZXh0cmFjdCBkYXRhIGZyb20gdGhlIFNlcnZpY2VzPC9MST4KICAgICAgICA8TEk+TWlzcmVwcmVzZW50IGFmZmlsaWF0aW9uIHdpdGggaWtua2Z4IGluYyBvciBhbnkgb2YgaXRzIG1lbWJlcnM8L0xJPgogICAgICA8L1VMPgogICAgICA8UD4KICAgICAgICBXZSBtYXkgc3VzcGVuZCBvciB0ZXJtaW5hdGUgeW91ciBhY2Nlc3MgYXQgYW55IHRpbWUsIHdpdGggb3Igd2l0aG91dCBub3RpY2UsIGZvciBhbnkgdmlvbGF0aW9uIG9mIHRoZXNlIFRlcm1zLgogICAgICA8L1A+CgogICAgICA8SDI+Ny4gVXNlciBDb21tdW5pY2F0aW9ucyBhbmQgU3VibWlzc2lvbnM8L0gyPgogICAgICA8UD4KICAgICAgICBJZiB5b3UgcG9zdCBtZXNzYWdlcywgYXNrIHF1ZXN0aW9ucywgb3Igc2hhcmUgY29udGVudCBpbnNpZGUgb3VyIGNvbW11bml0eSwgY2FsbHMsIG9yIHBsYXRmb3JtcywgeW91IGdyYW50IHVzIGEgcGVycGV0dWFsLCB3b3JsZHdpZGUsIHJveWFsdHktZnJlZSBsaWNlbnNlIHRvIHVzZSwgcmVwcm9kdWNlLCBhbmQgZGlzcGxheSB0aGF0IGNvbnRlbnQgZm9yIHRoZSBwdXJwb3NlIG9mIG9wZXJhdGluZywgcHJvbW90aW5nLCBhbmQgaW1wcm92aW5nIHRoZSBTZXJ2aWNlcy4gWW91IHJlcHJlc2VudCB0aGF0IHlvdSBvd24gb3IgaGF2ZSB0aGUgbmVjZXNzYXJ5IHJpZ2h0cyB0byB0aGUgY29udGVudCB5b3Ugc3VibWl0LgogICAgICA8L1A+CgogICAgICA8SDI+OC4gVGhpcmQtUGFydHkgU2VydmljZXMgYW5kIExpbmtzPC9IMj4KICAgICAgPFA+CiAgICAgICAgVGhlIFNlcnZpY2VzIG1heSBsaW5rIHRvIG9yIGludGVncmF0ZSB3aXRoIHRoaXJkLXBhcnR5IHBsYXRmb3JtcyAoZS5nLiBEaXNjb3JkLCBDYWxlbmRseSwgYnJva2VycywgZXhjaGFuZ2VzKS4gV2UgYXJlIG5vdCByZXNwb25zaWJsZSBmb3IgdGhlIGNvbnRlbnQsIHByaXZhY3kgcHJhY3RpY2VzLCBvciBhY3Rpb25zIG9mIGFueSB0aGlyZCBwYXJ0eS4gVXNlIHRoZW0gYXQgeW91ciBvd24gcmlzay4KICAgICAgPC9QPgoKICAgICAgPEgyPjkuIERpc2NsYWltZXJzPC9IMj4KICAgICAgPFA+CiAgICAgICAgVEhFIFNFUlZJQ0VTIEFSRSBQUk9WSURFRCAmbGRxdW87QVMgSVMmcmRxdW87IEFORCAmbGRxdW87QVMgQVZBSUxBQkxFLiZyZHF1bzsgVE8gVEhFIEZVTExFU1QgRVhURU5UIFBFUk1JVFRFRCBCWSBMQVcsIFdFIERJU0NMQUlNIEFMTCBXQVJSQU5USUVTLCBFWFBSRVNTIE9SIElNUExJRUQsIElOQ0xVRElORyBXQVJSQU5USUVTIE9GIE1FUkNIQU5UQUJJTElUWSwgRklUTkVTUyBGT1IgQSBQQVJUSUNVTEFSIFBVUlBPU0UsIEFORCBOT04tSU5GUklOR0VNRU5ULgogICAgICA8L1A+CiAgICAgIDxQPgogICAgICAgIFdFIERPIE5PVCBXQVJSQU5UIFRIQVQgVEhFIFNFUlZJQ0VTIFdJTEwgQkUgVU5JTlRFUlJVUFRFRCwgRVJST1ItRlJFRSwgT1IgU0VDVVJFLCBPUiBUSEFUIEFOWSBJTkZPUk1BVElPTiBPUiBTVFJBVEVHWSBESVNDVVNTRUQgV0lMTCBCRSBQUk9GSVRBQkxFIE9SIFNVSVRBQkxFIEZPUiBZT1VSIENJUkNVTVNUQU5DRVMuCiAgICAgIDwvUD4KCiAgICAgIDxIMj4xMC4gTGltaXRhdGlvbiBvZiBMaWFiaWxpdHk8L0gyPgogICAgICA8UD4KICAgICAgICBUTyBUSEUgRlVMTEVTVCBFWFRFTlQgUEVSTUlUVEVEIEJZIExBVywgSU4gTk8gRVZFTlQgV0lMTCBJS05LRlggSU5DLCBJVFMgT0ZGSUNFUlMsIEVNUExPWUVFUywgQ09OVFJBQ1RPUlMsIE9SIEFGRklMSUFURVMgQkUgTElBQkxFIEZPUiBBTlkgSU5ESVJFQ1QsIElOQ0lERU5UQUwsIFNQRUNJQUwsIENPTlNFUVVFTlRJQUwsIE9SIFBVTklUSVZFIERBTUFHRVMsIElOQ0xVRElORyBMT1NUIFBST0ZJVFMsIExPU1QgREFUQSwgT1IgVFJBRElORyBMT1NTRVMsIEFSSVNJTkcgT1VUIE9GIE9SIFJFTEFURUQgVE8gWU9VUiBVU0UgT0YgVEhFIFNFUlZJQ0VTLCBFVkVOIElGIFdFIEhBVkUgQkVFTiBBRFZJU0VEIE9GIFRIRSBQT1NTSUJJTElUWSBPRiBTVUNIIERBTUFHRVMuCiAgICAgIDwvUD4KICAgICAgPFA+CiAgICAgICAgT1VSIFRPVEFMIExJQUJJTElUWSBGT1IgQU5ZIENMQUlNIFJFTEFURUQgVE8gVEhFIFNFUlZJQ0VTIFdJTEwgTk9UIEVYQ0VFRCBUSEUgQU1PVU5UIFlPVSBQQUlEIFVTIElOIFRIRSBUV0VMVkUgKDEyKSBNT05USFMgUFJFQ0VESU5HIFRIRSBFVkVOVCBHSVZJTkcgUklTRSBUTyBUSEUgQ0xBSU0sIE9SIE9ORSBIVU5EUkVEIFUuUy4gRE9MTEFSUyAoJDEwMCksIFdISUNIRVZFUiBJUyBHUkVBVEVSLgogICAgICA8L1A+CgogICAgICA8SDI+MTEuIEluZGVtbmlmaWNhdGlvbjwvSDI+CiAgICAgIDxQPgogICAgICAgIFlvdSBhZ3JlZSB0byBpbmRlbW5pZnksIGRlZmVuZCwgYW5kIGhvbGQgaGFybWxlc3MgaWtua2Z4IGluYyBhbmQgaXRzIG9mZmljZXJzLCBkaXJlY3RvcnMsIGVtcGxveWVlcywgYW5kIGFnZW50cyBmcm9tIGFuZCBhZ2FpbnN0IGFueSBjbGFpbXMsIGxpYWJpbGl0aWVzLCBkYW1hZ2VzLCBsb3NzZXMsIGFuZCBleHBlbnNlcyAoaW5jbHVkaW5nIHJlYXNvbmFibGUgYXR0b3JuZXlzJnJzcXVvOyBmZWVzKSBhcmlzaW5nIG91dCBvZiBvciBpbiBhbnkgd2F5IGNvbm5lY3RlZCB3aXRoIHlvdXIgYWNjZXNzIHRvIG9yIHVzZSBvZiB0aGUgU2VydmljZXMsIHlvdXIgdmlvbGF0aW9uIG9mIHRoZXNlIFRlcm1zLCBvciB5b3VyIGluZnJpbmdlbWVudCBvZiBhbnkgcmlnaHRzIG9mIGEgdGhpcmQgcGFydHkuCiAgICAgIDwvUD4KCiAgICAgIDxIMj4xMi4gVGVybWluYXRpb248L0gyPgogICAgICA8UD4KICAgICAgICBXZSBtYXkgc3VzcGVuZCwgcmVzdHJpY3QsIG9yIHRlcm1pbmF0ZSB5b3VyIGFjY2VzcyB0byB0aGUgU2VydmljZXMgYXQgYW55IHRpbWUsIGZvciBhbnkgcmVhc29uLCB3aXRoIG9yIHdpdGhvdXQgbm90aWNlLiBTZWN0aW9ucyB0aGF0IGJ5IHRoZWlyIG5hdHVyZSBzaG91bGQgc3Vydml2ZSB0ZXJtaW5hdGlvbiAoaW5jbHVkaW5nIEludGVsbGVjdHVhbCBQcm9wZXJ0eSwgRGlzY2xhaW1lcnMsIExpbWl0YXRpb24gb2YgTGlhYmlsaXR5LCBJbmRlbW5pZmljYXRpb24sIGFuZCBHb3Zlcm5pbmcgTGF3KSB3aWxsIHN1cnZpdmUuCiAgICAgIDwvUD4KCiAgICAgIDxIMj4xMy4gR292ZXJuaW5nIExhdyBhbmQgRGlzcHV0ZSBSZXNvbHV0aW9uPC9IMj4KICAgICAgPFA+CiAgICAgICAgVGhlc2UgVGVybXMgYXJlIGdvdmVybmVkIGJ5IHRoZSBsYXdzIG9mIHRoZSBTdGF0ZSBvZiBXeW9taW5nLCBVU0EsIHdpdGhvdXQgcmVnYXJkIHRvIGl0cyBjb25mbGljdCBvZiBsYXdzIHByb3Zpc2lvbnMuIEFueSBkaXNwdXRlIGFyaXNpbmcgdW5kZXIgdGhlc2UgVGVybXMgd2lsbCBiZSByZXNvbHZlZCBleGNsdXNpdmVseSBpbiB0aGUgc3RhdGUgb3IgZmVkZXJhbCBjb3VydHMgbG9jYXRlZCBpbiB0aGUgU3RhdGUgb2YgV3lvbWluZywgYW5kIHlvdSBjb25zZW50IHRvIHBlcnNvbmFsIGp1cmlzZGljdGlvbiBpbiB0aG9zZSBjb3VydHMuCiAgICAgIDwvUD4KICAgICAgPFA+CiAgICAgICAgV2hlcmUgcGVybWl0dGVkIGJ5IGxhdywgeW91IGFuZCBpa25rZnggaW5jIGFncmVlIHRvIHJlc29sdmUgZGlzcHV0ZXMgdGhyb3VnaCBpbmRpdmlkdWFsIGJpbmRpbmcgYXJiaXRyYXRpb24gcmF0aGVyIHRoYW4gY2xhc3MgYWN0aW9uLgogICAgICA8L1A+CgogICAgICA8SDI+MTQuIENoYW5nZXMgdG8gVGhlc2UgVGVybXM8L0gyPgogICAgICA8UD4KICAgICAgICBXZSBtYXkgcmV2aXNlIHRoZXNlIFRlcm1zIGZyb20gdGltZSB0byB0aW1lLiBUaGUgJmxkcXVvO0VmZmVjdGl2ZSZyZHF1bzsgZGF0ZSBhdCB0aGUgdG9wIHJlZmxlY3RzIHRoZSBsYXRlc3QgcmV2aXNpb24uIFlvdXIgY29udGludWVkIHVzZSBvZiB0aGUgU2VydmljZXMgYWZ0ZXIgYSByZXZpc2lvbiBjb25zdGl0dXRlcyBhY2NlcHRhbmNlIG9mIHRoZSBuZXcgVGVybXMuCiAgICAgIDwvUD4KCiAgICAgIDxIMj4xNS4gQ29udGFjdDwvSDI+CiAgICAgIDxQPgogICAgICAgIFF1ZXN0aW9ucyBhYm91dCB0aGVzZSBUZXJtczo8YnIgLz4KICAgICAgICA8c3Ryb25nIHN0eWxlPXt7IGNvbG9yOiAidmFyKC0tYm9uZSkiIH19PmlrbmtmeCBpbmM8L3N0cm9uZz48YnIgLz4KICAgICAgICBTdWJtaXQgYSByZXF1ZXN0IHRocm91Z2ggb3VyIGNvbnRhY3QgZm9ybSBhdCA8YSBocmVmPSJodHRwczovL3F1YW50dW1jaXBoZXJsYWIuY29tL2NvbnRhY3QiIHN0eWxlPXt7IGNvbG9yOiAidmFyKC0tYWNpZCkiIH19PnF1YW50dW1jaXBoZXJsYWIuY29tL2NvbnRhY3Q8L2E+LgogICAgICA8L1A+CgogICAgICA8Q2FsbG91dD4KICAgICAgICBUaGVzZSBUZXJtcyBhcmUgYSBzdGFydGluZyB0ZW1wbGF0ZS4gQmVmb3JlIGdvaW5nIGxpdmUsIGhhdmUgdGhlbSByZXZpZXdlZCBieSBhIGxpY2Vuc2VkIGF0dG9ybmV5IHRvIGNvbmZpcm0gdGhleSByZWZsZWN0IHlvdXIgYnVzaW5lc3Mgb3BlcmF0aW9ucywganVyaXNkaWN0aW9uLCBhbmQgYXBwbGljYWJsZSByZWd1bGF0aW9ucy4KICAgICAgPC9DYWxsb3V0PgogICAgPC9MZWdhbFNoZWxsPgogICk7Cn0K"}
+import LegalShell, { H2, H3, P, UL, LI, Callout } from "@/components/legal/LegalShell";
+
+export const metadata = {
+  title: "Terms of Service · Quantum Cipher Lab",
+  description: "The terms governing your use of Quantum Cipher Lab products and services.",
+};
+
+export default function TermsPage() {
+  return (
+    <LegalShell kicker="Legal" title="Terms of Service" effectiveDate="May 18, 2026">
+      <P>
+        These Terms of Service (&ldquo;Terms&rdquo;) form a binding agreement between you and <strong style={{ color: "var(--bone)" }}>iknkfx inc</strong> (&ldquo;Company,&rdquo; &ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;), operating under the brand <strong style={{ color: "var(--bone)" }}>Quantum Cipher Lab</strong>. They govern your access to and use of our website, applications, courses, communities, coaching, mentorship, and any other products or services we offer (collectively, the &ldquo;Services&rdquo;).
+      </P>
+      <P>
+        By accessing or using the Services, you agree to these Terms. If you do not agree, do not use the Services.
+      </P>
+
+      <H2>1. Eligibility</H2>
+      <P>
+        You must be at least 18 years old and have the legal capacity to enter into a contract to use the Services. By using the Services, you represent and warrant that you meet these requirements.
+      </P>
+
+      <H2>2. Educational Content Only — Not Financial Advice</H2>
+      <Callout>
+        Everything we publish, teach, broadcast, or distribute is <strong style={{ color: "var(--bone)" }}>educational content and personal opinion</strong>. We are not a registered investment adviser, broker-dealer, financial planner, or fiduciary, and nothing in the Services constitutes investment, financial, tax, legal, or accounting advice.
+      </Callout>
+      <P>
+        You alone are responsible for your trading decisions. You should consult a licensed professional before making any financial decision. See our full <a href="/disclaimer" style={{ color: "var(--acid)" }}>Disclaimer</a> for the complete risk disclosure.
+      </P>
+
+      <H2>3. Accounts</H2>
+      <UL>
+        <LI>You are responsible for maintaining the confidentiality of your login credentials.</LI>
+        <LI>You are responsible for all activity that occurs under your account.</LI>
+        <LI>You agree to provide accurate, current, and complete information and to keep it updated.</LI>
+        <LI>One account per person. Sharing accounts is grounds for termination without refund.</LI>
+      </UL>
+
+      <H2>4. Purchases, Subscriptions, and Payment</H2>
+      <UL>
+        <LI>All prices are listed in U.S. dollars unless otherwise stated.</LI>
+        <LI>You authorize us (or our payment processor) to charge your selected payment method for the amounts you agree to.</LI>
+        <LI>Subscription products renew automatically unless cancelled before the renewal date.</LI>
+        <LI>Refunds are governed by our <a href="/refund" style={{ color: "var(--acid)" }}>Refund Policy</a>.</LI>
+        <LI>We may change pricing at any time; changes apply to future purchases only.</LI>
+      </UL>
+
+      <H2>5. Intellectual Property</H2>
+      <P>
+        All content within the Services — including but not limited to videos, written lessons, charts, indicators, scripts, frameworks, templates, recordings, software, branding, and the Quantum Cipher methodology — is owned by iknkfx inc or its licensors and is protected by copyright, trademark, and other intellectual property laws.
+      </P>
+      <P>
+        You are granted a limited, non-exclusive, non-transferable, revocable license to access the content for your personal, non-commercial use only. You may not:
+      </P>
+      <UL>
+        <LI>Reproduce, distribute, publish, or display any content without written permission</LI>
+        <LI>Sell, sublicense, lease, rent, or otherwise transfer access to the Services</LI>
+        <LI>Record, download, screen-capture, or transcribe live sessions for redistribution</LI>
+        <LI>Use the content to train AI models or build competing products</LI>
+        <LI>Remove or modify any copyright, trademark, or attribution notices</LI>
+      </UL>
+
+      <H2>6. Acceptable Use</H2>
+      <P>You agree not to:</P>
+      <UL>
+        <LI>Use the Services for any unlawful or fraudulent purpose</LI>
+        <LI>Harass, threaten, defame, or impersonate any person or entity</LI>
+        <LI>Upload viruses, malware, or other harmful code</LI>
+        <LI>Attempt to gain unauthorized access to any portion of the Services</LI>
+        <LI>Scrape, mirror, or systematically extract data from the Services</LI>
+        <LI>Misrepresent affiliation with iknkfx inc or any of its members</LI>
+      </UL>
+      <P>
+        We may suspend or terminate your access at any time, with or without notice, for any violation of these Terms.
+      </P>
+
+      <H2>7. User Communications and Submissions</H2>
+      <P>
+        If you post messages, ask questions, or share content inside our community, calls, or platforms, you grant us a perpetual, worldwide, royalty-free license to use, reproduce, and display that content for the purpose of operating, promoting, and improving the Services. You represent that you own or have the necessary rights to the content you submit.
+      </P>
+
+      <H2>8. Third-Party Services and Links</H2>
+      <P>
+        The Services may link to or integrate with third-party platforms (e.g. Discord, Calendly, brokers, exchanges). We are not responsible for the content, privacy practices, or actions of any third party. Use them at your own risk.
+      </P>
+
+      <H2>9. Disclaimers</H2>
+      <P>
+        THE SERVICES ARE PROVIDED &ldquo;AS IS&rdquo; AND &ldquo;AS AVAILABLE.&rdquo; TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+      </P>
+      <P>
+        WE DO NOT WARRANT THAT THE SERVICES WILL BE UNINTERRUPTED, ERROR-FREE, OR SECURE, OR THAT ANY INFORMATION OR STRATEGY DISCUSSED WILL BE PROFITABLE OR SUITABLE FOR YOUR CIRCUMSTANCES.
+      </P>
+
+      <H2>10. Limitation of Liability</H2>
+      <P>
+        TO THE FULLEST EXTENT PERMITTED BY LAW, IN NO EVENT WILL IKNKFX INC, ITS OFFICERS, EMPLOYEES, CONTRACTORS, OR AFFILIATES BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING LOST PROFITS, LOST DATA, OR TRADING LOSSES, ARISING OUT OF OR RELATED TO YOUR USE OF THE SERVICES, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+      </P>
+      <P>
+        OUR TOTAL LIABILITY FOR ANY CLAIM RELATED TO THE SERVICES WILL NOT EXCEED THE AMOUNT YOU PAID US IN THE TWELVE (12) MONTHS PRECEDING THE EVENT GIVING RISE TO THE CLAIM, OR ONE HUNDRED U.S. DOLLARS ($100), WHICHEVER IS GREATER.
+      </P>
+
+      <H2>11. Indemnification</H2>
+      <P>
+        You agree to indemnify, defend, and hold harmless iknkfx inc and its officers, directors, employees, and agents from and against any claims, liabilities, damages, losses, and expenses (including reasonable attorneys&rsquo; fees) arising out of or in any way connected with your access to or use of the Services, your violation of these Terms, or your infringement of any rights of a third party.
+      </P>
+
+      <H2>12. Termination</H2>
+      <P>
+        We may suspend, restrict, or terminate your access to the Services at any time, for any reason, with or without notice. Sections that by their nature should survive termination (including Intellectual Property, Disclaimers, Limitation of Liability, Indemnification, and Governing Law) will survive.
+      </P>
+
+      <H2>13. Governing Law and Dispute Resolution</H2>
+      <P>
+        These Terms are governed by the laws of the State of Wyoming, USA, without regard to its conflict of laws provisions. Any dispute arising under these Terms will be resolved exclusively in the state or federal courts located in the State of Wyoming, and you consent to personal jurisdiction in those courts.
+      </P>
+      <P>
+        Where permitted by law, you and iknkfx inc agree to resolve disputes through individual binding arbitration rather than class action.
+      </P>
+
+      <H2>14. Changes to These Terms</H2>
+      <P>
+        We may revise these Terms from time to time. The &ldquo;Effective&rdquo; date at the top reflects the latest revision. Your continued use of the Services after a revision constitutes acceptance of the new Terms.
+      </P>
+
+      <H2>15. Contact</H2>
+      <P>
+        Questions about these Terms:<br />
+        <strong style={{ color: "var(--bone)" }}>iknkfx inc</strong><br />
+        Submit a request through our contact form at <a href="https://quantumcipherlab.com/contact" style={{ color: "var(--acid)" }}>quantumcipherlab.com/contact</a>.
+      </P>
+
+      <Callout>
+        These Terms are a starting template. Before going live, have them reviewed by a licensed attorney to confirm they reflect your business operations, jurisdiction, and applicable regulations.
+      </Callout>
+    </LegalShell>
+  );
+}

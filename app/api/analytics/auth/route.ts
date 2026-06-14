@@ -1,1 +1,31 @@
-{"data":"aW1wb3J0IHsgTmV4dFJlcXVlc3QsIE5leHRSZXNwb25zZSB9IGZyb20gIm5leHQvc2VydmVyIjsKaW1wb3J0IHsgY3JlYXRlSGFzaCB9IGZyb20gImNyeXB0byI7CgpleHBvcnQgY29uc3QgcnVudGltZSA9ICJub2RlanMiOwoKZnVuY3Rpb24gbWFrZVRva2VuKHBhc3N3b3JkOiBzdHJpbmcpIHsKICByZXR1cm4gY3JlYXRlSGFzaCgic2hhMjU2IikudXBkYXRlKGBxYy1hbmFseXRpY3M6JHtwYXNzd29yZH1gKS5kaWdlc3QoImhleCIpOwp9CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gUE9TVChyZXE6IE5leHRSZXF1ZXN0KSB7CiAgY29uc3QgeyBwYXNzd29yZCB9ID0gYXdhaXQgcmVxLmpzb24oKS5jYXRjaCgoKSA9PiAoeyBwYXNzd29yZDogIiIgfSkpOwogIGNvbnN0IGV4cGVjdGVkID0gKHByb2Nlc3MuZW52LkFOQUxZVElDU19QQVNTV09SRCB8fCAiIikudHJpbSgpOwogIGlmICghZXhwZWN0ZWQgfHwgcGFzc3dvcmQudHJpbSgpICE9PSBleHBlY3RlZCkgewogICAgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKHsgb2s6IGZhbHNlIH0sIHsgc3RhdHVzOiA0MDEgfSk7CiAgfQogIGNvbnN0IHJlcyA9IE5leHRSZXNwb25zZS5qc29uKHsgb2s6IHRydWUgfSk7CiAgcmVzLmNvb2tpZXMuc2V0KCJxY19hdXRoIiwgbWFrZVRva2VuKGV4cGVjdGVkKSwgewogICAgaHR0cE9ubHk6IHRydWUsCiAgICBzZWN1cmU6IHByb2Nlc3MuZW52Lk5PREVfRU5WID09PSAicHJvZHVjdGlvbiIsCiAgICBzYW1lU2l0ZTogImxheCIsCiAgICBtYXhBZ2U6IDYwICogNjAgKiAyNCAqIDcsCiAgICBwYXRoOiAiLyIsCiAgfSk7CiAgcmV0dXJuIHJlczsKfQoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIERFTEVURSgpIHsKICBjb25zdCByZXMgPSBOZXh0UmVzcG9uc2UuanNvbih7IG9rOiB0cnVlIH0pOwogIHJlcy5jb29raWVzLmRlbGV0ZSgicWNfYXV0aCIpOwogIHJldHVybiByZXM7Cn0K"}
+import { NextRequest, NextResponse } from "next/server";
+import { createHash } from "crypto";
+
+export const runtime = "nodejs";
+
+function makeToken(password: string) {
+  return createHash("sha256").update(`qc-analytics:${password}`).digest("hex");
+}
+
+export async function POST(req: NextRequest) {
+  const { password } = await req.json().catch(() => ({ password: "" }));
+  const expected = (process.env.ANALYTICS_PASSWORD || "").trim();
+  if (!expected || password.trim() !== expected) {
+    return NextResponse.json({ ok: false }, { status: 401 });
+  }
+  const res = NextResponse.json({ ok: true });
+  res.cookies.set("qc_auth", makeToken(expected), {
+    httpOnly: true,
+    secure: process.env.NODE_ENV === "production",
+    sameSite: "lax",
+    maxAge: 60 * 60 * 24 * 7,
+    path: "/",
+  });
+  return res;
+}
+
+export async function DELETE() {
+  const res = NextResponse.json({ ok: true });
+  res.cookies.delete("qc_auth");
+  return res;
+}

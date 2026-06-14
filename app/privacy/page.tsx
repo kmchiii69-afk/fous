@@ -1,1 +1,126 @@
-{"data":"aW1wb3J0IExlZ2FsU2hlbGwsIHsgSDIsIEgzLCBQLCBVTCwgTEksIENhbGxvdXQgfSBmcm9tICJAL2NvbXBvbmVudHMvbGVnYWwvTGVnYWxTaGVsbCI7CgpleHBvcnQgY29uc3QgbWV0YWRhdGEgPSB7CiAgdGl0bGU6ICJQcml2YWN5IFBvbGljeSDCtyBRdWFudHVtIENpcGhlciBMYWIiLAogIGRlc2NyaXB0aW9uOiAiSG93IGlrbmtmeCBpbmMgY29sbGVjdHMsIHVzZXMsIGFuZCBwcm90ZWN0cyB5b3VyIHBlcnNvbmFsIGluZm9ybWF0aW9uLiIsCn07CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBQcml2YWN5UGFnZSgpIHsKICByZXR1cm4gKAogICAgPExlZ2FsU2hlbGwga2lja2VyPSJMZWdhbCIgdGl0bGU9IlByaXZhY3kgUG9saWN5IiBlZmZlY3RpdmVEYXRlPSJNYXkgMTgsIDIwMjYiPgogICAgICA8UD4KICAgICAgICBUaGlzIFByaXZhY3kgUG9saWN5IGV4cGxhaW5zIGhvdyA8c3Ryb25nIHN0eWxlPXt7IGNvbG9yOiAidmFyKC0tYm9uZSkiIH19PmlrbmtmeCBpbmM8L3N0cm9uZz4gKCZsZHF1bztDb21wYW55LCZyZHF1bzsgJmxkcXVvO3dlLCZyZHF1bzsgJmxkcXVvO3VzLCZyZHF1bzsgb3IgJmxkcXVvO291ciZyZHF1bzspLCBvcGVyYXRpbmcgdW5kZXIgdGhlIGJyYW5kIDxzdHJvbmcgc3R5bGU9e3sgY29sb3I6ICJ2YXIoLS1ib25lKSIgfX0+UXVhbnR1bSBDaXBoZXIgTGFiPC9zdHJvbmc+LCBjb2xsZWN0cywgdXNlcywgc2hhcmVzLCBhbmQgcHJvdGVjdHMgcGVyc29uYWwgaW5mb3JtYXRpb24geW91IHByb3ZpZGUgdGhyb3VnaCBxdWFudHVtY2lwaGVybGFiLmNvbSBhbmQgYW55IHJlbGF0ZWQgZG9tYWlucywgYXBwbGljYXRpb25zLCBvciBzZXJ2aWNlcyAoY29sbGVjdGl2ZWx5LCB0aGUgJmxkcXVvO1NlcnZpY2VzJnJkcXVvOykuCiAgICAgIDwvUD4KICAgICAgPFA+CiAgICAgICAgQnkgdXNpbmcgdGhlIFNlcnZpY2VzLCB5b3UgYWdyZWUgdG8gdGhlIHByYWN0aWNlcyBkZXNjcmliZWQgaGVyZS4gSWYgeW91IGRvIG5vdCBhZ3JlZSwgZG8gbm90IHVzZSB0aGUgU2VydmljZXMuCiAgICAgIDwvUD4KCiAgICAgIDxIMj4xLiBJbmZvcm1hdGlvbiBXZSBDb2xsZWN0PC9IMj4KCiAgICAgIDxIMz4xLjEgSW5mb3JtYXRpb24geW91IGdpdmUgdXM8L0gzPgogICAgICA8UD5XaGVuIHlvdSBvcHQgaW4sIGFwcGx5LCBvciBib29rIGEgY2FsbCwgd2UgY29sbGVjdDo8L1A+CiAgICAgIDxVTD4KICAgICAgICA8TEk+Rmlyc3QgYW5kIGxhc3QgbmFtZTwvTEk+CiAgICAgICAgPExJPkVtYWlsIGFkZHJlc3M8L0xJPgogICAgICAgIDxMST5QaG9uZSBudW1iZXIgKHdpdGggY291bnRyeSBjb2RlKTwvTEk+CiAgICAgICAgPExJPlJlc3BvbnNlcyB0byBxdWFsaWZpY2F0aW9uIHF1ZXN0aW9ucyAodHJhZGluZyBleHBlcmllbmNlLCBjYXBpdGFsLCBnb2FscywgZXRjLik8L0xJPgogICAgICAgIDxMST5GcmVlLXRleHQgbm90ZXMgeW91IGNob29zZSB0byBzaGFyZSAoZS5nLiAmbGRxdW87d2hhdCB3b3VsZCBleHRyYSBpbmNvbWUgYWxsb3cgeW91IHRvIGRvJnJkcXVvOyk8L0xJPgogICAgICAgIDxMST5QYXltZW50IGluZm9ybWF0aW9uIChoYW5kbGVkIGJ5IG91ciBwYXltZW50IHByb2Nlc3NvcnM7IHdlIGRvIG5vdCBzdG9yZSBmdWxsIGNhcmQgbnVtYmVycyk8L0xJPgogICAgICA8L1VMPgoKICAgICAgPEgzPjEuMiBJbmZvcm1hdGlvbiBjb2xsZWN0ZWQgYXV0b21hdGljYWxseTwvSDM+CiAgICAgIDxVTD4KICAgICAgICA8TEk+SVAgYWRkcmVzcywgZGV2aWNlIHR5cGUsIGJyb3dzZXIsIG9wZXJhdGluZyBzeXN0ZW08L0xJPgogICAgICAgIDxMST5QYWdlcyB2aWV3ZWQsIHRpbWUgb24gcGFnZSwgcmVmZXJyaW5nIFVSTCwgVVRNIHBhcmFtZXRlcnM8L0xJPgogICAgICAgIDxMST5Db29raWVzIGFuZCBzaW1pbGFyIHRyYWNraW5nIHRlY2hub2xvZ2llcyAoc2VlIFNlY3Rpb24gNSk8L0xJPgogICAgICAgIDxMST5TZXNzaW9uIHJlY29yZGluZ3MgYW5kIGV2ZW50IGFuYWx5dGljcyBmb3IgcHJvZHVjdCBpbXByb3ZlbWVudDwvTEk+CiAgICAgIDwvVUw+CgogICAgICA8SDI+Mi4gSG93IFdlIFVzZSBZb3VyIEluZm9ybWF0aW9uPC9IMj4KICAgICAgPFVMPgogICAgICAgIDxMST5EZWxpdmVyIHRoZSBTZXJ2aWNlcyB5b3UgcmVxdWVzdGVkICh0cmFpbmluZywgY2FsbHMsIGNvdXJzZSBhY2Nlc3MpPC9MST4KICAgICAgICA8TEk+U2VuZCB0cmFuc2FjdGlvbmFsIGVtYWlscyAocmVjZWlwdHMsIGFjY291bnQgaW5mbywgdHJhaW5pbmcgbGlua3MpPC9MST4KICAgICAgICA8TEk+U2VuZCBtYXJrZXRpbmcgY29tbXVuaWNhdGlvbnMgKHlvdSBjYW4gb3B0IG91dCBhdCBhbnkgdGltZSk8L0xJPgogICAgICAgIDxMST5RdWFsaWZ5IGFuZCBjb250YWN0IHlvdSBhYm91dCBwcm9ncmFtcyB5b3UgYXBwbGllZCB0bzwvTEk+CiAgICAgICAgPExJPkltcHJvdmUgdGhlIFNlcnZpY2VzLCBhbmFseXplIGZ1bm5lbCBwZXJmb3JtYW5jZSwgQS9CIHRlc3QgbGFuZGluZyBwYWdlczwvTEk+CiAgICAgICAgPExJPkNvbXBseSB3aXRoIGxlZ2FsIG9ibGlnYXRpb25zIGFuZCBlbmZvcmNlIG91ciBUZXJtczwvTEk+CiAgICAgIDwvVUw+CgogICAgICA8SDI+My4gSG93IFdlIFNoYXJlIFlvdXIgSW5mb3JtYXRpb248L0gyPgogICAgICA8UD5XZSBkbyBub3Qgc2VsbCB5b3VyIHBlcnNvbmFsIGluZm9ybWF0aW9uLiBXZSBzaGFyZSBpdCB3aXRoIHRoZSBmb2xsb3dpbmcgY2F0ZWdvcmllcyBvZiBzZXJ2aWNlIHByb3ZpZGVycywgb25seSBhcyBuZWVkZWQgdG8gZGVsaXZlciB0aGUgU2VydmljZXM6PC9QPgogICAgICA8VUw+CiAgICAgICAgPExJPjxzdHJvbmcgc3R5bGU9e3sgY29sb3I6ICJ2YXIoLS1ib25lKSIgfX0+Q1JNOjwvc3Ryb25nPiBDbG9zZSAoY2xvc2UuY29tKSDigJQgbGVhZCBhbmQgc2FsZXMgcGlwZWxpbmUgbWFuYWdlbWVudDwvTEk+CiAgICAgICAgPExJPjxzdHJvbmcgc3R5bGU9e3sgY29sb3I6ICJ2YXIoLS1ib25lKSIgfX0+RW1haWwgYXV0b21hdGlvbjo8L3N0cm9uZz4gS2l0IChraXQuY29tKSDigJQgZW1haWwgc2VxdWVuY2VzIGFuZCBuZXdzbGV0dGVyczwvTEk+CiAgICAgICAgPExJPjxzdHJvbmcgc3R5bGU9e3sgY29sb3I6ICJ2YXIoLS1ib25lKSIgfX0+U2NoZWR1bGluZzo8L3N0cm9uZz4gQ2FsZW5kbHkg4oCUIGNhbGwgYm9va2luZzwvTEk+CiAgICAgICAgPExJPjxzdHJvbmcgc3R5bGU9e3sgY29sb3I6ICJ2YXIoLS1ib25lKSIgfX0+Rm9ybSBzb2Z0d2FyZTo8L3N0cm9uZz4gVGFsbHkg4oCUIGFwcGxpY2F0aW9uIGFuZCBxdWFsaWZpY2F0aW9uIGZvcm1zPC9MST4KICAgICAgICA8TEk+PHN0cm9uZyBzdHlsZT17eyBjb2xvcjogInZhcigtLWJvbmUpIiB9fT5BbmFseXRpY3M6PC9zdHJvbmc+IFBvc3RIb2cgYW5kIHNpbWlsYXIgdG9vbHMg4oCUIGZ1bm5lbCBhbmFseXRpY3MgYW5kIHNlc3Npb24gcmVwbGF5PC9MST4KICAgICAgICA8TEk+PHN0cm9uZyBzdHlsZT17eyBjb2xvcjogInZhcigtLWJvbmUpIiB9fT5Ib3N0aW5nOjwvc3Ryb25nPiBWZXJjZWwg4oCUIHNpdGUgYW5kIGFwcGxpY2F0aW9uIGhvc3Rpbmc8L0xJPgogICAgICAgIDxMST48c3Ryb25nIHN0eWxlPXt7IGNvbG9yOiAidmFyKC0tYm9uZSkiIH19PlBheW1lbnQgcHJvY2Vzc29yczo8L3N0cm9uZz4gU3RyaXBlIGFuZCBzaW1pbGFyIOKAlCBwYXltZW50IHByb2Nlc3Npbmc8L0xJPgogICAgICAgIDxMST48c3Ryb25nIHN0eWxlPXt7IGNvbG9yOiAidmFyKC0tYm9uZSkiIH19PkludGVybmFsIHRlYW0gY29tbXVuaWNhdGlvbjo8L3N0cm9uZz4gRGlzY29yZCDigJQgb3BlcmF0aW9uYWwgbm90aWZpY2F0aW9ucyB0byBvdXIgc2FsZXMgdGVhbTwvTEk+CiAgICAgIDwvVUw+CiAgICAgIDxQPgogICAgICAgIFdlIG1heSBhbHNvIGRpc2Nsb3NlIHlvdXIgaW5mb3JtYXRpb24gaWYgcmVxdWlyZWQgYnkgbGF3LCBjb3VydCBvcmRlciwgb3IgdG8gcHJvdGVjdCB0aGUgcmlnaHRzLCBwcm9wZXJ0eSwgb3Igc2FmZXR5IG9mIHRoZSBDb21wYW55LCBvdXIgY3VzdG9tZXJzLCBvciBvdGhlcnMuCiAgICAgIDwvUD4KCiAgICAgIDxIMj40LiBTTVMgYW5kIFBob25lIENvbW11bmljYXRpb24gKFRDUEEpPC9IMj4KICAgICAgPFA+CiAgICAgICAgQnkgcHJvdmlkaW5nIHlvdXIgcGhvbmUgbnVtYmVyIGFuZCBjb25zZW50aW5nIGF0IHRoZSByZWxldmFudCBvcHQtaW4gcG9pbnRzLCB5b3UgYWdyZWUgdG8gcmVjZWl2ZSBtYXJrZXRpbmcgYW5kIHNlcnZpY2UtcmVsYXRlZCBjYWxscyBhbmQgdGV4dCBtZXNzYWdlcyBmcm9tIGlrbmtmeCBpbmMsIGluY2x1ZGluZyB0aG9zZSBtYWRlIHZpYSBhdXRvbWF0ZWQgZGlhbGluZyBzeXN0ZW1zIGFuZCBwcmVyZWNvcmRlZCBtZXNzYWdlcy4gQ29uc2VudCBpcyBub3QgYSBjb25kaXRpb24gb2YgcHVyY2hhc2UuIE1lc3NhZ2UgYW5kIGRhdGEgcmF0ZXMgbWF5IGFwcGx5LiBZb3UgbWF5IG9wdCBvdXQgYXQgYW55IHRpbWUgYnkgcmVwbHlpbmcgU1RPUCB0byBhbnkgdGV4dCBtZXNzYWdlIG9yIGJ5IGNvbnRhY3RpbmcgdXMgYXQgdGhlIGFkZHJlc3MgYmVsb3cuCiAgICAgIDwvUD4KCiAgICAgIDxIMj41LiBDb29raWVzIGFuZCBUcmFja2luZzwvSDI+CiAgICAgIDxQPgogICAgICAgIFdlIHVzZSBjb29raWVzLCBwaXhlbHMsIGFuZCBzaW1pbGFyIHRlY2hub2xvZ2llcyBmb3IgZXNzZW50aWFsIHNpdGUgZnVuY3Rpb25hbGl0eSwgYW5hbHl0aWNzLCBhbmQgYWR2ZXJ0aXNpbmcuIFlvdSBjYW4gY29udHJvbCBjb29raWVzIHRocm91Z2ggeW91ciBicm93c2VyIHNldHRpbmdzLiBEaXNhYmxpbmcgY29va2llcyBtYXkgZGVncmFkZSBzb21lIGZlYXR1cmVzLgogICAgICA8L1A+CgogICAgICA8SDI+Ni4gRGF0YSBSZXRlbnRpb248L0gyPgogICAgICA8UD4KICAgICAgICBXZSByZXRhaW4gcGVyc29uYWwgaW5mb3JtYXRpb24gZm9yIGFzIGxvbmcgYXMgbmVlZGVkIHRvIHByb3ZpZGUgdGhlIFNlcnZpY2VzIGFuZCBjb21wbHkgd2l0aCBsZWdhbCBvYmxpZ2F0aW9ucy4gWW91IG1heSByZXF1ZXN0IGRlbGV0aW9uIGF0IGFueSB0aW1lIChzZWUgU2VjdGlvbiA4KS4KICAgICAgPC9QPgoKICAgICAgPEgyPjcuIFNlY3VyaXR5PC9IMj4KICAgICAgPFA+CiAgICAgICAgV2UgdXNlIHJlYXNvbmFibGUgYWRtaW5pc3RyYXRpdmUsIHRlY2huaWNhbCwgYW5kIHBoeXNpY2FsIHNhZmVndWFyZHMgdG8gcHJvdGVjdCB5b3VyIGluZm9ybWF0aW9uLiBObyBtZXRob2Qgb2YgdHJhbnNtaXNzaW9uIG9yIHN0b3JhZ2UgaXMgMTAwJSBzZWN1cmU7IHdlIGNhbm5vdCBndWFyYW50ZWUgYWJzb2x1dGUgc2VjdXJpdHkuCiAgICAgIDwvUD4KCiAgICAgIDxIMj44LiBZb3VyIFJpZ2h0czwvSDI+CiAgICAgIDxQPkRlcGVuZGluZyBvbiB5b3VyIGp1cmlzZGljdGlvbiwgeW91IG1heSBoYXZlIHRoZSByaWdodCB0bzo8L1A+CiAgICAgIDxVTD4KICAgICAgICA8TEk+QWNjZXNzIHRoZSBwZXJzb25hbCBpbmZvcm1hdGlvbiB3ZSBob2xkIGFib3V0IHlvdTwvTEk+CiAgICAgICAgPExJPkNvcnJlY3QgaW5hY2N1cmF0ZSBvciBpbmNvbXBsZXRlIGluZm9ybWF0aW9uPC9MST4KICAgICAgICA8TEk+RGVsZXRlIHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb248L0xJPgogICAgICAgIDxMST5PYmplY3QgdG8gb3IgcmVzdHJpY3QgY2VydGFpbiBwcm9jZXNzaW5nPC9MST4KICAgICAgICA8TEk+V2l0aGRyYXcgY29uc2VudCBmb3IgbWFya2V0aW5nIGNvbW11bmljYXRpb25zIGF0IGFueSB0aW1lPC9MST4KICAgICAgICA8TEk+TG9kZ2UgYSBjb21wbGFpbnQgd2l0aCBhIGRhdGEgcHJvdGVjdGlvbiBhdXRob3JpdHk8L0xJPgogICAgICA8L1VMPgogICAgICA8UD4KICAgICAgICBUbyBleGVyY2lzZSB0aGVzZSByaWdodHMsIHN1Ym1pdCBhIHJlcXVlc3QgdGhyb3VnaCBvdXIgY29udGFjdCBmb3JtIGF0IDxhIGhyZWY9Imh0dHBzOi8vcXVhbnR1bWNpcGhlcmxhYi5jb20vY29udGFjdCIgc3R5bGU9e3sgY29sb3I6ICJ2YXIoLS1hY2lkKSIgfX0+cXVhbnR1bWNpcGhlcmxhYi5jb20vY29udGFjdDwvYT4uCiAgICAgIDwvUD4KCiAgICAgIDxIMj45LiBDaGlsZHJlbjwvSDI+CiAgICAgIDxQPgogICAgICAgIFRoZSBTZXJ2aWNlcyBhcmUgbm90IGRpcmVjdGVkIHRvIGFueW9uZSB1bmRlciAxOC4gV2UgZG8gbm90IGtub3dpbmdseSBjb2xsZWN0IGluZm9ybWF0aW9uIGZyb20gY2hpbGRyZW4uIElmIHlvdSBiZWxpZXZlIGEgY2hpbGQgaGFzIHByb3ZpZGVkIHVzIGluZm9ybWF0aW9uLCBjb250YWN0IHVzIGFuZCB3ZSB3aWxsIGRlbGV0ZSBpdC4KICAgICAgPC9QPgoKICAgICAgPEgyPjEwLiBJbnRlcm5hdGlvbmFsIFVzZXJzPC9IMj4KICAgICAgPFA+CiAgICAgICAgVGhlIFNlcnZpY2VzIGFyZSBvcGVyYXRlZCBmcm9tIHRoZSBVbml0ZWQgU3RhdGVzLiBJZiB5b3UgYWNjZXNzIHRoZW0gZnJvbSBvdXRzaWRlIHRoZSBVLlMuLCB5b3VyIGluZm9ybWF0aW9uIHdpbGwgYmUgdHJhbnNmZXJyZWQgdG8sIHN0b3JlZCwgYW5kIHByb2Nlc3NlZCBpbiB0aGUgVS5TLgogICAgICA8L1A+CgogICAgICA8SDI+MTEuIENoYW5nZXMgdG8gVGhpcyBQb2xpY3k8L0gyPgogICAgICA8UD4KICAgICAgICBXZSBtYXkgdXBkYXRlIHRoaXMgUHJpdmFjeSBQb2xpY3kgZnJvbSB0aW1lIHRvIHRpbWUuIFRoZSAmbGRxdW87RWZmZWN0aXZlJnJkcXVvOyBkYXRlIGF0IHRoZSB0b3AgcmVmbGVjdHMgdGhlIGxhdGVzdCByZXZpc2lvbi4gTWF0ZXJpYWwgY2hhbmdlcyB3aWxsIGJlIGNvbW11bmljYXRlZCB0aHJvdWdoIHRoZSBTZXJ2aWNlcyBvciBieSBlbWFpbCB3aGVyZSBhcHByb3ByaWF0ZS4KICAgICAgPC9QPgoKICAgICAgPEgyPjEyLiBDb250YWN0PC9IMj4KICAgICAgPFA+CiAgICAgICAgUXVlc3Rpb25zIGFib3V0IHRoaXMgUHJpdmFjeSBQb2xpY3k6PGJyIC8+CiAgICAgICAgPHN0cm9uZyBzdHlsZT17eyBjb2xvcjogInZhcigtLWJvbmUpIiB9fT5pa25rZnggaW5jPC9zdHJvbmc+PGJyIC8+CiAgICAgICAgU3VibWl0IGEgcmVxdWVzdCB0aHJvdWdoIG91ciBjb250YWN0IGZvcm0gYXQgPGEgaHJlZj0iaHR0cHM6Ly9xdWFudHVtY2lwaGVybGFiLmNvbS9jb250YWN0IiBzdHlsZT17eyBjb2xvcjogInZhcigtLWFjaWQpIiB9fT5xdWFudHVtY2lwaGVybGFiLmNvbS9jb250YWN0PC9hPi4KICAgICAgPC9QPgoKICAgICAgPENhbGxvdXQ+CiAgICAgICAgVGhpcyBwb2xpY3kgaXMgYSBzdGFydGluZyB0ZW1wbGF0ZS4gQmVmb3JlIGdvaW5nIGxpdmUsIGhhdmUgaXQgcmV2aWV3ZWQgYnkgYSBsaWNlbnNlZCBhdHRvcm5leSBmYW1pbGlhciB3aXRoIEZUQywgQ0FOLVNQQU0sIFRDUEEsIEdEUFIsIENDUEEsIGFuZCBhbnkgc3RhdGUtc3BlY2lmaWMgb2JsaWdhdGlvbnMgdGhhdCBhcHBseSB0byB5b3VyIGJ1c2luZXNzLgogICAgICA8L0NhbGxvdXQ+CiAgICA8L0xlZ2FsU2hlbGw+CiAgKTsKfQo="}
+import LegalShell, { H2, H3, P, UL, LI, Callout } from "@/components/legal/LegalShell";
+
+export const metadata = {
+  title: "Privacy Policy · Quantum Cipher Lab",
+  description: "How iknkfx inc collects, uses, and protects your personal information.",
+};
+
+export default function PrivacyPage() {
+  return (
+    <LegalShell kicker="Legal" title="Privacy Policy" effectiveDate="May 18, 2026">
+      <P>
+        This Privacy Policy explains how <strong style={{ color: "var(--bone)" }}>iknkfx inc</strong> (&ldquo;Company,&rdquo; &ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;), operating under the brand <strong style={{ color: "var(--bone)" }}>Quantum Cipher Lab</strong>, collects, uses, shares, and protects personal information you provide through quantumcipherlab.com and any related domains, applications, or services (collectively, the &ldquo;Services&rdquo;).
+      </P>
+      <P>
+        By using the Services, you agree to the practices described here. If you do not agree, do not use the Services.
+      </P>
+
+      <H2>1. Information We Collect</H2>
+
+      <H3>1.1 Information you give us</H3>
+      <P>When you opt in, apply, or book a call, we collect:</P>
+      <UL>
+        <LI>First and last name</LI>
+        <LI>Email address</LI>
+        <LI>Phone number (with country code)</LI>
+        <LI>Responses to qualification questions (trading experience, capital, goals, etc.)</LI>
+        <LI>Free-text notes you choose to share (e.g. &ldquo;what would extra income allow you to do&rdquo;)</LI>
+        <LI>Payment information (handled by our payment processors; we do not store full card numbers)</LI>
+      </UL>
+
+      <H3>1.2 Information collected automatically</H3>
+      <UL>
+        <LI>IP address, device type, browser, operating system</LI>
+        <LI>Pages viewed, time on page, referring URL, UTM parameters</LI>
+        <LI>Cookies and similar tracking technologies (see Section 5)</LI>
+        <LI>Session recordings and event analytics for product improvement</LI>
+      </UL>
+
+      <H2>2. How We Use Your Information</H2>
+      <UL>
+        <LI>Deliver the Services you requested (training, calls, course access)</LI>
+        <LI>Send transactional emails (receipts, account info, training links)</LI>
+        <LI>Send marketing communications (you can opt out at any time)</LI>
+        <LI>Qualify and contact you about programs you applied to</LI>
+        <LI>Improve the Services, analyze funnel performance, A/B test landing pages</LI>
+        <LI>Comply with legal obligations and enforce our Terms</LI>
+      </UL>
+
+      <H2>3. How We Share Your Information</H2>
+      <P>We do not sell your personal information. We share it with the following categories of service providers, only as needed to deliver the Services:</P>
+      <UL>
+        <LI><strong style={{ color: "var(--bone)" }}>CRM:</strong> Close (close.com) — lead and sales pipeline management</LI>
+        <LI><strong style={{ color: "var(--bone)" }}>Email automation:</strong> Kit (kit.com) — email sequences and newsletters</LI>
+        <LI><strong style={{ color: "var(--bone)" }}>Scheduling:</strong> Calendly — call booking</LI>
+        <LI><strong style={{ color: "var(--bone)" }}>Form software:</strong> Tally — application and qualification forms</LI>
+        <LI><strong style={{ color: "var(--bone)" }}>Analytics:</strong> PostHog and similar tools — funnel analytics and session replay</LI>
+        <LI><strong style={{ color: "var(--bone)" }}>Hosting:</strong> Vercel — site and application hosting</LI>
+        <LI><strong style={{ color: "var(--bone)" }}>Payment processors:</strong> Stripe and similar — payment processing</LI>
+        <LI><strong style={{ color: "var(--bone)" }}>Internal team communication:</strong> Discord — operational notifications to our sales team</LI>
+      </UL>
+      <P>
+        We may also disclose your information if required by law, court order, or to protect the rights, property, or safety of the Company, our customers, or others.
+      </P>
+
+      <H2>4. SMS and Phone Communication (TCPA)</H2>
+      <P>
+        By providing your phone number and consenting at the relevant opt-in points, you agree to receive marketing and service-related calls and text messages from iknkfx inc, including those made via automated dialing systems and prerecorded messages. Consent is not a condition of purchase. Message and data rates may apply. You may opt out at any time by replying STOP to any text message or by contacting us at the address below.
+      </P>
+
+      <H2>5. Cookies and Tracking</H2>
+      <P>
+        We use cookies, pixels, and similar technologies for essential site functionality, analytics, and advertising. You can control cookies through your browser settings. Disabling cookies may degrade some features.
+      </P>
+
+      <H2>6. Data Retention</H2>
+      <P>
+        We retain personal information for as long as needed to provide the Services and comply with legal obligations. You may request deletion at any time (see Section 8).
+      </P>
+
+      <H2>7. Security</H2>
+      <P>
+        We use reasonable administrative, technical, and physical safeguards to protect your information. No method of transmission or storage is 100% secure; we cannot guarantee absolute security.
+      </P>
+
+      <H2>8. Your Rights</H2>
+      <P>Depending on your jurisdiction, you may have the right to:</P>
+      <UL>
+        <LI>Access the personal information we hold about you</LI>
+        <LI>Correct inaccurate or incomplete information</LI>
+        <LI>Delete your personal information</LI>
+        <LI>Object to or restrict certain processing</LI>
+        <LI>Withdraw consent for marketing communications at any time</LI>
+        <LI>Lodge a complaint with a data protection authority</LI>
+      </UL>
+      <P>
+        To exercise these rights, submit a request through our contact form at <a href="https://quantumcipherlab.com/contact" style={{ color: "var(--acid)" }}>quantumcipherlab.com/contact</a>.
+      </P>
+
+      <H2>9. Children</H2>
+      <P>
+        The Services are not directed to anyone under 18. We do not knowingly collect information from children. If you believe a child has provided us information, contact us and we will delete it.
+      </P>
+
+      <H2>10. International Users</H2>
+      <P>
+        The Services are operated from the United States. If you access them from outside the U.S., your information will be transferred to, stored, and processed in the U.S.
+      </P>
+
+      <H2>11. Changes to This Policy</H2>
+      <P>
+        We may update this Privacy Policy from time to time. The &ldquo;Effective&rdquo; date at the top reflects the latest revision. Material changes will be communicated through the Services or by email where appropriate.
+      </P>
+
+      <H2>12. Contact</H2>
+      <P>
+        Questions about this Privacy Policy:<br />
+        <strong style={{ color: "var(--bone)" }}>iknkfx inc</strong><br />
+        Submit a request through our contact form at <a href="https://quantumcipherlab.com/contact" style={{ color: "var(--acid)" }}>quantumcipherlab.com/contact</a>.
+      </P>
+
+      <Callout>
+        This policy is a starting template. Before going live, have it reviewed by a licensed attorney familiar with FTC, CAN-SPAM, TCPA, GDPR, CCPA, and any state-specific obligations that apply to your business.
+      </Callout>
+    </LegalShell>
+  );
+}

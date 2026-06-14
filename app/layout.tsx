@@ -1,1 +1,42 @@
-{"data":"aW1wb3J0IHR5cGUgeyBNZXRhZGF0YSB9IGZyb20gIm5leHQiOwppbXBvcnQgIi4vZ2xvYmFscy5jc3MiOwppbXBvcnQgUG9zdEhvZ1Byb3ZpZGVyIGZyb20gIkAvY29tcG9uZW50cy9Qb3N0SG9nUHJvdmlkZXIiOwppbXBvcnQgU2VnTWV0cmljc1BpeGVsIGZyb20gIkAvY29tcG9uZW50cy9TZWdNZXRyaWNzUGl4ZWwiOwoKZXhwb3J0IGNvbnN0IG1ldGFkYXRhOiBNZXRhZGF0YSA9IHsKICB0aXRsZTogIlF1YW50dW0gQ2lwaGVyIOKAlCBTd2luZyBUcmFkZSBPbmUgRGF5IEEgV2VlayIsCiAgZGVzY3JpcHRpb246ICJUaGUgbmluZS1waGFzZSBtYXJrZXQgY3ljbGUgc3lzdGVtIHVzZWQgYnkgNy1maWd1cmUgY3J5cHRvIHN3aW5nIHRyYWRlcnMuIiwKfTsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIFJvb3RMYXlvdXQoewogIGNoaWxkcmVuLAp9OiB7CiAgY2hpbGRyZW46IFJlYWN0LlJlYWN0Tm9kZTsKfSkgewogIHJldHVybiAoCiAgICA8aHRtbCBsYW5nPSJlbiI+CiAgICAgIDxoZWFkPgogICAgICAgIDxsaW5rIHJlbD0icHJlY29ubmVjdCIgaHJlZj0iaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbSIgLz4KICAgICAgICA8bGluayByZWw9InByZWNvbm5lY3QiIGhyZWY9Imh0dHBzOi8vZm9udHMuZ3N0YXRpYy5jb20iIGNyb3NzT3JpZ2luPSIiIC8+CiAgICAgICAgey8qIENhbGVuZGx5ICsgWW91VHViZSBwcmVjb25uZWN0cyBzaGF2ZSB+MjAw4oCTNDAwbXMgb2ZmIGlmcmFtZSBsb2FkIG9uCiAgICAgICAgICAgIHRoZSBib29raW5nICsgdHJhaW5pbmcgcGFnZXMuIENvc3RzIG5vdGhpbmcgZm9yIHVzZXJzIHdobyBuZXZlcgogICAgICAgICAgICBzZWUgdGhvc2UgcGFnZXMgYmVjYXVzZSB0aGUgYnJvd3NlciBvbmx5IG9wZW5zIHRoZSBUQ1AvVExTCiAgICAgICAgICAgIGNvbm5lY3Rpb24gaWYgaXQgaGFzIGEgcmVhc29uIHRvICh0aGUgcHJlY29ubmVjdCBpcyBhIGhpbnQsIG5vdCBhIGZldGNoKS4gKi99CiAgICAgICAgPGxpbmsgcmVsPSJwcmVjb25uZWN0IiBocmVmPSJodHRwczovL2NhbGVuZGx5LmNvbSIgLz4KICAgICAgICA8bGluayByZWw9InByZWNvbm5lY3QiIGhyZWY9Imh0dHBzOi8vYXNzZXRzLmNhbGVuZGx5LmNvbSIgY3Jvc3NPcmlnaW49IiIgLz4KICAgICAgICA8bGluayByZWw9InByZWNvbm5lY3QiIGhyZWY9Imh0dHBzOi8vd3d3LnlvdXR1YmUuY29tIiAvPgogICAgICAgIDxsaW5rIHJlbD0icHJlY29ubmVjdCIgaHJlZj0iaHR0cHM6Ly9pLnl0aW1nLmNvbSIgY3Jvc3NPcmlnaW49IiIgLz4KICAgICAgICA8bGluayByZWw9InByZWNvbm5lY3QiIGhyZWY9Imh0dHBzOi8vcGxheWVyLnZpbWVvLmNvbSIgLz4KICAgICAgICA8bGluayByZWw9InByZWNvbm5lY3QiIGhyZWY9Imh0dHBzOi8vdmltZW8uY29tIiAvPgogICAgICAgIDxsaW5rCiAgICAgICAgICBocmVmPSJodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2NzczI/ZmFtaWx5PUJyaWNvbGFnZStHcm90ZXNxdWU6b3Bzeix3Z2h0QDEyLi45NiwzMDAuLjgwMCZmYW1pbHk9R2Vpc3Q6d2dodEAzMDA7NDAwOzUwMDs2MDA7NzAwJmZhbWlseT1KZXRCcmFpbnMrTW9ubzp3Z2h0QDQwMDs1MDA7NjAwJmZhbWlseT1OZXdzcmVhZGVyOml0YWwsb3Bzeix3Z2h0QDAsNi4uNzIsMzAwLi43MDA7MSw2Li43MiwzMDAuLjYwMCZkaXNwbGF5PXN3YXAiCiAgICAgICAgICByZWw9InN0eWxlc2hlZXQiCiAgICAgICAgLz4KICAgICAgPC9oZWFkPgogICAgICA8Ym9keT4KICAgICAgICA8UG9zdEhvZ1Byb3ZpZGVyPntjaGlsZHJlbn08L1Bvc3RIb2dQcm92aWRlcj4KICAgICAgICA8U2VnTWV0cmljc1BpeGVsIC8+CiAgICAgIDwvYm9keT4KICAgIDwvaHRtbD4KICApOwp9Cg=="}
+import type { Metadata } from "next";
+import "./globals.css";
+import PostHogProvider from "@/components/PostHogProvider";
+import SegMetricsPixel from "@/components/SegMetricsPixel";
+
+export const metadata: Metadata = {
+  title: "Quantum Cipher — Swing Trade One Day A Week",
+  description: "The nine-phase market cycle system used by 7-figure crypto swing traders.",
+};
+
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
+  return (
+    <html lang="en">
+      <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
+        {/* Calendly + YouTube preconnects shave ~200–400ms off iframe load on
+            the booking + training pages. Costs nothing for users who never
+            see those pages because the browser only opens the TCP/TLS
+            connection if it has a reason to (the preconnect is a hint, not a fetch). */}
+        <link rel="preconnect" href="https://calendly.com" />
+        <link rel="preconnect" href="https://assets.calendly.com" crossOrigin="" />
+        <link rel="preconnect" href="https://www.youtube.com" />
+        <link rel="preconnect" href="https://i.ytimg.com" crossOrigin="" />
+        <link rel="preconnect" href="https://player.vimeo.com" />
+        <link rel="preconnect" href="https://vimeo.com" />
+        <link
+          href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,300..800&family=Geist:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&family=Newsreader:ital,opsz,wght@0,6..72,300..700;1,6..72,300..600&display=swap"
+          rel="stylesheet"
+        />
+      </head>
+      <body>
+        <PostHogProvider>{children}</PostHogProvider>
+        <SegMetricsPixel />
+      </body>
+    </html>
+  );
+}

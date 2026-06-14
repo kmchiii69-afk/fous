@@ -1,1 +1,136 @@
-{"data":"Ly8gUE9TVCAvYXBpL2Jvb2tlZAovLwovLyBDYWxlbmRseSB3ZWJob29rIHRhcmdldC4gRmlyZXMgd2hlbiBhbiBpbnZpdGVlIHNjaGVkdWxlcyBhIGNhbGwuCi8vIFVwZGF0ZXMgdGhlIENsb3NlIGxlYWQgc3RhdHVzIHRvICJEZW1vIEJvb2tlZCIgYW5kIHBpbmdzICNib29rZWQtY2FsbHMKLy8gaW4gRGlzY29yZCBzbyBjbG9zZXJzIHNlZSB3aG8ganVzdCBib29rZWQuCgppbXBvcnQgeyBOZXh0UmVxdWVzdCwgTmV4dFJlc3BvbnNlIH0gZnJvbSAibmV4dC9zZXJ2ZXIiOwppbXBvcnQgeyB1cGRhdGVMZWFkRmllbGRzQnlFbWFpbCB9IGZyb20gIkAvbGliL2Nsb3NlIjsKaW1wb3J0IHsgcGluZ0Jvb2tlZCB9IGZyb20gIkAvbGliL2Rpc2NvcmQiOwppbXBvcnQgeyB0YWdTdWJzY3JpYmVyIGFzIGtpdFRhZyB9IGZyb20gIkAvbGliL2tpdCI7CmltcG9ydCB7IGNhcHR1cmVQb3N0SG9nIH0gZnJvbSAiQC9saWIvcG9zdGhvZyI7CgpleHBvcnQgY29uc3QgcnVudGltZSA9ICJub2RlanMiOwpleHBvcnQgY29uc3QgZHluYW1pYyA9ICJmb3JjZS1keW5hbWljIjsKCi8vIOKUgOKUgOKUgCBDYWxlbmRseSB3ZWJob29rIHBheWxvYWQgKHN1YnNldCB3ZSBjYXJlIGFib3V0KSDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKCnR5cGUgQ2FsZW5kbHlQYXlsb2FkID0gewogIGV2ZW50Pzogc3RyaW5nOyAvLyAiaW52aXRlZS5jcmVhdGVkIiB8ICJpbnZpdGVlLmNhbmNlbGVkIiB8IC4uLgogIHBheWxvYWQ/OiB7CiAgICBldmVudF90eXBlPzogc3RyaW5nOwogICAgbmFtZT86IHN0cmluZzsKICAgIGVtYWlsPzogc3RyaW5nOwogICAgdGV4dF9yZW1pbmRlcl9udW1iZXI/OiBzdHJpbmc7CiAgICBxdWVzdGlvbnNfYW5kX2Fuc3dlcnM/OiBBcnJheTx7IHF1ZXN0aW9uPzogc3RyaW5nOyBhbnN3ZXI/OiBzdHJpbmc7IHBvc2l0aW9uPzogbnVtYmVyIH0+OwogICAgc2NoZWR1bGVkX2V2ZW50PzogewogICAgICBuYW1lPzogc3RyaW5nOwogICAgICBzdGFydF90aW1lPzogc3RyaW5nOwogICAgICBlbmRfdGltZT86IHN0cmluZzsKICAgIH07CiAgfTsKfTsKCmZ1bmN0aW9uIHNwbGl0TmFtZShmdWxsOiBzdHJpbmcpOiB7IGZpcnN0OiBzdHJpbmc7IGxhc3Q6IHN0cmluZyB9IHsKICBjb25zdCBwYXJ0cyA9IChmdWxsIHx8ICIiKS50cmltKCkuc3BsaXQoL1xzKy8pOwogIGlmIChwYXJ0cy5sZW5ndGggPT09IDApIHJldHVybiB7IGZpcnN0OiAiIiwgbGFzdDogIiIgfTsKICBpZiAocGFydHMubGVuZ3RoID09PSAxKSByZXR1cm4geyBmaXJzdDogcGFydHNbMF0sIGxhc3Q6ICIiIH07CiAgcmV0dXJuIHsgZmlyc3Q6IHBhcnRzWzBdLCBsYXN0OiBwYXJ0cy5zbGljZSgxKS5qb2luKCIgIikgfTsKfQoKZnVuY3Rpb24gZmluZFBob25lSW5RQShxYTogQXJyYXk8eyBxdWVzdGlvbj86IHN0cmluZzsgYW5zd2VyPzogc3RyaW5nIH0+ID0gW10pOiBzdHJpbmcgewogIGZvciAoY29uc3QgaXRlbSBvZiBxYSkgewogICAgY29uc3QgcSA9IChpdGVtLnF1ZXN0aW9uIHx8ICIiKS50b0xvd2VyQ2FzZSgpOwogICAgaWYgKHEuaW5jbHVkZXMoInBob25lIikgfHwgcS5pbmNsdWRlcygibnVtYmVyIikgfHwgcS5pbmNsdWRlcygidGV4dCIpKSB7CiAgICAgIHJldHVybiBpdGVtLmFuc3dlciB8fCAiIjsKICAgIH0KICB9CiAgcmV0dXJuICIiOwp9CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gUE9TVChyZXE6IE5leHRSZXF1ZXN0KSB7CiAgbGV0IHBheWxvYWQ6IENhbGVuZGx5UGF5bG9hZDsKICB0cnkgewogICAgcGF5bG9hZCA9IChhd2FpdCByZXEuanNvbigpKSBhcyBDYWxlbmRseVBheWxvYWQ7CiAgfSBjYXRjaCB7CiAgICByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oeyBvazogZmFsc2UsIGVycm9yOiAiSW52YWxpZCBKU09OIiB9LCB7IHN0YXR1czogNDAwIH0pOwogIH0KCiAgLy8gV2Ugb25seSBjYXJlIGFib3V0IG5ldyBib29raW5ncywgbm90IGNhbmNlbGxhdGlvbnMgb3IgcmVzY2hlZHVsZXMKICBjb25zdCBldmVudFR5cGUgPSBwYXlsb2FkLmV2ZW50IHx8ICIiOwogIGlmIChldmVudFR5cGUgIT09ICJpbnZpdGVlLmNyZWF0ZWQiKSB7CiAgICByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oeyBvazogdHJ1ZSwgaWdub3JlZDogZXZlbnRUeXBlIHx8ICJ1bmtub3duIiB9KTsKICB9CgogIGNvbnN0IHAgPSBwYXlsb2FkLnBheWxvYWQgfHwge307CiAgY29uc3QgZW1haWwgPSAocC5lbWFpbCB8fCAiIikudG9Mb3dlckNhc2UoKTsKICBpZiAoIWVtYWlsKSB7CiAgICByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oeyBvazogZmFsc2UsIGVycm9yOiAiTWlzc2luZyBlbWFpbCIgfSwgeyBzdGF0dXM6IDQwMCB9KTsKICB9CgogIGNvbnN0IHsgZmlyc3QsIGxhc3QgfSA9IHNwbGl0TmFtZShwLm5hbWUgfHwgIiIpOwogIC8vIENhbGVuZGx5IHN0b3JlcyBwaG9uZSBpbiBgdGV4dF9yZW1pbmRlcl9udW1iZXJgIGZvciBTTVMgcmVtaW5kZXJzLCBPUgogIC8vIGFzIGEgY3VzdG9tIFEmQSBlbnRyeS4gVHJ5IGJvdGguCiAgY29uc3QgcGhvbmUgPQogICAgcC50ZXh0X3JlbWluZGVyX251bWJlciB8fCBmaW5kUGhvbmVJblFBKHAucXVlc3Rpb25zX2FuZF9hbnN3ZXJzIHx8IFtdKSB8fCAiIjsKCiAgY29uc3Qgc3RhcnRUaW1lID0gcC5zY2hlZHVsZWRfZXZlbnQ/LnN0YXJ0X3RpbWUgfHwgIiI7CiAgY29uc3QgZXZlbnROYW1lID0gcC5zY2hlZHVsZWRfZXZlbnQ/Lm5hbWUgfHwgcC5ldmVudF90eXBlIHx8ICIiOwoKICBjb25zdCBub3RlTGluZXMgPSBbCiAgICBgQ2FsZW5kbHkgYm9va2luZyByZWNlaXZlZGAsCiAgICBldmVudE5hbWUgJiYgYEV2ZW50OiAke2V2ZW50TmFtZX1gLAogICAgc3RhcnRUaW1lICYmIGBTdGFydDogJHtzdGFydFRpbWV9YCwKICBdLmZpbHRlcihCb29sZWFuKSBhcyBzdHJpbmdbXTsKCiAgLy8gQ2xvc2UgRklSU1Qgc28gd2UgaGF2ZSB0aGUgbGVhZF9pZCBmb3IgdGhlIERpc2NvcmQgIlZpZXcgaW4gQ2xvc2UiIGxpbmsuCiAgY29uc3QgY2xvc2VSZXMgPSBhd2FpdCBQcm9taXNlLmFsbFNldHRsZWQoWwogICAgdXBkYXRlTGVhZEZpZWxkc0J5RW1haWwoZW1haWwsIHsKICAgICAgc3RhdHVzOiAiRGVtbyBCb29rZWQiLAogICAgICBub3RlOiBub3RlTGluZXMuam9pbigiXG4iKSwKICAgIH0pLAogIF0pOwogIGlmIChjbG9zZVJlc1swXS5zdGF0dXMgPT09ICJyZWplY3RlZCIpIGNvbnNvbGUuZXJyb3IoIlsvYXBpL2Jvb2tlZF0gQ2xvc2UgdXBkYXRlIGZhaWxlZDoiLCBjbG9zZVJlc1swXS5yZWFzb24pOwoKICBjb25zdCBsZWFkX2lkID0KICAgIGNsb3NlUmVzWzBdLnN0YXR1cyA9PT0gImZ1bGZpbGxlZCIgJiYgY2xvc2VSZXNbMF0udmFsdWUgPyBjbG9zZVJlc1swXS52YWx1ZS5sZWFkX2lkIDogbnVsbDsKCiAgY29uc3QgW2Rpc2NvcmRSZXMsIGtpdFRhZ1JlcywgcG9zdGhvZ1Jlc10gPSBhd2FpdCBQcm9taXNlLmFsbFNldHRsZWQoWwogICAgcGluZ0Jvb2tlZCh7CiAgICAgIGZpcnN0X25hbWU6IGZpcnN0LAogICAgICBsYXN0X25hbWU6IGxhc3QsCiAgICAgIGVtYWlsLAogICAgICBwaG9uZSwKICAgICAgY2FsbF90aW1lOiBzdGFydFRpbWUsCiAgICAgIGV2ZW50X25hbWU6IGV2ZW50TmFtZSwKICAgICAgbGVhZF9pZCwKICAgIH0pLAogICAgLy8gRmlyZSAiQm9va2VkIENhbGwiIEtpdCB0YWcg4oaSIHRyaWdnZXJzIHRoZSBCb29rZWQgQ2FsbCBTZXF1ZW5jZQogICAgLy8gYXV0b21hdGlvbiB0aGUgdXNlciBhbHJlYWR5IGhhcyBzZXQgdXAuCiAgICBraXRUYWcoewogICAgICBlbWFpbCwKICAgICAgZmlyc3RfbmFtZTogZmlyc3QsCiAgICAgIGxhc3RfbmFtZTogbGFzdCwKICAgICAgcGhvbmUsCiAgICAgIHRhZ0lkOiBwcm9jZXNzLmVudi5LSVRfVEFHX0JPT0tFRCwKICAgIH0pLAogICAgY2FwdHVyZVBvc3RIb2coImNhbGxfYm9va2VkIiwgZW1haWwsIHsKICAgICAgZXZlbnRfbmFtZTogZXZlbnROYW1lLAogICAgICBjYWxsX3RpbWU6IHN0YXJ0VGltZSwKICAgIH0pLAogIF0pOwogIGlmIChkaXNjb3JkUmVzLnN0YXR1cyA9PT0gInJlamVjdGVkIikgY29uc29sZS5lcnJvcigiWy9hcGkvYm9va2VkXSBEaXNjb3JkIHBpbmcgZmFpbGVkOiIsIGRpc2NvcmRSZXMucmVhc29uKTsKICBpZiAoa2l0VGFnUmVzLnN0YXR1cyA9PT0gInJlamVjdGVkIikgY29uc29sZS5lcnJvcigiWy9hcGkvYm9va2VkXSBLaXQgdGFnIGZhaWxlZDoiLCBraXRUYWdSZXMucmVhc29uKTsKICBpZiAocG9zdGhvZ1Jlcy5zdGF0dXMgPT09ICJyZWplY3RlZCIpIGNvbnNvbGUuZXJyb3IoIlsvYXBpL2Jvb2tlZF0gUG9zdEhvZyBjYXB0dXJlIGZhaWxlZDoiLCBwb3N0aG9nUmVzLnJlYXNvbik7CgogIHJldHVybiBOZXh0UmVzcG9uc2UuanNvbih7CiAgICBvazogdHJ1ZSwKICAgIGNsb3NlOiBjbG9zZVJlc1swXS5zdGF0dXMsCiAgICBkaXNjb3JkOiBkaXNjb3JkUmVzLnN0YXR1cywKICAgIGtpdF90YWc6IGtpdFRhZ1Jlcy5zdGF0dXMsCiAgfSk7Cn0KCmV4cG9ydCBhc3luYyBmdW5jdGlvbiBHRVQoKSB7CiAgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKHsgb2s6IHRydWUsIGVuZHBvaW50OiAiL2FwaS9ib29rZWQiLCBtZXRob2Q6ICJQT1NUIGV4cGVjdGVkIiB9KTsKfQo="}
+// POST /api/booked
+//
+// Calendly webhook target. Fires when an invitee schedules a call.
+// Updates the Close lead status to "Demo Booked" and pings #booked-calls
+// in Discord so closers see who just booked.
+
+import { NextRequest, NextResponse } from "next/server";
+import { updateLeadFieldsByEmail } from "@/lib/close";
+import { pingBooked } from "@/lib/discord";
+import { tagSubscriber as kitTag } from "@/lib/kit";
+import { capturePostHog } from "@/lib/posthog";
+
+export const runtime = "nodejs";
+export const dynamic = "force-dynamic";
+
+// ─── Calendly webhook payload (subset we care about) ──────────────
+
+type CalendlyPayload = {
+  event?: string; // "invitee.created" | "invitee.canceled" | ...
+  payload?: {
+    event_type?: string;
+    name?: string;
+    email?: string;
+    text_reminder_number?: string;
+    questions_and_answers?: Array<{ question?: string; answer?: string; position?: number }>;
+    scheduled_event?: {
+      name?: string;
+      start_time?: string;
+      end_time?: string;
+    };
+  };
+};
+
+function splitName(full: string): { first: string; last: string } {
+  const parts = (full || "").trim().split(/\s+/);
+  if (parts.length === 0) return { first: "", last: "" };
+  if (parts.length === 1) return { first: parts[0], last: "" };
+  return { first: parts[0], last: parts.slice(1).join(" ") };
+}
+
+function findPhoneInQA(qa: Array<{ question?: string; answer?: string }> = []): string {
+  for (const item of qa) {
+    const q = (item.question || "").toLowerCase();
+    if (q.includes("phone") || q.includes("number") || q.includes("text")) {
+      return item.answer || "";
+    }
+  }
+  return "";
+}
+
+export async function POST(req: NextRequest) {
+  let payload: CalendlyPayload;
+  try {
+    payload = (await req.json()) as CalendlyPayload;
+  } catch {
+    return NextResponse.json({ ok: false, error: "Invalid JSON" }, { status: 400 });
+  }
+
+  // We only care about new bookings, not cancellations or reschedules
+  const eventType = payload.event || "";
+  if (eventType !== "invitee.created") {
+    return NextResponse.json({ ok: true, ignored: eventType || "unknown" });
+  }
+
+  const p = payload.payload || {};
+  const email = (p.email || "").toLowerCase();
+  if (!email) {
+    return NextResponse.json({ ok: false, error: "Missing email" }, { status: 400 });
+  }
+
+  const { first, last } = splitName(p.name || "");
+  // Calendly stores phone in `text_reminder_number` for SMS reminders, OR
+  // as a custom Q&A entry. Try both.
+  const phone =
+    p.text_reminder_number || findPhoneInQA(p.questions_and_answers || []) || "";
+
+  const startTime = p.scheduled_event?.start_time || "";
+  const eventName = p.scheduled_event?.name || p.event_type || "";
+
+  const noteLines = [
+    `Calendly booking received`,
+    eventName && `Event: ${eventName}`,
+    startTime && `Start: ${startTime}`,
+  ].filter(Boolean) as string[];
+
+  // Close FIRST so we have the lead_id for the Discord "View in Close" link.
+  const closeRes = await Promise.allSettled([
+    updateLeadFieldsByEmail(email, {
+      status: "Demo Booked",
+      note: noteLines.join("\n"),
+    }),
+  ]);
+  if (closeRes[0].status === "rejected") console.error("[/api/booked] Close update failed:", closeRes[0].reason);
+
+  const lead_id =
+    closeRes[0].status === "fulfilled" && closeRes[0].value ? closeRes[0].value.lead_id : null;
+
+  const [discordRes, kitTagRes, posthogRes] = await Promise.allSettled([
+    pingBooked({
+      first_name: first,
+      last_name: last,
+      email,
+      phone,
+      call_time: startTime,
+      event_name: eventName,
+      lead_id,
+    }),
+    // Fire "Booked Call" Kit tag → triggers the Booked Call Sequence
+    // automation the user already has set up.
+    kitTag({
+      email,
+      first_name: first,
+      last_name: last,
+      phone,
+      tagId: process.env.KIT_TAG_BOOKED,
+    }),
+    capturePostHog("call_booked", email, {
+      event_name: eventName,
+      call_time: startTime,
+    }),
+  ]);
+  if (discordRes.status === "rejected") console.error("[/api/booked] Discord ping failed:", discordRes.reason);
+  if (kitTagRes.status === "rejected") console.error("[/api/booked] Kit tag failed:", kitTagRes.reason);
+  if (posthogRes.status === "rejected") console.error("[/api/booked] PostHog capture failed:", posthogRes.reason);
+
+  return NextResponse.json({
+    ok: true,
+    close: closeRes[0].status,
+    discord: discordRes.status,
+    kit_tag: kitTagRes.status,
+  });
+}
+
+export async function GET() {
+  return NextResponse.json({ ok: true, endpoint: "/api/booked", method: "POST expected" });
+}

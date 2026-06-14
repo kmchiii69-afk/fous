@@ -1,1 +1,23 @@
-{"data":"ZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gTG9nbygpIHsKICByZXR1cm4gKAogICAgPGRpdiBzdHlsZT17eyBkaXNwbGF5OiAiZmxleCIsIGFsaWduSXRlbXM6ICJjZW50ZXIiLCBnYXA6IDEwLCBmbGV4U2hyaW5rOiAwLCB3aGl0ZVNwYWNlOiAibm93cmFwIiB9fT4KICAgICAgPHN2ZyB3aWR0aD0iMjgiIGhlaWdodD0iMjgiIHZpZXdCb3g9IjAgMCAyOCAyOCIgZmlsbD0ibm9uZSIgc3R5bGU9e3sgZmxleFNocmluazogMCB9fT4KICAgICAgICA8cmVjdCB4PSIxIiB5PSIxIiB3aWR0aD0iMjYiIGhlaWdodD0iMjYiIHJ4PSIyIiBzdHJva2U9InZhcigtLWFjaWQpIiBzdHJva2VXaWR0aD0iMS41IiAvPgogICAgICAgIDxyZWN0IHg9IjkiIHk9IjkiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgcng9IjEiIGZpbGw9InZhcigtLWFjaWQpIiAvPgogICAgICAgIDxyZWN0IHg9IjEyIiB5PSIxMiIgd2lkdGg9IjQiIGhlaWdodD0iNCIgZmlsbD0idmFyKC0tYmcpIiAvPgogICAgICA8L3N2Zz4KICAgICAgPHNwYW4KICAgICAgICBzdHlsZT17ewogICAgICAgICAgZm9udEZhbWlseTogInZhcigtLWZvbnQtZGlzcGxheSkiLAogICAgICAgICAgZm9udFdlaWdodDogNzAwLAogICAgICAgICAgZm9udFNpemU6IDE1LAogICAgICAgICAgbGV0dGVyU3BhY2luZzogIjAuMDRlbSIsCiAgICAgICAgICBjb2xvcjogInZhcigtLWJvbmUpIiwKICAgICAgICAgIHdoaXRlU3BhY2U6ICJub3dyYXAiLAogICAgICAgIH19CiAgICAgID4KICAgICAgICBRdWFudHVtIENpcGhlcgogICAgICA8L3NwYW4+CiAgICA8L2Rpdj4KICApOwp9Cg=="}
+export default function Logo() {
+  return (
+    <div style={{ display: "flex", alignItems: "center", gap: 10, flexShrink: 0, whiteSpace: "nowrap" }}>
+      <svg width="28" height="28" viewBox="0 0 28 28" fill="none" style={{ flexShrink: 0 }}>
+        <rect x="1" y="1" width="26" height="26" rx="2" stroke="var(--acid)" strokeWidth="1.5" />
+        <rect x="9" y="9" width="10" height="10" rx="1" fill="var(--acid)" />
+        <rect x="12" y="12" width="4" height="4" fill="var(--bg)" />
+      </svg>
+      <span
+        style={{
+          fontFamily: "var(--font-display)",
+          fontWeight: 700,
+          fontSize: 15,
+          letterSpacing: "0.04em",
+          color: "var(--bone)",
+          whiteSpace: "nowrap",
+        }}
+      >
+        Quantum Cipher
+      </span>
+    </div>
+  );
+}

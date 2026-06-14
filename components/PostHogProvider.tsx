@@ -1,1 +1,46 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHBvc3Rob2cgZnJvbSAicG9zdGhvZy1qcyI7CmltcG9ydCB7IFBvc3RIb2dQcm92aWRlciBhcyBQSFByb3ZpZGVyIH0gZnJvbSAicG9zdGhvZy1qcy9yZWFjdCI7CmltcG9ydCB7IHVzZVBhdGhuYW1lLCB1c2VTZWFyY2hQYXJhbXMgfSBmcm9tICJuZXh0L25hdmlnYXRpb24iOwppbXBvcnQgeyB1c2VFZmZlY3QsIFN1c3BlbnNlIH0gZnJvbSAicmVhY3QiOwoKaWYgKHR5cGVvZiB3aW5kb3cgIT09ICJ1bmRlZmluZWQiKSB7CiAgcG9zdGhvZy5pbml0KChwcm9jZXNzLmVudi5ORVhUX1BVQkxJQ19QT1NUSE9HX0tFWSA/PyAiIikudHJpbSgpLCB7CiAgICBhcGlfaG9zdDogKHByb2Nlc3MuZW52Lk5FWFRfUFVCTElDX1BPU1RIT0dfSE9TVCA/PyAiIikudHJpbSgpLAogICAgY2FwdHVyZV9wYWdldmlldzogZmFsc2UsICAvLyB3ZSBmaXJlIG1hbnVhbGx5IHRvIGNhdGNoIEFwcCBSb3V0ZXIgbmF2aWdhdGlvbnMKICAgIGNhcHR1cmVfcGFnZWxlYXZlOiB0cnVlLAogICAgcGVyc29uX3Byb2ZpbGVzOiAiYWx3YXlzIiwKICAgIGRpc2FibGVfY29tcHJlc3Npb246IHRydWUsIC8vIE1ldGFNYXNrIFNFUyBicmVha3MgZ3ppcC1qczsgcGxhaW4gSlNPTiB3b3JrcyBmb3IgZXZlcnlvbmUKICB9KTsKfQoKZnVuY3Rpb24gUGFnZVZpZXcoKSB7CiAgY29uc3QgcGF0aG5hbWUgPSB1c2VQYXRobmFtZSgpOwogIGNvbnN0IHNlYXJjaFBhcmFtcyA9IHVzZVNlYXJjaFBhcmFtcygpOwoKICB1c2VFZmZlY3QoKCkgPT4gewogICAgY29uc3QgdXJsID0KICAgICAgd2luZG93LmxvY2F0aW9uLm9yaWdpbiArCiAgICAgIHBhdGhuYW1lICsKICAgICAgKHNlYXJjaFBhcmFtcy50b1N0cmluZygpID8gYD8ke3NlYXJjaFBhcmFtcy50b1N0cmluZygpfWAgOiAiIik7CiAgICBwb3N0aG9nLmNhcHR1cmUoIiRwYWdldmlldyIsIHsgJGN1cnJlbnRfdXJsOiB1cmwgfSk7CiAgfSwgW3BhdGhuYW1lLCBzZWFyY2hQYXJhbXNdKTsKCiAgcmV0dXJuIG51bGw7Cn0KCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIFBvc3RIb2dQcm92aWRlcih7CiAgY2hpbGRyZW4sCn06IHsKICBjaGlsZHJlbjogUmVhY3QuUmVhY3ROb2RlOwp9KSB7CiAgcmV0dXJuICgKICAgIDxQSFByb3ZpZGVyIGNsaWVudD17cG9zdGhvZ30+CiAgICAgIDxTdXNwZW5zZSBmYWxsYmFjaz17bnVsbH0+CiAgICAgICAgPFBhZ2VWaWV3IC8+CiAgICAgIDwvU3VzcGVuc2U+CiAgICAgIHtjaGlsZHJlbn0KICAgIDwvUEhQcm92aWRlcj4KICApOwp9Cg=="}
+"use client";
+
+import posthog from "posthog-js";
+import { PostHogProvider as PHProvider } from "posthog-js/react";
+import { usePathname, useSearchParams } from "next/navigation";
+import { useEffect, Suspense } from "react";
+
+if (typeof window !== "undefined") {
+  posthog.init((process.env.NEXT_PUBLIC_POSTHOG_KEY ?? "").trim(), {
+    api_host: (process.env.NEXT_PUBLIC_POSTHOG_HOST ?? "").trim(),
+    capture_pageview: false,  // we fire manually to catch App Router navigations
+    capture_pageleave: true,
+    person_profiles: "always",
+    disable_compression: true, // MetaMask SES breaks gzip-js; plain JSON works for everyone
+  });
+}
+
+function PageView() {
+  const pathname = usePathname();
+  const searchParams = useSearchParams();
+
+  useEffect(() => {
+    const url =
+      window.location.origin +
+      pathname +
+      (searchParams.toString() ? `?${searchParams.toString()}` : "");
+    posthog.capture("$pageview", { $current_url: url });
+  }, [pathname, searchParams]);
+
+  return null;
+}
+
+export default function PostHogProvider({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
+  return (
+    <PHProvider client={posthog}>
+      <Suspense fallback={null}>
+        <PageView />
+      </Suspense>
+      {children}
+    </PHProvider>
+  );
+}

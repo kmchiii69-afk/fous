@@ -1,1 +1,207 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VTdGF0ZSB9IGZyb20gInJlYWN0IjsKaW1wb3J0IFdyYXAgZnJvbSAiQC9jb21wb25lbnRzL3NoYXJlZC9XcmFwIjsKCmNvbnN0IENVUlJFTlRfQ1lDTEVfUkVBRCA9IHsKICBwaGFzZU51bTogIjA2IiwKICBwaGFzZU5hbWU6ICJXaGlwbGFzaCIsCiAgYmlhczogIkxvbmciIGFzICJMb25nIiB8ICJTaG9ydCIgfCAiU3RlcCBhc2lkZSIsCiAgbm90ZTogIlN3ZWVwIGF0IGRlbWFuZCDCtyBsb25ncyBiYWNrIG9uIHRoZSB0YWJsZSIsCn07CgpmdW5jdGlvbiBUaWNrKHsgbGFiZWwsIHByaWNlLCBwY3QsIHBvc2l0aXZlIH06IHsgbGFiZWw6IHN0cmluZzsgcHJpY2U6IHN0cmluZzsgcGN0OiBzdHJpbmc7IHBvc2l0aXZlOiBib29sZWFuIH0pIHsKICBjb25zdCBjb2xvciA9IHBvc2l0aXZlID8gInZhcigtLWFjaWQpIiA6ICJ2YXIoLS1waW5rKSI7CiAgcmV0dXJuICgKICAgIDxkaXYgc3R5bGU9e3sgZGlzcGxheTogImZsZXgiLCBmbGV4RGlyZWN0aW9uOiAiY29sdW1uIiwgZ2FwOiAyLCBtaW5XaWR0aDogMTEwIH19PgogICAgICA8ZGl2IHN0eWxlPXt7IGRpc3BsYXk6ICJmbGV4IiwgYWxpZ25JdGVtczogImJhc2VsaW5lIiwgZ2FwOiA4IH19PgogICAgICAgIDxkaXYgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtbW9ubykiLCBmb250U2l6ZTogOSwgZm9udFdlaWdodDogNzAwLCBsZXR0ZXJTcGFjaW5nOiAiMC4yMmVtIiwgdGV4dFRyYW5zZm9ybTogInVwcGVyY2FzZSIsIGNvbG9yOiAidmFyKC0tYXNoKSIgfX0+CiAgICAgICAgICB7bGFiZWx9CiAgICAgICAgPC9kaXY+CiAgICAgICAgPHNwYW4gc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtZGlzcGxheSkiLCBmb250U2l6ZTogMTYsIGZvbnRXZWlnaHQ6IDcwMCwgY29sb3I6ICJ2YXIoLS1ib25lKSIsIGxldHRlclNwYWNpbmc6ICItMC4wMmVtIiwgbGluZUhlaWdodDogMSB9fT4KICAgICAgICAgIHtwcmljZX0KICAgICAgICA8L3NwYW4+CiAgICAgIDwvZGl2PgogICAgICA8c3BhbiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1tb25vKSIsIGZvbnRTaXplOiA5LjUsIGZvbnRXZWlnaHQ6IDcwMCwgY29sb3IsIGxldHRlclNwYWNpbmc6ICIwLjE0ZW0iIH19PgogICAgICAgIMK3IHtwY3R9IMK3IDI0aAogICAgICA8L3NwYW4+CiAgICA8L2Rpdj4KICApOwp9CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBMaXZlVGlja2VyKHsgY3RhSHJlZiA9ICIjYXBwbHkiIH06IHsgY3RhSHJlZj86IHN0cmluZyB9ID0ge30pIHsKICBjb25zdCBbYnRjLCBzZXRCdGNdID0gdXNlU3RhdGU8eyBwcmljZTogbnVtYmVyOyBjaGFuZ2U6IG51bWJlciB9IHwgbnVsbD4obnVsbCk7CiAgY29uc3QgW2V0aCwgc2V0RXRoXSA9IHVzZVN0YXRlPHsgcHJpY2U6IG51bWJlcjsgY2hhbmdlOiBudW1iZXIgfSB8IG51bGw+KG51bGwpOwogIGNvbnN0IFtlcnJvciwgc2V0RXJyb3JdID0gdXNlU3RhdGUoZmFsc2UpOwoKICB1c2VFZmZlY3QoKCkgPT4gewogICAgbGV0IGNhbmNlbGxlZCA9IGZhbHNlOwogICAgYXN5bmMgZnVuY3Rpb24gZmV0Y2hQcmljZXMoKSB7CiAgICAgIHRyeSB7CiAgICAgICAgY29uc3QgciA9IGF3YWl0IGZldGNoKAogICAgICAgICAgImh0dHBzOi8vYXBpLmNvaW5nZWNrby5jb20vYXBpL3YzL3NpbXBsZS9wcmljZT9pZHM9Yml0Y29pbixldGhlcmV1bSZ2c19jdXJyZW5jaWVzPXVzZCZpbmNsdWRlXzI0aHJfY2hhbmdlPXRydWUiCiAgICAgICAgKTsKICAgICAgICBpZiAoIXIub2spIHRocm93IG5ldyBFcnJvcigicmF0ZSIpOwogICAgICAgIGNvbnN0IGogPSBhd2FpdCByLmpzb24oKTsKICAgICAgICBpZiAoY2FuY2VsbGVkKSByZXR1cm47CiAgICAgICAgc2V0QnRjKHsgcHJpY2U6IGouYml0Y29pbi51c2QsIGNoYW5nZTogai5iaXRjb2luLnVzZF8yNGhfY2hhbmdlIH0pOwogICAgICAgIHNldEV0aCh7IHByaWNlOiBqLmV0aGVyZXVtLnVzZCwgY2hhbmdlOiBqLmV0aGVyZXVtLnVzZF8yNGhfY2hhbmdlIH0pOwogICAgICAgIHNldEVycm9yKGZhbHNlKTsKICAgICAgfSBjYXRjaCB7CiAgICAgICAgaWYgKCFjYW5jZWxsZWQpIHNldEVycm9yKHRydWUpOwogICAgICB9CiAgICB9CiAgICBmZXRjaFByaWNlcygpOwogICAgY29uc3QgaWQgPSBzZXRJbnRlcnZhbChmZXRjaFByaWNlcywgNDUwMDApOwogICAgcmV0dXJuICgpID0+IHsgY2FuY2VsbGVkID0gdHJ1ZTsgY2xlYXJJbnRlcnZhbChpZCk7IH07CiAgfSwgW10pOwoKICBmdW5jdGlvbiBmbXQobjogbnVtYmVyIHwgbnVsbCB8IHVuZGVmaW5lZCkgewogICAgaWYgKG4gPT0gbnVsbCkgcmV0dXJuICLigJQiOwogICAgaWYgKG4gPj0gMTAwMDApIHJldHVybiAiJCIgKyBuLnRvTG9jYWxlU3RyaW5nKCJlbi1VUyIsIHsgbWF4aW11bUZyYWN0aW9uRGlnaXRzOiAwIH0pOwogICAgcmV0dXJuICIkIiArIG4udG9Mb2NhbGVTdHJpbmcoImVuLVVTIiwgeyBtYXhpbXVtRnJhY3Rpb25EaWdpdHM6IDIgfSk7CiAgfQogIGZ1bmN0aW9uIGZtdFBjdChuOiBudW1iZXIgfCBudWxsIHwgdW5kZWZpbmVkKSB7CiAgICBpZiAobiA9PSBudWxsKSByZXR1cm4gIuKAlCI7CiAgICBjb25zdCBzaWduID0gKG4gPz8gMCkgPj0gMCA/ICIrIiA6ICIiOwogICAgcmV0dXJuIHNpZ24gKyAobiA/PyAwKS50b0ZpeGVkKDIpICsgIiUiOwogIH0KCiAgY29uc3QgYmlhc0NvbG9yID0KICAgIENVUlJFTlRfQ1lDTEVfUkVBRC5iaWFzID09PSAiTG9uZyIKICAgICAgPyAidmFyKC0tYWNpZCkiCiAgICAgIDogQ1VSUkVOVF9DWUNMRV9SRUFELmJpYXMgPT09ICJTaG9ydCIKICAgICAgPyAidmFyKC0tcGluaykiCiAgICAgIDogInZhcigtLWJvbmUpIjsKCiAgcmV0dXJuICgKICAgIDxkaXYKICAgICAgc3R5bGU9e3sKICAgICAgICBwb3NpdGlvbjogInJlbGF0aXZlIiwKICAgICAgICBib3JkZXJUb3A6ICIxcHggc29saWQgdmFyKC0tbGluZSkiLAogICAgICAgIGJvcmRlckJvdHRvbTogIjFweCBzb2xpZCB2YXIoLS1saW5lKSIsCiAgICAgICAgYmFja2dyb3VuZDogInZhcigtLWJnLTEpIiwKICAgICAgfX0KICAgID4KICAgICAgPFdyYXAgc3R5bGU9e3sgcGFkZGluZzogIjE2cHggNDhweCIgfX0+CiAgICAgICAgPGRpdgogICAgICAgICAgY2xhc3NOYW1lPSJxYy10aWNrZXItcm93IgogICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgZGlzcGxheTogImdyaWQiLAogICAgICAgICAgICBncmlkVGVtcGxhdGVDb2x1bW5zOiAiYXV0byAxZnIgYXV0byBhdXRvIGF1dG8iLAogICAgICAgICAgICBnYXA6IDI4LAogICAgICAgICAgICBhbGlnbkl0ZW1zOiAiY2VudGVyIiwKICAgICAgICAgIH19CiAgICAgICAgPgogICAgICAgICAgPGRpdiBzdHlsZT17eyBkaXNwbGF5OiAiZmxleCIsIGFsaWduSXRlbXM6ICJjZW50ZXIiLCBnYXA6IDEwIH19PgogICAgICAgICAgICA8c3BhbgogICAgICAgICAgICAgIGNsYXNzTmFtZT0icHVsc2UiCiAgICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICAgIHdpZHRoOiA4LAogICAgICAgICAgICAgICAgaGVpZ2h0OiA4LAogICAgICAgICAgICAgICAgYmFja2dyb3VuZDogZXJyb3IgPyAidmFyKC0tcGluaykiIDogInZhcigtLWFjaWQpIiwKICAgICAgICAgICAgICAgIGJvcmRlclJhZGl1czogIjUwJSIsCiAgICAgICAgICAgICAgICBkaXNwbGF5OiAiaW5saW5lLWJsb2NrIiwKICAgICAgICAgICAgICB9fQogICAgICAgICAgICAvPgogICAgICAgICAgICA8ZGl2CiAgICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICAgIGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LW1vbm8pIiwKICAgICAgICAgICAgICAgIGZvbnRTaXplOiA5LAogICAgICAgICAgICAgICAgZm9udFdlaWdodDogNzAwLAogICAgICAgICAgICAgICAgbGV0dGVyU3BhY2luZzogIjAuMjJlbSIsCiAgICAgICAgICAgICAgICB0ZXh0VHJhbnNmb3JtOiAidXBwZXJjYXNlIiwKICAgICAgICAgICAgICAgIGNvbG9yOiBlcnJvciA/ICJ2YXIoLS1waW5rKSIgOiAidmFyKC0tYWNpZCkiLAogICAgICAgICAgICAgIH19CiAgICAgICAgICAgID4KICAgICAgICAgICAgICDCtyB7ZXJyb3IgPyAiT2ZmbGluZSIgOiAiTGl2ZSJ9IMK3eyIgIn0KICAgICAgICAgICAgICB7bmV3IERhdGUoKS50b0xvY2FsZVN0cmluZygiZW4tVVMiLCB7IG1vbnRoOiAic2hvcnQiLCBkYXk6ICJudW1lcmljIiB9KX0gwrcKICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICA8ZGl2IHN0eWxlPXt7IG1pbldpZHRoOiAwLCBkaXNwbGF5OiAiZmxleCIsIGFsaWduSXRlbXM6ICJiYXNlbGluZSIsIGdhcDogMTQsIGZsZXhXcmFwOiAid3JhcCIgfX0+CiAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtbW9ubykiLCBmb250U2l6ZTogOSwgZm9udFdlaWdodDogNzAwLCBsZXR0ZXJTcGFjaW5nOiAiMC4yMmVtIiwgdGV4dFRyYW5zZm9ybTogInVwcGVyY2FzZSIsIGNvbG9yOiAidmFyKC0tYXNoKSIgfX0+CiAgICAgICAgICAgICAgwrcgUGhhc2UKICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxzcGFuCiAgICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICAgIGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LWRpc3BsYXkpIiwKICAgICAgICAgICAgICAgIGZvbnRTaXplOiAxOCwKICAgICAgICAgICAgICAgIGZvbnRXZWlnaHQ6IDcwMCwKICAgICAgICAgICAgICAgIGNvbG9yOiAidmFyKC0tYm9uZSkiLAogICAgICAgICAgICAgICAgbGV0dGVyU3BhY2luZzogIi0wLjAyZW0iLAogICAgICAgICAgICAgICAgbGluZUhlaWdodDogMSwKICAgICAgICAgICAgICB9fQogICAgICAgICAgICA+CiAgICAgICAgICAgICAge0NVUlJFTlRfQ1lDTEVfUkVBRC5waGFzZU51bX0gwrcge0NVUlJFTlRfQ1lDTEVfUkVBRC5waGFzZU5hbWV9CiAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgPHNwYW4KICAgICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgICAgZm9udEZhbWlseTogInZhcigtLWZvbnQtbW9ubykiLAogICAgICAgICAgICAgICAgZm9udFNpemU6IDksCiAgICAgICAgICAgICAgICBmb250V2VpZ2h0OiA3MDAsCiAgICAgICAgICAgICAgICBjb2xvcjogYmlhc0NvbG9yLAogICAgICAgICAgICAgICAgbGV0dGVyU3BhY2luZzogIjAuMjJlbSIsCiAgICAgICAgICAgICAgICBib3JkZXI6IGAxcHggc29saWQgJHtiaWFzQ29sb3J9YCwKICAgICAgICAgICAgICAgIHBhZGRpbmc6ICIzcHggN3B4IiwKICAgICAgICAgICAgICB9fQogICAgICAgICAgICA+CiAgICAgICAgICAgICAge0NVUlJFTlRfQ1lDTEVfUkVBRC5iaWFzLnRvVXBwZXJDYXNlKCl9CiAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgPHNwYW4KICAgICAgICAgICAgICBjbGFzc05hbWU9InFjLXRpY2tlci1ub3RlIgogICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICBmb250RmFtaWx5OiAidmFyKC0tZm9udC1ib2R5KSIsCiAgICAgICAgICAgICAgICBmb250U2l6ZTogMTMsCiAgICAgICAgICAgICAgICBmb250V2VpZ2h0OiA0MDAsCiAgICAgICAgICAgICAgICBjb2xvcjogInZhcigtLWFzaCkiLAogICAgICAgICAgICAgICAgZm9udFN0eWxlOiAiaXRhbGljIiwKICAgICAgICAgICAgICB9fQogICAgICAgICAgICA+CiAgICAgICAgICAgICAge0NVUlJFTlRfQ1lDTEVfUkVBRC5ub3RlfQogICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICA8VGljawogICAgICAgICAgICBsYWJlbD0iQlRDIgogICAgICAgICAgICBwcmljZT17Zm10KGJ0Yz8ucHJpY2UpfQogICAgICAgICAgICBwY3Q9e2ZtdFBjdChidGM/LmNoYW5nZSl9CiAgICAgICAgICAgIHBvc2l0aXZlPXsoYnRjPy5jaGFuZ2UgPz8gMCkgPj0gMH0KICAgICAgICAgIC8+CiAgICAgICAgICA8VGljawogICAgICAgICAgICBsYWJlbD0iRVRIIgogICAgICAgICAgICBwcmljZT17Zm10KGV0aD8ucHJpY2UpfQogICAgICAgICAgICBwY3Q9e2ZtdFBjdChldGg/LmNoYW5nZSl9CiAgICAgICAgICAgIHBvc2l0aXZlPXsoZXRoPy5jaGFuZ2UgPz8gMCkgPj0gMH0KICAgICAgICAgIC8+CgogICAgICAgICAgPGEKICAgICAgICAgICAgaHJlZj17Y3RhSHJlZn0KICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICBmb250RmFtaWx5OiAidmFyKC0tZm9udC1tb25vKSIsCiAgICAgICAgICAgICAgZm9udFNpemU6IDksCiAgICAgICAgICAgICAgZm9udFdlaWdodDogNzAwLAogICAgICAgICAgICAgIGNvbG9yOiAidmFyKC0tYWNpZCkiLAogICAgICAgICAgICAgIGxldHRlclNwYWNpbmc6ICIwLjIyZW0iLAogICAgICAgICAgICAgIHRleHRUcmFuc2Zvcm06ICJ1cHBlcmNhc2UiLAogICAgICAgICAgICAgIGJvcmRlckxlZnQ6ICIxcHggc29saWQgdmFyKC0tbGluZSkiLAogICAgICAgICAgICAgIHBhZGRpbmdMZWZ0OiAyMCwKICAgICAgICAgICAgfX0KICAgICAgICAgID4KICAgICAgICAgICAgVHJhZGUgd2l0aCB1cyDihpIKICAgICAgICAgIDwvYT4KICAgICAgICA8L2Rpdj4KICAgICAgPC9XcmFwPgoKICAgICAgPHN0eWxlPntgCiAgICAgICAgQG1lZGlhIChtYXgtd2lkdGg6IDkwMHB4KSB7CiAgICAgICAgICAucWMtdGlja2VyLXJvdyB7IGdyaWQtdGVtcGxhdGUtY29sdW1uczogMWZyIDFmciAhaW1wb3J0YW50OyBnYXA6IDEycHggIWltcG9ydGFudDsgfQogICAgICAgICAgLnFjLXRpY2tlci1yb3cgPiAqOm50aC1jaGlsZCgxKSB7IGdyaWQtY29sdW1uOiAxIC8gLTE7IH0KICAgICAgICAgIC5xYy10aWNrZXItcm93ID4gKjpudGgtY2hpbGQoMikgeyBncmlkLWNvbHVtbjogMSAvIC0xOyB9CiAgICAgICAgICAucWMtdGlja2VyLXJvdyA+ICo6bnRoLWNoaWxkKDUpIHsgZ3JpZC1jb2x1bW46IDEgLyAtMTsgYm9yZGVyLWxlZnQ6IDAgIWltcG9ydGFudDsgcGFkZGluZy1sZWZ0OiAwICFpbXBvcnRhbnQ7IGJvcmRlci10b3A6IDFweCBzb2xpZCB2YXIoLS1saW5lKTsgcGFkZGluZy10b3A6IDEycHg7IH0KICAgICAgICAgIC5xYy10aWNrZXItbm90ZSB7IGRpc3BsYXk6IG5vbmU7IH0KICAgICAgICB9CiAgICAgIGB9PC9zdHlsZT4KICAgIDwvZGl2PgogICk7Cn0K"}
+"use client";
+
+import { useEffect, useState } from "react";
+import Wrap from "@/components/shared/Wrap";
+
+const CURRENT_CYCLE_READ = {
+  phaseNum: "06",
+  phaseName: "Whiplash",
+  bias: "Long" as "Long" | "Short" | "Step aside",
+  note: "Sweep at demand · longs back on the table",
+};
+
+function Tick({ label, price, pct, positive }: { label: string; price: string; pct: string; positive: boolean }) {
+  const color = positive ? "var(--acid)" : "var(--pink)";
+  return (
+    <div style={{ display: "flex", flexDirection: "column", gap: 2, minWidth: 110 }}>
+      <div style={{ display: "flex", alignItems: "baseline", gap: 8 }}>
+        <div style={{ fontFamily: "var(--font-mono)", fontSize: 9, fontWeight: 700, letterSpacing: "0.22em", textTransform: "uppercase", color: "var(--ash)" }}>
+          {label}
+        </div>
+        <span style={{ fontFamily: "var(--font-display)", fontSize: 16, fontWeight: 700, color: "var(--bone)", letterSpacing: "-0.02em", lineHeight: 1 }}>
+          {price}
+        </span>
+      </div>
+      <span style={{ fontFamily: "var(--font-mono)", fontSize: 9.5, fontWeight: 700, color, letterSpacing: "0.14em" }}>
+        · {pct} · 24h
+      </span>
+    </div>
+  );
+}
+
+export default function LiveTicker({ ctaHref = "#apply" }: { ctaHref?: string } = {}) {
+  const [btc, setBtc] = useState<{ price: number; change: number } | null>(null);
+  const [eth, setEth] = useState<{ price: number; change: number } | null>(null);
+  const [error, setError] = useState(false);
+
+  useEffect(() => {
+    let cancelled = false;
+    async function fetchPrices() {
+      try {
+        const r = await fetch(
+          "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd&include_24hr_change=true"
+        );
+        if (!r.ok) throw new Error("rate");
+        const j = await r.json();
+        if (cancelled) return;
+        setBtc({ price: j.bitcoin.usd, change: j.bitcoin.usd_24h_change });
+        setEth({ price: j.ethereum.usd, change: j.ethereum.usd_24h_change });
+        setError(false);
+      } catch {
+        if (!cancelled) setError(true);
+      }
+    }
+    fetchPrices();
+    const id = setInterval(fetchPrices, 45000);
+    return () => { cancelled = true; clearInterval(id); };
+  }, []);
+
+  function fmt(n: number | null | undefined) {
+    if (n == null) return "—";
+    if (n >= 10000) return "$" + n.toLocaleString("en-US", { maximumFractionDigits: 0 });
+    return "$" + n.toLocaleString("en-US", { maximumFractionDigits: 2 });
+  }
+  function fmtPct(n: number | null | undefined) {
+    if (n == null) return "—";
+    const sign = (n ?? 0) >= 0 ? "+" : "";
+    return sign + (n ?? 0).toFixed(2) + "%";
+  }
+
+  const biasColor =
+    CURRENT_CYCLE_READ.bias === "Long"
+      ? "var(--acid)"
+      : CURRENT_CYCLE_READ.bias === "Short"
+      ? "var(--pink)"
+      : "var(--bone)";
+
+  return (
+    <div
+      style={{
+        position: "relative",
+        borderTop: "1px solid var(--line)",
+        borderBottom: "1px solid var(--line)",
+        background: "var(--bg-1)",
+      }}
+    >
+      <Wrap style={{ padding: "16px 48px" }}>
+        <div
+          className="qc-ticker-row"
+          style={{
+            display: "grid",
+            gridTemplateColumns: "auto 1fr auto auto auto",
+            gap: 28,
+            alignItems: "center",
+          }}
+        >
+          <div style={{ display: "flex", alignItems: "center", gap: 10 }}>
+            <span
+              className="pulse"
+              style={{
+                width: 8,
+                height: 8,
+                background: error ? "var(--pink)" : "var(--acid)",
+                borderRadius: "50%",
+                display: "inline-block",
+              }}
+            />
+            <div
+              style={{
+                fontFamily: "var(--font-mono)",
+                fontSize: 9,
+                fontWeight: 700,
+                letterSpacing: "0.22em",
+                textTransform: "uppercase",
+                color: error ? "var(--pink)" : "var(--acid)",
+              }}
+            >
+              · {error ? "Offline" : "Live"} ·{" "}
+              {new Date().toLocaleString("en-US", { month: "short", day: "numeric" })} ·
+            </div>
+          </div>
+
+          <div style={{ minWidth: 0, display: "flex", alignItems: "baseline", gap: 14, flexWrap: "wrap" }}>
+            <div style={{ fontFamily: "var(--font-mono)", fontSize: 9, fontWeight: 700, letterSpacing: "0.22em", textTransform: "uppercase", color: "var(--ash)" }}>
+              · Phase
+            </div>
+            <span
+              style={{
+                fontFamily: "var(--font-display)",
+                fontSize: 18,
+                fontWeight: 700,
+                color: "var(--bone)",
+                letterSpacing: "-0.02em",
+                lineHeight: 1,
+              }}
+            >
+              {CURRENT_CYCLE_READ.phaseNum} · {CURRENT_CYCLE_READ.phaseName}
+            </span>
+            <span
+              style={{
+                fontFamily: "var(--font-mono)",
+                fontSize: 9,
+                fontWeight: 700,
+                color: biasColor,
+                letterSpacing: "0.22em",
+                border: `1px solid ${biasColor}`,
+                padding: "3px 7px",
+              }}
+            >
+              {CURRENT_CYCLE_READ.bias.toUpperCase()}
+            </span>
+            <span
+              className="qc-ticker-note"
+              style={{
+                fontFamily: "var(--font-body)",
+                fontSize: 13,
+                fontWeight: 400,
+                color: "var(--ash)",
+                fontStyle: "italic",
+              }}
+            >
+              {CURRENT_CYCLE_READ.note}
+            </span>
+          </div>
+
+          <Tick
+            label="BTC"
+            price={fmt(btc?.price)}
+            pct={fmtPct(btc?.change)}
+            positive={(btc?.change ?? 0) >= 0}
+          />
+          <Tick
+            label="ETH"
+            price={fmt(eth?.price)}
+            pct={fmtPct(eth?.change)}
+            positive={(eth?.change ?? 0) >= 0}
+          />
+
+          <a
+            href={ctaHref}
+            style={{
+              fontFamily: "var(--font-mono)",
+              fontSize: 9,
+              fontWeight: 700,
+              color: "var(--acid)",
+              letterSpacing: "0.22em",
+              textTransform: "uppercase",
+              borderLeft: "1px solid var(--line)",
+              paddingLeft: 20,
+            }}
+          >
+            Trade with us →
+          </a>
+        </div>
+      </Wrap>
+
+      <style>{`
+        @media (max-width: 900px) {
+          .qc-ticker-row { grid-template-columns: 1fr 1fr !important; gap: 12px !important; }
+          .qc-ticker-row > *:nth-child(1) { grid-column: 1 / -1; }
+          .qc-ticker-row > *:nth-child(2) { grid-column: 1 / -1; }
+          .qc-ticker-row > *:nth-child(5) { grid-column: 1 / -1; border-left: 0 !important; padding-left: 0 !important; border-top: 1px solid var(--line); padding-top: 12px; }
+          .qc-ticker-note { display: none; }
+        }
+      `}</style>
+    </div>
+  );
+}

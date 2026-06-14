@@ -1,1 +1,47 @@
-{"data":"aW1wb3J0IHsgTmV4dFJlcXVlc3QsIE5leHRSZXNwb25zZSB9IGZyb20gIm5leHQvc2VydmVyIjsKaW1wb3J0IHsgaXNMb3dQUFAgfSBmcm9tICJAL2xpYi9nZW8iOwoKZXhwb3J0IGZ1bmN0aW9uIHByb3h5KHJlcXVlc3Q6IE5leHRSZXF1ZXN0KSB7CiAgY29uc3QgaG9zdCA9IHJlcXVlc3QuaGVhZGVycy5nZXQoImhvc3QiKSB8fCAiIjsKICBjb25zdCBwYXRoID0gcmVxdWVzdC5uZXh0VXJsLnBhdGhuYW1lOwoKICAvLyAvd29sZnBhY2stZ2xvYmFsIGlzIHRoZSBQUFAtcHJpY2VkIHJlZ2lvbmFsIGVkaXRpb24gKCQyOTcpLiBGZW5jZSBpdDoKICAvLyAgLSBwcmljZSBpbnRlZ3JpdHk6IGNvdW50cmllcyBvdXRzaWRlIHRoZSBsb3ctUFBQIGxpc3Qg4oaSIC93b2xmcGFjawogIC8vICAtIGRvcm1hbnQgdW50aWwgdGhlICQyOTcgY2hlY2tvdXQgZW52IChORVhUX1BVQkxJQ19XSE9QX0dMT0JBTF9VUkwpCiAgLy8gICAgaXMgc2V0LCBzbyBub2JvZHkgc2VlcyBhICQyOTcgcGFnZSB3aXRoIGEgJDk5NyBjaGVja291dAogIC8vICAtID9wcmV2aWV3PTEgYnlwYXNzZXMgYm90aCBjaGVja3MgZm9yIGludGVybmFsIFFBCiAgaWYgKHBhdGggPT09ICIvd29sZnBhY2stZ2xvYmFsIiAmJiByZXF1ZXN0Lm5leHRVcmwuc2VhcmNoUGFyYW1zLmdldCgicHJldmlldyIpICE9PSAiMSIpIHsKICAgIGNvbnN0IGNvdW50cnkgPSByZXF1ZXN0LmhlYWRlcnMuZ2V0KCJ4LXZlcmNlbC1pcC1jb3VudHJ5Iik7CiAgICBjb25zdCBjaGVja291dExpdmUgPSAhIShwcm9jZXNzLmVudi5ORVhUX1BVQkxJQ19XSE9QX0dMT0JBTF9VUkwgfHwgIiIpLnRyaW0oKTsKICAgIGlmIChjb3VudHJ5ICYmICFpc0xvd1BQUChjb3VudHJ5KSkgewogICAgICByZXR1cm4gTmV4dFJlc3BvbnNlLnJlZGlyZWN0KG5ldyBVUkwoIi93b2xmcGFjayIsIHJlcXVlc3QudXJsKSk7CiAgICB9CiAgICBpZiAoIWNoZWNrb3V0TGl2ZSkgewogICAgICAvLyBLZWVwIHRoZSBjb2hvcnQgdGFnIHNvIGFuYWx5dGljcyBzdGlsbCBzcGxpdHMgdGhlc2UgdmlzaXRvcnMuCiAgICAgIHJldHVybiBOZXh0UmVzcG9uc2UucmVkaXJlY3QobmV3IFVSTCgiL3dvbGZwYWNrP29mZmVyPWludGwiLCByZXF1ZXN0LnVybCkpOwogICAgfQogIH0KCiAgaWYgKAogICAgaG9zdCA9PT0gImZyZWUucXVhbnR1bWNpcGhlcmxhYi5jb20iICYmCiAgICAhcGF0aC5zdGFydHNXaXRoKCIvYXBpLyIpICYmCiAgICAhcGF0aC5zdGFydHNXaXRoKCIvX25leHQvIikgJiYKICAgICFwYXRoLnN0YXJ0c1dpdGgoIi91cGxvYWRzLyIpCiAgKSB7CiAgICAvLyBSZXdyaXRlIGFsbCBmcmVlLnF1YW50dW1jaXBoZXJsYWIuY29tLyog4oaSIC9mcmVlLWNvdXJzZS8qCiAgICAvLyBlLmcuIC8gICAgICAgICDihpIgL2ZyZWUtY291cnNlCiAgICAvLyAgICAgIC9jb25maXJtICDihpIgL2ZyZWUtY291cnNlL2NvbmZpcm0KICAgIGNvbnN0IHJld3JpdGVQYXRoID0gcGF0aCA9PT0gIi8iID8gIi9mcmVlLWNvdXJzZSIgOiBgL2ZyZWUtY291cnNlJHtwYXRofWA7CiAgICBjb25zdCByZXdyaXRlVXJsID0gbmV3IFVSTChyZXdyaXRlUGF0aCwgcmVxdWVzdC51cmwpOwogICAgLy8gbmV3IFVSTChwYXRoLCBiYXNlKSBkcm9wcyB0aGUgb3JpZ2luYWwgcXVlcnkg4oCUIHJlLWF0dGFjaCBpdCBzbyBVVE0KICAgIC8vIHBhcmFtcyAoYW5kIGFueXRoaW5nIGVsc2UpIHN1cnZpdmUgdGhlIHJld3JpdGUgc2VydmVyLXNpZGUuCiAgICByZXdyaXRlVXJsLnNlYXJjaCA9IHJlcXVlc3QubmV4dFVybC5zZWFyY2g7CiAgICByZXR1cm4gTmV4dFJlc3BvbnNlLnJld3JpdGUocmV3cml0ZVVybCk7CiAgfQoKICByZXR1cm4gTmV4dFJlc3BvbnNlLm5leHQoKTsKfQoKZXhwb3J0IGNvbnN0IGNvbmZpZyA9IHsKICBtYXRjaGVyOiBbIi8oKD8hX25leHQvc3RhdGljfF9uZXh0L2ltYWdlfGZhdmljb24uaWNvKS4qKSJdLAp9Owo="}
+import { NextRequest, NextResponse } from "next/server";
+import { isLowPPP } from "@/lib/geo";
+
+export function proxy(request: NextRequest) {
+  const host = request.headers.get("host") || "";
+  const path = request.nextUrl.pathname;
+
+  // /wolfpack-global is the PPP-priced regional edition ($297). Fence it:
+  //  - price integrity: countries outside the low-PPP list → /wolfpack
+  //  - dormant until the $297 checkout env (NEXT_PUBLIC_WHOP_GLOBAL_URL)
+  //    is set, so nobody sees a $297 page with a $997 checkout
+  //  - ?preview=1 bypasses both checks for internal QA
+  if (path === "/wolfpack-global" && request.nextUrl.searchParams.get("preview") !== "1") {
+    const country = request.headers.get("x-vercel-ip-country");
+    const checkoutLive = !!(process.env.NEXT_PUBLIC_WHOP_GLOBAL_URL || "").trim();
+    if (country && !isLowPPP(country)) {
+      return NextResponse.redirect(new URL("/wolfpack", request.url));
+    }
+    if (!checkoutLive) {
+      // Keep the cohort tag so analytics still splits these visitors.
+      return NextResponse.redirect(new URL("/wolfpack?offer=intl", request.url));
+    }
+  }
+
+  if (
+    host === "free.quantumcipherlab.com" &&
+    !path.startsWith("/api/") &&
+    !path.startsWith("/_next/") &&
+    !path.startsWith("/uploads/")
+  ) {
+    // Rewrite all free.quantumcipherlab.com/* → /free-course/*
+    // e.g. /         → /free-course
+    //      /confirm  → /free-course/confirm
+    const rewritePath = path === "/" ? "/free-course" : `/free-course${path}`;
+    const rewriteUrl = new URL(rewritePath, request.url);
+    // new URL(path, base) drops the original query — re-attach it so UTM
+    // params (and anything else) survive the rewrite server-side.
+    rewriteUrl.search = request.nextUrl.search;
+    return NextResponse.rewrite(rewriteUrl);
+  }
+
+  return NextResponse.next();
+}
+
+export const config = {
+  matcher: ["/((?!_next/static|_next/image|favicon.ico).*)"],
+};

@@ -1,1 +1,78 @@
-{"data":"Ly8gUE9TVCAvYXBpL2ZyZWUtY291cnNlCi8vCi8vIENhbGxlZCBieSB0aGUgZnJlZSBjb3Vyc2Ugc2lnbnVwIGZvcm0uIENyZWF0ZXMvdXBkYXRlcyB0aGUgbGVhZCBpbiBDbG9zZQovLyAoc3RhdHVzICJPcHQgSW4iLCBzb3VyY2UgIkZyZWUgQ291cnNlIiksIHN1YnNjcmliZXMgdGhlIGVtYWlsIHRvIHRoZQovLyBmcmVlLWNvdXJzZSBLaXQgZm9ybSAoS0lUX0ZSRUVfQ09VUlNFX0ZPUk1fSUQpLCBhbmQgcGluZ3MgdGhlCi8vICNmcmVlLWNvdXJzZSBEaXNjb3JkIGNoYW5uZWwuCi8vIENsb3NlIHJ1bnMgZmlyc3Qgc28gd2UgaGF2ZSBhIGxlYWRfaWQgZm9yIHRoZSBEaXNjb3JkICJWaWV3IGluIENsb3NlIiBsaW5rLgovLyBLaXQgKyBEaXNjb3JkIHRoZW4gcnVuIGluIHBhcmFsbGVsLiBTaWRlLWVmZmVjdHMgbmV2ZXIgYmxvY2sgdGhlIHJlc3BvbnNlLgoKaW1wb3J0IHsgTmV4dFJlcXVlc3QsIE5leHRSZXNwb25zZSB9IGZyb20gIm5leHQvc2VydmVyIjsKaW1wb3J0IHsgY3JlYXRlT3JVcGRhdGVMZWFkIH0gZnJvbSAiQC9saWIvY2xvc2UiOwppbXBvcnQgeyBzdWJzY3JpYmVUb0Zvcm0gYXMga2l0U3Vic2NyaWJlIH0gZnJvbSAiQC9saWIva2l0IjsKaW1wb3J0IHsgcGluZ0ZyZWVDb3Vyc2VPcHRJbiB9IGZyb20gIkAvbGliL2Rpc2NvcmQiOwoKZXhwb3J0IGNvbnN0IHJ1bnRpbWUgPSAibm9kZWpzIjsKZXhwb3J0IGNvbnN0IGR5bmFtaWMgPSAiZm9yY2UtZHluYW1pYyI7Cgpjb25zdCBFTUFJTF9SRSA9IC9eW15cc0BdK0BbXlxzQF0rXC5bXlxzQF0rJC87CgpmdW5jdGlvbiBjbGVhbihzOiB1bmtub3duLCBtYXg6IG51bWJlciwgYWxsb3dlZENoYXJzPzogUmVnRXhwKTogc3RyaW5nIHsKICBpZiAodHlwZW9mIHMgIT09ICJzdHJpbmciKSByZXR1cm4gIiI7CiAgbGV0IHYgPSBzLnRyaW0oKS5zbGljZSgwLCBtYXgpOwogIGlmIChhbGxvd2VkQ2hhcnMpIHYgPSB2LnJlcGxhY2UoYWxsb3dlZENoYXJzLCAiIik7CiAgcmV0dXJuIHY7Cn0KCmV4cG9ydCBhc3luYyBmdW5jdGlvbiBQT1NUKHJlcTogTmV4dFJlcXVlc3QpIHsKICBsZXQgcmF3OiB1bmtub3duOwogIHRyeSB7CiAgICByYXcgPSBhd2FpdCByZXEuanNvbigpOwogIH0gY2F0Y2ggewogICAgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKHsgb2s6IGZhbHNlLCBlcnJvcjogIkludmFsaWQgSlNPTiIgfSwgeyBzdGF0dXM6IDQwMCB9KTsKICB9CiAgY29uc3QgYm9keSA9IChyYXcgJiYgdHlwZW9mIHJhdyA9PT0gIm9iamVjdCIgPyByYXcgOiB7fSkgYXMgUmVjb3JkPHN0cmluZywgdW5rbm93bj47CgogIGNvbnN0IGZpcnN0X25hbWUgPSBjbGVhbihib2R5LmZpcnN0X25hbWUsIDQwLCAvW15BLVphLXpccyctXS9nKTsKICBjb25zdCBsYXN0X25hbWUgID0gY2xlYW4oYm9keS5sYXN0X25hbWUsICA0MCwgL1teQS1aYS16XHMnLV0vZyk7CiAgY29uc3QgZW1haWwgICAgICA9IGNsZWFuKGJvZHkuZW1haWwsIDEyMCkudG9Mb3dlckNhc2UoKTsKICBjb25zdCBwaG9uZSAgICAgID0gY2xlYW4oYm9keS5waG9uZSwgMjQsIC9bXlxkK1xzKCktXS9nKTsKCiAgaWYgKCFmaXJzdF9uYW1lKSByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oeyBvazogZmFsc2UsIGVycm9yOiAiTWlzc2luZyBmaXJzdCBuYW1lIiB9LCB7IHN0YXR1czogNDAwIH0pOwogIGlmICghRU1BSUxfUkUudGVzdChlbWFpbCkpIHJldHVybiBOZXh0UmVzcG9uc2UuanNvbih7IG9rOiBmYWxzZSwgZXJyb3I6ICJJbnZhbGlkIGVtYWlsIiB9LCB7IHN0YXR1czogNDAwIH0pOwoKICAvLyDilIDilIAgQ2xvc2UgKHJ1biBmaXJzdCB0byBnZXQgbGVhZF9pZCBmb3IgRGlzY29yZCBsaW5rKSDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKICBjb25zdCBbY2xvc2VSZXNdID0gYXdhaXQgUHJvbWlzZS5hbGxTZXR0bGVkKFsKICAgIGNyZWF0ZU9yVXBkYXRlTGVhZCh7CiAgICAgIGZpcnN0X25hbWUsCiAgICAgIGxhc3RfbmFtZSwKICAgICAgZW1haWwsCiAgICAgIHBob25lOiBwaG9uZSB8fCAiIiwKICAgICAgc3RhdHVzOiAiT3B0IEluIiwKICAgICAgc291cmNlOiAiRnJlZSBDb3Vyc2UiLAogICAgfSksCiAgXSk7CiAgaWYgKGNsb3NlUmVzLnN0YXR1cyA9PT0gInJlamVjdGVkIikgY29uc29sZS5lcnJvcigiWy9hcGkvZnJlZS1jb3Vyc2VdIENsb3NlIGZhaWxlZDoiLCBjbG9zZVJlcy5yZWFzb24pOwoKICBjb25zdCBsZWFkX2lkID0gY2xvc2VSZXMuc3RhdHVzID09PSAiZnVsZmlsbGVkIiA/IGNsb3NlUmVzLnZhbHVlLmxlYWRfaWQgOiBudWxsOwogIGNvbnN0IGNyZWF0ZWQgPSBjbG9zZVJlcy5zdGF0dXMgPT09ICJmdWxmaWxsZWQiID8gY2xvc2VSZXMudmFsdWUuY3JlYXRlZCA6IHRydWU7CgogIC8vIOKUgOKUgCBLaXQgKyBEaXNjb3JkIGluIHBhcmFsbGVsIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAogIGNvbnN0IGZvcm1JZCA9IHByb2Nlc3MuZW52LktJVF9GUkVFX0NPVVJTRV9GT1JNX0lEIHx8ICIiOwoKICBjb25zdCBba2l0UmVzLCBkaXNjb3JkUmVzXSA9IGF3YWl0IFByb21pc2UuYWxsU2V0dGxlZChbCiAgICBraXRTdWJzY3JpYmUoeyBlbWFpbCwgZmlyc3RfbmFtZSwgbGFzdF9uYW1lLCBwaG9uZSwgZm9ybUlkIH0pLAogICAgcGluZ0ZyZWVDb3Vyc2VPcHRJbih7IGZpcnN0X25hbWUsIGxhc3RfbmFtZSwgZW1haWwsIHBob25lLCBsZWFkX2lkLCBjcmVhdGVkIH0pLAogIF0pOwoKICBpZiAoa2l0UmVzLnN0YXR1cyA9PT0gInJlamVjdGVkIikgY29uc29sZS5lcnJvcigiWy9hcGkvZnJlZS1jb3Vyc2VdIEtpdCBmYWlsZWQ6Iiwga2l0UmVzLnJlYXNvbik7CiAgaWYgKGRpc2NvcmRSZXMuc3RhdHVzID09PSAicmVqZWN0ZWQiKSBjb25zb2xlLmVycm9yKCJbL2FwaS9mcmVlLWNvdXJzZV0gRGlzY29yZCBmYWlsZWQ6IiwgZGlzY29yZFJlcy5yZWFzb24pOwoKICByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oewogICAgb2s6IHRydWUsCiAgICBsZWFkX2lkLAogICAgY2xvc2U6IGNsb3NlUmVzLnN0YXR1cywKICAgIGtpdDoga2l0UmVzLnN0YXR1cywKICAgIGRpc2NvcmQ6IGRpc2NvcmRSZXMuc3RhdHVzLAogIH0pOwp9Cg=="}
+// POST /api/free-course
+//
+// Called by the free course signup form. Creates/updates the lead in Close
+// (status "Opt In", source "Free Course"), subscribes the email to the
+// free-course Kit form (KIT_FREE_COURSE_FORM_ID), and pings the
+// #free-course Discord channel.
+// Close runs first so we have a lead_id for the Discord "View in Close" link.
+// Kit + Discord then run in parallel. Side-effects never block the response.
+
+import { NextRequest, NextResponse } from "next/server";
+import { createOrUpdateLead } from "@/lib/close";
+import { subscribeToForm as kitSubscribe } from "@/lib/kit";
+import { pingFreeCourseOptIn } from "@/lib/discord";
+
+export const runtime = "nodejs";
+export const dynamic = "force-dynamic";
+
+const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+function clean(s: unknown, max: number, allowedChars?: RegExp): string {
+  if (typeof s !== "string") return "";
+  let v = s.trim().slice(0, max);
+  if (allowedChars) v = v.replace(allowedChars, "");
+  return v;
+}
+
+export async function POST(req: NextRequest) {
+  let raw: unknown;
+  try {
+    raw = await req.json();
+  } catch {
+    return NextResponse.json({ ok: false, error: "Invalid JSON" }, { status: 400 });
+  }
+  const body = (raw && typeof raw === "object" ? raw : {}) as Record<string, unknown>;
+
+  const first_name = clean(body.first_name, 40, /[^A-Za-z\s'-]/g);
+  const last_name  = clean(body.last_name,  40, /[^A-Za-z\s'-]/g);
+  const email      = clean(body.email, 120).toLowerCase();
+  const phone      = clean(body.phone, 24, /[^\d+\s()-]/g);
+
+  if (!first_name) return NextResponse.json({ ok: false, error: "Missing first name" }, { status: 400 });
+  if (!EMAIL_RE.test(email)) return NextResponse.json({ ok: false, error: "Invalid email" }, { status: 400 });
+
+  // ── Close (run first to get lead_id for Discord link) ──────────────
+  const [closeRes] = await Promise.allSettled([
+    createOrUpdateLead({
+      first_name,
+      last_name,
+      email,
+      phone: phone || "",
+      status: "Opt In",
+      source: "Free Course",
+    }),
+  ]);
+  if (closeRes.status === "rejected") console.error("[/api/free-course] Close failed:", closeRes.reason);
+
+  const lead_id = closeRes.status === "fulfilled" ? closeRes.value.lead_id : null;
+  const created = closeRes.status === "fulfilled" ? closeRes.value.created : true;
+
+  // ── Kit + Discord in parallel ──────────────────────────────────────
+  const formId = process.env.KIT_FREE_COURSE_FORM_ID || "";
+
+  const [kitRes, discordRes] = await Promise.allSettled([
+    kitSubscribe({ email, first_name, last_name, phone, formId }),
+    pingFreeCourseOptIn({ first_name, last_name, email, phone, lead_id, created }),
+  ]);
+
+  if (kitRes.status === "rejected") console.error("[/api/free-course] Kit failed:", kitRes.reason);
+  if (discordRes.status === "rejected") console.error("[/api/free-course] Discord failed:", discordRes.reason);
+
+  return NextResponse.json({
+    ok: true,
+    lead_id,
+    close: closeRes.status,
+    kit: kitRes.status,
+    discord: discordRes.status,
+  });
+}

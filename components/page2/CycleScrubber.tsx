@@ -1,1 +1,150 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlUmVmLCB1c2VTdGF0ZSB9IGZyb20gInJlYWN0IjsKCmV4cG9ydCBjb25zdCBDWUNMRV9QSEFTRVMgPSBbCiAgeyBpZDogIjAxIiwgeDogMTQwLCAgeTogMjU1LCBuYW1lOiAiUmV2aXZhbCIsICAgICB2OiAibG9uZyIsICBkZXNjOiAiVGhlIGZpcnN0IGJyZWFrb3V0IGFmdGVyIGEgbG9uZyBiZWFyIG1hcmtldC4gQW4gYXNjZW5kaW5nIHRyaWFuZ2xlIGZvcm1zIGFuZCBicmVha3MsIHNpZ25hbGluZyB0aGUgYnVsbHMgYXJlIGJhY2suIFNtYXJ0IG1vbmV5IGJlZ2lucyBhY2N1bXVsYXRpbmcuIiB9LAogIHsgaWQ6ICIwMiIsIHg6IDI4MCwgIHk6IDE5MCwgbmFtZTogIlN1cnZpdmFsIiwgICAgdjogImxvbmciLCAgZGVzYzogIkEgYnVsbGlzaCBjb25zb2xpZGF0aW9uIGZvcm1zIGFmdGVyIHRoZSBSZXZpdmFsIHB1bGxiYWNrLiBNYXJrZXQgcHVzaGVzIHRvIG5ldyBoaWdocywgcHJvdmluZyB0aGUgdHJlbmQgaXMgcmVhbC4gRk9NTyBzdGFydHMgY3JlZXBpbmcgaW4uIiB9LAogIHsgaWQ6ICIwMyIsIHg6IDQ0MCwgIHk6IDExMCwgbmFtZTogIkZvcmNlIiwgICAgICAgdjogImxvbmciLCAgZGVzYzogIkEgYnJlYWtvdXQgbmVhciBhbGwtdGltZSBoaWdocyB0cmlnZ2VycyBtYXNzaXZlIHNob3J0IHNxdWVlemVzLiBCdWxscyBnbyBmdWxsIGRlZ2VuLCBwcmljZSBnb2VzIHZlcnRpY2FsLiBQZWFrIGV1cGhvcmlhIOKAlCB0aGUgZmluYWwgbGVnIG9mIHRoZSBidWxsIGN5Y2xlLiIgfSwKICB7IGlkOiAiMDQiLCB4OiA1NDAsICB5OiA1MCwgIG5hbWU6ICJBcm1hZ2VkZG9uIiwgIHY6ICJzaG9ydCIsIGRlc2M6ICJUaGUgdG9wLiBEYWlseSBtYXJrZXQgc3RydWN0dXJlIGJyZWFrcyBkb3duIGFuZCB0aGUgNTBNQSBmYWlscy4gQnVsbHMgaWdub3JlIHRoZSB3YXJuaW5nIHNpZ25zLiBUaGUgYmVnaW5uaW5nIG9mIHRoZSBlbmQg4oCUIHRoZSBiZWFyIG1hcmtldCBoYXMgYmVndW4uIiB9LAogIHsgaWQ6ICIwNSIsIHg6IDcyMCwgIHk6IDE0MCwgbmFtZTogIlN1Y2tlcnB1bmNoIiwgdjogInNob3J0IiwgZGVzYzogIk1hcmtldCByYWxsaWVzIGludG8gc3VwcGx5IGFmdGVyIHNoYXJwIGRyb3BzLCB0aGVuIGdldHMgc2xhbW1lZCBhZ2Fpbi4gRmFrZSByYWxsaWVzIHRyYXAgbG9uZ3MgYW5kIGNyZWF0ZSBoaWdoLXByb2JhYmlsaXR5IHNob3J0cy4gSGFwcGVucyBtdWx0aXBsZSB0aW1lcyBpbiB0aGUgYmVhci4iIH0sCiAgeyBpZDogIjA2IiwgeDogODcwLCAgeTogMTc1LCBuYW1lOiAiV2hpcGxhc2giLCAgICB2OiAibG9uZyIsICBkZXNjOiAiQWZ0ZXIgU3Vja2VycHVuY2hlcywgcHJpY2UgYWdncmVzc2l2ZWx5IHN3ZWVwcyBwcmlvciBsb3dzIOKAlCBzdG9wcGluZyBvdXQgZWFybHkgZGlwIGJ1eWVycyDigJQgdGhlbiByaXBzIGJhY2sgdXAgaGFyZC4gQ2F0Y2ggdGhlIHN3ZWVwIGF0IGRlbWFuZCBmb3IgcXVpY2sgZ2FpbnMuIiB9LAogIHsgaWQ6ICIwNyIsIHg6IDEwNzAsIHk6IDI5MCwgbmFtZTogIktub2Nrb3V0IiwgICAgdjogImxvbmciLCAgZGVzYzogIkEgYnJ1dGFsIGRyb3AsIHVzdWFsbHkgNjAlKyBmcm9tIHRoZSB0b3AsIGludG8gd2Vla2x5IG9yIG1vbnRobHkgZGVtYW5kLiBUcmlnZ2VycyBhIG1ham9yIDUw4oCTMTAwJSBib3VuY2UuIENvdWxkIGJlIHRoZSBib3R0b20gaWYgQlRDIGlzIGFsc28gYXQgbG9uZy10ZXJtIGRlbWFuZC4iIH0sCiAgeyBpZDogIjA4IiwgeDogMTI4MCwgeTogMjM1LCBuYW1lOiAiQ29ja2Jsb2NrIiwgICB2OiAic2hvcnQiLCBkZXNjOiAiVGhlIEtub2Nrb3V0IHJhbGx5IHJpcHMgaW50byBzdXBwbHkgYW5kIGZvcm1zIHRoZSBmaXJzdCBwZWFrIG9mIHRoZSBSZXZpdmFsIHRyaWFuZ2xlLiBCdWxscyB0aGluayB3ZSdyZSBiYWNrLiBUaGUgbWFya2V0IHNheXMgbm90IHlldC4gRXhjZWxsZW50IHNob3J0aW5nIHpvbmUuIiB9LAogIHsgaWQ6ICIwOSIsIHg6IDE1MDAsIHk6IDMyMCwgbmFtZTogIkFwZXgiLCAgICAgICAgdjogImxvbmciLCAgZGVzYzogIlRoZSBmaW5hbCBib3R0b20uIE9ubHkgaGFwcGVucyB3aGVuIEJUQyBpcyBpbiBkZWVwIGZlYXIgb24gdGhlIFF1YW50dW0gVHJhZGluZ3ZpZXcgU3VpdGUgRmVhciAmIEdyZWVkIEluZGljYXRvciAobW9udGhseSkuIFRoZSBlbnRpcmUgbWFya2V0IGlzIG1heGVkIG91dCBpbiBwYWluLiBTbWFydCBtb25leSBnb2VzIGFsbCBpbi4iIH0sCl07CgpleHBvcnQgY29uc3QgQ1lDTEVfUEhBU0VfUEFUSCA9CiAgIk0gNDAgMzIwIFEgMTAwIDMwNSwgMTQwIDI1NSBRIDIyMCAxNzUsIDI4MCAxOTAgUSAzNjAgMTMwLCA0NDAgMTEwIFEgNTEwIDcwLCA1NDAgNTAgUSA2MjAgODAsIDcyMCAxNDAgUSA4MDAgMTA1LCA4NzAgMTc1IFEgOTUwIDI0MCwgMTA3MCAyOTAgUSAxMTgwIDI1MCwgMTI4MCAyMzUgUSAxMzgwIDI5MCwgMTUwMCAzMjAgTCAxNTYwIDMyMCI7CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBDeWNsZVNjcnViYmVyKHsKICBhY3RpdmVJZHgsCiAgc2V0QWN0aXZlSWR4LAp9OiB7CiAgYWN0aXZlSWR4OiBudW1iZXI7CiAgc2V0QWN0aXZlSWR4OiAoaTogbnVtYmVyKSA9PiB2b2lkOwp9KSB7CiAgY29uc3QgW2RyYWdnaW5nLCBzZXREcmFnZ2luZ10gPSB1c2VTdGF0ZShmYWxzZSk7CiAgY29uc3Qgc3ZnUmVmID0gdXNlUmVmPFNWR1NWR0VsZW1lbnQ+KG51bGwpOwogIGNvbnN0IGFjdGl2ZSA9IENZQ0xFX1BIQVNFU1thY3RpdmVJZHhdOwogIGNvbnN0IGFjdGl2ZUNvbG9yID0gYWN0aXZlLnYgPT09ICJsb25nIiA/ICJ2YXIoLS1hY2lkKSIgOiAidmFyKC0tcGluaykiOwoKICBmdW5jdGlvbiBwaWNrQ2xvc2VzdEZyb21DbGllbnRYKGNsaWVudFg6IG51bWJlcikgewogICAgaWYgKCFzdmdSZWYuY3VycmVudCkgcmV0dXJuIDA7CiAgICBjb25zdCByZWN0ID0gc3ZnUmVmLmN1cnJlbnQuZ2V0Qm91bmRpbmdDbGllbnRSZWN0KCk7CiAgICBjb25zdCByYXRpbyA9IChjbGllbnRYIC0gcmVjdC5sZWZ0KSAvIHJlY3Qud2lkdGg7CiAgICBjb25zdCBzdmdYID0gNDAgKyByYXRpbyAqICgxNTYwIC0gNDApOwogICAgbGV0IGJlc3QgPSAwOwogICAgbGV0IGJlc3REaXN0ID0gSW5maW5pdHk7CiAgICBmb3IgKGxldCBpID0gMDsgaSA8IENZQ0xFX1BIQVNFUy5sZW5ndGg7IGkrKykgewogICAgICBjb25zdCBkID0gTWF0aC5hYnMoQ1lDTEVfUEhBU0VTW2ldLnggLSBzdmdYKTsKICAgICAgaWYgKGQgPCBiZXN0RGlzdCkgeyBiZXN0RGlzdCA9IGQ7IGJlc3QgPSBpOyB9CiAgICB9CiAgICByZXR1cm4gYmVzdDsKICB9CgogIGZ1bmN0aW9uIG9uUG9pbnRlckRvd24oZTogUmVhY3QuUG9pbnRlckV2ZW50PFNWR1NWR0VsZW1lbnQ+KSB7CiAgICBzZXREcmFnZ2luZyh0cnVlKTsKICAgIHNldEFjdGl2ZUlkeChwaWNrQ2xvc2VzdEZyb21DbGllbnRYKGUuY2xpZW50WCkpOwogICAgZS5jdXJyZW50VGFyZ2V0LnNldFBvaW50ZXJDYXB0dXJlKGUucG9pbnRlcklkKTsKICB9CiAgZnVuY3Rpb24gb25Qb2ludGVyTW92ZShlOiBSZWFjdC5Qb2ludGVyRXZlbnQ8U1ZHU1ZHRWxlbWVudD4pIHsKICAgIGlmICghZHJhZ2dpbmcpIHJldHVybjsKICAgIHNldEFjdGl2ZUlkeChwaWNrQ2xvc2VzdEZyb21DbGllbnRYKGUuY2xpZW50WCkpOwogIH0KICBmdW5jdGlvbiBvblBvaW50ZXJVcChlOiBSZWFjdC5Qb2ludGVyRXZlbnQ8U1ZHU1ZHRWxlbWVudD4pIHsKICAgIHNldERyYWdnaW5nKGZhbHNlKTsKICAgIHRyeSB7IGUuY3VycmVudFRhcmdldC5yZWxlYXNlUG9pbnRlckNhcHR1cmUoZS5wb2ludGVySWQpOyB9IGNhdGNoIHt9CiAgfQogIGZ1bmN0aW9uIG9uS2V5RG93bihlOiBSZWFjdC5LZXlib2FyZEV2ZW50PFNWR1NWR0VsZW1lbnQ+KSB7CiAgICBpZiAoZS5rZXkgPT09ICJBcnJvd0xlZnQiKSB7IGUucHJldmVudERlZmF1bHQoKTsgc2V0QWN0aXZlSWR4KE1hdGgubWF4KDAsIGFjdGl2ZUlkeCAtIDEpKTsgfQogICAgaWYgKGUua2V5ID09PSAiQXJyb3dSaWdodCIpIHsgZS5wcmV2ZW50RGVmYXVsdCgpOyBzZXRBY3RpdmVJZHgoTWF0aC5taW4oQ1lDTEVfUEhBU0VTLmxlbmd0aCAtIDEsIGFjdGl2ZUlkeCArIDEpKTsgfQogIH0KCiAgcmV0dXJuICgKICAgIDxkaXYgc3R5bGU9e3sgcG9zaXRpb246ICJyZWxhdGl2ZSIgfX0+CiAgICAgIDxkaXYgc3R5bGU9e3sgZGlzcGxheTogImZsZXgiLCBqdXN0aWZ5Q29udGVudDogInNwYWNlLWJldHdlZW4iLCBhbGlnbkl0ZW1zOiAiY2VudGVyIiwgbWFyZ2luQm90dG9tOiAyNCB9fT4KICAgICAgICA8ZGl2IHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LW1vbm8pIiwgZm9udFNpemU6IDksIGZvbnRXZWlnaHQ6IDcwMCwgY29sb3I6ICJ2YXIoLS1hc2gpIiwgbGV0dGVyU3BhY2luZzogIjAuMjJlbSIsIHRleHRUcmFuc2Zvcm06ICJ1cHBlcmNhc2UiIH19PgogICAgICAgICAgwrcgQSBmdWxsIG1hcmtldCBjeWNsZSDCtyBib3R0b20gdG8gYm90dG9tIMK3CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1tb25vKSIsIGZvbnRTaXplOiA5LCBmb250V2VpZ2h0OiA3MDAsIGNvbG9yOiAidmFyKC0tYWNpZCkiLCBsZXR0ZXJTcGFjaW5nOiAiMC4yMmVtIiwgdGV4dFRyYW5zZm9ybTogInVwcGVyY2FzZSIgfX0+CiAgICAgICAgICDCtyBEcmFnIHRoZSBkb3Qgwrcg4oaQIOKGkiDCtwogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KCiAgICAgIDxzdmcKICAgICAgICByZWY9e3N2Z1JlZn0KICAgICAgICB2aWV3Qm94PSIwIDAgMTYwMCAzODAiCiAgICAgICAgdGFiSW5kZXg9ezB9CiAgICAgICAgcm9sZT0ic2xpZGVyIgogICAgICAgIGFyaWEtdmFsdWVtaW49ezF9CiAgICAgICAgYXJpYS12YWx1ZW1heD17OX0KICAgICAgICBhcmlhLXZhbHVlbm93PXthY3RpdmVJZHggKyAxfQogICAgICAgIGFyaWEtdmFsdWV0ZXh0PXtgUGhhc2UgJHthY3RpdmUuaWR9ICR7YWN0aXZlLm5hbWV9YH0KICAgICAgICBvblBvaW50ZXJEb3duPXtvblBvaW50ZXJEb3dufQogICAgICAgIG9uUG9pbnRlck1vdmU9e29uUG9pbnRlck1vdmV9CiAgICAgICAgb25Qb2ludGVyVXA9e29uUG9pbnRlclVwfQogICAgICAgIG9uUG9pbnRlckNhbmNlbD17b25Qb2ludGVyVXB9CiAgICAgICAgb25LZXlEb3duPXtvbktleURvd259CiAgICAgICAgc3R5bGU9e3sKICAgICAgICAgIHdpZHRoOiAiMTAwJSIsCiAgICAgICAgICBkaXNwbGF5OiAiYmxvY2siLAogICAgICAgICAgb3ZlcmZsb3c6ICJ2aXNpYmxlIiwKICAgICAgICAgIHRvdWNoQWN0aW9uOiAibm9uZSIsCiAgICAgICAgICBjdXJzb3I6IGRyYWdnaW5nID8gImdyYWJiaW5nIiA6ICJwb2ludGVyIiwKICAgICAgICAgIG91dGxpbmU6ICJub25lIiwKICAgICAgICB9fQogICAgICA+CiAgICAgICAgPGxpbmUgeDE9IjAiIHkxPSIzMjAiIHgyPSIxNjAwIiB5Mj0iMzIwIiBzdHJva2U9InZhcigtLWxpbmUtMikiIHN0cm9rZVdpZHRoPSIxIiBzdHJva2VEYXNoYXJyYXk9IjQgNiIgLz4KICAgICAgICB7W3sgeDogNDAsIGxhYmVsOiAiQlVMTCBDWUNMRSIgfSwgeyB4OiA1MjAsIGxhYmVsOiAiQkVBUiBDWUNMRSIgfV0ubWFwKCh6LCBpKSA9PiAoCiAgICAgICAgICA8ZyBrZXk9e2l9IG9wYWNpdHk9IjAuNSI+CiAgICAgICAgICAgIDxsaW5lIHgxPXt6Lnh9IHgyPXt6Lnh9IHkxPSIwIiB5Mj0iMzUwIiBzdHJva2U9InZhcigtLWxpbmUpIiBzdHJva2VXaWR0aD0iMSIgc3Ryb2tlRGFzaGFycmF5PSIyIDQiIC8+CiAgICAgICAgICAgIDx0ZXh0IHg9e3oueCArIDEyfSB5PSIyMiIgZmlsbD0idmFyKC0tbXV0ZWQpIgogICAgICAgICAgICAgIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LW1vbm8pIiwgZm9udFNpemU6IDEwLCBmb250V2VpZ2h0OiA3MDAsIGxldHRlclNwYWNpbmc6ICIwLjI0ZW0iIH19PgogICAgICAgICAgICAgIMK3IHt6LmxhYmVsfQogICAgICAgICAgICA8L3RleHQ+CiAgICAgICAgICA8L2c+CiAgICAgICAgKSl9CiAgICAgICAgPHBhdGggZD17Q1lDTEVfUEhBU0VfUEFUSH0gZmlsbD0ibm9uZSIgc3Ryb2tlPSJ2YXIoLS1hY2lkKSIgc3Ryb2tlV2lkdGg9IjIuMiIKICAgICAgICAgIHN0eWxlPXt7IGZpbHRlcjogImRyb3Atc2hhZG93KDAgMCAxMnB4IHJnYmEoMTkxLDI1MCw3MCwwLjI1KSkiIH19IC8+CiAgICAgICAgPGxpbmUgeDE9e2FjdGl2ZS54fSB4Mj17YWN0aXZlLnh9IHkxPXtNYXRoLm1heCgwLCBhY3RpdmUueSAtIDI0KX0geTI9IjM2MCIKICAgICAgICAgIHN0cm9rZT17YWN0aXZlQ29sb3J9IHN0cm9rZVdpZHRoPSIxIiBzdHJva2VEYXNoYXJyYXk9IjMgNSIKICAgICAgICAgIHN0eWxlPXt7IHRyYW5zaXRpb246ICJhbGwgMjIwbXMgZWFzZSIgfX0gLz4KCiAgICAgICAge0NZQ0xFX1BIQVNFUy5tYXAoKHAsIGlkeCkgPT4gewogICAgICAgICAgaWYgKGlkeCA9PT0gYWN0aXZlSWR4KSByZXR1cm4gbnVsbDsKICAgICAgICAgIGNvbnN0IGNvbG9yID0gcC52ID09PSAibG9uZyIgPyAidmFyKC0tYWNpZCkiIDogInZhcigtLXBpbmspIjsKICAgICAgICAgIGNvbnN0IGxhYmVsQWJvdmUgPSBwLnkgPiAyMDA7CiAgICAgICAgICByZXR1cm4gKAogICAgICAgICAgICA8ZyBrZXk9e3AuaWR9IHN0eWxlPXt7IGN1cnNvcjogInBvaW50ZXIiIH19IG9uQ2xpY2s9eyhlKSA9PiB7IGUuc3RvcFByb3BhZ2F0aW9uKCk7IHNldEFjdGl2ZUlkeChpZHgpOyB9fT4KICAgICAgICAgICAgICA8Y2lyY2xlIGN4PXtwLnh9IGN5PXtwLnl9IHI9IjE0IiBmaWxsPSJ0cmFuc3BhcmVudCIgLz4KICAgICAgICAgICAgICA8Y2lyY2xlIGN4PXtwLnh9IGN5PXtwLnl9IHI9IjgiIGZpbGw9InZhcigtLWJnLTEpIiBzdHJva2U9e2NvbG9yfSBzdHJva2VXaWR0aD0iMiIgb3BhY2l0eT0iMC41NSIgLz4KICAgICAgICAgICAgICA8Y2lyY2xlIGN4PXtwLnh9IGN5PXtwLnl9IHI9IjMiIGZpbGw9e2NvbG9yfSBvcGFjaXR5PSIwLjciIC8+CiAgICAgICAgICAgICAgPHRleHQgeD17cC54fSB5PXtsYWJlbEFib3ZlID8gcC55IC0gMTggOiBwLnkgKyAyNH0gdGV4dEFuY2hvcj0ibWlkZGxlIiBmaWxsPXtjb2xvcn0KICAgICAgICAgICAgICAgIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LW1vbm8pIiwgZm9udFNpemU6IDEwLCBmb250V2VpZ2h0OiA3MDAsIGxldHRlclNwYWNpbmc6ICIwLjE4ZW0iLCBvcGFjaXR5OiAwLjY1IH19PntwLmlkfTwvdGV4dD4KICAgICAgICAgICAgICA8dGV4dCB4PXtwLnh9IHk9e2xhYmVsQWJvdmUgPyBwLnkgLSAzMiA6IHAueSArIDM4fSB0ZXh0QW5jaG9yPSJtaWRkbGUiIGZpbGw9InZhcigtLWJvbmUpIgogICAgICAgICAgICAgICAgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtZGlzcGxheSkiLCBmb250U2l6ZTogMTIsIGZvbnRXZWlnaHQ6IDUwMCwgbGV0dGVyU3BhY2luZzogIi0wLjAxZW0iLCBvcGFjaXR5OiAwLjU1IH19PntwLm5hbWV9PC90ZXh0PgogICAgICAgICAgICA8L2c+CiAgICAgICAgICApOwogICAgICAgIH0pfQoKICAgICAgICB7KCgpID0+IHsKICAgICAgICAgIGNvbnN0IHAgPSBhY3RpdmU7CiAgICAgICAgICBjb25zdCBsYWJlbEFib3ZlID0gcC55ID4gMjAwOwogICAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgPGcgc3R5bGU9e3sgdHJhbnNpdGlvbjogImFsbCAyNDBtcyBjdWJpYy1iZXppZXIoMC4yLDAuOCwwLjIsMSkiIH19PgogICAgICAgICAgICAgIDxjaXJjbGUgY3g9e3AueH0gY3k9e3AueX0gcj0iMjIiIGZpbGw9Im5vbmUiIHN0cm9rZT17YWN0aXZlQ29sb3J9IHN0cm9rZVdpZHRoPSIxIiBvcGFjaXR5PSIwLjM1IiAvPgogICAgICAgICAgICAgIDxjaXJjbGUgY3g9e3AueH0gY3k9e3AueX0gcj0iMTQiIGZpbGw9InZhcigtLWJnLTEpIiBzdHJva2U9e2FjdGl2ZUNvbG9yfSBzdHJva2VXaWR0aD0iMyIKICAgICAgICAgICAgICAgIHN0eWxlPXt7IGZpbHRlcjogYGRyb3Atc2hhZG93KDAgMCAxNHB4ICR7YWN0aXZlQ29sb3J9KWAgfX0gLz4KICAgICAgICAgICAgICA8Y2lyY2xlIGN4PXtwLnh9IGN5PXtwLnl9IHI9IjUiIGZpbGw9e2FjdGl2ZUNvbG9yfSAvPgogICAgICAgICAgICAgIDx0ZXh0IHg9e3AueH0geT17bGFiZWxBYm92ZSA/IHAueSAtIDI2IDogcC55ICsgMzJ9IHRleHRBbmNob3I9Im1pZGRsZSIgZmlsbD17YWN0aXZlQ29sb3J9CiAgICAgICAgICAgICAgICBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1tb25vKSIsIGZvbnRTaXplOiAxMiwgZm9udFdlaWdodDogNzAwLCBsZXR0ZXJTcGFjaW5nOiAiMC4yMmVtIiB9fT57cC5pZH08L3RleHQ+CiAgICAgICAgICAgICAgPHRleHQgeD17cC54fSB5PXtsYWJlbEFib3ZlID8gcC55IC0gNDQgOiBwLnkgKyA1MH0gdGV4dEFuY2hvcj0ibWlkZGxlIiBmaWxsPSJ2YXIoLS1ib25lKSIKICAgICAgICAgICAgICAgIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LWRpc3BsYXkpIiwgZm9udFNpemU6IDE3LCBmb250V2VpZ2h0OiA3MDAsIGxldHRlclNwYWNpbmc6ICItMC4wMTVlbSIgfX0+e3AubmFtZX08L3RleHQ+CiAgICAgICAgICAgIDwvZz4KICAgICAgICAgICk7CiAgICAgICAgfSkoKX0KICAgICAgPC9zdmc+CiAgICA8L2Rpdj4KICApOwp9Cg=="}
+"use client";
+
+import { useRef, useState } from "react";
+
+export const CYCLE_PHASES = [
+  { id: "01", x: 140,  y: 255, name: "Revival",     v: "long",  desc: "The first breakout after a long bear market. An ascending triangle forms and breaks, signaling the bulls are back. Smart money begins accumulating." },
+  { id: "02", x: 280,  y: 190, name: "Survival",    v: "long",  desc: "A bullish consolidation forms after the Revival pullback. Market pushes to new highs, proving the trend is real. FOMO starts creeping in." },
+  { id: "03", x: 440,  y: 110, name: "Force",       v: "long",  desc: "A breakout near all-time highs triggers massive short squeezes. Bulls go full degen, price goes vertical. Peak euphoria — the final leg of the bull cycle." },
+  { id: "04", x: 540,  y: 50,  name: "Armageddon",  v: "short", desc: "The top. Daily market structure breaks down and the 50MA fails. Bulls ignore the warning signs. The beginning of the end — the bear market has begun." },
+  { id: "05", x: 720,  y: 140, name: "Suckerpunch", v: "short", desc: "Market rallies into supply after sharp drops, then gets slammed again. Fake rallies trap longs and create high-probability shorts. Happens multiple times in the bear." },
+  { id: "06", x: 870,  y: 175, name: "Whiplash",    v: "long",  desc: "After Suckerpunches, price aggressively sweeps prior lows — stopping out early dip buyers — then rips back up hard. Catch the sweep at demand for quick gains." },
+  { id: "07", x: 1070, y: 290, name: "Knockout",    v: "long",  desc: "A brutal drop, usually 60%+ from the top, into weekly or monthly demand. Triggers a major 50–100% bounce. Could be the bottom if BTC is also at long-term demand." },
+  { id: "08", x: 1280, y: 235, name: "Cockblock",   v: "short", desc: "The Knockout rally rips into supply and forms the first peak of the Revival triangle. Bulls think we're back. The market says not yet. Excellent shorting zone." },
+  { id: "09", x: 1500, y: 320, name: "Apex",        v: "long",  desc: "The final bottom. Only happens when BTC is in deep fear on the Quantum Tradingview Suite Fear & Greed Indicator (monthly). The entire market is maxed out in pain. Smart money goes all in." },
+];
+
+export const CYCLE_PHASE_PATH =
+  "M 40 320 Q 100 305, 140 255 Q 220 175, 280 190 Q 360 130, 440 110 Q 510 70, 540 50 Q 620 80, 720 140 Q 800 105, 870 175 Q 950 240, 1070 290 Q 1180 250, 1280 235 Q 1380 290, 1500 320 L 1560 320";
+
+export default function CycleScrubber({
+  activeIdx,
+  setActiveIdx,
+}: {
+  activeIdx: number;
+  setActiveIdx: (i: number) => void;
+}) {
+  const [dragging, setDragging] = useState(false);
+  const svgRef = useRef<SVGSVGElement>(null);
+  const active = CYCLE_PHASES[activeIdx];
+  const activeColor = active.v === "long" ? "var(--acid)" : "var(--pink)";
+
+  function pickClosestFromClientX(clientX: number) {
+    if (!svgRef.current) return 0;
+    const rect = svgRef.current.getBoundingClientRect();
+    const ratio = (clientX - rect.left) / rect.width;
+    const svgX = 40 + ratio * (1560 - 40);
+    let best = 0;
+    let bestDist = Infinity;
+    for (let i = 0; i < CYCLE_PHASES.length; i++) {
+      const d = Math.abs(CYCLE_PHASES[i].x - svgX);
+      if (d < bestDist) { bestDist = d; best = i; }
+    }
+    return best;
+  }
+
+  function onPointerDown(e: React.PointerEvent<SVGSVGElement>) {
+    setDragging(true);
+    setActiveIdx(pickClosestFromClientX(e.clientX));
+    e.currentTarget.setPointerCapture(e.pointerId);
+  }
+  function onPointerMove(e: React.PointerEvent<SVGSVGElement>) {
+    if (!dragging) return;
+    setActiveIdx(pickClosestFromClientX(e.clientX));
+  }
+  function onPointerUp(e: React.PointerEvent<SVGSVGElement>) {
+    setDragging(false);
+    try { e.currentTarget.releasePointerCapture(e.pointerId); } catch {}
+  }
+  function onKeyDown(e: React.KeyboardEvent<SVGSVGElement>) {
+    if (e.key === "ArrowLeft") { e.preventDefault(); setActiveIdx(Math.max(0, activeIdx - 1)); }
+    if (e.key === "ArrowRight") { e.preventDefault(); setActiveIdx(Math.min(CYCLE_PHASES.length - 1, activeIdx + 1)); }
+  }
+
+  return (
+    <div style={{ position: "relative" }}>
+      <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: 24 }}>
+        <div style={{ fontFamily: "var(--font-mono)", fontSize: 9, fontWeight: 700, color: "var(--ash)", letterSpacing: "0.22em", textTransform: "uppercase" }}>
+          · A full market cycle · bottom to bottom ·
+        </div>
+        <div style={{ fontFamily: "var(--font-mono)", fontSize: 9, fontWeight: 700, color: "var(--acid)", letterSpacing: "0.22em", textTransform: "uppercase" }}>
+          · Drag the dot · ← → ·
+        </div>
+      </div>
+
+      <svg
+        ref={svgRef}
+        viewBox="0 0 1600 380"
+        tabIndex={0}
+        role="slider"
+        aria-valuemin={1}
+        aria-valuemax={9}
+        aria-valuenow={activeIdx + 1}
+        aria-valuetext={`Phase ${active.id} ${active.name}`}
+        onPointerDown={onPointerDown}
+        onPointerMove={onPointerMove}
+        onPointerUp={onPointerUp}
+        onPointerCancel={onPointerUp}
+        onKeyDown={onKeyDown}
+        style={{
+          width: "100%",
+          display: "block",
+          overflow: "visible",
+          touchAction: "none",
+          cursor: dragging ? "grabbing" : "pointer",
+          outline: "none",
+        }}
+      >
+        <line x1="0" y1="320" x2="1600" y2="320" stroke="var(--line-2)" strokeWidth="1" strokeDasharray="4 6" />
+        {[{ x: 40, label: "BULL CYCLE" }, { x: 520, label: "BEAR CYCLE" }].map((z, i) => (
+          <g key={i} opacity="0.5">
+            <line x1={z.x} x2={z.x} y1="0" y2="350" stroke="var(--line)" strokeWidth="1" strokeDasharray="2 4" />
+            <text x={z.x + 12} y="22" fill="var(--muted)"
+              style={{ fontFamily: "var(--font-mono)", fontSize: 10, fontWeight: 700, letterSpacing: "0.24em" }}>
+              · {z.label}
+            </text>
+          </g>
+        ))}
+        <path d={CYCLE_PHASE_PATH} fill="none" stroke="var(--acid)" strokeWidth="2.2"
+          style={{ filter: "drop-shadow(0 0 12px rgba(191,250,70,0.25))" }} />
+        <line x1={active.x} x2={active.x} y1={Math.max(0, active.y - 24)} y2="360"
+          stroke={activeColor} strokeWidth="1" strokeDasharray="3 5"
+          style={{ transition: "all 220ms ease" }} />
+
+        {CYCLE_PHASES.map((p, idx) => {
+          if (idx === activeIdx) return null;
+          const color = p.v === "long" ? "var(--acid)" : "var(--pink)";
+          const labelAbove = p.y > 200;
+          return (
+            <g key={p.id} style={{ cursor: "pointer" }} onClick={(e) => { e.stopPropagation(); setActiveIdx(idx); }}>
+              <circle cx={p.x} cy={p.y} r="14" fill="transparent" />
+              <circle cx={p.x} cy={p.y} r="8" fill="var(--bg-1)" stroke={color} strokeWidth="2" opacity="0.55" />
+              <circle cx={p.x} cy={p.y} r="3" fill={color} opacity="0.7" />
+              <text x={p.x} y={labelAbove ? p.y - 18 : p.y + 24} textAnchor="middle" fill={color}
+                style={{ fontFamily: "var(--font-mono)", fontSize: 10, fontWeight: 700, letterSpacing: "0.18em", opacity: 0.65 }}>{p.id}</text>
+              <text x={p.x} y={labelAbove ? p.y - 32 : p.y + 38} textAnchor="middle" fill="var(--bone)"
+                style={{ fontFamily: "var(--font-display)", fontSize: 12, fontWeight: 500, letterSpacing: "-0.01em", opacity: 0.55 }}>{p.name}</text>
+            </g>
+          );
+        })}
+
+        {(() => {
+          const p = active;
+          const labelAbove = p.y > 200;
+          return (
+            <g style={{ transition: "all 240ms cubic-bezier(0.2,0.8,0.2,1)" }}>
+              <circle cx={p.x} cy={p.y} r="22" fill="none" stroke={activeColor} strokeWidth="1" opacity="0.35" />
+              <circle cx={p.x} cy={p.y} r="14" fill="var(--bg-1)" stroke={activeColor} strokeWidth="3"
+                style={{ filter: `drop-shadow(0 0 14px ${activeColor})` }} />
+              <circle cx={p.x} cy={p.y} r="5" fill={activeColor} />
+              <text x={p.x} y={labelAbove ? p.y - 26 : p.y + 32} textAnchor="middle" fill={activeColor}
+                style={{ fontFamily: "var(--font-mono)", fontSize: 12, fontWeight: 700, letterSpacing: "0.22em" }}>{p.id}</text>
+              <text x={p.x} y={labelAbove ? p.y - 44 : p.y + 50} textAnchor="middle" fill="var(--bone)"
+                style={{ fontFamily: "var(--font-display)", fontSize: 17, fontWeight: 700, letterSpacing: "-0.015em" }}>{p.name}</text>
+            </g>
+          );
+        })()}
+      </svg>
+    </div>
+  );
+}

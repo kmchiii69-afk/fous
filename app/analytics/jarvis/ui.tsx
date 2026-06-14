@@ -1,1 +1,296 @@
-{"data":"InVzZSBjbGllbnQiOwovKiBlc2xpbnQtZGlzYWJsZSBAdHlwZXNjcmlwdC1lc2xpbnQvbm8tZXhwbGljaXQtYW55ICovCi8vIFBvcnRlZCB2NCBzZWN0aW9uIHByaW1pdGl2ZXMg4oCUIHB1cmUgY29tcG9uZW50cyBmZWQgYnkgYnVpbGRWNCBvdXRwdXQuCgppbXBvcnQgeyB1c2VFZmZlY3QsIHVzZVN0YXRlIH0gZnJvbSAicmVhY3QiOwppbXBvcnQgeyBDLCByZWwgfSBmcm9tICIuL21hcCI7CgpleHBvcnQgZnVuY3Rpb24gdXNlQ291bnRVcCh0YXJnZXQ6IG51bWJlciwgZHVyID0gMTEwMCwgc3RhcnQgPSB0cnVlKSB7CiAgY29uc3QgW2FuaW0sIHNldEFuaW1dID0gdXNlU3RhdGUoMCk7CiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIGlmICghc3RhcnQpIHJldHVybjsKICAgIGxldCByYWYgPSAwLCB0MCA9IDA7CiAgICBjb25zdCB0aWNrID0gKHQ6IG51bWJlcikgPT4gewogICAgICBpZiAoIXQwKSB0MCA9IHQ7CiAgICAgIGNvbnN0IGsgPSBNYXRoLm1pbigxLCAodCAtIHQwKSAvIGR1cik7CiAgICAgIHNldEFuaW0odGFyZ2V0ICogKDEgLSBNYXRoLnBvdygxIC0gaywgMykpKTsKICAgICAgaWYgKGsgPCAxKSByYWYgPSByZXF1ZXN0QW5pbWF0aW9uRnJhbWUodGljayk7CiAgICB9OwogICAgcmFmID0gcmVxdWVzdEFuaW1hdGlvbkZyYW1lKHRpY2spOwogICAgcmV0dXJuICgpID0+IGNhbmNlbEFuaW1hdGlvbkZyYW1lKHJhZik7CiAgfSwgW3RhcmdldCwgZHVyLCBzdGFydF0pOwogIHJldHVybiBzdGFydCA/IGFuaW0gOiB0YXJnZXQ7Cn0KCmV4cG9ydCBmdW5jdGlvbiBRQ0xNYXJrKHsgc2l6ZSA9IDI2IH06IHsgc2l6ZT86IG51bWJlciB9KSB7CiAgcmV0dXJuICgKICAgIDxzdmcgd2lkdGg9e3NpemV9IGhlaWdodD17c2l6ZX0gdmlld0JveD0iMCAwIDEwMCAxMDAiIGFyaWEtaGlkZGVuPSJ0cnVlIj4KICAgICAgPHBhdGggZD0iTTMwIDM4IEM0NSAzOCA1MCA0NCA2NCA0NiBMNjQgNTIgQzUwIDUyIDQ1IDU2IDMwIDYwIFoiIGZpbGw9IiNCRkZBNDYiIG9wYWNpdHk9IjAuNTUiIC8+CiAgICAgIDxyZWN0IHg9IjI3IiB5PSIzNCIgd2lkdGg9IjQiIGhlaWdodD0iMzAiIGZpbGw9IiNCRkZBNDYiIC8+CiAgICAgIDxyZWN0IHg9IjYzIiB5PSI0MiIgd2lkdGg9IjQiIGhlaWdodD0iMTMiIGZpbGw9IiM4RkQwRkYiIC8+CiAgICAgIDxjaXJjbGUgY3g9Ijc0IiBjeT0iNDgiIHI9IjMiIGZpbGw9IiNCRkZBNDYiIC8+CiAgICA8L3N2Zz4KICApOwp9CgpleHBvcnQgZnVuY3Rpb24gU2VjSGVhZCh7IHRpdGxlLCBrLCBjb2xvciB9OiB7IHRpdGxlOiBzdHJpbmc7IGs/OiBzdHJpbmc7IGNvbG9yPzogc3RyaW5nIH0pIHsKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9InY0LXNlY2hlYWQiPgogICAgICA8c3BhbiBjbGFzc05hbWU9InY0LXNxIiBzdHlsZT17eyBiYWNrZ3JvdW5kOiBjb2xvciB8fCBDLmFjaWQsIGJveFNoYWRvdzogYDAgMCAxMnB4ICR7Y29sb3IgfHwgQy5hY2lkfWAgfX0gLz4KICAgICAgPGgzPnt0aXRsZX08L2gzPgogICAgICB7ayAmJiA8c3BhbiBjbGFzc05hbWU9InY0LWsiPntrfTwvc3Bhbj59CiAgICA8L2Rpdj4KICApOwp9CgpleHBvcnQgZnVuY3Rpb24gTm90ZUJveCh7IGNvbG9yLCBjaGlsZHJlbiB9OiB7IGNvbG9yPzogc3RyaW5nOyBjaGlsZHJlbjogUmVhY3QuUmVhY3ROb2RlIH0pIHsKICByZXR1cm4gPGRpdiBjbGFzc05hbWU9InY0LW5vdGUiIHN0eWxlPXt7IGJvcmRlckNvbG9yOiBjb2xvciB8fCAiIzIyMjIyQiIgfX0+e2NoaWxkcmVufTwvZGl2PjsKfQoKZXhwb3J0IGZ1bmN0aW9uIFRpbGVHcmlkKHsgdGlsZXMsIGNvbHMgfTogeyB0aWxlczogYW55W107IGNvbHM/OiBudW1iZXIgfSkgewogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0idjQtdGlsZXMiIHN0eWxlPXt7IGdyaWRUZW1wbGF0ZUNvbHVtbnM6IGByZXBlYXQoJHtjb2xzIHx8IHRpbGVzLmxlbmd0aH0sIDFmcilgIH19PgogICAgICB7dGlsZXMubWFwKCh0LCBpKSA9PiAoCiAgICAgICAgPGRpdiBjbGFzc05hbWU9InY0LXRpbGUiIGtleT17aX0+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idnQtbGFiZWwiPnt0LmxhYmVsfTwvZGl2PgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9eyJ2dC12YWwiICsgKHQubW9uZXkgPyAiIGp4LW1vbmV5IiA6ICIiKX0gc3R5bGU9e3sgY29sb3I6IHQuY29sb3IsIGZvbnRTaXplOiB0LnNtYWxsID8gMjIgOiB1bmRlZmluZWQgfX0+e3QudmFsdWV9PC9kaXY+CiAgICAgICAgICB7dC5kZWx0YSAmJiA8ZGl2IGNsYXNzTmFtZT0idnQtZGVsdGEiIHN0eWxlPXt7IGNvbG9yOiB0LmRvd24gPyBDLmRyb3AgOiBDLmFjaWQgfX0+e3QuZGVsdGF9PC9kaXY+fQogICAgICAgICAgPGRpdiBjbGFzc05hbWU9InZ0LXN1YiI+e3Quc3VifTwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICApKX0KICAgIDwvZGl2PgogICk7Cn0KCmV4cG9ydCBmdW5jdGlvbiBTY29yZVRpbGUoeyB0LCBkZWxheSB9OiB7IHQ6IGFueTsgZGVsYXk6IG51bWJlciB9KSB7CiAgY29uc3QgdiA9IHVzZUNvdW50VXAodC52YWx1ZSwgMTEwMCArIGRlbGF5KTsKICBjb25zdCBmbXQgPSB0LmZtdCA9PT0gInVzZCIgPyAiJCIgKyBNYXRoLnJvdW5kKHYpLnRvTG9jYWxlU3RyaW5nKCkgOiBNYXRoLnJvdW5kKHYpLnRvTG9jYWxlU3RyaW5nKCk7CiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJ2NC10aWxlIj4KICAgICAgPGRpdiBjbGFzc05hbWU9InZ0LWxhYmVsIj57dC5sYWJlbH08L2Rpdj4KICAgICAgPGRpdiBjbGFzc05hbWU9eyJ2dC12YWwiICsgKHQubW9uZXkgPyAiIGp4LW1vbmV5IiA6ICIiKX0gc3R5bGU9e3sgY29sb3I6IHQuY29sb3IgfX0+e2ZtdH08L2Rpdj4KICAgICAgPGRpdiBjbGFzc05hbWU9InZ0LXN1YiI+e3Quc3VifTwvZGl2PgogICAgPC9kaXY+CiAgKTsKfQoKZXhwb3J0IGZ1bmN0aW9uIFNjb3JlYm9hcmQoeyBib2FyZCB9OiB7IGJvYXJkOiBhbnlbXSB9KSB7CiAgcmV0dXJuIDxkaXYgY2xhc3NOYW1lPSJ2NC10aWxlcyIgc3R5bGU9e3sgZ3JpZFRlbXBsYXRlQ29sdW1uczogInJlcGVhdCg2LDFmcikiIH19Pntib2FyZC5tYXAoKHQsIGkpID0+IDxTY29yZVRpbGUga2V5PXtpfSB0PXt0fSBkZWxheT17aSAqIDkwfSAvPil9PC9kaXY+Owp9CgpleHBvcnQgZnVuY3Rpb24gRmxvd1N0cmlwKHsgaXRlbXMgfTogeyBpdGVtczogYW55W10gfSkgewogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0idjQtZmxvdyI+CiAgICAgIHtpdGVtcy5tYXAoKGl0LCBpKSA9PiBpdC5jb252CiAgICAgICAgPyA8ZGl2IGNsYXNzTmFtZT0idmYtYXJyb3ciIGtleT17aX0+PHNwYW4+4oaSPC9zcGFuPjxiPntpdC5jb252fTwvYj48L2Rpdj4KICAgICAgICA6ICgKICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ2Zi1ib3giIGtleT17aX0+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXsidmYtdiIgKyAoaXQubW9uZXkgPyAiIGp4LW1vbmV5IiA6ICIiKX0gc3R5bGU9e3sgY29sb3I6IGl0LmRyb3AgPyBDLmRyb3AgOiBpdC5tb25leSA/IEMuYWNpZCA6IHVuZGVmaW5lZCB9fT57aXQudn08L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InZmLWwiPntpdC5sYWJlbH08L2Rpdj4KICAgICAgICAgICAge2l0LnN1YiAmJiA8ZGl2IGNsYXNzTmFtZT0idmYtcyI+e2l0LnN1Yn08L2Rpdj59CiAgICAgICAgICAgIHtpdC5tb25leVN1YiAmJiA8ZGl2IGNsYXNzTmFtZT0idmYtbSI+e2l0Lm1vbmV5U3VifTwvZGl2Pn0KICAgICAgICAgIDwvZGl2PgogICAgICAgICkpfQogICAgPC9kaXY+CiAgKTsKfQoKZXhwb3J0IGZ1bmN0aW9uIFN0ZXBCYXJzKHsgc3RlcHMsIGNvbG9yIH06IHsgc3RlcHM6IGFueVtdOyBjb2xvcjogc3RyaW5nIH0pIHsKICBjb25zdCBtYXggPSBNYXRoLm1heCguLi5zdGVwcy5tYXAoKHMpID0+IHMuY291bnQpLCAxKTsKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9InY0LXN0ZXBzIj4KICAgICAge3N0ZXBzLm1hcCgocywgaSkgPT4gKAogICAgICAgIDxkaXYga2V5PXtpfT4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ2cy1yb3ciPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idnMtbGFiZWwiPntzLmxhYmVsfXtzLnN1YiAmJiA8c3Bhbj57cy5zdWJ9PC9zcGFuPn08L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InZzLXRyYWNrIj4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idnMtYmFyIiBzdHlsZT17eyB3aWR0aDogKHMuY291bnQgLyBtYXggKiAxMDApICsgIiUiLCBiYWNrZ3JvdW5kOiBjb2xvciwgYm94U2hhZG93OiBgMCAwIDE0cHggJHtjb2xvcn01NWAgfX0+PGI+e3MuY291bnQudG9Mb2NhbGVTdHJpbmcoKX08L2I+PC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICB7cy5jb252ICYmIDxkaXYgY2xhc3NOYW1lPSJ2cy1kcm9wIj7ihpMgPGI+e3MuY29udn08L2I+e3MuZHJvcHBlZCAmJiA8aT4gwrcge3MuZHJvcHBlZH08L2k+fTwvZGl2Pn0KICAgICAgICA8L2Rpdj4KICAgICAgKSl9CiAgICA8L2Rpdj4KICApOwp9CgpleHBvcnQgZnVuY3Rpb24gRGF0YVRhYmxlKHsgY29scywgcm93cywgYWNjZW50Q29sLCBhY2NlbnRDb2xvciwgZmlyc3RMZWZ0ID0gdHJ1ZSB9OiB7IGNvbHM6IHN0cmluZ1tdOyByb3dzOiBhbnlbXVtdOyBhY2NlbnRDb2w/OiBudW1iZXI7IGFjY2VudENvbG9yPzogc3RyaW5nOyBmaXJzdExlZnQ/OiBib29sZWFuIH0pIHsKICBjb25zdCBncmlkID0gYDIuMmZyICR7IjFmciAiLnJlcGVhdChjb2xzLmxlbmd0aCAtIDEpLnRyaW0oKX1gOwogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0idjQtdGFibGUiPgogICAgICA8ZGl2IGNsYXNzTmFtZT0idnRiLWhlYWQiIHN0eWxlPXt7IGdyaWRUZW1wbGF0ZUNvbHVtbnM6IGdyaWQgfX0+CiAgICAgICAge2NvbHMubWFwKChjLCBpKSA9PiA8c3BhbiBrZXk9e2l9IHN0eWxlPXt7IHRleHRBbGlnbjogaSA9PT0gMCAmJiBmaXJzdExlZnQgPyAibGVmdCIgOiAicmlnaHQiIH19PntjfTwvc3Bhbj4pfQogICAgICA8L2Rpdj4KICAgICAge3Jvd3MubWFwKChyLCByaSkgPT4gKAogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ2dGItcm93IiBrZXk9e3JpfSBzdHlsZT17eyBncmlkVGVtcGxhdGVDb2x1bW5zOiBncmlkIH19PgogICAgICAgICAge3IubWFwKChjZWxsLCBjaSkgPT4gKAogICAgICAgICAgICA8c3BhbiBrZXk9e2NpfSBzdHlsZT17ewogICAgICAgICAgICAgIHRleHRBbGlnbjogY2kgPT09IDAgJiYgZmlyc3RMZWZ0ID8gImxlZnQiIDogInJpZ2h0IiwKICAgICAgICAgICAgICBmb250RmFtaWx5OiBjaSA9PT0gMCA/ICJ2YXIoLS1mb250LWJvZHkpIiA6ICJ2YXIoLS1mb250LW1vbm8pIiwKICAgICAgICAgICAgICBjb2xvcjogY2kgPT09IGFjY2VudENvbCA/IChhY2NlbnRDb2xvciB8fCBDLmFjaWQpIDogdW5kZWZpbmVkLAogICAgICAgICAgICAgIGZvbnRXZWlnaHQ6IGNpID09PSBhY2NlbnRDb2wgPyA2MDAgOiB1bmRlZmluZWQsCiAgICAgICAgICAgIH19PntjZWxsfTwvc3Bhbj4KICAgICAgICAgICkpfQogICAgICAgIDwvZGl2PgogICAgICApKX0KICAgIDwvZGl2PgogICk7Cn0KCmV4cG9ydCBmdW5jdGlvbiBIQmFycyh7IHJvd3MsIG1vbmV5IH06IHsgcm93czogYW55W107IG1vbmV5PzogYm9vbGVhbiB9KSB7CiAgY29uc3QgbWF4ID0gTWF0aC5tYXgoLi4ucm93cy5tYXAoKHIpID0+IHJbMV0pLCAxKTsKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9InY0LWhiYXJzIj4KICAgICAge3Jvd3MubWFwKChbbGFiZWwsIHZhbCwgY29sb3JdOiBhbnksIGk6IG51bWJlcikgPT4gKAogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ2aC1yb3ciIGtleT17aX0+CiAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InZoLWwiPntsYWJlbH08L3NwYW4+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idmgtdHJhY2siPjxkaXYgY2xhc3NOYW1lPSJ2aC1iYXIiIHN0eWxlPXt7IHdpZHRoOiBNYXRoLm1heCgxLjUsIHZhbCAvIG1heCAqIDEwMCkgKyAiJSIsIGJhY2tncm91bmQ6IGNvbG9yLCBib3hTaGFkb3c6IGAwIDAgMTBweCAke2NvbG9yfTY2YCB9fSAvPjwvZGl2PgogICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ2aC12IiBzdHlsZT17eyBjb2xvciB9fT57bW9uZXkgPyAiJCIgKyB2YWwudG9Mb2NhbGVTdHJpbmcoKSA6IHZhbC50b0xvY2FsZVN0cmluZygpfTwvc3Bhbj4KICAgICAgICA8L2Rpdj4KICAgICAgKSl9CiAgICA8L2Rpdj4KICApOwp9CgpleHBvcnQgZnVuY3Rpb24gU3RhY2tlZEJhcnMoeyBkYWlseSB9OiB7IGRhaWx5OiBhbnkgfSkgewogIGNvbnN0IG1heCA9IE1hdGgubWF4KC4uLmRhaWx5LnNlcmllcy5tYXAoKGQ6IGFueSkgPT4gZC5mcmVlICsgZC52c2wpLCAxKTsKICBjb25zdCBbaG92LCBzZXRIb3ZdID0gdXNlU3RhdGU8bnVtYmVyIHwgbnVsbD4obnVsbCk7CiAgcmV0dXJuICgKICAgIDxkaXY+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJ2NC1sZWdlbmQiPgogICAgICAgIDxzcGFuPjxpIHN0eWxlPXt7IGJhY2tncm91bmQ6IEMuYWNpZCB9fSAvPkZyZWUgY291cnNlIHNpZ251cHM8L3NwYW4+CiAgICAgICAgPHNwYW4+PGkgc3R5bGU9e3sgYmFja2dyb3VuZDogQy5ibHVlIH19IC8+VlNMIGxlYWRzPC9zcGFuPgogICAgICAgIHtob3YgIT0gbnVsbCAmJiA8c3BhbiBjbGFzc05hbWU9InY0LWhvdmluZm8iPntkYWlseS5kYXlzW2hvdl19IMK3IGZyZWUge2RhaWx5LnNlcmllc1tob3ZdLmZyZWV9IMK3IHZzbCB7ZGFpbHkuc2VyaWVzW2hvdl0udnNsfTwvc3Bhbj59CiAgICAgIDwvZGl2PgogICAgICA8ZGl2IGNsYXNzTmFtZT0idjQtc3RhY2siIG9uTW91c2VMZWF2ZT17KCkgPT4gc2V0SG92KG51bGwpfT4KICAgICAgICB7ZGFpbHkuc2VyaWVzLm1hcCgoZDogYW55LCBpOiBudW1iZXIpID0+ICgKICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ2c3RrLWNvbCIga2V5PXtpfSBvbk1vdXNlRW50ZXI9eygpID0+IHNldEhvdihpKX0gc3R5bGU9e3sgb3BhY2l0eTogaG92ID09IG51bGwgfHwgaG92ID09PSBpID8gMSA6IDAuNDUgfX0+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ2c3RrLWJhcnMiPgogICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgaGVpZ2h0OiAoZC5mcmVlIC8gbWF4ICogMTAwKSArICIlIiwgYmFja2dyb3VuZDogQy5hY2lkIH19IC8+CiAgICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBoZWlnaHQ6IChkLnZzbCAvIG1heCAqIDEwMCkgKyAiJSIsIGJhY2tncm91bmQ6IEMuYmx1ZSB9fSAvPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAge2kgJSAyID09PSAwICYmIDxzcGFuIGNsYXNzTmFtZT0idnN0ay14Ij57ZGFpbHkuZGF5c1tpXX08L3NwYW4+fQogICAgICAgICAgPC9kaXY+CiAgICAgICAgKSl9CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgKTsKfQoKZXhwb3J0IGZ1bmN0aW9uIFRyZW5kQmFycyh7IHRyZW5kIH06IHsgdHJlbmQ6IGFueSB9KSB7CiAgY29uc3QgbWF4ID0gTWF0aC5tYXgoLi4udHJlbmQudmFsdWVzLCAxKTsKICByZXR1cm4gKAogICAgPGRpdj4KICAgICAgPGRpdiBjbGFzc05hbWU9InY0LXRyZW5kIj4KICAgICAgICB7dHJlbmQubW9udGhzLm1hcCgobTogc3RyaW5nLCBpOiBudW1iZXIpID0+ICgKICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ2dHItY29sIiBrZXk9e2l9PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idnRyLXZhbCIgc3R5bGU9e3sgY29sb3I6IHRyZW5kLnZhbHVlc1tpXSA+PSA0MCA/IEMuYWNpZCA6IEMuYm9uZSB9fT4ke3RyZW5kLnZhbHVlc1tpXX1rPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ2dHItdHJhY2siPgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ2dHItYmFyIiBzdHlsZT17eyBoZWlnaHQ6ICh0cmVuZC52YWx1ZXNbaV0gLyBtYXggKiAxMDApICsgIiUiLCBiYWNrZ3JvdW5kOiBpID09PSB0cmVuZC5tb250aHMubGVuZ3RoIC0gMSA/ICJyZ2JhKDE5MSwyNTAsNzAsMC4zNSkiIDogQy5hY2lkLCBib3hTaGFkb3c6IGAwIDAgMTZweCAke0MuYWNpZH00NGAgfX0gLz4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIHt0cmVuZC5kZWx0YXNbaV0gJiYgPGRpdiBjbGFzc05hbWU9InZ0ci1kZWx0YSIgc3R5bGU9e3sgY29sb3I6IHRyZW5kLmRlbHRhc1tpXS5zdGFydHNXaXRoKCIrIikgPyBDLmFjaWQgOiBDLmRyb3AgfX0+e3RyZW5kLmRlbHRhc1tpXX08L2Rpdj59CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ2dHIteCI+e219PC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICApKX0KICAgICAgPC9kaXY+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJ2NC1maW5lIj57dHJlbmQubm90ZX08L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0KCmV4cG9ydCBmdW5jdGlvbiBXZWVrbHlMaW5lcyh7IHdlZWtseSB9OiB7IHdlZWtseTogYW55IH0pIHsKICBjb25zdCBuID0gd2Vla2x5LmxhYmVscy5sZW5ndGgsIFcgPSAxMTQ0LCB0b3AgPSAxMCwgcGxvdEggPSAxNTAsIHBhZEwgPSAxNCwgcGFkUiA9IDM0OwogIGNvbnN0IHhGb3IgPSAoaTogbnVtYmVyKSA9PiBwYWRMICsgKFcgLSBwYWRMIC0gcGFkUikgKiAobiA+IDEgPyBpIC8gKG4gLSAxKSA6IDAuNSk7CiAgY29uc3QgbGluZXM6IGFueVtdID0gd2Vla2x5LmxpbmVzOwogIGNvbnN0IG1haW5NYXggPSBNYXRoLm1heCguLi5saW5lcy5maWx0ZXIoKGwpID0+IGwuc2NhbGUgPT09ICJtYWluIikuZmxhdE1hcCgobCkgPT4gbC52YWx1ZXMpLCAxKTsKICBjb25zdCBzdWJNYXggPSBNYXRoLm1heCguLi5saW5lcy5maWx0ZXIoKGwpID0+IGwuc2NhbGUgIT09ICJtYWluIikuZmxhdE1hcCgobCkgPT4gbC52YWx1ZXMpLCAxKTsKICBjb25zdCB5Rm9yID0gKHY6IG51bWJlciwgc2NhbGU6IHN0cmluZykgPT4gdG9wICsgcGxvdEggKiAoMSAtIHYgLyAoc2NhbGUgPT09ICJtYWluIiA/IG1haW5NYXggOiBzdWJNYXgpKTsKICByZXR1cm4gKAogICAgPGRpdj4KICAgICAgPGRpdiBjbGFzc05hbWU9InY0LWxlZ2VuZCI+e2xpbmVzLm1hcCgobCkgPT4gPHNwYW4ga2V5PXtsLm5hbWV9PjxpIHN0eWxlPXt7IGJhY2tncm91bmQ6IGwuY29sb3IgfX0gLz57bC5uYW1lfTwvc3Bhbj4pfTwvZGl2PgogICAgICA8c3ZnIHZpZXdCb3g9IjAgMCAxMTQ0IDE5MCIgc3R5bGU9e3sgd2lkdGg6ICIxMDAlIiwgZGlzcGxheTogImJsb2NrIiB9fT4KICAgICAgICB7bGluZXMubWFwKChsLCBsaSkgPT4gKAogICAgICAgICAgPGcga2V5PXtsaX0+CiAgICAgICAgICAgIDxwb2x5bGluZSBwb2ludHM9e2wudmFsdWVzLm1hcCgodjogbnVtYmVyLCBpOiBudW1iZXIpID0+IGAke3hGb3IoaSl9LCR7eUZvcih2LCBsLnNjYWxlKX1gKS5qb2luKCIgIil9IGZpbGw9Im5vbmUiIHN0cm9rZT17bC5jb2xvcn0gc3Ryb2tlV2lkdGg9IjIiIHN0eWxlPXt7IGZpbHRlcjogYGRyb3Atc2hhZG93KDAgMCA2cHggJHtsLmNvbG9yfTg4KWAgfX0gLz4KICAgICAgICAgICAge2wudmFsdWVzLm1hcCgodjogbnVtYmVyLCBpOiBudW1iZXIpID0+IDxjaXJjbGUga2V5PXtpfSBjeD17eEZvcihpKX0gY3k9e3lGb3IodiwgbC5zY2FsZSl9IHI9IjMuNSIgZmlsbD17bC5jb2xvcn0gLz4pfQogICAgICAgICAgPC9nPgogICAgICAgICkpfQogICAgICAgIHt3ZWVrbHkubGFiZWxzLm1hcCgobGI6IHN0cmluZywgaTogbnVtYmVyKSA9PiA8dGV4dCBrZXk9e2l9IHg9e3hGb3IoaSl9IHk9ezE4NH0gdGV4dEFuY2hvcj0ibWlkZGxlIiBmb250RmFtaWx5PSJ2YXIoLS1mb250LW1vbm8pIiBmb250U2l6ZT0iMTEiIGZpbGw9IiM1NTU1NjAiPntsYn08L3RleHQ+KX0KICAgICAgPC9zdmc+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJ2NC1maW5lIj57d2Vla2x5Lm5vdGV9PC9kaXY+CiAgICA8L2Rpdj4KICApOwp9CgpmdW5jdGlvbiBwb2xhcihjeDogbnVtYmVyLCBjeTogbnVtYmVyLCByOiBudW1iZXIsIGRlZzogbnVtYmVyKSB7IGNvbnN0IGEgPSAoZGVnIC0gOTApICogTWF0aC5QSSAvIDE4MDsgcmV0dXJuIHsgeDogY3ggKyByICogTWF0aC5jb3MoYSksIHk6IGN5ICsgciAqIE1hdGguc2luKGEpIH07IH0KZnVuY3Rpb24gYXJjUGF0aChjeDogbnVtYmVyLCBjeTogbnVtYmVyLCByOiBudW1iZXIsIHM6IG51bWJlciwgZTogbnVtYmVyKSB7IGNvbnN0IEEgPSBwb2xhcihjeCwgY3ksIHIsIGUpLCBCID0gcG9sYXIoY3gsIGN5LCByLCBzKTsgY29uc3QgbGFyZ2UgPSBlIC0gcyA8PSAxODAgPyAwIDogMTsgcmV0dXJuIGBNICR7QS54fSAke0EueX0gQSAke3J9ICR7cn0gMCAke2xhcmdlfSAwICR7Qi54fSAke0IueX1gOyB9CmV4cG9ydCBmdW5jdGlvbiBBcmNHYXVnZSh7IGcsIGFuaW1hdGUgfTogeyBnOiBhbnk7IGFuaW1hdGU6IGJvb2xlYW4gfSkgewogIGNvbnN0IFNUQVJUID0gLTEyMCwgU1dFRVAgPSAyNDAsIEVORCA9IFNUQVJUICsgU1dFRVA7CiAgY29uc3QgdiA9IHVzZUNvdW50VXAoZy52YWx1ZSwgMTIwMCwgYW5pbWF0ZSk7CiAgY29uc3QgdmFsRGVnID0gU1RBUlQgKyBTV0VFUCAqIE1hdGgubWluKDEsIHYgLyAxMDApOwogIGNvbnN0IHRndERlZyA9IFNUQVJUICsgU1dFRVAgKiAoZy50YXJnZXQgLyAxMDApOwogIGNvbnN0IHRndCA9IHBvbGFyKDUwLCA1MCwgMzgsIHRndERlZyksIHRndEluID0gcG9sYXIoNTAsIDUwLCAzMSwgdGd0RGVnKTsKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9ImdhdWdlIj4KICAgICAgPGRpdiBjbGFzc05hbWU9ImdsYWJlbCI+e2cubGFiZWx9PC9kaXY+CiAgICAgIDxzdmcgd2lkdGg9IjkyIiBoZWlnaHQ9Ijc4IiB2aWV3Qm94PSIwIDAgMTAwIDg2Ij4KICAgICAgICA8cGF0aCBkPXthcmNQYXRoKDUwLCA1MCwgMzgsIFNUQVJULCBFTkQpfSBmaWxsPSJub25lIiBzdHJva2U9InJnYmEoMjU1LDI1NSwyNTUsMC4wNykiIHN0cm9rZVdpZHRoPSI2IiAvPgogICAgICAgIDxwYXRoIGQ9e2FyY1BhdGgoNTAsIDUwLCAzOCwgU1RBUlQsIHZhbERlZyl9IGZpbGw9Im5vbmUiIHN0cm9rZT17Zy5jb2xvcn0gc3Ryb2tlV2lkdGg9IjYiIHN0eWxlPXt7IGZpbHRlcjogYGRyb3Atc2hhZG93KDAgMCA1cHggJHtnLmNvbG9yfTg4KWAgfX0gLz4KICAgICAgICA8bGluZSB4MT17dGd0SW4ueH0geTE9e3RndEluLnl9IHgyPXt0Z3QueH0geTI9e3RndC55fSBzdHJva2U9InZhcigtLWJvbmUpIiBzdHJva2VXaWR0aD0iMS40IiBzdHJva2VPcGFjaXR5PSIwLjciIC8+CiAgICAgICAgPHRleHQgeD0iNTAiIHk9IjUyIiB0ZXh0QW5jaG9yPSJtaWRkbGUiIGZvbnRGYW1pbHk9InZhcigtLWZvbnQtZGlzcGxheSkiIGZvbnRTaXplPSIyMiIgZmlsbD17Zy5jb2xvcn0+e01hdGgucm91bmQodil9e2cudW5pdH08L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAiIHk9IjY0IiB0ZXh0QW5jaG9yPSJtaWRkbGUiIGZvbnRGYW1pbHk9InZhcigtLWZvbnQtbW9ubykiIGZvbnRTaXplPSI2LjUiIGxldHRlclNwYWNpbmc9IjEiIGZpbGw9InZhcigtLXN0ZWVsKSI+VEdUIHtnLnRhcmdldH17Zy51bml0fTwvdGV4dD4KICAgICAgPC9zdmc+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJnYmFzaXMiPntnLmJhc2lzfTwvZGl2PgogICAgPC9kaXY+CiAgKTsKfQoKZXhwb3J0IGZ1bmN0aW9uIERpcmVjdGl2ZXMoeyBkaXJlY3RpdmVzLCBvbkZvY3VzIH06IHsgZGlyZWN0aXZlczogYW55W107IG9uRm9jdXM/OiAoaWQ6IHN0cmluZyB8IG51bGwpID0+IHZvaWQgfSkgewogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0iZGlyZWN0aXZlcyI+CiAgICAgIHtkaXJlY3RpdmVzLm1hcCgoZCkgPT4gKAogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkaXJlY3RpdmUiIGtleT17ZC5yYW5rfSBvbk1vdXNlRW50ZXI9eygpID0+IG9uRm9jdXM/LihkLm5vZGUpfSBvbk1vdXNlTGVhdmU9eygpID0+IG9uRm9jdXM/LihudWxsKX0+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic2V2YmFyIiBzdHlsZT17eyBiYWNrZ3JvdW5kOiBkLmNvbG9yIH19IC8+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icmFuayI+e1N0cmluZyhkLnJhbmspLnBhZFN0YXJ0KDIsICIwIil9PC9kaXY+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZG1haW4iPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZHNldiIgc3R5bGU9e3sgY29sb3I6IGQuY29sb3IgfX0+PHNwYW4gY2xhc3NOYW1lPSJzZXZkb3QiIHN0eWxlPXt7IGJhY2tncm91bmQ6IGQuY29sb3IgfX0gLz57ZC5zZXZ9IFNFVkVSSVRZPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkdGl0bGUiPntkLnRpdGxlfTwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZHByb2JsZW0iPntkLnByb2JsZW19PC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkZml4Ij48c3BhbiBjbGFzc05hbWU9ImFycm93Ij5GSVgg4oaSPC9zcGFuPjxzcGFuPntkLmZpeH08L3NwYW4+PC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkbWV0cmljIj57ZC5tZXRyaWN9PC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkbW9uZXkiPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibXZhbCIgc3R5bGU9e3sgY29sb3I6IGQubW9uZXkgPiAwID8gZC5jb2xvciA6ICJ2YXIoLS1zdGVlbCkiIH19PntkLm1vbmV5ID4gMCA/ICJ+JCIgKyBkLm1vbmV5LnRvTG9jYWxlU3RyaW5nKCkgOiAi4oCUIn08L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im1jYXAiPntkLm1vbmV5ID4gMCA/ICJvbiB0aGUgdGFibGUiIDogIm5vICQgeWV0In08L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICApKX0KICAgIDwvZGl2PgogICk7Cn0KCmV4cG9ydCBmdW5jdGlvbiBUZWxlbWV0cnkoeyBmZWVkLCBldmVudFR5cGVzLCBub3cgfTogeyBmZWVkOiBhbnlbXTsgZXZlbnRUeXBlczogYW55OyBub3c6IG51bWJlciB9KSB7CiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJwYW5lbCB0ZWxlbWV0cnkiPgogICAgICA8ZGl2IGNsYXNzTmFtZT0idGhlYWQiPgogICAgICAgIDxzcGFuIGNsYXNzTmFtZT0ibGVkIiBzdHlsZT17eyBiYWNrZ3JvdW5kOiBDLmFjaWQgfX0gLz4KICAgICAgICA8c3BhbiBjbGFzc05hbWU9InBhbmVsLWtpY2tlciI+TGl2ZSBUZWxlbWV0cnk8L3NwYW4+CiAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJzcGFjZXIiIHN0eWxlPXt7IGZsZXg6IDEgfX0gLz4KICAgICAgICA8c3BhbiBjbGFzc05hbWU9InBhbmVsLXN1YiI+e2ZlZWQubGVuZ3RofSBldmVudHM8L3NwYW4+CiAgICAgIDwvZGl2PgogICAgICA8ZGl2IGNsYXNzTmFtZT0iZmVlZCI+CiAgICAgICAge2ZlZWQubGVuZ3RoID09PSAwICYmIDxkaXYgc3R5bGU9e3sgcGFkZGluZzogMjgsIHRleHRBbGlnbjogImNlbnRlciIsIGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LW1vbm8pIiwgZm9udFNpemU6IDExLCBjb2xvcjogQy5kaW0gfX0+d2FpdGluZyBmb3IgZnVubmVsIGFjdGl2aXR54oCmPC9kaXY+fQogICAgICAgIHtmZWVkLm1hcCgoZXYpID0+IHsKICAgICAgICAgIGNvbnN0IG1ldGEgPSBldmVudFR5cGVzW2V2LmV2ZW50XSB8fCB7IGNvbG9yOiBDLmFzaCwgZ2x5cGg6ICLCtyIsIGxhYmVsOiBldi5ldmVudCwgc3ViOiAiIiB9OwogICAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InRldmVudCIga2V5PXtldi5faWR9PgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ0Z2x5cGgiIHN0eWxlPXt7IGNvbG9yOiBtZXRhLmNvbG9yIH19PnttZXRhLmdseXBofTwvZGl2PgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ0aW5mbyI+PGI+e21ldGEubGFiZWx9PC9iPjxzcGFuPkB7ZXYud2hvfSDCtyB7bWV0YS5zdWJ9PC9zcGFuPjwvZGl2PgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ0bWV0YSI+PHNwYW4gY2xhc3NOYW1lPSJmbGFnIj57ZXYuY291bnRyeX08L3NwYW4+IMK3IHtyZWwoZXYudHMsIG5vdyl9PC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgKTsKICAgICAgICB9KX0KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICApOwp9Cg=="}
+"use client";
+/* eslint-disable @typescript-eslint/no-explicit-any */
+// Ported v4 section primitives — pure components fed by buildV4 output.
+
+import { useEffect, useState } from "react";
+import { C, rel } from "./map";
+
+export function useCountUp(target: number, dur = 1100, start = true) {
+  const [anim, setAnim] = useState(0);
+  useEffect(() => {
+    if (!start) return;
+    let raf = 0, t0 = 0;
+    const tick = (t: number) => {
+      if (!t0) t0 = t;
+      const k = Math.min(1, (t - t0) / dur);
+      setAnim(target * (1 - Math.pow(1 - k, 3)));
+      if (k < 1) raf = requestAnimationFrame(tick);
+    };
+    raf = requestAnimationFrame(tick);
+    return () => cancelAnimationFrame(raf);
+  }, [target, dur, start]);
+  return start ? anim : target;
+}
+
+export function QCLMark({ size = 26 }: { size?: number }) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 100 100" aria-hidden="true">
+      <path d="M30 38 C45 38 50 44 64 46 L64 52 C50 52 45 56 30 60 Z" fill="#BFFA46" opacity="0.55" />
+      <rect x="27" y="34" width="4" height="30" fill="#BFFA46" />
+      <rect x="63" y="42" width="4" height="13" fill="#8FD0FF" />
+      <circle cx="74" cy="48" r="3" fill="#BFFA46" />
+    </svg>
+  );
+}
+
+export function SecHead({ title, k, color }: { title: string; k?: string; color?: string }) {
+  return (
+    <div className="v4-sechead">
+      <span className="v4-sq" style={{ background: color || C.acid, boxShadow: `0 0 12px ${color || C.acid}` }} />
+      <h3>{title}</h3>
+      {k && <span className="v4-k">{k}</span>}
+    </div>
+  );
+}
+
+export function NoteBox({ color, children }: { color?: string; children: React.ReactNode }) {
+  return <div className="v4-note" style={{ borderColor: color || "#22222B" }}>{children}</div>;
+}
+
+export function TileGrid({ tiles, cols }: { tiles: any[]; cols?: number }) {
+  return (
+    <div className="v4-tiles" style={{ gridTemplateColumns: `repeat(${cols || tiles.length}, 1fr)` }}>
+      {tiles.map((t, i) => (
+        <div className="v4-tile" key={i}>
+          <div className="vt-label">{t.label}</div>
+          <div className={"vt-val" + (t.money ? " jx-money" : "")} style={{ color: t.color, fontSize: t.small ? 22 : undefined }}>{t.value}</div>
+          {t.delta && <div className="vt-delta" style={{ color: t.down ? C.drop : C.acid }}>{t.delta}</div>}
+          <div className="vt-sub">{t.sub}</div>
+        </div>
+      ))}
+    </div>
+  );
+}
+
+export function ScoreTile({ t, delay }: { t: any; delay: number }) {
+  const v = useCountUp(t.value, 1100 + delay);
+  const fmt = t.fmt === "usd" ? "$" + Math.round(v).toLocaleString() : Math.round(v).toLocaleString();
+  return (
+    <div className="v4-tile">
+      <div className="vt-label">{t.label}</div>
+      <div className={"vt-val" + (t.money ? " jx-money" : "")} style={{ color: t.color }}>{fmt}</div>
+      <div className="vt-sub">{t.sub}</div>
+    </div>
+  );
+}
+
+export function Scoreboard({ board }: { board: any[] }) {
+  return <div className="v4-tiles" style={{ gridTemplateColumns: "repeat(6,1fr)" }}>{board.map((t, i) => <ScoreTile key={i} t={t} delay={i * 90} />)}</div>;
+}
+
+export function FlowStrip({ items }: { items: any[] }) {
+  return (
+    <div className="v4-flow">
+      {items.map((it, i) => it.conv
+        ? <div className="vf-arrow" key={i}><span>→</span><b>{it.conv}</b></div>
+        : (
+          <div className="vf-box" key={i}>
+            <div className={"vf-v" + (it.money ? " jx-money" : "")} style={{ color: it.drop ? C.drop : it.money ? C.acid : undefined }}>{it.v}</div>
+            <div className="vf-l">{it.label}</div>
+            {it.sub && <div className="vf-s">{it.sub}</div>}
+            {it.moneySub && <div className="vf-m">{it.moneySub}</div>}
+          </div>
+        ))}
+    </div>
+  );
+}
+
+export function StepBars({ steps, color }: { steps: any[]; color: string }) {
+  const max = Math.max(...steps.map((s) => s.count), 1);
+  return (
+    <div className="v4-steps">
+      {steps.map((s, i) => (
+        <div key={i}>
+          <div className="vs-row">
+            <div className="vs-label">{s.label}{s.sub && <span>{s.sub}</span>}</div>
+            <div className="vs-track">
+              <div className="vs-bar" style={{ width: (s.count / max * 100) + "%", background: color, boxShadow: `0 0 14px ${color}55` }}><b>{s.count.toLocaleString()}</b></div>
+            </div>
+          </div>
+          {s.conv && <div className="vs-drop">↓ <b>{s.conv}</b>{s.dropped && <i> · {s.dropped}</i>}</div>}
+        </div>
+      ))}
+    </div>
+  );
+}
+
+export function DataTable({ cols, rows, accentCol, accentColor, firstLeft = true }: { cols: string[]; rows: any[][]; accentCol?: number; accentColor?: string; firstLeft?: boolean }) {
+  const grid = `2.2fr ${"1fr ".repeat(cols.length - 1).trim()}`;
+  return (
+    <div className="v4-table">
+      <div className="vtb-head" style={{ gridTemplateColumns: grid }}>
+        {cols.map((c, i) => <span key={i} style={{ textAlign: i === 0 && firstLeft ? "left" : "right" }}>{c}</span>)}
+      </div>
+      {rows.map((r, ri) => (
+        <div className="vtb-row" key={ri} style={{ gridTemplateColumns: grid }}>
+          {r.map((cell, ci) => (
+            <span key={ci} style={{
+              textAlign: ci === 0 && firstLeft ? "left" : "right",
+              fontFamily: ci === 0 ? "var(--font-body)" : "var(--font-mono)",
+              color: ci === accentCol ? (accentColor || C.acid) : undefined,
+              fontWeight: ci === accentCol ? 600 : undefined,
+            }}>{cell}</span>
+          ))}
+        </div>
+      ))}
+    </div>
+  );
+}
+
+export function HBars({ rows, money }: { rows: any[]; money?: boolean }) {
+  const max = Math.max(...rows.map((r) => r[1]), 1);
+  return (
+    <div className="v4-hbars">
+      {rows.map(([label, val, color]: any, i: number) => (
+        <div className="vh-row" key={i}>
+          <span className="vh-l">{label}</span>
+          <div className="vh-track"><div className="vh-bar" style={{ width: Math.max(1.5, val / max * 100) + "%", background: color, boxShadow: `0 0 10px ${color}66` }} /></div>
+          <span className="vh-v" style={{ color }}>{money ? "$" + val.toLocaleString() : val.toLocaleString()}</span>
+        </div>
+      ))}
+    </div>
+  );
+}
+
+export function StackedBars({ daily }: { daily: any }) {
+  const max = Math.max(...daily.series.map((d: any) => d.free + d.vsl), 1);
+  const [hov, setHov] = useState<number | null>(null);
+  return (
+    <div>
+      <div className="v4-legend">
+        <span><i style={{ background: C.acid }} />Free course signups</span>
+        <span><i style={{ background: C.blue }} />VSL leads</span>
+        {hov != null && <span className="v4-hovinfo">{daily.days[hov]} · free {daily.series[hov].free} · vsl {daily.series[hov].vsl}</span>}
+      </div>
+      <div className="v4-stack" onMouseLeave={() => setHov(null)}>
+        {daily.series.map((d: any, i: number) => (
+          <div className="vstk-col" key={i} onMouseEnter={() => setHov(i)} style={{ opacity: hov == null || hov === i ? 1 : 0.45 }}>
+            <div className="vstk-bars">
+              <div style={{ height: (d.free / max * 100) + "%", background: C.acid }} />
+              <div style={{ height: (d.vsl / max * 100) + "%", background: C.blue }} />
+            </div>
+            {i % 2 === 0 && <span className="vstk-x">{daily.days[i]}</span>}
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}
+
+export function TrendBars({ trend }: { trend: any }) {
+  const max = Math.max(...trend.values, 1);
+  return (
+    <div>
+      <div className="v4-trend">
+        {trend.months.map((m: string, i: number) => (
+          <div className="vtr-col" key={i}>
+            <div className="vtr-val" style={{ color: trend.values[i] >= 40 ? C.acid : C.bone }}>${trend.values[i]}k</div>
+            <div className="vtr-track">
+              <div className="vtr-bar" style={{ height: (trend.values[i] / max * 100) + "%", background: i === trend.months.length - 1 ? "rgba(191,250,70,0.35)" : C.acid, boxShadow: `0 0 16px ${C.acid}44` }} />
+            </div>
+            {trend.deltas[i] && <div className="vtr-delta" style={{ color: trend.deltas[i].startsWith("+") ? C.acid : C.drop }}>{trend.deltas[i]}</div>}
+            <div className="vtr-x">{m}</div>
+          </div>
+        ))}
+      </div>
+      <div className="v4-fine">{trend.note}</div>
+    </div>
+  );
+}
+
+export function WeeklyLines({ weekly }: { weekly: any }) {
+  const n = weekly.labels.length, W = 1144, top = 10, plotH = 150, padL = 14, padR = 34;
+  const xFor = (i: number) => padL + (W - padL - padR) * (n > 1 ? i / (n - 1) : 0.5);
+  const lines: any[] = weekly.lines;
+  const mainMax = Math.max(...lines.filter((l) => l.scale === "main").flatMap((l) => l.values), 1);
+  const subMax = Math.max(...lines.filter((l) => l.scale !== "main").flatMap((l) => l.values), 1);
+  const yFor = (v: number, scale: string) => top + plotH * (1 - v / (scale === "main" ? mainMax : subMax));
+  return (
+    <div>
+      <div className="v4-legend">{lines.map((l) => <span key={l.name}><i style={{ background: l.color }} />{l.name}</span>)}</div>
+      <svg viewBox="0 0 1144 190" style={{ width: "100%", display: "block" }}>
+        {lines.map((l, li) => (
+          <g key={li}>
+            <polyline points={l.values.map((v: number, i: number) => `${xFor(i)},${yFor(v, l.scale)}`).join(" ")} fill="none" stroke={l.color} strokeWidth="2" style={{ filter: `drop-shadow(0 0 6px ${l.color}88)` }} />
+            {l.values.map((v: number, i: number) => <circle key={i} cx={xFor(i)} cy={yFor(v, l.scale)} r="3.5" fill={l.color} />)}
+          </g>
+        ))}
+        {weekly.labels.map((lb: string, i: number) => <text key={i} x={xFor(i)} y={184} textAnchor="middle" fontFamily="var(--font-mono)" fontSize="11" fill="#555560">{lb}</text>)}
+      </svg>
+      <div className="v4-fine">{weekly.note}</div>
+    </div>
+  );
+}
+
+function polar(cx: number, cy: number, r: number, deg: number) { const a = (deg - 90) * Math.PI / 180; return { x: cx + r * Math.cos(a), y: cy + r * Math.sin(a) }; }
+function arcPath(cx: number, cy: number, r: number, s: number, e: number) { const A = polar(cx, cy, r, e), B = polar(cx, cy, r, s); const large = e - s <= 180 ? 0 : 1; return `M ${A.x} ${A.y} A ${r} ${r} 0 ${large} 0 ${B.x} ${B.y}`; }
+export function ArcGauge({ g, animate }: { g: any; animate: boolean }) {
+  const START = -120, SWEEP = 240, END = START + SWEEP;
+  const v = useCountUp(g.value, 1200, animate);
+  const valDeg = START + SWEEP * Math.min(1, v / 100);
+  const tgtDeg = START + SWEEP * (g.target / 100);
+  const tgt = polar(50, 50, 38, tgtDeg), tgtIn = polar(50, 50, 31, tgtDeg);
+  return (
+    <div className="gauge">
+      <div className="glabel">{g.label}</div>
+      <svg width="92" height="78" viewBox="0 0 100 86">
+        <path d={arcPath(50, 50, 38, START, END)} fill="none" stroke="rgba(255,255,255,0.07)" strokeWidth="6" />
+        <path d={arcPath(50, 50, 38, START, valDeg)} fill="none" stroke={g.color} strokeWidth="6" style={{ filter: `drop-shadow(0 0 5px ${g.color}88)` }} />
+        <line x1={tgtIn.x} y1={tgtIn.y} x2={tgt.x} y2={tgt.y} stroke="var(--bone)" strokeWidth="1.4" strokeOpacity="0.7" />
+        <text x="50" y="52" textAnchor="middle" fontFamily="var(--font-display)" fontSize="22" fill={g.color}>{Math.round(v)}{g.unit}</text>
+        <text x="50" y="64" textAnchor="middle" fontFamily="var(--font-mono)" fontSize="6.5" letterSpacing="1" fill="var(--steel)">TGT {g.target}{g.unit}</text>
+      </svg>
+      <div className="gbasis">{g.basis}</div>
+    </div>
+  );
+}
+
+export function Directives({ directives, onFocus }: { directives: any[]; onFocus?: (id: string | null) => void }) {
+  return (
+    <div className="directives">
+      {directives.map((d) => (
+        <div className="directive" key={d.rank} onMouseEnter={() => onFocus?.(d.node)} onMouseLeave={() => onFocus?.(null)}>
+          <div className="sevbar" style={{ background: d.color }} />
+          <div className="rank">{String(d.rank).padStart(2, "0")}</div>
+          <div className="dmain">
+            <div className="dsev" style={{ color: d.color }}><span className="sevdot" style={{ background: d.color }} />{d.sev} SEVERITY</div>
+            <div className="dtitle">{d.title}</div>
+            <div className="dproblem">{d.problem}</div>
+            <div className="dfix"><span className="arrow">FIX →</span><span>{d.fix}</span></div>
+            <div className="dmetric">{d.metric}</div>
+          </div>
+          <div className="dmoney">
+            <div className="mval" style={{ color: d.money > 0 ? d.color : "var(--steel)" }}>{d.money > 0 ? "~$" + d.money.toLocaleString() : "—"}</div>
+            <div className="mcap">{d.money > 0 ? "on the table" : "no $ yet"}</div>
+          </div>
+        </div>
+      ))}
+    </div>
+  );
+}
+
+export function Telemetry({ feed, eventTypes, now }: { feed: any[]; eventTypes: any; now: number }) {
+  return (
+    <div className="panel telemetry">
+      <div className="thead">
+        <span className="led" style={{ background: C.acid }} />
+        <span className="panel-kicker">Live Telemetry</span>
+        <span className="spacer" style={{ flex: 1 }} />
+        <span className="panel-sub">{feed.length} events</span>
+      </div>
+      <div className="feed">
+        {feed.length === 0 && <div style={{ padding: 28, textAlign: "center", fontFamily: "var(--font-mono)", fontSize: 11, color: C.dim }}>waiting for funnel activity…</div>}
+        {feed.map((ev) => {
+          const meta = eventTypes[ev.event] || { color: C.ash, glyph: "·", label: ev.event, sub: "" };
+          return (
+            <div className="tevent" key={ev._id}>
+              <div className="tglyph" style={{ color: meta.color }}>{meta.glyph}</div>
+              <div className="tinfo"><b>{meta.label}</b><span>@{ev.who} · {meta.sub}</span></div>
+              <div className="tmeta"><span className="flag">{ev.country}</span> · {rel(ev.ts, now)}</div>
+            </div>
+          );
+        })}
+      </div>
+    </div>
+  );
+}

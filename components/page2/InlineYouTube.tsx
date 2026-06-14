@@ -1,1 +1,33 @@
-{"data":"ZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gSW5saW5lWW91VHViZSh7CiAgdmlkZW9JZCwKICB0aXRsZSwKICBzdGFydCA9IDAsCn06IHsKICB2aWRlb0lkOiBzdHJpbmc7CiAgdGl0bGU6IHN0cmluZzsKICBzdGFydD86IG51bWJlcjsKfSkgewogIGNvbnN0IGVtYmVkID0gYGh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL2VtYmVkLyR7dmlkZW9JZH0/cmVsPTAmbW9kZXN0YnJhbmRpbmc9MSZwbGF5c2lubGluZT0xJHtzdGFydCA/IGAmc3RhcnQ9JHtzdGFydH1gIDogIiJ9YDsKICByZXR1cm4gKAogICAgPGRpdgogICAgICBzdHlsZT17ewogICAgICAgIHBvc2l0aW9uOiAicmVsYXRpdmUiLAogICAgICAgIGRpc3BsYXk6ICJibG9jayIsCiAgICAgICAgYXNwZWN0UmF0aW86ICIxNi85IiwKICAgICAgICBib3JkZXI6ICIxcHggc29saWQgdmFyKC0tbGluZSkiLAogICAgICAgIG92ZXJmbG93OiAiaGlkZGVuIiwKICAgICAgICBiYWNrZ3JvdW5kOiAidmFyKC0tYmctMikiLAogICAgICB9fQogICAgPgogICAgICA8aWZyYW1lCiAgICAgICAgc3JjPXtlbWJlZH0KICAgICAgICB0aXRsZT17dGl0bGV9CiAgICAgICAgZnJhbWVCb3JkZXI9IjAiCiAgICAgICAgYWxsb3c9ImFjY2VsZXJvbWV0ZXI7IGF1dG9wbGF5OyBjbGlwYm9hcmQtd3JpdGU7IGVuY3J5cHRlZC1tZWRpYTsgZ3lyb3Njb3BlOyBwaWN0dXJlLWluLXBpY3R1cmU7IHdlYi1zaGFyZSIKICAgICAgICBhbGxvd0Z1bGxTY3JlZW4KICAgICAgICByZWZlcnJlclBvbGljeT0ic3RyaWN0LW9yaWdpbi13aGVuLWNyb3NzLW9yaWdpbiIKICAgICAgICBzdHlsZT17eyBwb3NpdGlvbjogImFic29sdXRlIiwgaW5zZXQ6IDAsIHdpZHRoOiAiMTAwJSIsIGhlaWdodDogIjEwMCUiLCBib3JkZXI6IDAgfX0KICAgICAgLz4KICAgIDwvZGl2PgogICk7Cn0K"}
+export default function InlineYouTube({
+  videoId,
+  title,
+  start = 0,
+}: {
+  videoId: string;
+  title: string;
+  start?: number;
+}) {
+  const embed = `https://www.youtube.com/embed/${videoId}?rel=0&modestbranding=1&playsinline=1${start ? `&start=${start}` : ""}`;
+  return (
+    <div
+      style={{
+        position: "relative",
+        display: "block",
+        aspectRatio: "16/9",
+        border: "1px solid var(--line)",
+        overflow: "hidden",
+        background: "var(--bg-2)",
+      }}
+    >
+      <iframe
+        src={embed}
+        title={title}
+        frameBorder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowFullScreen
+        referrerPolicy="strict-origin-when-cross-origin"
+        style={{ position: "absolute", inset: 0, width: "100%", height: "100%", border: 0 }}
+      />
+    </div>
+  );
+}

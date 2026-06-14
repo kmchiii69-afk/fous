@@ -1,1 +1,66 @@
-{"data":"Ly8gUE9TVCAvYXBpL2NhbGxiYWNrLXJlcXVlc3QKLy8KLy8gRmlyZWQgZnJvbSB0aGUgL2Jvb2sgcGFnZSB3aGVuIGEgcXVhbGlmaWVkIGxlYWQgY2FuJ3QgKG9yIHdvbid0KSBwaWNrIGEKLy8gQ2FsZW5kbHkgc2xvdCBhbmQgdGFwcyAiaGF2ZSB0aGUgdGVhbSBjYWxsIG1lIiBpbnN0ZWFkLiBBdHRhY2hlcyBhIG5vdGUKLy8gdG8gdGhlIENsb3NlIGxlYWQgYW5kIHBpbmdzIHNldHRlcnMgaW4gRGlzY29yZCBzbyB0aGUgaW50ZW50IGlzIHdvcmtlZAovLyBpbW1lZGlhdGVseSBpbnN0ZWFkIG9mIGV2YXBvcmF0aW5nIHdoZW4gdGhlIHRhYiBjbG9zZXMuCgppbXBvcnQgeyBOZXh0UmVxdWVzdCwgTmV4dFJlc3BvbnNlIH0gZnJvbSAibmV4dC9zZXJ2ZXIiOwppbXBvcnQgeyB1cGRhdGVMZWFkRmllbGRzQnlFbWFpbCB9IGZyb20gIkAvbGliL2Nsb3NlIjsKaW1wb3J0IHsgcGluZ0NhbGxiYWNrUmVxdWVzdGVkIH0gZnJvbSAiQC9saWIvZGlzY29yZCI7CgpleHBvcnQgY29uc3QgcnVudGltZSA9ICJub2RlanMiOwpleHBvcnQgY29uc3QgZHluYW1pYyA9ICJmb3JjZS1keW5hbWljIjsKCmNvbnN0IEVNQUlMX1JFID0gL15bXlxzQF0rQFteXHNAXStcLlteXHNAXSskLzsKCmZ1bmN0aW9uIGNsZWFuKHM6IHVua25vd24sIG1heDogbnVtYmVyKTogc3RyaW5nIHsKICByZXR1cm4gdHlwZW9mIHMgPT09ICJzdHJpbmciID8gcy50cmltKCkuc2xpY2UoMCwgbWF4KSA6ICIiOwp9CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gUE9TVChyZXE6IE5leHRSZXF1ZXN0KSB7CiAgbGV0IHJhdzogdW5rbm93bjsKICB0cnkgewogICAgcmF3ID0gYXdhaXQgcmVxLmpzb24oKTsKICB9IGNhdGNoIHsKICAgIHJldHVybiBOZXh0UmVzcG9uc2UuanNvbih7IG9rOiBmYWxzZSwgZXJyb3I6ICJJbnZhbGlkIEpTT04iIH0sIHsgc3RhdHVzOiA0MDAgfSk7CiAgfQogIGNvbnN0IGJvZHkgPSAocmF3ICYmIHR5cGVvZiByYXcgPT09ICJvYmplY3QiID8gcmF3IDoge30pIGFzIFJlY29yZDxzdHJpbmcsIHVua25vd24+OwoKICBjb25zdCBmaXJzdF9uYW1lID0gY2xlYW4oYm9keS5maXJzdF9uYW1lLCA0MCk7CiAgY29uc3QgbGFzdF9uYW1lID0gY2xlYW4oYm9keS5sYXN0X25hbWUsIDQwKTsKICBjb25zdCBlbWFpbCA9IGNsZWFuKGJvZHkuZW1haWwsIDEyMCkudG9Mb3dlckNhc2UoKTsKICBjb25zdCBwaG9uZSA9IGNsZWFuKGJvZHkucGhvbmUsIDI0KTsKCiAgaWYgKCFFTUFJTF9SRS50ZXN0KGVtYWlsKSkgewogICAgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKHsgb2s6IGZhbHNlLCBlcnJvcjogIkludmFsaWQgZW1haWwiIH0sIHsgc3RhdHVzOiA0MDAgfSk7CiAgfQoKICBjb25zdCBjbG9zZVJlcyA9IGF3YWl0IFByb21pc2UuYWxsU2V0dGxlZChbCiAgICB1cGRhdGVMZWFkRmllbGRzQnlFbWFpbChlbWFpbCwgewogICAgICBub3RlOiAiQ2FsbGJhY2sgcmVxdWVzdGVkIGZyb20gL2Jvb2sg4oCUIGxlYWQgcmVhY2hlZCB0aGUgYm9va2luZyBjYWxlbmRhciBidXQgYXNrZWQgZm9yIGEgY2FsbCBpbnN0ZWFkIG9mIHNlbGYtc2NoZWR1bGluZy4gU3BlZWQtdG8tbGVhZCBhcHBsaWVzLiIsCiAgICB9KSwKICBdKTsKICBpZiAoY2xvc2VSZXNbMF0uc3RhdHVzID09PSAicmVqZWN0ZWQiKSB7CiAgICBjb25zb2xlLmVycm9yKCJbL2FwaS9jYWxsYmFjay1yZXF1ZXN0XSBDbG9zZSB1cGRhdGUgZmFpbGVkOiIsIGNsb3NlUmVzWzBdLnJlYXNvbik7CiAgfQogIGNvbnN0IGxlYWRfaWQgPQogICAgY2xvc2VSZXNbMF0uc3RhdHVzID09PSAiZnVsZmlsbGVkIiAmJiBjbG9zZVJlc1swXS52YWx1ZSA/IGNsb3NlUmVzWzBdLnZhbHVlLmxlYWRfaWQgOiBudWxsOwoKICBjb25zdCBbZGlzY29yZFJlc10gPSBhd2FpdCBQcm9taXNlLmFsbFNldHRsZWQoWwogICAgcGluZ0NhbGxiYWNrUmVxdWVzdGVkKHsgZmlyc3RfbmFtZSwgbGFzdF9uYW1lLCBlbWFpbCwgcGhvbmUsIGxlYWRfaWQgfSksCiAgXSk7CiAgaWYgKGRpc2NvcmRSZXMuc3RhdHVzID09PSAicmVqZWN0ZWQiKSB7CiAgICBjb25zb2xlLmVycm9yKCJbL2FwaS9jYWxsYmFjay1yZXF1ZXN0XSBEaXNjb3JkIHBpbmcgZmFpbGVkOiIsIGRpc2NvcmRSZXMucmVhc29uKTsKICB9CgogIHJldHVybiBOZXh0UmVzcG9uc2UuanNvbih7CiAgICBvazogdHJ1ZSwKICAgIGNsb3NlOiBjbG9zZVJlc1swXS5zdGF0dXMsCiAgICBkaXNjb3JkOiBkaXNjb3JkUmVzLnN0YXR1cywKICB9KTsKfQoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIEdFVCgpIHsKICByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oeyBvazogdHJ1ZSwgZW5kcG9pbnQ6ICIvYXBpL2NhbGxiYWNrLXJlcXVlc3QiLCBtZXRob2Q6ICJQT1NUIGV4cGVjdGVkIiB9KTsKfQo="}
+// POST /api/callback-request
+//
+// Fired from the /book page when a qualified lead can't (or won't) pick a
+// Calendly slot and taps "have the team call me" instead. Attaches a note
+// to the Close lead and pings setters in Discord so the intent is worked
+// immediately instead of evaporating when the tab closes.
+
+import { NextRequest, NextResponse } from "next/server";
+import { updateLeadFieldsByEmail } from "@/lib/close";
+import { pingCallbackRequested } from "@/lib/discord";
+
+export const runtime = "nodejs";
+export const dynamic = "force-dynamic";
+
+const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+function clean(s: unknown, max: number): string {
+  return typeof s === "string" ? s.trim().slice(0, max) : "";
+}
+
+export async function POST(req: NextRequest) {
+  let raw: unknown;
+  try {
+    raw = await req.json();
+  } catch {
+    return NextResponse.json({ ok: false, error: "Invalid JSON" }, { status: 400 });
+  }
+  const body = (raw && typeof raw === "object" ? raw : {}) as Record<string, unknown>;
+
+  const first_name = clean(body.first_name, 40);
+  const last_name = clean(body.last_name, 40);
+  const email = clean(body.email, 120).toLowerCase();
+  const phone = clean(body.phone, 24);
+
+  if (!EMAIL_RE.test(email)) {
+    return NextResponse.json({ ok: false, error: "Invalid email" }, { status: 400 });
+  }
+
+  const closeRes = await Promise.allSettled([
+    updateLeadFieldsByEmail(email, {
+      note: "Callback requested from /book — lead reached the booking calendar but asked for a call instead of self-scheduling. Speed-to-lead applies.",
+    }),
+  ]);
+  if (closeRes[0].status === "rejected") {
+    console.error("[/api/callback-request] Close update failed:", closeRes[0].reason);
+  }
+  const lead_id =
+    closeRes[0].status === "fulfilled" && closeRes[0].value ? closeRes[0].value.lead_id : null;
+
+  const [discordRes] = await Promise.allSettled([
+    pingCallbackRequested({ first_name, last_name, email, phone, lead_id }),
+  ]);
+  if (discordRes.status === "rejected") {
+    console.error("[/api/callback-request] Discord ping failed:", discordRes.reason);
+  }
+
+  return NextResponse.json({
+    ok: true,
+    close: closeRes[0].status,
+    discord: discordRes.status,
+  });
+}
+
+export async function GET() {
+  return NextResponse.json({ ok: true, endpoint: "/api/callback-request", method: "POST expected" });
+}

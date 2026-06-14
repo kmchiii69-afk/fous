@@ -1,1 +1,81 @@
-{"data":"InVzZSBjbGllbnQiOwovKiBlc2xpbnQtZGlzYWJsZSBAdHlwZXNjcmlwdC1lc2xpbnQvbm8tZXhwbGljaXQtYW55ICovCi8vIFRoZSBMaXZpbmcgRnVubmVsIGhlcm8g4oCUIGZ1bGwtYmxlZWQgY2luZW1hdGljIGNhbnZhcyBzdGFnZSArIEhVRCBjaHJvbWUgKwovLyBwYXRoIGZpbHRlcnMgKyBob3ZlciB0aXAgKyBsaXZlIHRlbGVtZXRyeSB0aWNrZXIuIE1vdW50cyB0aGUgcG9ydGVkIGVuZ2luZS4KCmltcG9ydCB7IHVzZUVmZmVjdCwgdXNlUmVmLCB1c2VTdGF0ZSB9IGZyb20gInJlYWN0IjsKaW1wb3J0IHsgRnVubmVsRW5naW5lVjIgfSBmcm9tICIuL2VuZ2luZSI7CmltcG9ydCB7IHJlbCB9IGZyb20gIi4vbWFwIjsKCmV4cG9ydCBmdW5jdGlvbiBGdW5uZWxIZXJvKHsgZGF0YSwgZW5naW5lUmVmLCBpbnRlbnNpdHksIGZlZWQsIHBlcmlvZCA9IDMwLCBub3cgPSAwIH06IHsgZGF0YTogYW55OyBlbmdpbmVSZWY6IGFueTsgaW50ZW5zaXR5OiBudW1iZXI7IGZlZWQ6IGFueVtdOyBwZXJpb2Q/OiBudW1iZXI7IG5vdz86IG51bWJlciB9KSB7CiAgY29uc3QgY2FudmFzUmVmID0gdXNlUmVmPEhUTUxDYW52YXNFbGVtZW50PihudWxsKTsKICBjb25zdCB3cmFwUmVmID0gdXNlUmVmPEhUTUxEaXZFbGVtZW50PihudWxsKTsKICBjb25zdCBbdGlwLCBzZXRUaXBdID0gdXNlU3RhdGU8YW55PihudWxsKTsKICBjb25zdCBbZmlsdGVyLCBzZXRGaWx0ZXJdID0gdXNlU3RhdGU8c3RyaW5nIHwgbnVsbD4obnVsbCk7CiAgY29uc3QgQyA9IGRhdGEuQzsKCiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIGlmICghY2FudmFzUmVmLmN1cnJlbnQgfHwgIXdyYXBSZWYuY3VycmVudCkgcmV0dXJuOwogICAgY29uc3QgcmVkdWNlZCA9IHdpbmRvdy5tYXRjaE1lZGlhKCIocHJlZmVycy1yZWR1Y2VkLW1vdGlvbjogcmVkdWNlKSIpLm1hdGNoZXM7CiAgICBjb25zdCBlbmc6IGFueSA9IG5ldyBGdW5uZWxFbmdpbmVWMihjYW52YXNSZWYuY3VycmVudCwgewogICAgICBkYXRhOiB7IEMgfSwgaW50ZW5zaXR5LCByZWR1Y2VkLCB0b3BvbG9neTogZGF0YS5UT1BPTE9HWSwgb25Ib3ZlcjogKG46IGFueSkgPT4gc2V0VGlwKG4pLAogICAgfSk7CiAgICBlbmdpbmVSZWYuY3VycmVudCA9IGVuZzsKICAgIGVuZy5zdGFydCgpOwogICAgY29uc3Qgcm8gPSBuZXcgUmVzaXplT2JzZXJ2ZXIoKCkgPT4gZW5nLnJlc2l6ZSgpKTsKICAgIHJvLm9ic2VydmUod3JhcFJlZi5jdXJyZW50KTsKICAgIGNvbnN0IGlvID0gbmV3IEludGVyc2VjdGlvbk9ic2VydmVyKChlbnRzKSA9PiB7CiAgICAgIGVudHMuZm9yRWFjaCgoZW4pID0+IHsgaWYgKHJlZHVjZWQpIHJldHVybjsgaWYgKGVuLmlzSW50ZXJzZWN0aW5nKSBlbmcuc3RhcnQoKTsgZWxzZSBlbmcuc3RvcCgpOyB9KTsKICAgIH0sIHsgdGhyZXNob2xkOiAwLjAyIH0pOwogICAgaW8ub2JzZXJ2ZSh3cmFwUmVmLmN1cnJlbnQpOwogICAgY29uc3Qgb25IaWRlID0gKCkgPT4geyBpZiAoZG9jdW1lbnQuaGlkZGVuKSBlbmcuc3RvcCgpOyBlbHNlIGlmICghcmVkdWNlZCkgZW5nLnN0YXJ0KCk7IH07CiAgICBkb2N1bWVudC5hZGRFdmVudExpc3RlbmVyKCJ2aXNpYmlsaXR5Y2hhbmdlIiwgb25IaWRlKTsKICAgIHJldHVybiAoKSA9PiB7IGVuZy5kZXN0cm95KCk7IHJvLmRpc2Nvbm5lY3QoKTsgaW8uZGlzY29ubmVjdCgpOyBkb2N1bWVudC5yZW1vdmVFdmVudExpc3RlbmVyKCJ2aXNpYmlsaXR5Y2hhbmdlIiwgb25IaWRlKTsgZW5naW5lUmVmLmN1cnJlbnQgPSBudWxsOyB9OwogICAgLy8gZXNsaW50LWRpc2FibGUtbmV4dC1saW5lIHJlYWN0LWhvb2tzL2V4aGF1c3RpdmUtZGVwcwogIH0sIFtdKTsKCiAgZnVuY3Rpb24gc2V0RihmOiBzdHJpbmcgfCBudWxsKSB7IHNldEZpbHRlcihmKTsgZW5naW5lUmVmLmN1cnJlbnQ/LnNldEZpbHRlcihmKTsgfQoKICBjb25zdCBsZWdlbmQgPSBbCiAgICB7IGM6IEMuYWNpZCwgdDogIkZyZWUgLyBNb25leSIgfSwgeyBjOiBDLmJsdWUsIHQ6ICJWU0wgLyBRdWFudHVtIiB9LAogICAgeyBjOiBDLmN5YW4sIHQ6ICJXb2xmIiB9LCB7IGM6IEMucHVycCwgdDogIkdlbyIgfSwgeyBjOiBDLmRyb3AsIHQ6ICJMZWFrIiB9LAogIF07CgogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0iaGVybzIiIHJlZj17d3JhcFJlZn0+CiAgICAgIDxjYW52YXMgcmVmPXtjYW52YXNSZWZ9IGNsYXNzTmFtZT0iaGVybzItY2FudmFzIiAvPgogICAgICA8ZGl2IGNsYXNzTmFtZT0iaGVybzItdGwiPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJoZXJvMi1raWNrZXIiPlFDTCAvLyBGVU5ORUwgQ09NTUFORCDCtyB7cGVyaW9kfUQgV0lORE9XPC9kaXY+CiAgICAgICAgPGgyIGNsYXNzTmFtZT0iaGVybzItdGl0bGUiPlRoZSA8ZW0+TGl2aW5nPC9lbT4gRnVubmVsPC9oMj4KICAgICAgPC9kaXY+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJoZXJvMi10ciI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZpbHRlcnMiPgogICAgICAgICAge1tbImFsbCIsIG51bGxdLCBbInF1YW50dW0iLCAicXVhbnR1bSJdLCBbIndvbGYiLCAid29sZiJdXS5tYXAoKFtsYmwsIHZhbF0pID0+ICgKICAgICAgICAgICAgPGJ1dHRvbiBrZXk9e2xibCBhcyBzdHJpbmd9IGNsYXNzTmFtZT17ZmlsdGVyID09PSB2YWwgPyAib24iIDogIiJ9IG9uQ2xpY2s9eygpID0+IHNldEYodmFsIGFzIGFueSl9PntsYmx9PC9idXR0b24+CiAgICAgICAgICApKX0KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJoZXJvMi10aWNrZXIiPgogICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGljay1sYWJlbCI+PHNwYW4gY2xhc3NOYW1lPSJsZWQiIC8+TElWRTwvc3Bhbj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idGljay1yb3ciPgogICAgICAgICAge2ZlZWQuc2xpY2UoMCwgNikubWFwKChldikgPT4gewogICAgICAgICAgICBjb25zdCBtZXRhID0gZGF0YS5FVkVOVF9UWVBFU1tldi5ldmVudF0gfHwgeyBjb2xvcjogQy5hc2gsIGdseXBoOiAiwrciLCBsYWJlbDogZXYuZXZlbnQgfTsKICAgICAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRpY2stY2hpcCIga2V5PXtldi5faWR9PgogICAgICAgICAgICAgICAgPGIgc3R5bGU9e3sgY29sb3I6IG1ldGEuY29sb3IgfX0+e21ldGEuZ2x5cGh9PC9iPnttZXRhLmxhYmVsfTxpPkB7ZXYud2hvfSDCtyB7cmVsKGV2LnRzLCBub3cpfTwvaT4KICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICk7CiAgICAgICAgICB9KX0KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iaGVybzItbGVnZW5kIj57bGVnZW5kLm1hcCgobCkgPT4gPHNwYW4ga2V5PXtsLnR9PjxpIHN0eWxlPXt7IGJhY2tncm91bmQ6IGwuYywgYm94U2hhZG93OiBgMCAwIDZweCAke2wuY31gIH19IC8+e2wudH08L3NwYW4+KX08L2Rpdj4KICAgICAgPC9kaXY+CiAgICAgIHt0aXAgJiYgKAogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJub2RlLXRpcCBzaG93IiBzdHlsZT17eyBsZWZ0OiB0aXAuc3gsIHRvcDogdGlwLnN5IH19PgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im50LWxhYmVsIiBzdHlsZT17eyBjb2xvcjogdGlwLmNvbG9yIH19Pnt0aXAubGFiZWx9PC9kaXY+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibnQtY291bnQiIHN0eWxlPXt7IGNvbG9yOiB0aXAuY29sb3IgfX0+e3RpcC5jb3VudC50b0xvY2FsZVN0cmluZygpfTwvZGl2PgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im50LXN1YiI+e3RpcC5zdWJ9PC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgICl9CiAgICA8L2Rpdj4KICApOwp9Cg=="}
+"use client";
+/* eslint-disable @typescript-eslint/no-explicit-any */
+// The Living Funnel hero — full-bleed cinematic canvas stage + HUD chrome +
+// path filters + hover tip + live telemetry ticker. Mounts the ported engine.
+
+import { useEffect, useRef, useState } from "react";
+import { FunnelEngineV2 } from "./engine";
+import { rel } from "./map";
+
+export function FunnelHero({ data, engineRef, intensity, feed, period = 30, now = 0 }: { data: any; engineRef: any; intensity: number; feed: any[]; period?: number; now?: number }) {
+  const canvasRef = useRef<HTMLCanvasElement>(null);
+  const wrapRef = useRef<HTMLDivElement>(null);
+  const [tip, setTip] = useState<any>(null);
+  const [filter, setFilter] = useState<string | null>(null);
+  const C = data.C;
+
+  useEffect(() => {
+    if (!canvasRef.current || !wrapRef.current) return;
+    const reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    const eng: any = new FunnelEngineV2(canvasRef.current, {
+      data: { C }, intensity, reduced, topology: data.TOPOLOGY, onHover: (n: any) => setTip(n),
+    });
+    engineRef.current = eng;
+    eng.start();
+    const ro = new ResizeObserver(() => eng.resize());
+    ro.observe(wrapRef.current);
+    const io = new IntersectionObserver((ents) => {
+      ents.forEach((en) => { if (reduced) return; if (en.isIntersecting) eng.start(); else eng.stop(); });
+    }, { threshold: 0.02 });
+    io.observe(wrapRef.current);
+    const onHide = () => { if (document.hidden) eng.stop(); else if (!reduced) eng.start(); };
+    document.addEventListener("visibilitychange", onHide);
+    return () => { eng.destroy(); ro.disconnect(); io.disconnect(); document.removeEventListener("visibilitychange", onHide); engineRef.current = null; };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
+  function setF(f: string | null) { setFilter(f); engineRef.current?.setFilter(f); }
+
+  const legend = [
+    { c: C.acid, t: "Free / Money" }, { c: C.blue, t: "VSL / Quantum" },
+    { c: C.cyan, t: "Wolf" }, { c: C.purp, t: "Geo" }, { c: C.drop, t: "Leak" },
+  ];
+
+  return (
+    <div className="hero2" ref={wrapRef}>
+      <canvas ref={canvasRef} className="hero2-canvas" />
+      <div className="hero2-tl">
+        <div className="hero2-kicker">QCL // FUNNEL COMMAND · {period}D WINDOW</div>
+        <h2 className="hero2-title">The <em>Living</em> Funnel</h2>
+      </div>
+      <div className="hero2-tr">
+        <div className="filters">
+          {[["all", null], ["quantum", "quantum"], ["wolf", "wolf"]].map(([lbl, val]) => (
+            <button key={lbl as string} className={filter === val ? "on" : ""} onClick={() => setF(val as any)}>{lbl}</button>
+          ))}
+        </div>
+      </div>
+      <div className="hero2-ticker">
+        <span className="tick-label"><span className="led" />LIVE</span>
+        <div className="tick-row">
+          {feed.slice(0, 6).map((ev) => {
+            const meta = data.EVENT_TYPES[ev.event] || { color: C.ash, glyph: "·", label: ev.event };
+            return (
+              <span className="tick-chip" key={ev._id}>
+                <b style={{ color: meta.color }}>{meta.glyph}</b>{meta.label}<i>@{ev.who} · {rel(ev.ts, now)}</i>
+              </span>
+            );
+          })}
+        </div>
+        <div className="hero2-legend">{legend.map((l) => <span key={l.t}><i style={{ background: l.c, boxShadow: `0 0 6px ${l.c}` }} />{l.t}</span>)}</div>
+      </div>
+      {tip && (
+        <div className="node-tip show" style={{ left: tip.sx, top: tip.sy }}>
+          <div className="nt-label" style={{ color: tip.color }}>{tip.label}</div>
+          <div className="nt-count" style={{ color: tip.color }}>{tip.count.toLocaleString()}</div>
+          <div className="nt-sub">{tip.sub}</div>
+        </div>
+      )}
+    </div>
+  );
+}

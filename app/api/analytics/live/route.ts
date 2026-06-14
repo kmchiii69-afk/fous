@@ -1,1 +1,78 @@
-{"data":"Ly8gR0VUIC9hcGkvYW5hbHl0aWNzL2xpdmU/YWZ0ZXI9PGlzbz4KLy8KLy8gVGhlIHJlYWwtdGltZSBmdW5uZWwgZmVlZC4gUmV0dXJucyByZWNlbnQgZnVubmVsIGV2ZW50cyAobmV3ZXN0IGZpcnN0KSBhcwovLyBpbmRpdmlkdWFsIGl0ZW1zIGZvciBhIFR3aXR0ZXItc3R5bGUgc3RyZWFtLiBXaXRoID9hZnRlcj08aXNvPiBpdCByZXR1cm5zCi8vIG9ubHkgZXZlbnRzIG5ld2VyIHRoYW4gdGhhdCB0aW1lc3RhbXAgKGZvciBpbmNyZW1lbnRhbCBwb2xsaW5nKS4KCmltcG9ydCB7IE5leHRSZXF1ZXN0LCBOZXh0UmVzcG9uc2UgfSBmcm9tICJuZXh0L3NlcnZlciI7CmltcG9ydCB7IGlzQXV0aGVkIH0gZnJvbSAiQC9saWIvYW5hbHl0aWNzLWF1dGgiOwoKZXhwb3J0IGNvbnN0IHJ1bnRpbWUgPSAibm9kZWpzIjsKZXhwb3J0IGNvbnN0IGR5bmFtaWMgPSAiZm9yY2UtZHluYW1pYyI7Cgpjb25zdCBQSF9QUk9KRUNUID0gIjQzMDg4NyI7CmNvbnN0IFBIX0hPU1QgPSAiaHR0cHM6Ly91cy5pLnBvc3Rob2cuY29tIjsKCmFzeW5jIGZ1bmN0aW9uIGhvZ3FsKHF1ZXJ5OiBzdHJpbmcpOiBQcm9taXNlPHVua25vd25bXVtdPiB7CiAgY29uc3QgYXBpS2V5ID0gcHJvY2Vzcy5lbnYuUE9TVEhPR19QRVJTT05BTF9BUElfS0VZIHx8ICIiOwogIGlmICghYXBpS2V5KSByZXR1cm4gW107CiAgY29uc3QgcmVzID0gYXdhaXQgZmV0Y2goYCR7UEhfSE9TVH0vYXBpL3Byb2plY3RzLyR7UEhfUFJPSkVDVH0vcXVlcnlgLCB7CiAgICBtZXRob2Q6ICJQT1NUIiwKICAgIGhlYWRlcnM6IHsgQXV0aG9yaXphdGlvbjogYEJlYXJlciAke2FwaUtleX1gLCAiQ29udGVudC1UeXBlIjogImFwcGxpY2F0aW9uL2pzb24iIH0sCiAgICBib2R5OiBKU09OLnN0cmluZ2lmeSh7IHF1ZXJ5OiB7IGtpbmQ6ICJIb2dRTFF1ZXJ5IiwgcXVlcnkgfSB9KSwKICAgIGNhY2hlOiAibm8tc3RvcmUiLAogIH0pOwogIGlmICghcmVzLm9rKSByZXR1cm4gW107CiAgcmV0dXJuICgoYXdhaXQgcmVzLmpzb24oKSkucmVzdWx0cyA/PyBbXSkgYXMgdW5rbm93bltdW107Cn0KCmV4cG9ydCBhc3luYyBmdW5jdGlvbiBHRVQocmVxOiBOZXh0UmVxdWVzdCkgewogIGlmICghaXNBdXRoZWQocmVxLmNvb2tpZXMuZ2V0KCJxY19hdXRoIik/LnZhbHVlKSkgewogICAgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKHsgZXJyb3I6ICJVbmF1dGhvcml6ZWQiIH0sIHsgc3RhdHVzOiA0MDEgfSk7CiAgfQoKICBjb25zdCBhZnRlciA9IHJlcS5uZXh0VXJsLnNlYXJjaFBhcmFtcy5nZXQoImFmdGVyIik7CiAgLy8gc2FuaXRpemU6IG9ubHkgYWNjZXB0IGFuIElTTy1pc2ggdGltZXN0YW1wCiAgY29uc3QgYWZ0ZXJDbGF1c2UgPSBhZnRlciAmJiAvXltcZFQ6LlwtK1ogXSskLy50ZXN0KGFmdGVyKSA/IGBBTkQgdGltZXN0YW1wID4gdG9EYXRlVGltZSgnJHthZnRlci5zbGljZSgwLCAxOSkucmVwbGFjZSgiVCIsICIgIil9JylgIDogIiI7CgogIGNvbnN0IHJvd3MgPSBhd2FpdCBob2dxbChgCiAgICBTRUxFQ1QKICAgICAgZXZlbnQsCiAgICAgIHRvU3RyaW5nKHRpbWVzdGFtcCkgQVMgdHMsCiAgICAgIGNvYWxlc2NlKG51bGxJZihwcm9wZXJ0aWVzLmVtYWlsLCAnJyksIG51bGxJZihwZXJzb24ucHJvcGVydGllcy5lbWFpbCwgJycpLCAnJykgQVMgZW1haWwsCiAgICAgIGNvYWxlc2NlKHByb3BlcnRpZXMuZmlyc3RfbmFtZSwgcGVyc29uLnByb3BlcnRpZXMuZmlyc3RfbmFtZSwgJycpIEFTIGZpcnN0X25hbWUsCiAgICAgIGNvYWxlc2NlKHByb3BlcnRpZXMucm91dGluZywgJycpIEFTIHJvdXRpbmcsCiAgICAgIGNvYWxlc2NlKHByb3BlcnRpZXMuYnJva2VyLCAnJykgQVMgYnJva2VyLAogICAgICBjb2FsZXNjZShwcm9wZXJ0aWVzLmludmVzdG1lbnRfdGllciwgJycpIEFTIHRpZXIsCiAgICAgIGNvYWxlc2NlKHByb3BlcnRpZXMuJGdlb2lwX2NvdW50cnlfY29kZSwgJycpIEFTIGNvdW50cnksCiAgICAgIHByb3BlcnRpZXMuJGhvc3QgQVMgaG9zdAogICAgRlJPTSBldmVudHMKICAgIFdIRVJFIHRpbWVzdGFtcCA+PSBub3coKSAtIElOVEVSVkFMIDMgREFZCiAgICAgIEFORCBldmVudCBJTiAoJ2ZyZWVfY291cnNlX3N1Ym1pdHRlZCcsJ2xlYWRfc3VibWl0dGVkJywncXVhbGlmeV9mb3JtX3N0YXJ0ZWQnLCdxdWFsaWZ5X2Zvcm1fc3VibWl0dGVkJywncXVhbGlmeV9pbnRsX29mZmVyJywnYnJva2VyX29mZmVyc192aWV3ZWQnLCdicm9rZXJfb2ZmZXJfY2xpY2tlZCcsJ2Jyb2tlcl9vZmZlcnNfc2tpcHBlZCcsJ2Jvb2tfcGFnZV92aWV3ZWQnLCdib29rX2ZhbGxiYWNrX3JlcXVlc3RlZCcsJ2NhbGxfYm9va2VkJywnZnJlZV9jb3Vyc2VfY29uZmlybV92aWV3ZWQnKQogICAgICAke2FmdGVyQ2xhdXNlfQogICAgT1JERVIgQlkgdGltZXN0YW1wIERFU0MKICAgIExJTUlUIDgwCiAgYCk7CgogIGNvbnN0IG1hc2sgPSAoZW1haWw6IHN0cmluZykgPT4gewogICAgaWYgKCFlbWFpbCB8fCAhZW1haWwuaW5jbHVkZXMoIkAiKSkgcmV0dXJuICIiOwogICAgY29uc3QgW3UsIGRdID0gZW1haWwuc3BsaXQoIkAiKTsKICAgIHJldHVybiBgJHt1LnNsaWNlKDAsIDMpfSoqKkAke2R9YDsKICB9OwoKICBjb25zdCBldmVudHMgPSByb3dzLm1hcCgocikgPT4gewogICAgY29uc3QgW2V2ZW50LCB0cywgZW1haWwsIGZpcnN0TmFtZSwgcm91dGluZywgYnJva2VyLCB0aWVyLCBjb3VudHJ5LCBob3N0XSA9IHIgYXMgc3RyaW5nW107CiAgICByZXR1cm4gewogICAgICBldmVudCwKICAgICAgdHMsCiAgICAgIHdobzogKGZpcnN0TmFtZSAmJiBTdHJpbmcoZmlyc3ROYW1lKS50cmltKCkpIHx8IG1hc2soU3RyaW5nKGVtYWlsKSkgfHwgInNvbWVvbmUiLAogICAgICByb3V0aW5nOiBTdHJpbmcocm91dGluZyB8fCAiIiksCiAgICAgIGJyb2tlcjogU3RyaW5nKGJyb2tlciB8fCAiIiksCiAgICAgIHRpZXI6IFN0cmluZyh0aWVyIHx8ICIiKSwKICAgICAgY291bnRyeTogU3RyaW5nKGNvdW50cnkgfHwgIiIpLAogICAgICBob3N0OiBTdHJpbmcoaG9zdCB8fCAiIiksCiAgICB9OwogIH0pOwoKICByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oeyBldmVudHMsIG5vdzogbmV3IERhdGUoKS50b0lTT1N0cmluZygpIH0pOwp9Cg=="}
+// GET /api/analytics/live?after=<iso>
+//
+// The real-time funnel feed. Returns recent funnel events (newest first) as
+// individual items for a Twitter-style stream. With ?after=<iso> it returns
+// only events newer than that timestamp (for incremental polling).
+
+import { NextRequest, NextResponse } from "next/server";
+import { isAuthed } from "@/lib/analytics-auth";
+
+export const runtime = "nodejs";
+export const dynamic = "force-dynamic";
+
+const PH_PROJECT = "430887";
+const PH_HOST = "https://us.i.posthog.com";
+
+async function hogql(query: string): Promise<unknown[][]> {
+  const apiKey = process.env.POSTHOG_PERSONAL_API_KEY || "";
+  if (!apiKey) return [];
+  const res = await fetch(`${PH_HOST}/api/projects/${PH_PROJECT}/query`, {
+    method: "POST",
+    headers: { Authorization: `Bearer ${apiKey}`, "Content-Type": "application/json" },
+    body: JSON.stringify({ query: { kind: "HogQLQuery", query } }),
+    cache: "no-store",
+  });
+  if (!res.ok) return [];
+  return ((await res.json()).results ?? []) as unknown[][];
+}
+
+export async function GET(req: NextRequest) {
+  if (!isAuthed(req.cookies.get("qc_auth")?.value)) {
+    return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+  }
+
+  const after = req.nextUrl.searchParams.get("after");
+  // sanitize: only accept an ISO-ish timestamp
+  const afterClause = after && /^[\dT:.\-+Z ]+$/.test(after) ? `AND timestamp > toDateTime('${after.slice(0, 19).replace("T", " ")}')` : "";
+
+  const rows = await hogql(`
+    SELECT
+      event,
+      toString(timestamp) AS ts,
+      coalesce(nullIf(properties.email, ''), nullIf(person.properties.email, ''), '') AS email,
+      coalesce(properties.first_name, person.properties.first_name, '') AS first_name,
+      coalesce(properties.routing, '') AS routing,
+      coalesce(properties.broker, '') AS broker,
+      coalesce(properties.investment_tier, '') AS tier,
+      coalesce(properties.$geoip_country_code, '') AS country,
+      properties.$host AS host
+    FROM events
+    WHERE timestamp >= now() - INTERVAL 3 DAY
+      AND event IN ('free_course_submitted','lead_submitted','qualify_form_started','qualify_form_submitted','qualify_intl_offer','broker_offers_viewed','broker_offer_clicked','broker_offers_skipped','book_page_viewed','book_fallback_requested','call_booked','free_course_confirm_viewed')
+      ${afterClause}
+    ORDER BY timestamp DESC
+    LIMIT 80
+  `);
+
+  const mask = (email: string) => {
+    if (!email || !email.includes("@")) return "";
+    const [u, d] = email.split("@");
+    return `${u.slice(0, 3)}***@${d}`;
+  };
+
+  const events = rows.map((r) => {
+    const [event, ts, email, firstName, routing, broker, tier, country, host] = r as string[];
+    return {
+      event,
+      ts,
+      who: (firstName && String(firstName).trim()) || mask(String(email)) || "someone",
+      routing: String(routing || ""),
+      broker: String(broker || ""),
+      tier: String(tier || ""),
+      country: String(country || ""),
+      host: String(host || ""),
+    };
+  });
+
+  return NextResponse.json({ events, now: new Date().toISOString() });
+}

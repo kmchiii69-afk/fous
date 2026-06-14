@@ -1,1 +1,455 @@
-{"data":"Ly8gR0VUIC9hcGkvYW5hbHl0aWNzL2Z1bm5lbD9kYXlzPTMwCi8vCi8vIEZ1bm5lbG1heHhpbmcgUHJvIGRhdGEgYmFja2VuZC4gUmV0dXJucyB0d28gT1JERVJFRCBmdW5uZWxzIChmcmVlIGNvdXJzZSArCi8vIFZTTCkgY29tcHV0ZWQgYXMgdHJ1ZSBzZXF1ZW50aWFsIGZ1bm5lbHMg4oCUIGVhY2ggc3RlcCBjb3VudHMgcGVvcGxlIHdobyBkaWQKLy8gZXZlcnkgcHJpb3Igc3RlcCBpbiB0aW1lIG9yZGVyLCBzbyBjb3VudHMgYXJlIG1vbm90b25pYyBhbmQgY29udmVyc2lvbnMKLy8gbmV2ZXIgZXhjZWVkIDEwMCUuIFBsdXM6IGZyZWXihpJWU0wgY3Jvc3NvdmVyLCB0cmFmZmljIHNvdXJjZXMsIGFuZCBXaG9wCi8vIHJldmVudWUgc3BsaXQgYnkgZnVubmVsLgoKaW1wb3J0IHsgTmV4dFJlcXVlc3QsIE5leHRSZXNwb25zZSB9IGZyb20gIm5leHQvc2VydmVyIjsKaW1wb3J0IHsgaXNBdXRoZWQgfSBmcm9tICJAL2xpYi9hbmFseXRpY3MtYXV0aCI7CmltcG9ydCB7IGZldGNoV2hvcFJldmVudWUgfSBmcm9tICJAL2xpYi93aG9wIjsKaW1wb3J0IHsgYXR0cmlidXRlQ2xvc2VzVG9GcmVlQ291cnNlIH0gZnJvbSAiQC9saWIvZnJlZWNvdXJzZSI7CgpleHBvcnQgY29uc3QgcnVudGltZSA9ICJub2RlanMiOwpleHBvcnQgY29uc3QgZHluYW1pYyA9ICJmb3JjZS1keW5hbWljIjsKZXhwb3J0IGNvbnN0IG1heER1cmF0aW9uID0gNjA7CgovLyBpbi1tZW1vcnkgVFRMIGNhY2hlIHBlciBwZXJpb2Qg4oCUIHRoZSBhZ2dyZWdhdGlvbiBpcyBoZWF2eSAoNuKAkzE1cyksIHNvIHJlcGVhdAovLyBwZXJpb2Qtc3dpdGNoZXMgd2l0aGluIHRoZSB3aW5kb3cgcmV0dXJuIGluc3RhbnRseS4gUGVyIHdhcm0gaW5zdGFuY2U7IGRhdGEKLy8gaXMgaWRlbnRpY2FsIGZvciBhbGwgYXV0aGVkIHZpZXdlcnMsIHNvIGtleWluZyBvbiBgZGF5c2AgYWxvbmUgaXMgc2FmZS4KY29uc3QgX2NhY2hlID0gbmV3IE1hcDxudW1iZXIsIHsgdDogbnVtYmVyOyBwYXlsb2FkOiB1bmtub3duIH0+KCk7CmNvbnN0IENBQ0hFX01TID0gOTBfMDAwOwoKY29uc3QgUEhfUFJPSkVDVCA9ICI0MzA4ODciOwpjb25zdCBQSF9IT1NUID0gImh0dHBzOi8vdXMuaS5wb3N0aG9nLmNvbSI7CmNvbnN0IEZSRUVfSE9TVCA9ICJmcmVlLnF1YW50dW1jaXBoZXJsYWIuY29tIjsKCi8vIOKUgOKUgCBDbG9zZSBjYWxsIGFjdGl2aXR5IOKGkiBwZXItcmVwIGxlYWRlcmJvYXJkIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAphc3luYyBmdW5jdGlvbiBmZXRjaENhbGxTdGF0cyhkYXlzOiBudW1iZXIpIHsKICBjb25zdCBrZXkgPSBwcm9jZXNzLmVudi5DTE9TRV9BUElfS0VZIHx8ICIiOwogIGlmICgha2V5KSByZXR1cm4gW107CiAgY29uc3QgYXV0aCA9IEJ1ZmZlci5mcm9tKGAke2tleX06YCkudG9TdHJpbmcoImJhc2U2NCIpOwogIGNvbnN0IHNpbmNlID0gbmV3IERhdGUoRGF0ZS5ub3coKSAtIGRheXMgKiA4Nl80MDBfMDAwKS50b0lTT1N0cmluZygpLnNsaWNlKDAsIDE5KTsKCiAgdHlwZSBSZXAgPSB7IG5hbWU6IHN0cmluZzsgY2FsbHM6IG51bWJlcjsgYW5zd2VyZWQ6IG51bWJlcjsgdGFsa1NlYzogbnVtYmVyIH07CiAgY29uc3QgcmVwczogUmVjb3JkPHN0cmluZywgUmVwPiA9IHt9OwogIGxldCBza2lwID0gMDsKICAvLyBDYXAgYXQgMzAgcGFnZXMgKDMwMDAgY2FsbHMpOyBwbGVudHkgZm9yIGEgMzDigJM5MGQgd2luZG93LCBib3VuZGVkIGxhdGVuY3kuCiAgZm9yIChsZXQgcCA9IDA7IHAgPCAzMDsgcCsrKSB7CiAgICBjb25zdCB1cmwgPSBgaHR0cHM6Ly9hcGkuY2xvc2UuY29tL2FwaS92MS9hY3Rpdml0eS9jYWxsLz9kYXRlX2NyZWF0ZWRfX2d0ZT0ke2VuY29kZVVSSUNvbXBvbmVudChzaW5jZSl9Jl9saW1pdD0xMDAmX3NraXA9JHtza2lwfWA7CiAgICBjb25zdCByZXMgPSBhd2FpdCBmZXRjaCh1cmwsIHsgaGVhZGVyczogeyBBdXRob3JpemF0aW9uOiBgQmFzaWMgJHthdXRofWAsIEFjY2VwdDogImFwcGxpY2F0aW9uL2pzb24iIH0sIG5leHQ6IHsgcmV2YWxpZGF0ZTogMzAwIH0gfSk7CiAgICBpZiAoIXJlcy5vaykgYnJlYWs7CiAgICBjb25zdCBkID0gYXdhaXQgcmVzLmpzb24oKTsKICAgIGZvciAoY29uc3QgYyBvZiAoZC5kYXRhID8/IFtdKSBhcyB7IHVzZXJfbmFtZT86IHN0cmluZzsgZHVyYXRpb24/OiBudW1iZXI7IGRpc3Bvc2l0aW9uPzogc3RyaW5nIH1bXSkgewogICAgICBjb25zdCBuYW1lID0gYy51c2VyX25hbWUgfHwgIlVua25vd24iOwogICAgICBjb25zdCByID0gKHJlcHNbbmFtZV0gPz89IHsgbmFtZSwgY2FsbHM6IDAsIGFuc3dlcmVkOiAwLCB0YWxrU2VjOiAwIH0pOwogICAgICByLmNhbGxzKys7CiAgICAgIGNvbnN0IGR1ciA9IGMuZHVyYXRpb24gPz8gMDsKICAgICAgci50YWxrU2VjICs9IGR1cjsKICAgICAgaWYgKGMuZGlzcG9zaXRpb24gPT09ICJhbnN3ZXJlZCIgfHwgZHVyID4gMCkgci5hbnN3ZXJlZCsrOwogICAgfQogICAgaWYgKCFkLmhhc19tb3JlKSBicmVhazsKICAgIHNraXAgKz0gMTAwOwogIH0KICByZXR1cm4gT2JqZWN0LnZhbHVlcyhyZXBzKQogICAgLmZpbHRlcigocikgPT4gci5jYWxscyA+PSAyKQogICAgLnNvcnQoKGEsIGIpID0+IGIuY2FsbHMgLSBhLmNhbGxzKQogICAgLm1hcCgocikgPT4gKHsKICAgICAgbmFtZTogci5uYW1lLAogICAgICBjYWxsczogci5jYWxscywKICAgICAgYW5zd2VyZWQ6IHIuYW5zd2VyZWQsCiAgICAgIGNvbm5lY3RQY3Q6IHIuY2FsbHMgPyBNYXRoLnJvdW5kKChyLmFuc3dlcmVkIC8gci5jYWxscykgKiAxMDApIDogMCwKICAgICAgdGFsa01pbjogTWF0aC5yb3VuZChyLnRhbGtTZWMgLyA2MCksCiAgICB9KSk7Cn0KCi8vIOKUgOKUgCBDbG9zZSBib29raW5nIHN1Yi1mdW5uZWw6IGJvb2tlZCAoc2VsZiB2cyBzZXR0ZXItcmVzY3VlZCksIHNob3csIGNhbmNlbCDilIDilIAKYXN5bmMgZnVuY3Rpb24gZmV0Y2hCb29raW5nRnVubmVsKGRheXM6IG51bWJlcikgewogIGNvbnN0IGtleSA9IHByb2Nlc3MuZW52LkNMT1NFX0FQSV9LRVkgfHwgIiI7CiAgaWYgKCFrZXkpIHJldHVybiBudWxsOwogIGNvbnN0IGF1dGggPSBCdWZmZXIuZnJvbShgJHtrZXl9OmApLnRvU3RyaW5nKCJiYXNlNjQiKTsKICBjb25zdCBoZWFkZXJzID0geyBBdXRob3JpemF0aW9uOiBgQmFzaWMgJHthdXRofWAsIEFjY2VwdDogImFwcGxpY2F0aW9uL2pzb24iIH07CiAgY29uc3Qgc2luY2UgPSBuZXcgRGF0ZShEYXRlLm5vdygpIC0gZGF5cyAqIDg2XzQwMF8wMDApLnRvSVNPU3RyaW5nKCk7CgogIC8vIHN0YXR1cyBpZCDihpIgbGFiZWwgbWFwCiAgbGV0IGlkTmFtZTogUmVjb3JkPHN0cmluZywgc3RyaW5nPiA9IHt9OwogIHRyeSB7CiAgICBjb25zdCBzZCA9IGF3YWl0IChhd2FpdCBmZXRjaCgiaHR0cHM6Ly9hcGkuY2xvc2UuY29tL2FwaS92MS9zdGF0dXMvbGVhZC8iLCB7IGhlYWRlcnMsIG5leHQ6IHsgcmV2YWxpZGF0ZTogMzYwMCB9IH0pKS5qc29uKCk7CiAgICBpZE5hbWUgPSBPYmplY3QuZnJvbUVudHJpZXMoKHNkLmRhdGEgPz8gW10pLm1hcCgoczogeyBpZDogc3RyaW5nOyBsYWJlbDogc3RyaW5nIH0pID0+IFtzLmlkLCBzLmxhYmVsXSkpOwogIH0gY2F0Y2ggewogICAgcmV0dXJuIG51bGw7CiAgfQoKICAvLyBzdGF0dXNfY2hhbmdlIGhpc3Rvcnkg4oaSIHBlci1sZWFkIGxhYmVsIHNlcXVlbmNlLiBQdWxsIGEgV0lERVIgd2luZG93CiAgLy8gKDkwZCwgb3IgdGhlIHJlcG9ydCB3aW5kb3cgKyA2MGQpIHNvIGVhY2ggYm9va2VkIGxlYWQncyBlYXJsaWVyIHN0YXR1c2VzCiAgLy8gYXJlIGNhcHR1cmVkIOKAlCBvdGhlcndpc2UgYSBsZWFkIHdobyBxdWFsaWZpZWQgYmVmb3JlIHRoZSB3aW5kb3cgYnV0CiAgLy8gYm9va2VkIHJlY2VudGx5IGxvb2tzIGZhbHNlbHkgImltbWVkaWF0ZSIuCiAgY29uc3QgaGlzdERheXMgPSBNYXRoLm1heChkYXlzICsgNjAsIDkwKTsKICBjb25zdCBoaXN0U2luY2UgPSBuZXcgRGF0ZShEYXRlLm5vdygpIC0gaGlzdERheXMgKiA4Nl80MDBfMDAwKS50b0lTT1N0cmluZygpOwogIGNvbnN0IGJvb2tDdXRvZmYgPSBEYXRlLm5vdygpIC0gZGF5cyAqIDg2XzQwMF8wMDA7IC8vIG9ubHkgY291bnQgYm9va2luZ3MgaW4gdGhlIHJlcG9ydCB3aW5kb3cKICBjb25zdCBzZXE6IFJlY29yZDxzdHJpbmcsIHsgdDogbnVtYmVyOyBsYWJlbDogc3RyaW5nIH1bXT4gPSB7fTsKICBmb3IgKGxldCBwID0gMDsgcCA8IDMyOyBwKyspIHsKICAgIGNvbnN0IHVybCA9IGBodHRwczovL2FwaS5jbG9zZS5jb20vYXBpL3YxL2FjdGl2aXR5L3N0YXR1c19jaGFuZ2UvbGVhZC8/ZGF0ZV9jcmVhdGVkX19ndGU9JHtlbmNvZGVVUklDb21wb25lbnQoaGlzdFNpbmNlKX0mX2xpbWl0PTEwMCZfc2tpcD0ke3AgKiAxMDB9YDsKICAgIGNvbnN0IHJlcyA9IGF3YWl0IGZldGNoKHVybCwgeyBoZWFkZXJzLCBuZXh0OiB7IHJldmFsaWRhdGU6IDYwMCB9IH0pOwogICAgaWYgKCFyZXMub2spIGJyZWFrOwogICAgY29uc3QgZCA9IGF3YWl0IHJlcy5qc29uKCk7CiAgICBmb3IgKGNvbnN0IHNjIG9mIChkLmRhdGEgPz8gW10pIGFzIHsgbGVhZF9pZD86IHN0cmluZzsgbmV3X3N0YXR1c19pZD86IHN0cmluZzsgc3RhdHVzX2lkPzogc3RyaW5nOyBkYXRlX2NyZWF0ZWQ/OiBzdHJpbmcgfVtdKSB7CiAgICAgIGNvbnN0IGxpZCA9IHNjLmxlYWRfaWQgPz8gIiI7CiAgICAgIGNvbnN0IGxhYmVsID0gaWROYW1lWyhzYy5uZXdfc3RhdHVzX2lkID8/IHNjLnN0YXR1c19pZCkgPz8gIiJdID8/ICI/IjsKICAgICAgKHNlcVtsaWRdID8/PSBbXSkucHVzaCh7IHQ6IHNjLmRhdGVfY3JlYXRlZCA/IERhdGUucGFyc2Uoc2MuZGF0ZV9jcmVhdGVkKSA6IDAsIGxhYmVsIH0pOwogICAgfQogICAgaWYgKCFkLmhhc19tb3JlKSBicmVhazsKICB9CiAgLy8gMy13YXkgYm9va2luZyBzcGxpdDogaW1tZWRpYXRlIHNlbGYtYm9vayB2cyBzZXR0ZXItcmVzY3VlZCB2cyBsYXRlciAoZW1haWwvbnVydHVyZSkKICBsZXQgYm9va2VkID0gMCwgaW1tZWRpYXRlQm9va2VkID0gMCwgc2V0dGVyUmVzY3VlZCA9IDAsIGxhdGVyQm9va2VkID0gMDsKICBmb3IgKGNvbnN0IGV2ZW50cyBvZiBPYmplY3QudmFsdWVzKHNlcSkpIHsKICAgIGV2ZW50cy5zb3J0KChhLCBiKSA9PiBhLnQgLSBiLnQpOwogICAgY29uc3QgYmkgPSBldmVudHMuZmluZEluZGV4KChlKSA9PiBlLmxhYmVsID09PSAiRGVtbyBCb29rZWQiKTsKICAgIGlmIChiaSA8IDApIGNvbnRpbnVlOwogICAgY29uc3QgYm9va2VkQXQgPSBldmVudHNbYmldLnQ7CiAgICBpZiAoYm9va2VkQXQgPCBib29rQ3V0b2ZmKSBjb250aW51ZTsgLy8gYm9va2luZyBvdXRzaWRlIHRoZSByZXBvcnQgd2luZG93CiAgICBib29rZWQrKzsKICAgIGNvbnN0IHNldHRlckJlZm9yZSA9IGV2ZW50cy5zbGljZSgwLCBiaSkuc29tZSgoZSkgPT4gZS5sYWJlbC5pbmNsdWRlcygiU2V0dGVyIikpOwogICAgaWYgKHNldHRlckJlZm9yZSkgewogICAgICBzZXR0ZXJSZXNjdWVkKys7CiAgICB9IGVsc2UgewogICAgICBjb25zdCBnYXBIb3VycyA9IChib29rZWRBdCAtIGV2ZW50c1swXS50KSAvIDNfNjAwXzAwMDsKICAgICAgaWYgKGdhcEhvdXJzIDw9IDI0KSBpbW1lZGlhdGVCb29rZWQrKzsKICAgICAgZWxzZSBsYXRlckJvb2tlZCsrOwogICAgfQogIH0KICBjb25zdCBzZWxmQm9va2VkID0gaW1tZWRpYXRlQm9va2VkOyAvLyBiYWNrLWNvbXBhdCBhbGlhcwoKICAvLyBtZWV0aW5nIGFjdGl2aXR5IOKGkiBzaG93ZWQgdnMgY2FuY2VsZWQKICBsZXQgc2hvd2VkID0gMCwgY2FuY2VsZWQgPSAwLCBtZWV0aW5ncyA9IDA7CiAgZm9yIChsZXQgcCA9IDA7IHAgPCAxMjsgcCsrKSB7CiAgICBjb25zdCB1cmwgPSBgaHR0cHM6Ly9hcGkuY2xvc2UuY29tL2FwaS92MS9hY3Rpdml0eS9tZWV0aW5nLz9kYXRlX2NyZWF0ZWRfX2d0ZT0ke2VuY29kZVVSSUNvbXBvbmVudChzaW5jZSl9Jl9saW1pdD0xMDAmX3NraXA9JHtwICogMTAwfWA7CiAgICBjb25zdCByZXMgPSBhd2FpdCBmZXRjaCh1cmwsIHsgaGVhZGVycywgbmV4dDogeyByZXZhbGlkYXRlOiA2MDAgfSB9KTsKICAgIGlmICghcmVzLm9rKSBicmVhazsKICAgIGNvbnN0IGQgPSBhd2FpdCByZXMuanNvbigpOwogICAgZm9yIChjb25zdCBtIG9mIChkLmRhdGEgPz8gW10pIGFzIHsgc3RhdHVzPzogc3RyaW5nIH1bXSkgewogICAgICBtZWV0aW5ncysrOwogICAgICBpZiAobS5zdGF0dXMgPT09ICJjb21wbGV0ZWQiKSBzaG93ZWQrKzsKICAgICAgZWxzZSBpZiAobS5zdGF0dXMgPT09ICJjYW5jZWxlZCIpIGNhbmNlbGVkKys7CiAgICB9CiAgICBpZiAoIWQuaGFzX21vcmUpIGJyZWFrOwogIH0KCiAgcmV0dXJuIHsgYm9va2VkLCBpbW1lZGlhdGVCb29rZWQsIHNldHRlclJlc2N1ZWQsIGxhdGVyQm9va2VkLCBzZWxmQm9va2VkLCBtZWV0aW5ncywgc2hvd2VkLCBjYW5jZWxlZCB9Owp9CgovLyDilIDilIAgS2l0IGF1dG9tYXRlZCBzZXF1ZW5jZXMg4oaSIGVucm9sbG1lbnQgcGVyIGZ1bm5lbCDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKYXN5bmMgZnVuY3Rpb24gZmV0Y2hTZXF1ZW5jZXMoKSB7CiAgY29uc3Qga2V5ID0gcHJvY2Vzcy5lbnYuS0lUX0FQSV9LRVkgfHwgIiI7CiAgY29uc3Qgc2VjID0gcHJvY2Vzcy5lbnYuS0lUX0FQSV9TRUNSRVQgfHwgIiI7CiAgaWYgKCFrZXkgfHwgIXNlYykgcmV0dXJuIFtdOwogIGNvbnN0IGxpc3RSZXMgPSBhd2FpdCBmZXRjaChgaHR0cHM6Ly9hcGkuY29udmVydGtpdC5jb20vdjMvc2VxdWVuY2VzP2FwaV9rZXk9JHtrZXl9YCwgeyBuZXh0OiB7IHJldmFsaWRhdGU6IDYwMCB9IH0pOwogIGlmICghbGlzdFJlcy5vaykgcmV0dXJuIFtdOwogIGNvbnN0IHNlcXM6IHsgaWQ6IG51bWJlcjsgbmFtZTogc3RyaW5nIH1bXSA9IChhd2FpdCBsaXN0UmVzLmpzb24oKSkuY291cnNlcyA/PyBbXTsKCiAgLy8gbWFwIGEgc2VxdWVuY2UgdG8gYSBmdW5uZWwgYnkgbmFtZQogIGNvbnN0IGZ1bm5lbE9mID0gKG5hbWU6IHN0cmluZyk6ICJmcmVlIiB8ICJ2c2wiIHwgInBvc3QtY2FsbCIgfCAib3RoZXIiID0+IHsKICAgIGNvbnN0IG4gPSBuYW1lLnRvTG93ZXJDYXNlKCk7CiAgICBpZiAobi5pbmNsdWRlcygiZnJlZSBjb3Vyc2UiKSkgcmV0dXJuICJmcmVlIjsKICAgIGlmIChuLmluY2x1ZGVzKCJ2c2wiKSB8fCBuLmluY2x1ZGVzKCJxdWFudHVtIikpIHJldHVybiAidnNsIjsKICAgIGlmIChuLmluY2x1ZGVzKCJib29rZWQgY2FsbCIpIHx8IG4uaW5jbHVkZXMoImJvb2siKSkgcmV0dXJuICJwb3N0LWNhbGwiOwogICAgcmV0dXJuICJvdGhlciI7CiAgfTsKCiAgLy8gZW5yb2xsZWQgY291bnQgcGVyIHNlcXVlbmNlICgxIGNhbGwgZWFjaCwgY2FwcGVkIHRvIHRoZSByZWxldmFudCBvbmVzKQogIGNvbnN0IHJlbGV2YW50ID0gc2Vxcy5maWx0ZXIoKHMpID0+IGZ1bm5lbE9mKHMubmFtZSkgIT09ICJvdGhlciIpLnNsaWNlKDAsIDEyKTsKICBjb25zdCBvdXQgPSBhd2FpdCBQcm9taXNlLmFsbCgKICAgIHJlbGV2YW50Lm1hcChhc3luYyAocykgPT4gewogICAgICBjb25zdCByID0gYXdhaXQgZmV0Y2goYGh0dHBzOi8vYXBpLmNvbnZlcnRraXQuY29tL3YzL3NlcXVlbmNlcy8ke3MuaWR9L3N1YnNjcmlwdGlvbnM/YXBpX3NlY3JldD0ke3NlY30mcGFnZT0xYCwgeyBuZXh0OiB7IHJldmFsaWRhdGU6IDYwMCB9IH0pOwogICAgICBjb25zdCBlbnJvbGxlZCA9IHIub2sgPyAoYXdhaXQgci5qc29uKCkpLnRvdGFsX3N1YnNjcmlwdGlvbnMgPz8gMCA6IDA7CiAgICAgIHJldHVybiB7IGlkOiBzLmlkLCBuYW1lOiBzLm5hbWUsIGZ1bm5lbDogZnVubmVsT2Yocy5uYW1lKSwgZW5yb2xsZWQgfTsKICAgIH0pLAogICk7CiAgcmV0dXJuIG91dC5maWx0ZXIoKHMpID0+IHMuZW5yb2xsZWQgPiAwKS5zb3J0KChhLCBiKSA9PiBiLmVucm9sbGVkIC0gYS5lbnJvbGxlZCk7Cn0KCi8vIOKUgOKUgCBLaXQgYnJvYWRjYXN0cyDihpIgcmVhbCBwZXItZW1haWwgb3Blbi9jbGljayAodGhlIGFjdHVhbCBlbWFpbHMgc2VudCkg4pSA4pSACmFzeW5jIGZ1bmN0aW9uIGZldGNoQnJvYWRjYXN0cygpIHsKICBjb25zdCBzZWMgPSBwcm9jZXNzLmVudi5LSVRfQVBJX1NFQ1JFVCB8fCAiIjsKICBpZiAoIXNlYykgcmV0dXJuIFtdOwogIGNvbnN0IGxpc3RSZXMgPSBhd2FpdCBmZXRjaChgaHR0cHM6Ly9hcGkuY29udmVydGtpdC5jb20vdjMvYnJvYWRjYXN0cz9hcGlfc2VjcmV0PSR7c2VjfWAsIHsgbmV4dDogeyByZXZhbGlkYXRlOiA2MDAgfSB9KTsKICBpZiAoIWxpc3RSZXMub2spIHJldHVybiBbXTsKICBjb25zdCBhbGw6IHsgaWQ6IG51bWJlcjsgc3ViamVjdDogc3RyaW5nOyBjcmVhdGVkX2F0OiBzdHJpbmcgfVtdID0gKChhd2FpdCBsaXN0UmVzLmpzb24oKSkuYnJvYWRjYXN0cyA/PyBbXSkKICAgIC5zb3J0KChhOiB7IGNyZWF0ZWRfYXQ6IHN0cmluZyB9LCBiOiB7IGNyZWF0ZWRfYXQ6IHN0cmluZyB9KSA9PiBiLmNyZWF0ZWRfYXQubG9jYWxlQ29tcGFyZShhLmNyZWF0ZWRfYXQpKQogICAgLnNsaWNlKDAsIDgpOwogIGNvbnN0IHN0YXRzID0gYXdhaXQgUHJvbWlzZS5hbGwoCiAgICBhbGwubWFwKChiKSA9PgogICAgICBmZXRjaChgaHR0cHM6Ly9hcGkuY29udmVydGtpdC5jb20vdjMvYnJvYWRjYXN0cy8ke2IuaWR9L3N0YXRzP2FwaV9zZWNyZXQ9JHtzZWN9YCwgeyBuZXh0OiB7IHJldmFsaWRhdGU6IDYwMCB9IH0pCiAgICAgICAgLnRoZW4oKHIpID0+IChyLm9rID8gci5qc29uKCkgOiBudWxsKSkKICAgICAgICAuY2F0Y2goKCkgPT4gbnVsbCksCiAgICApLAogICk7CiAgY29uc3Qgb3V0OiB7IHN1YmplY3Q6IHN0cmluZzsgZGF0ZTogc3RyaW5nOyByZWNpcGllbnRzOiBudW1iZXI7IG9wZW5SYXRlOiBudW1iZXI7IGNsaWNrUmF0ZTogbnVtYmVyOyBjbGlja3M6IG51bWJlciB9W10gPSBbXTsKICBmb3IgKGxldCBpID0gMDsgaSA8IGFsbC5sZW5ndGg7IGkrKykgewogICAgY29uc3QgcyA9IHN0YXRzW2ldPy5icm9hZGNhc3Q/LnN0YXRzOwogICAgaWYgKCFzIHx8IHMuc3RhdHVzICE9PSAiY29tcGxldGVkIikgY29udGludWU7CiAgICBvdXQucHVzaCh7CiAgICAgIHN1YmplY3Q6IGFsbFtpXS5zdWJqZWN0LAogICAgICBkYXRlOiBhbGxbaV0uY3JlYXRlZF9hdCwKICAgICAgcmVjaXBpZW50czogcy5yZWNpcGllbnRzID8/IDAsCiAgICAgIG9wZW5SYXRlOiBzLm9wZW5fcmF0ZSA/PyAwLCAvLyBhbHJlYWR5IGEgcGVyY2VudGFnZSAoZS5nLiA0Mi4zMSkKICAgICAgY2xpY2tSYXRlOiBzLmNsaWNrX3JhdGUgPz8gMCwKICAgICAgY2xpY2tzOiBzLnRvdGFsX2NsaWNrcyA/PyAwLAogICAgfSk7CiAgfQogIHJldHVybiBvdXQ7Cn0KCmFzeW5jIGZ1bmN0aW9uIGhvZ3FsKHF1ZXJ5OiBzdHJpbmcpOiBQcm9taXNlPHVua25vd25bXVtdPiB7CiAgY29uc3QgYXBpS2V5ID0gcHJvY2Vzcy5lbnYuUE9TVEhPR19QRVJTT05BTF9BUElfS0VZIHx8ICIiOwogIGlmICghYXBpS2V5KSByZXR1cm4gW107CiAgY29uc3QgcmVzID0gYXdhaXQgZmV0Y2goYCR7UEhfSE9TVH0vYXBpL3Byb2plY3RzLyR7UEhfUFJPSkVDVH0vcXVlcnlgLCB7CiAgICBtZXRob2Q6ICJQT1NUIiwKICAgIGhlYWRlcnM6IHsgQXV0aG9yaXphdGlvbjogYEJlYXJlciAke2FwaUtleX1gLCAiQ29udGVudC1UeXBlIjogImFwcGxpY2F0aW9uL2pzb24iIH0sCiAgICBib2R5OiBKU09OLnN0cmluZ2lmeSh7IHF1ZXJ5OiB7IGtpbmQ6ICJIb2dRTFF1ZXJ5IiwgcXVlcnkgfSB9KSwKICAgIG5leHQ6IHsgcmV2YWxpZGF0ZTogMzAwIH0sCiAgfSk7CiAgaWYgKCFyZXMub2spIHsKICAgIGNvbnNvbGUuZXJyb3IoIltmdW5uZWxdIEhvZ1FMIGZhaWxlZDoiLCByZXMuc3RhdHVzLCAoYXdhaXQgcmVzLnRleHQoKSkuc2xpY2UoMCwgMzAwKSk7CiAgICByZXR1cm4gW107CiAgfQogIHJldHVybiAoKGF3YWl0IHJlcy5qc29uKCkpLnJlc3VsdHMgPz8gW10pIGFzIHVua25vd25bXVtdOwp9CgovLyBBbiBvcmRlcmVkIGZ1bm5lbCBzdGVwOiBpZCwgZGlzcGxheSBsYWJlbCwgYW5kIHRoZSBIb2dRTCBldmVudCBjb25kaXRpb24KLy8gdGhhdCBtYXJrcyBjb21wbGV0aW9uLgp0eXBlIFN0ZXAgPSB7IGlkOiBzdHJpbmc7IGxhYmVsOiBzdHJpbmc7IGNvbmQ6IHN0cmluZzsgbm90ZT86IHN0cmluZyB9OwoKY29uc3QgVlNMX1NURVBTOiBTdGVwW10gPSBbCiAgeyBpZDogInZpc2l0IiwgbGFiZWw6ICJWaXNpdGVkIFZTTCBwYWdlIiwgY29uZDogYGV2ZW50ID0gJyRwYWdldmlldycgQU5EIHByb3BlcnRpZXMuJGhvc3QgIT0gJyR7RlJFRV9IT1NUfScgQU5EIHByb3BlcnRpZXMuJHBhdGhuYW1lIElOICgnLycsICcvdHJhaW5pbmcnKWAgfSwKICB7IGlkOiAibGVhZCIsIGxhYmVsOiAiT3B0ZWQgaW4gKGxlYWQpIiwgY29uZDogYGV2ZW50ID0gJ2xlYWRfc3VibWl0dGVkJ2AgfSwKICB7IGlkOiAic3VydmV5X3N0YXJ0IiwgbGFiZWw6ICJTdGFydGVkIGFwcGxpY2F0aW9uIiwgY29uZDogYGV2ZW50ID0gJ3F1YWxpZnlfZm9ybV9zdGFydGVkJ2AgfSwKICB7IGlkOiAic3VydmV5X2RvbmUiLCBsYWJlbDogIlF1YWxpZmllZCAoc3VibWl0dGVkKSIsIGNvbmQ6IGBldmVudCA9ICdxdWFsaWZ5X2Zvcm1fc3VibWl0dGVkJ2AgfSwKXTsKCmNvbnN0IEZSRUVfU1RFUFM6IFN0ZXBbXSA9IFsKICB7IGlkOiAidmlzaXQiLCBsYWJlbDogIlZpc2l0ZWQgZnJlZSBjb3Vyc2UiLCBjb25kOiBgZXZlbnQgPSAnJHBhZ2V2aWV3JyBBTkQgKHByb3BlcnRpZXMuJGhvc3QgPSAnJHtGUkVFX0hPU1R9JyBPUiBwcm9wZXJ0aWVzLiRwYXRobmFtZSBJTiAoJy9mcmVlLWNvdXJzZScsICcvZnJlZS1jb3Vyc2UvY29uZmlybScsICcvZnJlZS1jb3Vyc2UvYnJva2VyJykpYCB9LAogIHsgaWQ6ICJzaWdudXAiLCBsYWJlbDogIlNpZ25lZCB1cCAoZW1haWwgY2FwdHVyZWQpIiwgY29uZDogYGV2ZW50ID0gJ2ZyZWVfY291cnNlX3N1Ym1pdHRlZCdgIH0sCiAgeyBpZDogImNvbmZpcm0iLCBsYWJlbDogIlJlYWNoZWQgY291cnNlIGNvbnRlbnQiLCBjb25kOiBgZXZlbnQgPSAnZnJlZV9jb3Vyc2VfY29uZmlybV92aWV3ZWQnYCB9LApdOwoKLy8gQnVpbGQgYSBzaW5nbGUgSG9nUUwgcXVlcnkgdGhhdCBjb21wdXRlcyBhbiBvcmRlcmVkIGZ1bm5lbDogcGVyIHBlcnNvbiwgdGhlCi8vIGZpcnN0IHRpbWVzdGFtcCBvZiBlYWNoIHN0ZXAsIHRoZW4gY291bnQgcGVvcGxlIHdobyBjb21wbGV0ZWQgZWFjaCBzdGVwIGF0Ci8vIG9yIGFmdGVyIHRoZSBwcmV2aW91cyBvbmUuCmZ1bmN0aW9uIG9yZGVyZWRGdW5uZWxRdWVyeShzdGVwczogU3RlcFtdLCBkYXlzOiBudW1iZXIpOiBzdHJpbmcgewogIGNvbnN0IG1pbkNvbHMgPSBzdGVwcwogICAgLm1hcCgocywgaSkgPT4gYG51bGxJZihtaW5JZih0aW1lc3RhbXAsICR7cy5jb25kfSksIHRvRGF0ZVRpbWUoMCkpIEFTIHMke2l9YCkKICAgIC5qb2luKCIsXG4gICAgICAiKTsKCiAgLy8gc3RlcDAgPSBkaWQgczA7IHN0ZXBOID0gZGlkIHMwLi5zTiBlYWNoID49IHRoZSBwcmlvcgogIGNvbnN0IGNvdW50cyA9IHN0ZXBzCiAgICAubWFwKChfLCBpKSA9PiB7CiAgICAgIGNvbnN0IGNoYWluID0gQXJyYXkuZnJvbSh7IGxlbmd0aDogaSArIDEgfSwgKF8sIGopID0+IGBpc05vdE51bGwocyR7an0pYCkuY29uY2F0KAogICAgICAgIEFycmF5LmZyb20oeyBsZW5ndGg6IGkgfSwgKF8sIGopID0+IGBzJHtqICsgMX0gPj0gcyR7an1gKSwKICAgICAgKTsKICAgICAgcmV0dXJuIGBjb3VudElmKCR7Y2hhaW4uam9pbigiIEFORCAiKX0pIEFTIGMke2l9YDsKICAgIH0pCiAgICAuam9pbigiLFxuICAgICIpOwoKICByZXR1cm4gYAogICAgU0VMRUNUICR7Y291bnRzfQogICAgRlJPTSAoCiAgICAgIFNFTEVDVCBwZXJzb25faWQsCiAgICAgICR7bWluQ29sc30KICAgICAgRlJPTSBldmVudHMKICAgICAgV0hFUkUgdGltZXN0YW1wID49IG5vdygpIC0gSU5URVJWQUwgJHtkYXlzfSBEQVkKICAgICAgR1JPVVAgQlkgcGVyc29uX2lkCiAgICApCiAgYDsKfQoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIEdFVChyZXE6IE5leHRSZXF1ZXN0KSB7CiAgaWYgKCFpc0F1dGhlZChyZXEuY29va2llcy5nZXQoInFjX2F1dGgiKT8udmFsdWUpKSB7CiAgICByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oeyBlcnJvcjogIlVuYXV0aG9yaXplZCIgfSwgeyBzdGF0dXM6IDQwMSB9KTsKICB9CiAgY29uc3QgZGF5cyA9IE1hdGgubWluKE1hdGgubWF4KHBhcnNlSW50KHJlcS5uZXh0VXJsLnNlYXJjaFBhcmFtcy5nZXQoImRheXMiKSA/PyAiMzAiKSB8fCAzMCwgMSksIDM2NSk7CgogIGNvbnN0IGNhY2hlZCA9IF9jYWNoZS5nZXQoZGF5cyk7CiAgaWYgKGNhY2hlZCAmJiBEYXRlLm5vdygpIC0gY2FjaGVkLnQgPCBDQUNIRV9NUykgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKGNhY2hlZC5wYXlsb2FkKTsKCiAgY29uc3QgY3Jvc3NvdmVyUXVlcnkgPSBgCiAgICBTRUxFQ1QKICAgICAgKFNFTEVDVCBjb3VudChESVNUSU5DVCBwZXJzb25faWQpIEZST00gZXZlbnRzIFdIRVJFIGV2ZW50ID0gJ2ZyZWVfY291cnNlX3N1Ym1pdHRlZCcgQU5EIHRpbWVzdGFtcCA+PSBub3coKSAtIElOVEVSVkFMICR7ZGF5c30gREFZKSBBUyBmcmVlX3RvdGFsLAogICAgICAoU0VMRUNUIGNvdW50KERJU1RJTkNUIHBlcnNvbl9pZCkgRlJPTSBldmVudHMgV0hFUkUgZXZlbnQgSU4gKCdsZWFkX3N1Ym1pdHRlZCcsJ3F1YWxpZnlfZm9ybV9zdGFydGVkJywncXVhbGlmeV9mb3JtX3N1Ym1pdHRlZCcpIEFORCB0aW1lc3RhbXAgPj0gbm93KCkgLSBJTlRFUlZBTCAke2RheXN9IERBWSkgQVMgdnNsX3RvdGFsLAogICAgICBjb3VudChESVNUSU5DVCBwZXJzb25faWQpIEFTIGNyb3NzZWQKICAgIEZST00gZXZlbnRzCiAgICBXSEVSRSBldmVudCBJTiAoJ2xlYWRfc3VibWl0dGVkJywncXVhbGlmeV9mb3JtX3N0YXJ0ZWQnLCdxdWFsaWZ5X2Zvcm1fc3VibWl0dGVkJykKICAgICAgQU5EIHRpbWVzdGFtcCA+PSBub3coKSAtIElOVEVSVkFMICR7ZGF5c30gREFZCiAgICAgIEFORCBwZXJzb25faWQgSU4gKAogICAgICAgIFNFTEVDVCBESVNUSU5DVCBwZXJzb25faWQgRlJPTSBldmVudHMKICAgICAgICBXSEVSRSBldmVudCA9ICdmcmVlX2NvdXJzZV9zdWJtaXR0ZWQnIEFORCB0aW1lc3RhbXAgPj0gbm93KCkgLSBJTlRFUlZBTCAke2RheXN9IERBWQogICAgICApCiAgYDsKCiAgY29uc3Qgc291cmNlc1F1ZXJ5ID0gYAogICAgU0VMRUNUCiAgICAgIGNvYWxlc2NlKG51bGxJZihwZXJzb24ucHJvcGVydGllcy4kaW5pdGlhbF91dG1fc291cmNlLCAnJyksIG51bGxJZihyZXBsYWNlQWxsKHBlcnNvbi5wcm9wZXJ0aWVzLiRpbml0aWFsX3JlZmVycmluZ19kb21haW4sICckZGlyZWN0JywgJycpLCAnJyksICcoZGlyZWN0KScpIEFTIHNvdXJjZSwKICAgICAgY29hbGVzY2UobnVsbElmKHBlcnNvbi5wcm9wZXJ0aWVzLiRpbml0aWFsX3V0bV9jb250ZW50LCAnJyksICcnKSBBUyBjb250ZW50LAogICAgICB1bmlxSWYocGVyc29uX2lkLCBldmVudCA9ICckcGFnZXZpZXcnKSBBUyB2aXNpdG9ycywKICAgICAgdW5pcUlmKHBlcnNvbl9pZCwgZXZlbnQgPSAnZnJlZV9jb3Vyc2Vfc3VibWl0dGVkJykgQVMgZnJlZV9zaWdudXBzLAogICAgICB1bmlxSWYocGVyc29uX2lkLCBldmVudCA9ICdxdWFsaWZ5X2Zvcm1fc3VibWl0dGVkJykgQVMgc3VydmV5cwogICAgRlJPTSBldmVudHMKICAgIFdIRVJFIHRpbWVzdGFtcCA+PSBub3coKSAtIElOVEVSVkFMICR7ZGF5c30gREFZCiAgICBHUk9VUCBCWSBzb3VyY2UsIGNvbnRlbnQKICAgIEhBVklORyB2aXNpdG9ycyA+IDEgT1IgZnJlZV9zaWdudXBzID4gMCBPUiBzdXJ2ZXlzID4gMAogICAgT1JERVIgQlkgdmlzaXRvcnMgREVTQwogICAgTElNSVQgMTIKICBgOwoKICBjb25zdCBkYWlseVF1ZXJ5ID0gYAogICAgU0VMRUNUIHRvRGF0ZSh0aW1lc3RhbXApIEFTIGQsCiAgICAgIGNvdW50SWYoZXZlbnQgPSAnZnJlZV9jb3Vyc2Vfc3VibWl0dGVkJykgQVMgZnJlZSwKICAgICAgY291bnRJZihldmVudCA9ICdsZWFkX3N1Ym1pdHRlZCcpIEFTIHZzbAogICAgRlJPTSBldmVudHMKICAgIFdIRVJFIHRpbWVzdGFtcCA+PSBub3coKSAtIElOVEVSVkFMICR7ZGF5c30gREFZCiAgICAgIEFORCBldmVudCBJTiAoJ2ZyZWVfY291cnNlX3N1Ym1pdHRlZCcsICdsZWFkX3N1Ym1pdHRlZCcpCiAgICBHUk9VUCBCWSBkIE9SREVSIEJZIGQKICBgOwoKICAvLyBCcm9rZXIgb3JkZXItYnVtcCAoZnJlZSBmdW5uZWwgc3RlcCAyKSArIFZTTCByb3V0aW5nIHNwbGl0LCBvbmUgc2NhbiBlYWNoLgogIGNvbnN0IGJyb2tlclF1ZXJ5ID0gYAogICAgU0VMRUNUCiAgICAgIHVuaXFJZihwZXJzb25faWQsIGV2ZW50ID0gJ2Jyb2tlcl9vZmZlcnNfdmlld2VkJykgQVMgdmlld2VkLAogICAgICB1bmlxSWYocGVyc29uX2lkLCBldmVudCA9ICdicm9rZXJfb2ZmZXJfY2xpY2tlZCcpIEFTIGNsaWNrZWQsCiAgICAgIHVuaXFJZihwZXJzb25faWQsIGV2ZW50ID0gJ2Jyb2tlcl9vZmZlcl9jbGlja2VkJyBBTkQgcHJvcGVydGllcy5icm9rZXIgPSAnaHlkcmEnKSBBUyBoeWRyYSwKICAgICAgdW5pcUlmKHBlcnNvbl9pZCwgZXZlbnQgPSAnYnJva2VyX29mZmVyX2NsaWNrZWQnIEFORCBwcm9wZXJ0aWVzLmJyb2tlciA9ICdibG9maW4nKSBBUyBibG9maW4sCiAgICAgIHVuaXFJZihwZXJzb25faWQsIGV2ZW50ID0gJ2Jyb2tlcl9vZmZlcnNfc2tpcHBlZCcpIEFTIHNraXBwZWQsCiAgICAgIHVuaXFJZihwZXJzb25faWQsIGV2ZW50ID0gJ2ZyZWVfY291cnNlX2NvbmZpcm1fdmlld2VkJykgQVMgY29uZmlybWVkCiAgICBGUk9NIGV2ZW50cyBXSEVSRSB0aW1lc3RhbXAgPj0gbm93KCkgLSBJTlRFUlZBTCAke2RheXN9IERBWQogIGA7CiAgY29uc3QgdnNsU3BsaXRRdWVyeSA9IGAKICAgIFNFTEVDVAogICAgICB1bmlxSWYocGVyc29uX2lkLCBldmVudCA9ICdxdWFsaWZ5X2Zvcm1fc3VibWl0dGVkJyBBTkQgcHJvcGVydGllcy5yb3V0aW5nID0gJ2Jvb2snKSBBUyBxdWFudHVtLAogICAgICB1bmlxSWYocGVyc29uX2lkLCBldmVudCA9ICdxdWFsaWZ5X2Zvcm1fc3VibWl0dGVkJyBBTkQgcHJvcGVydGllcy5yb3V0aW5nID0gJ3dvbGZwYWNrJykgQVMgd29sZiwKICAgICAgdW5pcUlmKHBlcnNvbl9pZCwgZXZlbnQgPSAncXVhbGlmeV9pbnRsX29mZmVyJykgQVMgaW50bCwKICAgICAgdW5pcUlmKHBlcnNvbl9pZCwgZXZlbnQgPSAnYm9va19wYWdlX3ZpZXdlZCcpIEFTIGJvb2tfdmlld2VkLAogICAgICB1bmlxSWYocGVyc29uX2lkLCBldmVudCA9ICd3b2xmcGFja19wYWdlX3ZpZXdlZCcgT1IgKGV2ZW50ID0gJyRwYWdldmlldycgQU5EIHByb3BlcnRpZXMuJHBhdGhuYW1lID0gJy93b2xmcGFjaycpKSBBUyB3b2xmcGFja192aWV3ZWQsCiAgICAgIHVuaXFJZihwZXJzb25faWQsIGV2ZW50ID0gJyRwYWdldmlldycgQU5EIHByb3BlcnRpZXMuJHBhdGhuYW1lID0gJy93b2xmcGFjay1nbG9iYWwnKSBBUyBnbG9iYWxfdmlld2VkCiAgICBGUk9NIGV2ZW50cyBXSEVSRSB0aW1lc3RhbXAgPj0gbm93KCkgLSBJTlRFUlZBTCAke2RheXN9IERBWQogIGA7CgogIC8vIE51cnR1cmUgY29udmVyc2lvbjogZnJlZSBzaWdudXBzIOKGkiBWU0wgb3B0LWluIOKGkiBxdWFsaWZpZWQsIHdpdGggdGltaW5nLgogIC8vIEJlaGF2aW91cmFsIGFuc3dlciB0byAiZGlkIHRoZSBmcmVlLWNvdXJzZSBmb2xsb3ctdXAgY29udmVydCB0byBhIFZTTAogIC8vIG9wdC1pbj8iIOKAlCBtZWFzdXJlZCBpbiBQb3N0SG9nLCBub3QgS2l0LiAxMjBkIHNjYW4sIDkwZCBjb2hvcnQuCiAgY29uc3QgbnVydHVyZVF1ZXJ5ID0gYAogICAgU0VMRUNUCiAgICAgIGNvdW50SWYoaXNOb3ROdWxsKHRfZnJlZSkpIEFTIGVucm9sbGVkLAogICAgICBjb3VudElmKGlzTm90TnVsbCh0X2ZyZWUpIEFORCBpc05vdE51bGwodF92c2wpIEFORCB0X3ZzbCA+PSB0X2ZyZWUpIEFTIHRvX3ZzbCwKICAgICAgY291bnRJZihpc05vdE51bGwodF9mcmVlKSBBTkQgaXNOb3ROdWxsKHRfcSkgQU5EIHRfcSA+PSB0X2ZyZWUpIEFTIHRvX3F1YWwsCiAgICAgIHJvdW5kKGF2ZyhpZihpc05vdE51bGwodF9mcmVlKSBBTkQgaXNOb3ROdWxsKHRfdnNsKSBBTkQgdF92c2wgPj0gdF9mcmVlLCBkYXRlRGlmZignZGF5JywgdF9mcmVlLCB0X3ZzbCksIG51bGwpKSwgMSkgQVMgYXZnX2RheXMsCiAgICAgIGNvdW50SWYoaXNOb3ROdWxsKHRfZnJlZSkgQU5EIGlzTm90TnVsbCh0X3ZzbCkgQU5EIHRfdnNsID49IHRfZnJlZSBBTkQgZGF0ZURpZmYoJ2RheScsIHRfZnJlZSwgdF92c2wpIDw9IDcpIEFTIHdpdGhpbjcKICAgIEZST00gKAogICAgICBTRUxFQ1QgcGVyc29uX2lkLAogICAgICAgIG51bGxJZihtaW5JZih0aW1lc3RhbXAsIGV2ZW50ID0gJ2ZyZWVfY291cnNlX3N1Ym1pdHRlZCcpLCB0b0RhdGVUaW1lKDApKSBBUyB0X2ZyZWUsCiAgICAgICAgbnVsbElmKG1pbklmKHRpbWVzdGFtcCwgZXZlbnQgPSAnbGVhZF9zdWJtaXR0ZWQnKSwgdG9EYXRlVGltZSgwKSkgQVMgdF92c2wsCiAgICAgICAgbnVsbElmKG1pbklmKHRpbWVzdGFtcCwgZXZlbnQgPSAncXVhbGlmeV9mb3JtX3N1Ym1pdHRlZCcpLCB0b0RhdGVUaW1lKDApKSBBUyB0X3EKICAgICAgRlJPTSBldmVudHMgV0hFUkUgdGltZXN0YW1wID49IG5vdygpIC0gSU5URVJWQUwgMTIwIERBWQogICAgICBHUk9VUCBCWSBwZXJzb25faWQKICAgICkKICAgIFdIRVJFIGlzTm90TnVsbCh0X2ZyZWUpIEFORCB0X2ZyZWUgPj0gbm93KCkgLSBJTlRFUlZBTCAke2RheXN9IERBWQogIGA7CgogIGNvbnN0IFt2c2xSb3dzLCBmcmVlUm93cywgY3Jvc3NSb3dzLCBzb3VyY2VSb3dzLCBkYWlseVJvd3MsIGJyb2tlclJvd3MsIHZzbFNwbGl0Um93cywgbnVydHVyZVJvd3MsIHRlYW0sIHNlcXVlbmNlcywgYnJvYWRjYXN0cywgcmV2ZW51ZSwgYm9va2luZ10gPSBhd2FpdCBQcm9taXNlLmFsbChbCiAgICBob2dxbChvcmRlcmVkRnVubmVsUXVlcnkoVlNMX1NURVBTLCBkYXlzKSksCiAgICBob2dxbChvcmRlcmVkRnVubmVsUXVlcnkoRlJFRV9TVEVQUywgZGF5cykpLAogICAgaG9ncWwoY3Jvc3NvdmVyUXVlcnkpLAogICAgaG9ncWwoc291cmNlc1F1ZXJ5KSwKICAgIGhvZ3FsKGRhaWx5UXVlcnkpLAogICAgaG9ncWwoYnJva2VyUXVlcnkpLAogICAgaG9ncWwodnNsU3BsaXRRdWVyeSksCiAgICBob2dxbChudXJ0dXJlUXVlcnkpLAogICAgZmV0Y2hDYWxsU3RhdHMoZGF5cykuY2F0Y2goKCkgPT4gW10pLAogICAgZmV0Y2hTZXF1ZW5jZXMoKS5jYXRjaCgoKSA9PiBbXSksCiAgICBmZXRjaEJyb2FkY2FzdHMoKS5jYXRjaCgoKSA9PiBbXSksCiAgICBmZXRjaFdob3BSZXZlbnVlKGRheXMpLmNhdGNoKCgpID0+IG51bGwpLAogICAgZmV0Y2hCb29raW5nRnVubmVsKGRheXMpLmNhdGNoKCgpID0+IG51bGwpLAogIF0pOwoKICBjb25zdCBidWlsZFN0ZXBzID0gKGRlZnM6IFN0ZXBbXSwgcm93czogdW5rbm93bltdW10pID0+IHsKICAgIGNvbnN0IHJvdyA9IHJvd3NbMF0gPz8gW107CiAgICByZXR1cm4gZGVmcy5tYXAoKHMsIGkpID0+ICh7IGlkOiBzLmlkLCBsYWJlbDogcy5sYWJlbCwgY291bnQ6IE51bWJlcihyb3dbaV0gPz8gMCksIG5vdGU6IHMubm90ZSB9KSk7CiAgfTsKCiAgY29uc3QgY3IgPSBjcm9zc1Jvd3NbMF0gPz8gW107CiAgY29uc3QgY3Jvc3NvdmVyID0gewogICAgZnJlZVRvdGFsOiBOdW1iZXIoY3JbMF0gPz8gMCksCiAgICB2c2xUb3RhbDogTnVtYmVyKGNyWzFdID8/IDApLAogICAgY3Jvc3NlZDogTnVtYmVyKGNyWzJdID8/IDApLAogIH07CgogIGNvbnN0IHNvdXJjZXMgPSBzb3VyY2VSb3dzLm1hcCgocikgPT4gKHsKICAgIHNvdXJjZTogU3RyaW5nKHJbMF0gPz8gIihkaXJlY3QpIiksCiAgICBjb250ZW50OiBTdHJpbmcoclsxXSA/PyAiIiksCiAgICB2aXNpdG9yczogTnVtYmVyKHJbMl0gPz8gMCksCiAgICBmcmVlU2lnbnVwczogTnVtYmVyKHJbM10gPz8gMCksCiAgICBzdXJ2ZXlzOiBOdW1iZXIocls0XSA/PyAwKSwKICB9KSk7CgogIGNvbnN0IGRhaWx5ID0gZGFpbHlSb3dzLm1hcCgocikgPT4gKHsKICAgIGRhdGU6IFN0cmluZyhyWzBdID8/ICIiKSwKICAgIGZyZWU6IE51bWJlcihyWzFdID8/IDApLAogICAgdnNsOiBOdW1iZXIoclsyXSA/PyAwKSwKICB9KSk7CgogIGNvbnN0IGJyID0gYnJva2VyUm93c1swXSA/PyBbXTsKICBjb25zdCBicm9rZXIgPSB7CiAgICB2aWV3ZWQ6IE51bWJlcihiclswXSA/PyAwKSwKICAgIGNsaWNrZWQ6IE51bWJlcihiclsxXSA/PyAwKSwKICAgIGh5ZHJhOiBOdW1iZXIoYnJbMl0gPz8gMCksCiAgICBibG9maW46IE51bWJlcihiclszXSA/PyAwKSwKICAgIHNraXBwZWQ6IE51bWJlcihicls0XSA/PyAwKSwKICAgIGNvbmZpcm1lZDogTnVtYmVyKGJyWzVdID8/IDApLAogIH07CiAgLy8gQXR0cmlidXRlIHRoZSBhY3R1YWwgY2xvc2VzIGJhY2sgdG8gdGhlaXIgbGVhZCBzb3VyY2UgKGZyZWUgY291cnNlPykuCiAgY29uc3QgY2xvc2VPcmlnaW4gPSBhd2FpdCBhdHRyaWJ1dGVDbG9zZXNUb0ZyZWVDb3Vyc2UocmV2ZW51ZT8ucXVhbnR1bUNsb3NlTWVtcyA/PyBbXSwgcmV2ZW51ZT8ud29sZldlc3Rlcm5NZW1zID8/IFtdKS5jYXRjaCgoKSA9PiBudWxsKTsKCiAgY29uc3QgdnMgPSB2c2xTcGxpdFJvd3NbMF0gPz8gW107CiAgY29uc3QgdnNsU3BsaXQgPSB7CiAgICBxdWFudHVtOiBOdW1iZXIodnNbMF0gPz8gMCksIC8vIGJvb2sgcm91dGUg4oaSIGhpZ2gtdGlja2V0CiAgICB3b2xmOiBOdW1iZXIodnNbMV0gPz8gMCksIC8vIHdvbGZwYWNrIHJvdXRlIOKGkiBzZWxmLXNlcnZlCiAgICBpbnRsOiBOdW1iZXIodnNbMl0gPz8gMCksIC8vIGdlbyAkMjk3IG9mZmVyCiAgICBib29rVmlld2VkOiBOdW1iZXIodnNbM10gPz8gMCksIC8vIGxhbmRlZCBvbiAvYm9vawogICAgd29sZnBhY2tWaWV3ZWQ6IE51bWJlcih2c1s0XSA/PyAwKSwgLy8gbGFuZGVkIG9uIC93b2xmcGFjawogICAgZ2xvYmFsVmlld2VkOiBOdW1iZXIodnNbNV0gPz8gMCksIC8vIGxhbmRlZCBvbiAvd29sZnBhY2stZ2xvYmFsICgkMjk3KQogICAgcXVhbnR1bUZyb21GcmVlOiBjbG9zZU9yaWdpbj8ucXVhbnR1bUZyb21GcmVlID8/IDAsIC8vIGNsb3NlcyB0aGF0IGNhbWUgZnJvbSBhIGZyZWUtY291cnNlIHNpZ251cAogICAgd29sZkZyb21GcmVlOiBjbG9zZU9yaWdpbj8ud29sZkZyb21GcmVlID8/IDAsCiAgfTsKCiAgY29uc3QgbnIgPSBudXJ0dXJlUm93c1swXSA/PyBbXTsKICBjb25zdCBudXJ0dXJlID0gewogICAgZW5yb2xsZWQ6IE51bWJlcihuclswXSA/PyAwKSwKICAgIHRvVnNsOiBOdW1iZXIobnJbMV0gPz8gMCksCiAgICB0b1F1YWxpZmllZDogTnVtYmVyKG5yWzJdID8/IDApLAogICAgYXZnRGF5czogTnVtYmVyKG5yWzNdID8/IDApLAogICAgd2l0aGluNzogTnVtYmVyKG5yWzRdID8/IDApLAogIH07CgogIGNvbnN0IHBheWxvYWQgPSB7CiAgICBwZXJpb2Q6IGRheXMsCiAgICBmcmVlOiBidWlsZFN0ZXBzKEZSRUVfU1RFUFMsIGZyZWVSb3dzKSwKICAgIHZzbDogYnVpbGRTdGVwcyhWU0xfU1RFUFMsIHZzbFJvd3MpLAogICAgY3Jvc3NvdmVyLAogICAgc291cmNlcywKICAgIGRhaWx5LAogICAgYnJva2VyLAogICAgdnNsU3BsaXQsCiAgICBudXJ0dXJlLAogICAgdGVhbSwKICAgIHNlcXVlbmNlcywKICAgIGJyb2FkY2FzdHMsCiAgICBib29raW5nLAogICAgcmV2ZW51ZSwKICB9OwogIF9jYWNoZS5zZXQoZGF5cywgeyB0OiBEYXRlLm5vdygpLCBwYXlsb2FkIH0pOwogIHJldHVybiBOZXh0UmVzcG9uc2UuanNvbihwYXlsb2FkKTsKfQo="}
+// GET /api/analytics/funnel?days=30
+//
+// Funnelmaxxing Pro data backend. Returns two ORDERED funnels (free course +
+// VSL) computed as true sequential funnels — each step counts people who did
+// every prior step in time order, so counts are monotonic and conversions
+// never exceed 100%. Plus: free→VSL crossover, traffic sources, and Whop
+// revenue split by funnel.
+
+import { NextRequest, NextResponse } from "next/server";
+import { isAuthed } from "@/lib/analytics-auth";
+import { fetchWhopRevenue } from "@/lib/whop";
+import { attributeClosesToFreeCourse } from "@/lib/freecourse";
+
+export const runtime = "nodejs";
+export const dynamic = "force-dynamic";
+export const maxDuration = 60;
+
+// in-memory TTL cache per period — the aggregation is heavy (6–15s), so repeat
+// period-switches within the window return instantly. Per warm instance; data
+// is identical for all authed viewers, so keying on `days` alone is safe.
+const _cache = new Map<number, { t: number; payload: unknown }>();
+const CACHE_MS = 90_000;
+
+const PH_PROJECT = "430887";
+const PH_HOST = "https://us.i.posthog.com";
+const FREE_HOST = "free.quantumcipherlab.com";
+
+// ── Close call activity → per-rep leaderboard ──────────────────────
+async function fetchCallStats(days: number) {
+  const key = process.env.CLOSE_API_KEY || "";
+  if (!key) return [];
+  const auth = Buffer.from(`${key}:`).toString("base64");
+  const since = new Date(Date.now() - days * 86_400_000).toISOString().slice(0, 19);
+
+  type Rep = { name: string; calls: number; answered: number; talkSec: number };
+  const reps: Record<string, Rep> = {};
+  let skip = 0;
+  // Cap at 30 pages (3000 calls); plenty for a 30–90d window, bounded latency.
+  for (let p = 0; p < 30; p++) {
+    const url = `https://api.close.com/api/v1/activity/call/?date_created__gte=${encodeURIComponent(since)}&_limit=100&_skip=${skip}`;
+    const res = await fetch(url, { headers: { Authorization: `Basic ${auth}`, Accept: "application/json" }, next: { revalidate: 300 } });
+    if (!res.ok) break;
+    const d = await res.json();
+    for (const c of (d.data ?? []) as { user_name?: string; duration?: number; disposition?: string }[]) {
+      const name = c.user_name || "Unknown";
+      const r = (reps[name] ??= { name, calls: 0, answered: 0, talkSec: 0 });
+      r.calls++;
+      const dur = c.duration ?? 0;
+      r.talkSec += dur;
+      if (c.disposition === "answered" || dur > 0) r.answered++;
+    }
+    if (!d.has_more) break;
+    skip += 100;
+  }
+  return Object.values(reps)
+    .filter((r) => r.calls >= 2)
+    .sort((a, b) => b.calls - a.calls)
+    .map((r) => ({
+      name: r.name,
+      calls: r.calls,
+      answered: r.answered,
+      connectPct: r.calls ? Math.round((r.answered / r.calls) * 100) : 0,
+      talkMin: Math.round(r.talkSec / 60),
+    }));
+}
+
+// ── Close booking sub-funnel: booked (self vs setter-rescued), show, cancel ──
+async function fetchBookingFunnel(days: number) {
+  const key = process.env.CLOSE_API_KEY || "";
+  if (!key) return null;
+  const auth = Buffer.from(`${key}:`).toString("base64");
+  const headers = { Authorization: `Basic ${auth}`, Accept: "application/json" };
+  const since = new Date(Date.now() - days * 86_400_000).toISOString();
+
+  // status id → label map
+  let idName: Record<string, string> = {};
+  try {
+    const sd = await (await fetch("https://api.close.com/api/v1/status/lead/", { headers, next: { revalidate: 3600 } })).json();
+    idName = Object.fromEntries((sd.data ?? []).map((s: { id: string; label: string }) => [s.id, s.label]));
+  } catch {
+    return null;
+  }
+
+  // status_change history → per-lead label sequence. Pull a WIDER window
+  // (90d, or the report window + 60d) so each booked lead's earlier statuses
+  // are captured — otherwise a lead who qualified before the window but
+  // booked recently looks falsely "immediate".
+  const histDays = Math.max(days + 60, 90);
+  const histSince = new Date(Date.now() - histDays * 86_400_000).toISOString();
+  const bookCutoff = Date.now() - days * 86_400_000; // only count bookings in the report window
+  const seq: Record<string, { t: number; label: string }[]> = {};
+  for (let p = 0; p < 32; p++) {
+    const url = `https://api.close.com/api/v1/activity/status_change/lead/?date_created__gte=${encodeURIComponent(histSince)}&_limit=100&_skip=${p * 100}`;
+    const res = await fetch(url, { headers, next: { revalidate: 600 } });
+    if (!res.ok) break;
+    const d = await res.json();
+    for (const sc of (d.data ?? []) as { lead_id?: string; new_status_id?: string; status_id?: string; date_created?: string }[]) {
+      const lid = sc.lead_id ?? "";
+      const label = idName[(sc.new_status_id ?? sc.status_id) ?? ""] ?? "?";
+      (seq[lid] ??= []).push({ t: sc.date_created ? Date.parse(sc.date_created) : 0, label });
+    }
+    if (!d.has_more) break;
+  }
+  // 3-way booking split: immediate self-book vs setter-rescued vs later (email/nurture)
+  let booked = 0, immediateBooked = 0, setterRescued = 0, laterBooked = 0;
+  for (const events of Object.values(seq)) {
+    events.sort((a, b) => a.t - b.t);
+    const bi = events.findIndex((e) => e.label === "Demo Booked");
+    if (bi < 0) continue;
+    const bookedAt = events[bi].t;
+    if (bookedAt < bookCutoff) continue; // booking outside the report window
+    booked++;
+    const setterBefore = events.slice(0, bi).some((e) => e.label.includes("Setter"));
+    if (setterBefore) {
+      setterRescued++;
+    } else {
+      const gapHours = (bookedAt - events[0].t) / 3_600_000;
+      if (gapHours <= 24) immediateBooked++;
+      else laterBooked++;
+    }
+  }
+  const selfBooked = immediateBooked; // back-compat alias
+
+  // meeting activity → showed vs canceled
+  let showed = 0, canceled = 0, meetings = 0;
+  for (let p = 0; p < 12; p++) {
+    const url = `https://api.close.com/api/v1/activity/meeting/?date_created__gte=${encodeURIComponent(since)}&_limit=100&_skip=${p * 100}`;
+    const res = await fetch(url, { headers, next: { revalidate: 600 } });
+    if (!res.ok) break;
+    const d = await res.json();
+    for (const m of (d.data ?? []) as { status?: string }[]) {
+      meetings++;
+      if (m.status === "completed") showed++;
+      else if (m.status === "canceled") canceled++;
+    }
+    if (!d.has_more) break;
+  }
+
+  return { booked, immediateBooked, setterRescued, laterBooked, selfBooked, meetings, showed, canceled };
+}
+
+// ── Kit automated sequences → enrollment per funnel ────────────────
+async function fetchSequences() {
+  const key = process.env.KIT_API_KEY || "";
+  const sec = process.env.KIT_API_SECRET || "";
+  if (!key || !sec) return [];
+  const listRes = await fetch(`https://api.convertkit.com/v3/sequences?api_key=${key}`, { next: { revalidate: 600 } });
+  if (!listRes.ok) return [];
+  const seqs: { id: number; name: string }[] = (await listRes.json()).courses ?? [];
+
+  // map a sequence to a funnel by name
+  const funnelOf = (name: string): "free" | "vsl" | "post-call" | "other" => {
+    const n = name.toLowerCase();
+    if (n.includes("free course")) return "free";
+    if (n.includes("vsl") || n.includes("quantum")) return "vsl";
+    if (n.includes("booked call") || n.includes("book")) return "post-call";
+    return "other";
+  };
+
+  // enrolled count per sequence (1 call each, capped to the relevant ones)
+  const relevant = seqs.filter((s) => funnelOf(s.name) !== "other").slice(0, 12);
+  const out = await Promise.all(
+    relevant.map(async (s) => {
+      const r = await fetch(`https://api.convertkit.com/v3/sequences/${s.id}/subscriptions?api_secret=${sec}&page=1`, { next: { revalidate: 600 } });
+      const enrolled = r.ok ? (await r.json()).total_subscriptions ?? 0 : 0;
+      return { id: s.id, name: s.name, funnel: funnelOf(s.name), enrolled };
+    }),
+  );
+  return out.filter((s) => s.enrolled > 0).sort((a, b) => b.enrolled - a.enrolled);
+}
+
+// ── Kit broadcasts → real per-email open/click (the actual emails sent) ──
+async function fetchBroadcasts() {
+  const sec = process.env.KIT_API_SECRET || "";
+  if (!sec) return [];
+  const listRes = await fetch(`https://api.convertkit.com/v3/broadcasts?api_secret=${sec}`, { next: { revalidate: 600 } });
+  if (!listRes.ok) return [];
+  const all: { id: number; subject: string; created_at: string }[] = ((await listRes.json()).broadcasts ?? [])
+    .sort((a: { created_at: string }, b: { created_at: string }) => b.created_at.localeCompare(a.created_at))
+    .slice(0, 8);
+  const stats = await Promise.all(
+    all.map((b) =>
+      fetch(`https://api.convertkit.com/v3/broadcasts/${b.id}/stats?api_secret=${sec}`, { next: { revalidate: 600 } })
+        .then((r) => (r.ok ? r.json() : null))
+        .catch(() => null),
+    ),
+  );
+  const out: { subject: string; date: string; recipients: number; openRate: number; clickRate: number; clicks: number }[] = [];
+  for (let i = 0; i < all.length; i++) {
+    const s = stats[i]?.broadcast?.stats;
+    if (!s || s.status !== "completed") continue;
+    out.push({
+      subject: all[i].subject,
+      date: all[i].created_at,
+      recipients: s.recipients ?? 0,
+      openRate: s.open_rate ?? 0, // already a percentage (e.g. 42.31)
+      clickRate: s.click_rate ?? 0,
+      clicks: s.total_clicks ?? 0,
+    });
+  }
+  return out;
+}
+
+async function hogql(query: string): Promise<unknown[][]> {
+  const apiKey = process.env.POSTHOG_PERSONAL_API_KEY || "";
+  if (!apiKey) return [];
+  const res = await fetch(`${PH_HOST}/api/projects/${PH_PROJECT}/query`, {
+    method: "POST",
+    headers: { Authorization: `Bearer ${apiKey}`, "Content-Type": "application/json" },
+    body: JSON.stringify({ query: { kind: "HogQLQuery", query } }),
+    next: { revalidate: 300 },
+  });
+  if (!res.ok) {
+    console.error("[funnel] HogQL failed:", res.status, (await res.text()).slice(0, 300));
+    return [];
+  }
+  return ((await res.json()).results ?? []) as unknown[][];
+}
+
+// An ordered funnel step: id, display label, and the HogQL event condition
+// that marks completion.
+type Step = { id: string; label: string; cond: string; note?: string };
+
+const VSL_STEPS: Step[] = [
+  { id: "visit", label: "Visited VSL page", cond: `event = '$pageview' AND properties.$host != '${FREE_HOST}' AND properties.$pathname IN ('/', '/training')` },
+  { id: "lead", label: "Opted in (lead)", cond: `event = 'lead_submitted'` },
+  { id: "survey_start", label: "Started application", cond: `event = 'qualify_form_started'` },
+  { id: "survey_done", label: "Qualified (submitted)", cond: `event = 'qualify_form_submitted'` },
+];
+
+const FREE_STEPS: Step[] = [
+  { id: "visit", label: "Visited free course", cond: `event = '$pageview' AND (properties.$host = '${FREE_HOST}' OR properties.$pathname IN ('/free-course', '/free-course/confirm', '/free-course/broker'))` },
+  { id: "signup", label: "Signed up (email captured)", cond: `event = 'free_course_submitted'` },
+  { id: "confirm", label: "Reached course content", cond: `event = 'free_course_confirm_viewed'` },
+];
+
+// Build a single HogQL query that computes an ordered funnel: per person, the
+// first timestamp of each step, then count people who completed each step at
+// or after the previous one.
+function orderedFunnelQuery(steps: Step[], days: number): string {
+  const minCols = steps
+    .map((s, i) => `nullIf(minIf(timestamp, ${s.cond}), toDateTime(0)) AS s${i}`)
+    .join(",\n      ");
+
+  // step0 = did s0; stepN = did s0..sN each >= the prior
+  const counts = steps
+    .map((_, i) => {
+      const chain = Array.from({ length: i + 1 }, (_, j) => `isNotNull(s${j})`).concat(
+        Array.from({ length: i }, (_, j) => `s${j + 1} >= s${j}`),
+      );
+      return `countIf(${chain.join(" AND ")}) AS c${i}`;
+    })
+    .join(",\n    ");
+
+  return `
+    SELECT ${counts}
+    FROM (
+      SELECT person_id,
+      ${minCols}
+      FROM events
+      WHERE timestamp >= now() - INTERVAL ${days} DAY
+      GROUP BY person_id
+    )
+  `;
+}
+
+export async function GET(req: NextRequest) {
+  if (!isAuthed(req.cookies.get("qc_auth")?.value)) {
+    return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+  }
+  const days = Math.min(Math.max(parseInt(req.nextUrl.searchParams.get("days") ?? "30") || 30, 1), 365);
+
+  const cached = _cache.get(days);
+  if (cached && Date.now() - cached.t < CACHE_MS) return NextResponse.json(cached.payload);
+
+  const crossoverQuery = `
+    SELECT
+      (SELECT count(DISTINCT person_id) FROM events WHERE event = 'free_course_submitted' AND timestamp >= now() - INTERVAL ${days} DAY) AS free_total,
+      (SELECT count(DISTINCT person_id) FROM events WHERE event IN ('lead_submitted','qualify_form_started','qualify_form_submitted') AND timestamp >= now() - INTERVAL ${days} DAY) AS vsl_total,
+      count(DISTINCT person_id) AS crossed
+    FROM events
+    WHERE event IN ('lead_submitted','qualify_form_started','qualify_form_submitted')
+      AND timestamp >= now() - INTERVAL ${days} DAY
+      AND person_id IN (
+        SELECT DISTINCT person_id FROM events
+        WHERE event = 'free_course_submitted' AND timestamp >= now() - INTERVAL ${days} DAY
+      )
+  `;
+
+  const sourcesQuery = `
+    SELECT
+      coalesce(nullIf(person.properties.$initial_utm_source, ''), nullIf(replaceAll(person.properties.$initial_referring_domain, '$direct', ''), ''), '(direct)') AS source,
+      coalesce(nullIf(person.properties.$initial_utm_content, ''), '') AS content,
+      uniqIf(person_id, event = '$pageview') AS visitors,
+      uniqIf(person_id, event = 'free_course_submitted') AS free_signups,
+      uniqIf(person_id, event = 'qualify_form_submitted') AS surveys
+    FROM events
+    WHERE timestamp >= now() - INTERVAL ${days} DAY
+    GROUP BY source, content
+    HAVING visitors > 1 OR free_signups > 0 OR surveys > 0
+    ORDER BY visitors DESC
+    LIMIT 12
+  `;
+
+  const dailyQuery = `
+    SELECT toDate(timestamp) AS d,
+      countIf(event = 'free_course_submitted') AS free,
+      countIf(event = 'lead_submitted') AS vsl
+    FROM events
+    WHERE timestamp >= now() - INTERVAL ${days} DAY
+      AND event IN ('free_course_submitted', 'lead_submitted')
+    GROUP BY d ORDER BY d
+  `;
+
+  // Broker order-bump (free funnel step 2) + VSL routing split, one scan each.
+  const brokerQuery = `
+    SELECT
+      uniqIf(person_id, event = 'broker_offers_viewed') AS viewed,
+      uniqIf(person_id, event = 'broker_offer_clicked') AS clicked,
+      uniqIf(person_id, event = 'broker_offer_clicked' AND properties.broker = 'hydra') AS hydra,
+      uniqIf(person_id, event = 'broker_offer_clicked' AND properties.broker = 'blofin') AS blofin,
+      uniqIf(person_id, event = 'broker_offers_skipped') AS skipped,
+      uniqIf(person_id, event = 'free_course_confirm_viewed') AS confirmed
+    FROM events WHERE timestamp >= now() - INTERVAL ${days} DAY
+  `;
+  const vslSplitQuery = `
+    SELECT
+      uniqIf(person_id, event = 'qualify_form_submitted' AND properties.routing = 'book') AS quantum,
+      uniqIf(person_id, event = 'qualify_form_submitted' AND properties.routing = 'wolfpack') AS wolf,
+      uniqIf(person_id, event = 'qualify_intl_offer') AS intl,
+      uniqIf(person_id, event = 'book_page_viewed') AS book_viewed,
+      uniqIf(person_id, event = 'wolfpack_page_viewed' OR (event = '$pageview' AND properties.$pathname = '/wolfpack')) AS wolfpack_viewed,
+      uniqIf(person_id, event = '$pageview' AND properties.$pathname = '/wolfpack-global') AS global_viewed
+    FROM events WHERE timestamp >= now() - INTERVAL ${days} DAY
+  `;
+
+  // Nurture conversion: free signups → VSL opt-in → qualified, with timing.
+  // Behavioural answer to "did the free-course follow-up convert to a VSL
+  // opt-in?" — measured in PostHog, not Kit. 120d scan, 90d cohort.
+  const nurtureQuery = `
+    SELECT
+      countIf(isNotNull(t_free)) AS enrolled,
+      countIf(isNotNull(t_free) AND isNotNull(t_vsl) AND t_vsl >= t_free) AS to_vsl,
+      countIf(isNotNull(t_free) AND isNotNull(t_q) AND t_q >= t_free) AS to_qual,
+      round(avg(if(isNotNull(t_free) AND isNotNull(t_vsl) AND t_vsl >= t_free, dateDiff('day', t_free, t_vsl), null)), 1) AS avg_days,
+      countIf(isNotNull(t_free) AND isNotNull(t_vsl) AND t_vsl >= t_free AND dateDiff('day', t_free, t_vsl) <= 7) AS within7
+    FROM (
+      SELECT person_id,
+        nullIf(minIf(timestamp, event = 'free_course_submitted'), toDateTime(0)) AS t_free,
+        nullIf(minIf(timestamp, event = 'lead_submitted'), toDateTime(0)) AS t_vsl,
+        nullIf(minIf(timestamp, event = 'qualify_form_submitted'), toDateTime(0)) AS t_q
+      FROM events WHERE timestamp >= now() - INTERVAL 120 DAY
+      GROUP BY person_id
+    )
+    WHERE isNotNull(t_free) AND t_free >= now() - INTERVAL ${days} DAY
+  `;
+
+  const [vslRows, freeRows, crossRows, sourceRows, dailyRows, brokerRows, vslSplitRows, nurtureRows, trackingSinceRows, team, sequences, broadcasts, revenue, booking] = await Promise.all([
+    hogql(orderedFunnelQuery(VSL_STEPS, days)),
+    hogql(orderedFunnelQuery(FREE_STEPS, days)),
+    hogql(crossoverQuery),
+    hogql(sourcesQuery),
+    hogql(dailyQuery),
+    hogql(brokerQuery),
+    hogql(vslSplitQuery),
+    hogql(nurtureQuery),
+    hogql(`SELECT min(timestamp) FROM events`),
+    fetchCallStats(days).catch(() => []),
+    fetchSequences().catch(() => []),
+    fetchBroadcasts().catch(() => []),
+    fetchWhopRevenue(days).catch(() => null),
+    fetchBookingFunnel(days).catch(() => null),
+  ]);
+
+  const buildSteps = (defs: Step[], rows: unknown[][]) => {
+    const row = rows[0] ?? [];
+    return defs.map((s, i) => ({ id: s.id, label: s.label, count: Number(row[i] ?? 0), note: s.note }));
+  };
+
+  const cr = crossRows[0] ?? [];
+  const crossover = {
+    freeTotal: Number(cr[0] ?? 0),
+    vslTotal: Number(cr[1] ?? 0),
+    crossed: Number(cr[2] ?? 0),
+  };
+
+  const sources = sourceRows.map((r) => ({
+    source: String(r[0] ?? "(direct)"),
+    content: String(r[1] ?? ""),
+    visitors: Number(r[2] ?? 0),
+    freeSignups: Number(r[3] ?? 0),
+    surveys: Number(r[4] ?? 0),
+  }));
+
+  const daily = dailyRows.map((r) => ({
+    date: String(r[0] ?? ""),
+    free: Number(r[1] ?? 0),
+    vsl: Number(r[2] ?? 0),
+  }));
+
+  const br = brokerRows[0] ?? [];
+  const broker = {
+    viewed: Number(br[0] ?? 0),
+    clicked: Number(br[1] ?? 0),
+    hydra: Number(br[2] ?? 0),
+    blofin: Number(br[3] ?? 0),
+    skipped: Number(br[4] ?? 0),
+    confirmed: Number(br[5] ?? 0),
+  };
+  // Attribute the actual closes back to their lead source (free course?).
+  const closeOrigin = await attributeClosesToFreeCourse(revenue?.quantumCloseMems ?? [], revenue?.wolfWesternMems ?? []).catch(() => null);
+
+  const vs = vslSplitRows[0] ?? [];
+  const vslSplit = {
+    quantum: Number(vs[0] ?? 0), // book route → high-ticket
+    wolf: Number(vs[1] ?? 0), // wolfpack route → self-serve
+    intl: Number(vs[2] ?? 0), // geo $297 offer
+    bookViewed: Number(vs[3] ?? 0), // landed on /book
+    wolfpackViewed: Number(vs[4] ?? 0), // landed on /wolfpack
+    globalViewed: Number(vs[5] ?? 0), // landed on /wolfpack-global ($297)
+    quantumFromFree: closeOrigin?.quantumFromFree ?? 0, // closes that came from a free-course signup
+    wolfFromFree: closeOrigin?.wolfFromFree ?? 0,
+  };
+
+  const nr = nurtureRows[0] ?? [];
+  const nurture = {
+    enrolled: Number(nr[0] ?? 0),
+    toVsl: Number(nr[1] ?? 0),
+    toQualified: Number(nr[2] ?? 0),
+    avgDays: Number(nr[3] ?? 0),
+    within7: Number(nr[4] ?? 0),
+  };
+
+  const trackingSince = trackingSinceRows[0]?.[0] ? String(trackingSinceRows[0][0]) : null;
+
+  const payload = {
+    period: days,
+    trackingSince,
+    free: buildSteps(FREE_STEPS, freeRows),
+    vsl: buildSteps(VSL_STEPS, vslRows),
+    crossover,
+    sources,
+    daily,
+    broker,
+    vslSplit,
+    nurture,
+    team,
+    sequences,
+    broadcasts,
+    booking,
+    revenue,
+  };
+  _cache.set(days, { t: Date.now(), payload });
+  return NextResponse.json(payload);
+}

@@ -1,1 +1,184 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB7IHVzZVJvdXRlciB9IGZyb20gIm5leHQvbmF2aWdhdGlvbiI7CmltcG9ydCBwb3N0aG9nIGZyb20gInBvc3Rob2ctanMiOwppbXBvcnQgTG9nbyBmcm9tICJAL2NvbXBvbmVudHMvc2hhcmVkL0xvZ28iOwppbXBvcnQgVmlkZW9UaHVtYm5haWwgZnJvbSAiQC9jb21wb25lbnRzL3BhZ2UxL1ZpZGVvVGh1bWJuYWlsIjsKaW1wb3J0IExlYWRNb2RhbCwgeyB0eXBlIExlYWRNb2RhbEZvcm0gfSBmcm9tICJAL2NvbXBvbmVudHMvcGFnZTEvTGVhZE1vZGFsIjsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIFNxdWVlemVQYWdlKCkgewogIGNvbnN0IFtvcGVuLCBzZXRPcGVuXSA9IHVzZVN0YXRlKGZhbHNlKTsKICBjb25zdCByb3V0ZXIgPSB1c2VSb3V0ZXIoKTsKCiAgZnVuY3Rpb24gb3Blbk1vZGFsKCkgewogICAgcG9zdGhvZy5jYXB0dXJlKCJsZWFkX21vZGFsX29wZW5lZCIpOwogICAgc2V0T3Blbih0cnVlKTsKICB9CgogIGZ1bmN0aW9uIGhhbmRsZVN1Ym1pdChmb3JtOiBMZWFkTW9kYWxGb3JtKSB7CiAgICBjb25zdCBwYXJhbXMgPSBuZXcgVVJMU2VhcmNoUGFyYW1zKHsKICAgICAgZmlyc3RfbmFtZTogZm9ybS5maXJzdF9uYW1lLAogICAgICBsYXN0X25hbWU6IGZvcm0ubGFzdF9uYW1lLAogICAgICBlbWFpbDogZm9ybS5lbWFpbCwKICAgICAgcGhvbmU6IGZvcm0ucGhvbmUsCiAgICB9KTsKICAgIHJvdXRlci5wdXNoKGAvdHJhaW5pbmc/JHtwYXJhbXMudG9TdHJpbmcoKX1gKTsKICB9CgogIHJldHVybiAoCiAgICA8ZGl2CiAgICAgIHN0eWxlPXt7CiAgICAgICAgbWluSGVpZ2h0OiAiMTAwdmgiLAogICAgICAgIGRpc3BsYXk6ICJmbGV4IiwKICAgICAgICBmbGV4RGlyZWN0aW9uOiAiY29sdW1uIiwKICAgICAgICBiYWNrZ3JvdW5kSW1hZ2U6CiAgICAgICAgICAicmFkaWFsLWdyYWRpZW50KDkwMHB4IDYwMHB4IGF0IDUwJSAwJSwgcmdiYSgxOTEsMjUwLDcwLDAuMDYpLCB0cmFuc3BhcmVudCA2MCUpLCByYWRpYWwtZ3JhZGllbnQoNzAwcHggNjAwcHggYXQgNTAlIDEwMCUsIHJnYmEoMTkxLDI1MCw3MCwwLjA0KSwgdHJhbnNwYXJlbnQgNjAlKSIsCiAgICAgIH19CiAgICA+CiAgICAgIHsvKiBUb3AgYmFyICovfQogICAgICA8ZGl2CiAgICAgICAgc3R5bGU9e3sKICAgICAgICAgIHBhZGRpbmc6ICIyMHB4IDQ4cHgiLAogICAgICAgICAgZGlzcGxheTogImZsZXgiLAogICAgICAgICAganVzdGlmeUNvbnRlbnQ6ICJzcGFjZS1iZXR3ZWVuIiwKICAgICAgICAgIGFsaWduSXRlbXM6ICJjZW50ZXIiLAogICAgICAgIH19CiAgICAgID4KICAgICAgICA8TG9nbyAvPgogICAgICAgIDxzcGFuCiAgICAgICAgICBjbGFzc05hbWU9InFjLWhpZGUtbW9iaWxlIgogICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgZm9udEZhbWlseTogInZhcigtLWZvbnQtbW9ubykiLAogICAgICAgICAgICBmb250U2l6ZTogMTAsCiAgICAgICAgICAgIGZvbnRXZWlnaHQ6IDYwMCwKICAgICAgICAgICAgY29sb3I6ICJ2YXIoLS1tdXRlZCkiLAogICAgICAgICAgICBsZXR0ZXJTcGFjaW5nOiAiMC4yNGVtIiwKICAgICAgICAgICAgdGV4dFRyYW5zZm9ybTogInVwcGVyY2FzZSIsCiAgICAgICAgICAgIHdoaXRlU3BhY2U6ICJub3dyYXAiLAogICAgICAgICAgfX0KICAgICAgICA+CiAgICAgICAgICDCtyBGcmVlIFRyYWluaW5nIMK3IE5vIENoYXJnZSDCtwogICAgICAgIDwvc3Bhbj4KICAgICAgPC9kaXY+CgogICAgICB7LyogSGVybyAqL30KICAgICAgPGRpdgogICAgICAgIGNsYXNzTmFtZT0iZ3JpZC1iZyIKICAgICAgICBzdHlsZT17ewogICAgICAgICAgZmxleDogMSwKICAgICAgICAgIGRpc3BsYXk6ICJmbGV4IiwKICAgICAgICAgIGZsZXhEaXJlY3Rpb246ICJjb2x1bW4iLAogICAgICAgICAgYWxpZ25JdGVtczogImNlbnRlciIsCiAgICAgICAgICBqdXN0aWZ5Q29udGVudDogImNlbnRlciIsCiAgICAgICAgICBwYWRkaW5nOiAiMjRweCA0OHB4IDQwcHgiLAogICAgICAgICAgdGV4dEFsaWduOiAiY2VudGVyIiwKICAgICAgICAgIHBvc2l0aW9uOiAicmVsYXRpdmUiLAogICAgICAgIH19CiAgICAgID4KICAgICAgICB7LyogTGl2ZSBwaWxsICovfQogICAgICAgIDxkaXYKICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgIGRpc3BsYXk6ICJmbGV4IiwKICAgICAgICAgICAgYWxpZ25JdGVtczogImNlbnRlciIsCiAgICAgICAgICAgIGdhcDogMTIsCiAgICAgICAgICAgIG1hcmdpbkJvdHRvbTogMTgsCiAgICAgICAgICAgIHBhZGRpbmc6ICI4cHggMTZweCIsCiAgICAgICAgICAgIGJvcmRlcjogIjFweCBzb2xpZCB2YXIoLS1saW5lLTIpIiwKICAgICAgICAgICAgYmFja2dyb3VuZDogInJnYmEoMTEsMTIsMTYsMC42KSIsCiAgICAgICAgICB9fQogICAgICAgID4KICAgICAgICAgIDxkaXYKICAgICAgICAgICAgY2xhc3NOYW1lPSJwdWxzZSIKICAgICAgICAgICAgc3R5bGU9e3sgd2lkdGg6IDYsIGhlaWdodDogNiwgYmFja2dyb3VuZDogInZhcigtLWFjaWQpIiB9fQogICAgICAgICAgLz4KICAgICAgICAgIDxzcGFuCiAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgZm9udEZhbWlseTogInZhcigtLWZvbnQtbW9ubykiLAogICAgICAgICAgICAgIGZvbnRTaXplOiAxMCwKICAgICAgICAgICAgICBmb250V2VpZ2h0OiA2MDAsCiAgICAgICAgICAgICAgY29sb3I6ICJ2YXIoLS1hY2lkKSIsCiAgICAgICAgICAgICAgbGV0dGVyU3BhY2luZzogIjAuMjhlbSIsCiAgICAgICAgICAgICAgdGV4dFRyYW5zZm9ybTogInVwcGVyY2FzZSIsCiAgICAgICAgICAgIH19CiAgICAgICAgICA+CiAgICAgICAgICAgIDIwMjYgQ29ob3J0IMK3IEFwcGxpY2F0aW9uIE9wZW4KICAgICAgICAgIDwvc3Bhbj4KICAgICAgICA8L2Rpdj4KCiAgICAgICAgPGgxCiAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICBmb250RmFtaWx5OiAidmFyKC0tZm9udC1kaXNwbGF5KSIsCiAgICAgICAgICAgIGZvbnRXZWlnaHQ6IDYwMCwKICAgICAgICAgICAgZm9udFNpemU6IDUyLAogICAgICAgICAgICBsaW5lSGVpZ2h0OiAxLjAyLAogICAgICAgICAgICBsZXR0ZXJTcGFjaW5nOiAiLTAuMDRlbSIsCiAgICAgICAgICAgIGNvbG9yOiAidmFyKC0tYm9uZSkiLAogICAgICAgICAgICBtYXJnaW46ICIwIGF1dG8gMTZweCIsCiAgICAgICAgICAgIG1heFdpZHRoOiAxMDgwLAogICAgICAgICAgfX0KICAgICAgICA+CiAgICAgICAgICBIb3cgTXkgU3R1ZGVudHMgQXJlIENvbXBvdW5kaW5nIDcgRmlndXJlcyBUcmFkaW5neyIgIn0KICAgICAgICAgIDxlbQogICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgIGNvbG9yOiAidmFyKC0tYWNpZCkiLAogICAgICAgICAgICAgIHRleHRTaGFkb3c6ICIwIDAgMzJweCByZ2JhKDE5MSwyNTAsNzAsMC40KSIsCiAgICAgICAgICAgIH19CiAgICAgICAgICA+CiAgICAgICAgICAgIDkwIE1pbnV0ZXMgQSBXZWVrLgogICAgICAgICAgPC9lbT4KICAgICAgICA8L2gxPgoKICAgICAgICA8cAogICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgZm9udEZhbWlseTogInZhcigtLWZvbnQtYm9keSkiLAogICAgICAgICAgICBmb250U2l6ZTogMTcsCiAgICAgICAgICAgIGxpbmVIZWlnaHQ6IDEuNSwKICAgICAgICAgICAgY29sb3I6ICJ2YXIoLS1hc2gpIiwKICAgICAgICAgICAgbWFyZ2luOiAiMCBhdXRvIDI4cHgiLAogICAgICAgICAgICBtYXhXaWR0aDogNzIwLAogICAgICAgICAgICBmb250V2VpZ2h0OiA0MDAsCiAgICAgICAgICB9fQogICAgICAgID4KICAgICAgICAgIE5vIGRheSB0cmFkaW5nLiBObyBzaWduYWwgZ3JvdXBzLiBObyBJQ1QvU01DLiBKdXN0IG9uZSB3ZWVrbHkgcGxhbiwgYQogICAgICAgICAgbmluZS1waGFzZSBjeWNsZSwgYW5kIDIxIHllYXJzIG9mIGxpdmUgdHJhZGluZy4KICAgICAgICA8L3A+CgogICAgICAgIDxWaWRlb1RodW1ibmFpbCBvbkNsaWNrPXtvcGVuTW9kYWx9IC8+CgogICAgICAgIDxidXR0b24KICAgICAgICAgIG9uQ2xpY2s9e29wZW5Nb2RhbH0KICAgICAgICAgIGNsYXNzTmFtZT0iYnRuIGJ0bi1sZyIKICAgICAgICAgIHN0eWxlPXt7IG1hcmdpblRvcDogMjggfX0KICAgICAgICA+CiAgICAgICAgICBKb2luIFF1YW50dW0gQ2lwaGVyIOKGkgogICAgICAgIDwvYnV0dG9uPgogICAgICA8L2Rpdj4KCiAgICAgIHsvKiBGb290ZXIgKi99CiAgICAgIDxkaXYKICAgICAgICBzdHlsZT17ewogICAgICAgICAgYm9yZGVyVG9wOiAiMXB4IHNvbGlkIHZhcigtLWxpbmUpIiwKICAgICAgICAgIHBhZGRpbmc6ICIyMHB4IDQ4cHgiLAogICAgICAgICAgZGlzcGxheTogImZsZXgiLAogICAgICAgICAganVzdGlmeUNvbnRlbnQ6ICJzcGFjZS1iZXR3ZWVuIiwKICAgICAgICAgIGFsaWduSXRlbXM6ICJjZW50ZXIiLAogICAgICAgICAgZmxleFdyYXA6ICJ3cmFwIiwKICAgICAgICAgIGdhcDogMTIsCiAgICAgICAgICBmb250RmFtaWx5OiAidmFyKC0tZm9udC1tb25vKSIsCiAgICAgICAgICBmb250U2l6ZTogOSwKICAgICAgICAgIGNvbG9yOiAidmFyKC0tbXV0ZWQpIiwKICAgICAgICAgIGxldHRlclNwYWNpbmc6ICIwLjIyZW0iLAogICAgICAgICAgdGV4dFRyYW5zZm9ybTogInVwcGVyY2FzZSIsCiAgICAgICAgfX0KICAgICAgPgogICAgICAgIDxzcGFuPsKpIDIwMjYgwrcgUXVhbnR1bSBDaXBoZXI8L3NwYW4+CiAgICAgICAgPHNwYW4+wrcgTm90IEZpbmFuY2lhbCBBZHZpY2UgwrcgVHJhZGluZyBJbnZvbHZlcyBSZWFsIFJpc2sgT2YgTG9zcyDCtzwvc3Bhbj4KICAgICAgPC9kaXY+CgogICAgICB7b3BlbiAmJiAoCiAgICAgICAgPExlYWRNb2RhbCBvbkNsb3NlPXsoKSA9PiBzZXRPcGVuKGZhbHNlKX0gb25TdWJtaXQ9e2hhbmRsZVN1Ym1pdH0gLz4KICAgICAgKX0KICAgIDwvZGl2PgogICk7Cn0K"}
+"use client";
+
+import { useState } from "react";
+import { useRouter } from "next/navigation";
+import posthog from "posthog-js";
+import Logo from "@/components/shared/Logo";
+import VideoThumbnail from "@/components/page1/VideoThumbnail";
+import LeadModal, { type LeadModalForm } from "@/components/page1/LeadModal";
+
+export default function SqueezePage() {
+  const [open, setOpen] = useState(false);
+  const router = useRouter();
+
+  function openModal() {
+    posthog.capture("lead_modal_opened");
+    setOpen(true);
+  }
+
+  function handleSubmit(form: LeadModalForm) {
+    const params = new URLSearchParams({
+      first_name: form.first_name,
+      last_name: form.last_name,
+      email: form.email,
+      phone: form.phone,
+    });
+    router.push(`/training?${params.toString()}`);
+  }
+
+  return (
+    <div
+      style={{
+        minHeight: "100vh",
+        display: "flex",
+        flexDirection: "column",
+        backgroundImage:
+          "radial-gradient(900px 600px at 50% 0%, rgba(191,250,70,0.06), transparent 60%), radial-gradient(700px 600px at 50% 100%, rgba(191,250,70,0.04), transparent 60%)",
+      }}
+    >
+      {/* Top bar */}
+      <div
+        style={{
+          padding: "20px 48px",
+          display: "flex",
+          justifyContent: "space-between",
+          alignItems: "center",
+        }}
+      >
+        <Logo />
+        <span
+          className="qc-hide-mobile"
+          style={{
+            fontFamily: "var(--font-mono)",
+            fontSize: 10,
+            fontWeight: 600,
+            color: "var(--muted)",
+            letterSpacing: "0.24em",
+            textTransform: "uppercase",
+            whiteSpace: "nowrap",
+          }}
+        >
+          · Free Training · No Charge ·
+        </span>
+      </div>
+
+      {/* Hero */}
+      <div
+        className="grid-bg"
+        style={{
+          flex: 1,
+          display: "flex",
+          flexDirection: "column",
+          alignItems: "center",
+          justifyContent: "center",
+          padding: "24px 48px 40px",
+          textAlign: "center",
+          position: "relative",
+        }}
+      >
+        {/* Live pill */}
+        <div
+          style={{
+            display: "flex",
+            alignItems: "center",
+            gap: 12,
+            marginBottom: 18,
+            padding: "8px 16px",
+            border: "1px solid var(--line-2)",
+            background: "rgba(11,12,16,0.6)",
+          }}
+        >
+          <div
+            className="pulse"
+            style={{ width: 6, height: 6, background: "var(--acid)" }}
+          />
+          <span
+            style={{
+              fontFamily: "var(--font-mono)",
+              fontSize: 10,
+              fontWeight: 600,
+              color: "var(--acid)",
+              letterSpacing: "0.28em",
+              textTransform: "uppercase",
+            }}
+          >
+            2026 Cohort · Application Open
+          </span>
+        </div>
+
+        <h1
+          style={{
+            fontFamily: "var(--font-display)",
+            fontWeight: 600,
+            fontSize: 52,
+            lineHeight: 1.02,
+            letterSpacing: "-0.04em",
+            color: "var(--bone)",
+            margin: "0 auto 16px",
+            maxWidth: 1080,
+          }}
+        >
+          How My Students Are Compounding 7 Figures Trading{" "}
+          <em
+            style={{
+              color: "var(--acid)",
+              textShadow: "0 0 32px rgba(191,250,70,0.4)",
+            }}
+          >
+            90 Minutes A Week.
+          </em>
+        </h1>
+
+        <p
+          style={{
+            fontFamily: "var(--font-body)",
+            fontSize: 17,
+            lineHeight: 1.5,
+            color: "var(--ash)",
+            margin: "0 auto 28px",
+            maxWidth: 720,
+            fontWeight: 400,
+          }}
+        >
+          No day trading. No signal groups. No ICT/SMC. Just one weekly plan, a
+          nine-phase cycle, and 21 years of live trading.
+        </p>
+
+        <VideoThumbnail onClick={openModal} />
+
+        <button
+          onClick={openModal}
+          className="btn btn-lg"
+          style={{ marginTop: 28 }}
+        >
+          Join Quantum Cipher →
+        </button>
+      </div>
+
+      {/* Footer */}
+      <div
+        style={{
+          borderTop: "1px solid var(--line)",
+          padding: "20px 48px",
+          display: "flex",
+          justifyContent: "space-between",
+          alignItems: "center",
+          flexWrap: "wrap",
+          gap: 12,
+          fontFamily: "var(--font-mono)",
+          fontSize: 9,
+          color: "var(--muted)",
+          letterSpacing: "0.22em",
+          textTransform: "uppercase",
+        }}
+      >
+        <span>© 2026 · Quantum Cipher</span>
+        <span>· Not Financial Advice · Trading Involves Real Risk Of Loss ·</span>
+      </div>
+
+      {open && (
+        <LeadModal onClose={() => setOpen(false)} onSubmit={handleSubmit} />
+      )}
+    </div>
+  );
+}

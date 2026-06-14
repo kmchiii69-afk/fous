@@ -1,1 +1,25 @@
-{"data":"aW1wb3J0IHsgY29va2llcyB9IGZyb20gIm5leHQvaGVhZGVycyI7CmltcG9ydCB7IGNyZWF0ZUhhc2ggfSBmcm9tICJjcnlwdG8iOwppbXBvcnQgUGFzc3dvcmRHYXRlIGZyb20gIi4vUGFzc3dvcmRHYXRlIjsKaW1wb3J0IERhc2hib2FyZCBmcm9tICIuL0Rhc2hib2FyZCI7CmltcG9ydCAiLi9qYXJ2aXMuY3NzIjsKCmV4cG9ydCBjb25zdCBtZXRhZGF0YSA9IHsgdGl0bGU6ICJBbmFseXRpY3MgwrcgUXVhbnR1bSBDaXBoZXIiIH07CgpmdW5jdGlvbiBpc0F1dGhlZCh0b2tlbjogc3RyaW5nIHwgdW5kZWZpbmVkKTogYm9vbGVhbiB7CiAgY29uc3QgcGFzc3dvcmQgPSAocHJvY2Vzcy5lbnYuQU5BTFlUSUNTX1BBU1NXT1JEIHx8ICIiKS50cmltKCk7CiAgaWYgKCFwYXNzd29yZCB8fCAhdG9rZW4pIHJldHVybiBmYWxzZTsKICBjb25zdCBleHBlY3RlZCA9IGNyZWF0ZUhhc2goInNoYTI1NiIpLnVwZGF0ZShgcWMtYW5hbHl0aWNzOiR7cGFzc3dvcmR9YCkuZGlnZXN0KCJoZXgiKTsKICByZXR1cm4gdG9rZW4gPT09IGV4cGVjdGVkOwp9CgpleHBvcnQgZGVmYXVsdCBhc3luYyBmdW5jdGlvbiBBbmFseXRpY3NQYWdlKCkgewogIGNvbnN0IGNvb2tpZVN0b3JlID0gYXdhaXQgY29va2llcygpOwogIGNvbnN0IHRva2VuID0gY29va2llU3RvcmUuZ2V0KCJxY19hdXRoIik/LnZhbHVlOwoKICBpZiAoIWlzQXV0aGVkKHRva2VuKSkgewogICAgcmV0dXJuIDxQYXNzd29yZEdhdGUgLz47CiAgfQoKICByZXR1cm4gPERhc2hib2FyZCAvPjsKfQo="}
+import { cookies } from "next/headers";
+import { createHash } from "crypto";
+import PasswordGate from "./PasswordGate";
+import Dashboard from "./Dashboard";
+import "./jarvis.css";
+
+export const metadata = { title: "Analytics · Quantum Cipher" };
+
+function isAuthed(token: string | undefined): boolean {
+  const password = (process.env.ANALYTICS_PASSWORD || "").trim();
+  if (!password || !token) return false;
+  const expected = createHash("sha256").update(`qc-analytics:${password}`).digest("hex");
+  return token === expected;
+}
+
+export default async function AnalyticsPage() {
+  const cookieStore = await cookies();
+  const token = cookieStore.get("qc_auth")?.value;
+
+  if (!isAuthed(token)) {
+    return <PasswordGate />;
+  }
+
+  return <Dashboard />;
+}

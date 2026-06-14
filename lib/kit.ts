@@ -1,1 +1,86 @@
-{"data":"Ly8gS2l0IChmb3JtZXJseSBDb252ZXJ0S2l0KSBoZWxwZXJzCi8vCi8vIFVzZXMgdGhlIEtpdCB2MyAobGVnYWN5KSBBUEkgYXQgYXBpLmNvbnZlcnRraXQuY29tLiBCb3RoIGBzdWJzY3JpYmVUb0Zvcm1gCi8vIGFuZCBgdGFnU3Vic2NyaWJlcmAgd29yayB3aXRoIGp1c3QgdGhlIHB1YmxpYyBBUEkgS2V5IOKAlCBubyBzZWNyZXQgbmVlZGVkLgoKY29uc3QgS0lUX1YzX0JBU0UgPSAiaHR0cHM6Ly9hcGkuY29udmVydGtpdC5jb20vdjMiOwoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIHN1YnNjcmliZVRvRm9ybShpbnB1dDogewogIGVtYWlsOiBzdHJpbmc7CiAgZmlyc3RfbmFtZT86IHN0cmluZzsKICBsYXN0X25hbWU/OiBzdHJpbmc7CiAgcGhvbmU/OiBzdHJpbmc7CiAgZm9ybUlkPzogc3RyaW5nOwp9KTogUHJvbWlzZTx7IHN1YnNjcmlwdGlvbl9pZD86IG51bWJlciB9IHwgbnVsbD4gewogIGNvbnN0IGFwaUtleSA9IHByb2Nlc3MuZW52LktJVF9BUElfS0VZIHx8ICIiOwogIGNvbnN0IGZvcm1JZCA9IGlucHV0LmZvcm1JZCB8fCBwcm9jZXNzLmVudi5LSVRfRk9STV9JRCB8fCAiIjsKICBpZiAoIWFwaUtleSkgdGhyb3cgbmV3IEVycm9yKCJLSVRfQVBJX0tFWSBub3QgY29uZmlndXJlZCIpOwogIGlmICghZm9ybUlkKSB0aHJvdyBuZXcgRXJyb3IoIktJVF9GT1JNX0lEIG5vdCBjb25maWd1cmVkIik7CiAgaWYgKCFpbnB1dC5lbWFpbCkgdGhyb3cgbmV3IEVycm9yKCJLaXQgc3Vic2NyaWJlIHJlcXVpcmVzIGFuIGVtYWlsIik7CgogIGNvbnN0IHJlcyA9IGF3YWl0IGZldGNoKGAke0tJVF9WM19CQVNFfS9mb3Jtcy8ke2Zvcm1JZH0vc3Vic2NyaWJlYCwgewogICAgbWV0aG9kOiAiUE9TVCIsCiAgICBoZWFkZXJzOiB7ICJDb250ZW50LVR5cGUiOiAiYXBwbGljYXRpb24vanNvbiIgfSwKICAgIGJvZHk6IEpTT04uc3RyaW5naWZ5KHsKICAgICAgYXBpX2tleTogYXBpS2V5LAogICAgICBlbWFpbDogaW5wdXQuZW1haWwsCiAgICAgIGZpcnN0X25hbWU6IGlucHV0LmZpcnN0X25hbWUgfHwgIiIsCiAgICAgIGZpZWxkczogewogICAgICAgIGxhc3RfbmFtZTogaW5wdXQubGFzdF9uYW1lIHx8ICIiLAogICAgICAgIHBob25lOiBpbnB1dC5waG9uZSB8fCAiIiwKICAgICAgfSwKICAgIH0pLAogIH0pOwoKICBpZiAoIXJlcy5vaykgewogICAgY29uc3QgdGV4dCA9IGF3YWl0IHJlcy50ZXh0KCkuY2F0Y2goKCkgPT4gIiIpOwogICAgdGhyb3cgbmV3IEVycm9yKGBLaXQgc3Vic2NyaWJlICR7cmVzLnN0YXR1c306ICR7dGV4dC5zbGljZSgwLCA0MDApfWApOwogIH0KCiAgY29uc3QgZGF0YSA9IChhd2FpdCByZXMuanNvbigpLmNhdGNoKCgpID0+ICh7fSkpKSBhcyB7CiAgICBzdWJzY3JpcHRpb24/OiB7IGlkPzogbnVtYmVyIH07CiAgfTsKICByZXR1cm4gZGF0YS5zdWJzY3JpcHRpb24/LmlkID8geyBzdWJzY3JpcHRpb25faWQ6IGRhdGEuc3Vic2NyaXB0aW9uLmlkIH0gOiBudWxsOwp9CgovKioKICogQXR0YWNoIGEgS2l0IHRhZyB0byBhIHN1YnNjcmliZXIgYnkgZW1haWwuIENyZWF0ZXMgdGhlIHN1YnNjcmliZXIgaWYgdGhleQogKiBkb24ndCBleGlzdCB5ZXQgKEtpdCBhdXRvLWNyZWF0ZXMgb24gdGFnIHN1YnNjcmliZSkuIFJldHVybnMgc2lsZW50bHkgaWYKICogYHRhZ0lkYCBpcyBtaXNzaW5nL2VtcHR5IHNvIGNhbGxlcnMgZG9uJ3QgaGF2ZSB0byBndWFyZCBlYWNoIGludm9jYXRpb24uCiAqLwpleHBvcnQgYXN5bmMgZnVuY3Rpb24gdGFnU3Vic2NyaWJlcihpbnB1dDogewogIGVtYWlsOiBzdHJpbmc7CiAgdGFnSWQ6IHN0cmluZyB8IG51bWJlciB8IG51bGwgfCB1bmRlZmluZWQ7CiAgZmlyc3RfbmFtZT86IHN0cmluZzsKICBsYXN0X25hbWU/OiBzdHJpbmc7CiAgcGhvbmU/OiBzdHJpbmc7Cn0pOiBQcm9taXNlPHsgc3Vic2NyaXB0aW9uX2lkPzogbnVtYmVyIH0gfCBudWxsPiB7CiAgaWYgKCFpbnB1dC50YWdJZCkgcmV0dXJuIG51bGw7IC8vIHRhZyBpZCBub3QgY29uZmlndXJlZCDigJQgc2tpcCBzaWxlbnRseQogIGNvbnN0IGFwaUtleSA9IHByb2Nlc3MuZW52LktJVF9BUElfS0VZIHx8ICIiOwogIGlmICghYXBpS2V5KSB0aHJvdyBuZXcgRXJyb3IoIktJVF9BUElfS0VZIG5vdCBjb25maWd1cmVkIik7CiAgaWYgKCFpbnB1dC5lbWFpbCkgdGhyb3cgbmV3IEVycm9yKCJLaXQgdGFnU3Vic2NyaWJlciByZXF1aXJlcyBhbiBlbWFpbCIpOwoKICBjb25zdCByZXMgPSBhd2FpdCBmZXRjaChgJHtLSVRfVjNfQkFTRX0vdGFncy8ke2lucHV0LnRhZ0lkfS9zdWJzY3JpYmVgLCB7CiAgICBtZXRob2Q6ICJQT1NUIiwKICAgIGhlYWRlcnM6IHsgIkNvbnRlbnQtVHlwZSI6ICJhcHBsaWNhdGlvbi9qc29uIiB9LAogICAgYm9keTogSlNPTi5zdHJpbmdpZnkoewogICAgICBhcGlfa2V5OiBhcGlLZXksCiAgICAgIGVtYWlsOiBpbnB1dC5lbWFpbCwKICAgICAgZmlyc3RfbmFtZTogaW5wdXQuZmlyc3RfbmFtZSB8fCAiIiwKICAgICAgZmllbGRzOiB7CiAgICAgICAgbGFzdF9uYW1lOiBpbnB1dC5sYXN0X25hbWUgfHwgIiIsCiAgICAgICAgcGhvbmU6IGlucHV0LnBob25lIHx8ICIiLAogICAgICB9LAogICAgfSksCiAgfSk7CgogIGlmICghcmVzLm9rKSB7CiAgICBjb25zdCB0ZXh0ID0gYXdhaXQgcmVzLnRleHQoKS5jYXRjaCgoKSA9PiAiIik7CiAgICB0aHJvdyBuZXcgRXJyb3IoYEtpdCB0YWcgJHtpbnB1dC50YWdJZH0gJHtyZXMuc3RhdHVzfTogJHt0ZXh0LnNsaWNlKDAsIDQwMCl9YCk7CiAgfQoKICBjb25zdCBkYXRhID0gKGF3YWl0IHJlcy5qc29uKCkuY2F0Y2goKCkgPT4gKHt9KSkpIGFzIHsKICAgIHN1YnNjcmlwdGlvbj86IHsgaWQ/OiBudW1iZXIgfTsKICB9OwogIHJldHVybiBkYXRhLnN1YnNjcmlwdGlvbj8uaWQgPyB7IHN1YnNjcmlwdGlvbl9pZDogZGF0YS5zdWJzY3JpcHRpb24uaWQgfSA6IG51bGw7Cn0K"}
+// Kit (formerly ConvertKit) helpers
+//
+// Uses the Kit v3 (legacy) API at api.convertkit.com. Both `subscribeToForm`
+// and `tagSubscriber` work with just the public API Key — no secret needed.
+
+const KIT_V3_BASE = "https://api.convertkit.com/v3";
+
+export async function subscribeToForm(input: {
+  email: string;
+  first_name?: string;
+  last_name?: string;
+  phone?: string;
+  formId?: string;
+}): Promise<{ subscription_id?: number } | null> {
+  const apiKey = process.env.KIT_API_KEY || "";
+  const formId = input.formId || process.env.KIT_FORM_ID || "";
+  if (!apiKey) throw new Error("KIT_API_KEY not configured");
+  if (!formId) throw new Error("KIT_FORM_ID not configured");
+  if (!input.email) throw new Error("Kit subscribe requires an email");
+
+  const res = await fetch(`${KIT_V3_BASE}/forms/${formId}/subscribe`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      api_key: apiKey,
+      email: input.email,
+      first_name: input.first_name || "",
+      fields: {
+        last_name: input.last_name || "",
+        phone: input.phone || "",
+      },
+    }),
+  });
+
+  if (!res.ok) {
+    const text = await res.text().catch(() => "");
+    throw new Error(`Kit subscribe ${res.status}: ${text.slice(0, 400)}`);
+  }
+
+  const data = (await res.json().catch(() => ({}))) as {
+    subscription?: { id?: number };
+  };
+  return data.subscription?.id ? { subscription_id: data.subscription.id } : null;
+}
+
+/**
+ * Attach a Kit tag to a subscriber by email. Creates the subscriber if they
+ * don't exist yet (Kit auto-creates on tag subscribe). Returns silently if
+ * `tagId` is missing/empty so callers don't have to guard each invocation.
+ */
+export async function tagSubscriber(input: {
+  email: string;
+  tagId: string | number | null | undefined;
+  first_name?: string;
+  last_name?: string;
+  phone?: string;
+}): Promise<{ subscription_id?: number } | null> {
+  if (!input.tagId) return null; // tag id not configured — skip silently
+  const apiKey = process.env.KIT_API_KEY || "";
+  if (!apiKey) throw new Error("KIT_API_KEY not configured");
+  if (!input.email) throw new Error("Kit tagSubscriber requires an email");
+
+  const res = await fetch(`${KIT_V3_BASE}/tags/${input.tagId}/subscribe`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      api_key: apiKey,
+      email: input.email,
+      first_name: input.first_name || "",
+      fields: {
+        last_name: input.last_name || "",
+        phone: input.phone || "",
+      },
+    }),
+  });
+
+  if (!res.ok) {
+    const text = await res.text().catch(() => "");
+    throw new Error(`Kit tag ${input.tagId} ${res.status}: ${text.slice(0, 400)}`);
+  }
+
+  const data = (await res.json().catch(() => ({}))) as {
+    subscription?: { id?: number };
+  };
+  return data.subscription?.id ? { subscription_id: data.subscription.id } : null;
+}

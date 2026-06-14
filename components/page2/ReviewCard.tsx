@@ -1,1 +1,150 @@
-{"data":"InVzZSBjbGllbnQiOwoKZnVuY3Rpb24gU3RhclJvdyh7IGNvdW50ID0gNSB9OiB7IGNvdW50PzogbnVtYmVyIH0pIHsKICByZXR1cm4gKAogICAgPGRpdiBzdHlsZT17eyBkaXNwbGF5OiAiZmxleCIsIGdhcDogMyB9fT4KICAgICAge0FycmF5LmZyb20oeyBsZW5ndGg6IGNvdW50IH0pLm1hcCgoXywgaSkgPT4gKAogICAgICAgIDxzdmcga2V5PXtpfSB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxNCAxNCIgc3R5bGU9e3sgZGlzcGxheTogImJsb2NrIiB9fT4KICAgICAgICAgIDxwb2x5Z29uCiAgICAgICAgICAgIHBvaW50cz0iNywxIDguODUsNS4xIDEzLjMsNS41IDkuOSw4LjQgMTEsMTIuOCA3LDEwLjQgMywxMi44IDQuMSw4LjQgMC43LDUuNSA1LjE1LDUuMSIKICAgICAgICAgICAgZmlsbD0idmFyKC0tYWNpZCkiCiAgICAgICAgICAvPgogICAgICAgIDwvc3ZnPgogICAgICApKX0KICAgIDwvZGl2PgogICk7Cn0KCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIFJldmlld0NhcmQoewogIG5hbWUsCiAgcXVvdGUsCiAgZGF0ZSwKICB2ZXJpZmllZCA9IHRydWUsCn06IHsKICBuYW1lOiBzdHJpbmc7CiAgcXVvdGU6IHN0cmluZzsKICBkYXRlOiBzdHJpbmc7CiAgdmVyaWZpZWQ/OiBib29sZWFuOwp9KSB7CiAgY29uc3QgcGFsZXR0ZSA9IFsidmFyKC0tYWNpZCkiLCAidmFyKC0tcGluaykiLCAiIzZGRTlGRiJdOwogIGNvbnN0IGFjY2VudCA9IHBhbGV0dGVbbmFtZS5jaGFyQ29kZUF0KDApICUgM107CiAgY29uc3QgaW5pdGlhbHMgPSBuYW1lCiAgICAuc3BsaXQoL1xzKy8pCiAgICAubWFwKCh3KSA9PiB3WzBdKQogICAgLmpvaW4oIiIpCiAgICAuc2xpY2UoMCwgMikKICAgIC50b1VwcGVyQ2FzZSgpOwoKICByZXR1cm4gKAogICAgPGRpdgogICAgICBzdHlsZT17ewogICAgICAgIGJhY2tncm91bmQ6ICJ2YXIoLS1iZy0xKSIsCiAgICAgICAgYm9yZGVyOiAiMXB4IHNvbGlkIHZhcigtLWxpbmUpIiwKICAgICAgICBwYWRkaW5nOiAiMjJweCAyMnB4IiwKICAgICAgICBtYXJnaW5Cb3R0b206IDE0LAogICAgICAgIGJyZWFrSW5zaWRlOiAiYXZvaWQiLAogICAgICAgIGRpc3BsYXk6ICJmbGV4IiwKICAgICAgICBmbGV4RGlyZWN0aW9uOiAiY29sdW1uIiwKICAgICAgICBnYXA6IDE0LAogICAgICAgIHRyYW5zaXRpb246ICJib3JkZXItY29sb3IgMjAwbXMgZWFzZSwgdHJhbnNmb3JtIDIwMG1zIGVhc2UiLAogICAgICB9fQogICAgICBvbk1vdXNlRW50ZXI9eyhlKSA9PiB7CiAgICAgICAgKGUuY3VycmVudFRhcmdldCBhcyBIVE1MRGl2RWxlbWVudCkuc3R5bGUuYm9yZGVyQ29sb3IgPSAidmFyKC0tYWNpZCkiOwogICAgICAgIChlLmN1cnJlbnRUYXJnZXQgYXMgSFRNTERpdkVsZW1lbnQpLnN0eWxlLnRyYW5zZm9ybSA9ICJ0cmFuc2xhdGVZKC0ycHgpIjsKICAgICAgfX0KICAgICAgb25Nb3VzZUxlYXZlPXsoZSkgPT4gewogICAgICAgIChlLmN1cnJlbnRUYXJnZXQgYXMgSFRNTERpdkVsZW1lbnQpLnN0eWxlLmJvcmRlckNvbG9yID0gInZhcigtLWxpbmUpIjsKICAgICAgICAoZS5jdXJyZW50VGFyZ2V0IGFzIEhUTUxEaXZFbGVtZW50KS5zdHlsZS50cmFuc2Zvcm0gPSAidHJhbnNsYXRlWSgwKSI7CiAgICAgIH19CiAgICA+CiAgICAgIDxkaXYgc3R5bGU9e3sgZGlzcGxheTogImZsZXgiLCBqdXN0aWZ5Q29udGVudDogInNwYWNlLWJldHdlZW4iLCBhbGlnbkl0ZW1zOiAiY2VudGVyIiB9fT4KICAgICAgICA8U3RhclJvdyBjb3VudD17NX0gLz4KICAgICAgICB7dmVyaWZpZWQgJiYgKAogICAgICAgICAgPHNwYW4KICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICBmb250RmFtaWx5OiAidmFyKC0tZm9udC1tb25vKSIsCiAgICAgICAgICAgICAgZm9udFNpemU6IDgsCiAgICAgICAgICAgICAgZm9udFdlaWdodDogNzAwLAogICAgICAgICAgICAgIGNvbG9yOiAidmFyKC0tYWNpZCkiLAogICAgICAgICAgICAgIGxldHRlclNwYWNpbmc6ICIwLjIyZW0iLAogICAgICAgICAgICAgIGJvcmRlcjogIjFweCBzb2xpZCB2YXIoLS1hY2lkKSIsCiAgICAgICAgICAgICAgcGFkZGluZzogIjNweCA2cHgiLAogICAgICAgICAgICAgIHdoaXRlU3BhY2U6ICJub3dyYXAiLAogICAgICAgICAgICB9fQogICAgICAgICAgPgogICAgICAgICAgICBWRVJJRklFRCDCtyBXSE9QCiAgICAgICAgICA8L3NwYW4+CiAgICAgICAgKX0KICAgICAgPC9kaXY+CiAgICAgIDxwCiAgICAgICAgc3R5bGU9e3sKICAgICAgICAgIGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LWJvZHkpIiwKICAgICAgICAgIGZvbnRTaXplOiAxNCwKICAgICAgICAgIGxpbmVIZWlnaHQ6IDEuNiwKICAgICAgICAgIGNvbG9yOiAidmFyKC0tYm9uZSkiLAogICAgICAgICAgbWFyZ2luOiAwLAogICAgICAgICAgZm9udFdlaWdodDogNDAwLAogICAgICAgIH19CiAgICAgID4KICAgICAgICAmbGRxdW87e3F1b3RlfSZyZHF1bzsKICAgICAgPC9wPgogICAgICA8ZGl2CiAgICAgICAgc3R5bGU9e3sKICAgICAgICAgIHBhZGRpbmdUb3A6IDE0LAogICAgICAgICAgYm9yZGVyVG9wOiAiMXB4IHNvbGlkIHZhcigtLWxpbmUpIiwKICAgICAgICAgIGRpc3BsYXk6ICJmbGV4IiwKICAgICAgICAgIGFsaWduSXRlbXM6ICJjZW50ZXIiLAogICAgICAgICAgZ2FwOiAxMiwKICAgICAgICB9fQogICAgICA+CiAgICAgICAgPGRpdgogICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgd2lkdGg6IDMyLAogICAgICAgICAgICBoZWlnaHQ6IDMyLAogICAgICAgICAgICBiYWNrZ3JvdW5kOiAidmFyKC0tYmctMikiLAogICAgICAgICAgICBib3JkZXI6IGAxcHggc29saWQgJHthY2NlbnR9YCwKICAgICAgICAgICAgZGlzcGxheTogImZsZXgiLAogICAgICAgICAgICBhbGlnbkl0ZW1zOiAiY2VudGVyIiwKICAgICAgICAgICAganVzdGlmeUNvbnRlbnQ6ICJjZW50ZXIiLAogICAgICAgICAgICBmb250RmFtaWx5OiAidmFyKC0tZm9udC1kaXNwbGF5KSIsCiAgICAgICAgICAgIGZvbnRTaXplOiAxMiwKICAgICAgICAgICAgZm9udFdlaWdodDogNzAwLAogICAgICAgICAgICBjb2xvcjogYWNjZW50LAogICAgICAgICAgICBmbGV4U2hyaW5rOiAwLAogICAgICAgICAgfX0KICAgICAgICA+CiAgICAgICAgICB7aW5pdGlhbHN9CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdiBzdHlsZT17eyBmbGV4OiAxLCBtaW5XaWR0aDogMCB9fT4KICAgICAgICAgIDxkaXYKICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICBmb250RmFtaWx5OiAidmFyKC0tZm9udC1kaXNwbGF5KSIsCiAgICAgICAgICAgICAgZm9udFNpemU6IDE1LAogICAgICAgICAgICAgIGZvbnRXZWlnaHQ6IDYwMCwKICAgICAgICAgICAgICBjb2xvcjogInZhcigtLWJvbmUpIiwKICAgICAgICAgICAgICBsZXR0ZXJTcGFjaW5nOiAiLTAuMDE1ZW0iLAogICAgICAgICAgICAgIGxpbmVIZWlnaHQ6IDEuMiwKICAgICAgICAgICAgICB3aGl0ZVNwYWNlOiAibm93cmFwIiwKICAgICAgICAgICAgICBvdmVyZmxvdzogImhpZGRlbiIsCiAgICAgICAgICAgICAgdGV4dE92ZXJmbG93OiAiZWxsaXBzaXMiLAogICAgICAgICAgICB9fQogICAgICAgICAgPgogICAgICAgICAgICB7bmFtZX0KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPGRpdgogICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgIGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LW1vbm8pIiwKICAgICAgICAgICAgICBmb250U2l6ZTogOSwKICAgICAgICAgICAgICBjb2xvcjogInZhcigtLWFzaCkiLAogICAgICAgICAgICAgIGxldHRlclNwYWNpbmc6ICIwLjE4ZW0iLAogICAgICAgICAgICAgIHRleHRUcmFuc2Zvcm06ICJ1cHBlcmNhc2UiLAogICAgICAgICAgICAgIG1hcmdpblRvcDogMiwKICAgICAgICAgICAgfX0KICAgICAgICAgID4KICAgICAgICAgICAge2RhdGV9CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICApOwp9Cg=="}
+"use client";
+
+function StarRow({ count = 5 }: { count?: number }) {
+  return (
+    <div style={{ display: "flex", gap: 3 }}>
+      {Array.from({ length: count }).map((_, i) => (
+        <svg key={i} width="12" height="12" viewBox="0 0 14 14" style={{ display: "block" }}>
+          <polygon
+            points="7,1 8.85,5.1 13.3,5.5 9.9,8.4 11,12.8 7,10.4 3,12.8 4.1,8.4 0.7,5.5 5.15,5.1"
+            fill="var(--acid)"
+          />
+        </svg>
+      ))}
+    </div>
+  );
+}
+
+export default function ReviewCard({
+  name,
+  quote,
+  date,
+  verified = true,
+}: {
+  name: string;
+  quote: string;
+  date: string;
+  verified?: boolean;
+}) {
+  const palette = ["var(--acid)", "var(--pink)", "#6FE9FF"];
+  const accent = palette[name.charCodeAt(0) % 3];
+  const initials = name
+    .split(/\s+/)
+    .map((w) => w[0])
+    .join("")
+    .slice(0, 2)
+    .toUpperCase();
+
+  return (
+    <div
+      style={{
+        background: "var(--bg-1)",
+        border: "1px solid var(--line)",
+        padding: "22px 22px",
+        marginBottom: 14,
+        breakInside: "avoid",
+        display: "flex",
+        flexDirection: "column",
+        gap: 14,
+        transition: "border-color 200ms ease, transform 200ms ease",
+      }}
+      onMouseEnter={(e) => {
+        (e.currentTarget as HTMLDivElement).style.borderColor = "var(--acid)";
+        (e.currentTarget as HTMLDivElement).style.transform = "translateY(-2px)";
+      }}
+      onMouseLeave={(e) => {
+        (e.currentTarget as HTMLDivElement).style.borderColor = "var(--line)";
+        (e.currentTarget as HTMLDivElement).style.transform = "translateY(0)";
+      }}
+    >
+      <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center" }}>
+        <StarRow count={5} />
+        {verified && (
+          <span
+            style={{
+              fontFamily: "var(--font-mono)",
+              fontSize: 8,
+              fontWeight: 700,
+              color: "var(--acid)",
+              letterSpacing: "0.22em",
+              border: "1px solid var(--acid)",
+              padding: "3px 6px",
+              whiteSpace: "nowrap",
+            }}
+          >
+            VERIFIED · WHOP
+          </span>
+        )}
+      </div>
+      <p
+        style={{
+          fontFamily: "var(--font-body)",
+          fontSize: 14,
+          lineHeight: 1.6,
+          color: "var(--bone)",
+          margin: 0,
+          fontWeight: 400,
+        }}
+      >
+        &ldquo;{quote}&rdquo;
+      </p>
+      <div
+        style={{
+          paddingTop: 14,
+          borderTop: "1px solid var(--line)",
+          display: "flex",
+          alignItems: "center",
+          gap: 12,
+        }}
+      >
+        <div
+          style={{
+            width: 32,
+            height: 32,
+            background: "var(--bg-2)",
+            border: `1px solid ${accent}`,
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "center",
+            fontFamily: "var(--font-display)",
+            fontSize: 12,
+            fontWeight: 700,
+            color: accent,
+            flexShrink: 0,
+          }}
+        >
+          {initials}
+        </div>
+        <div style={{ flex: 1, minWidth: 0 }}>
+          <div
+            style={{
+              fontFamily: "var(--font-display)",
+              fontSize: 15,
+              fontWeight: 600,
+              color: "var(--bone)",
+              letterSpacing: "-0.015em",
+              lineHeight: 1.2,
+              whiteSpace: "nowrap",
+              overflow: "hidden",
+              textOverflow: "ellipsis",
+            }}
+          >
+            {name}
+          </div>
+          <div
+            style={{
+              fontFamily: "var(--font-mono)",
+              fontSize: 9,
+              color: "var(--ash)",
+              letterSpacing: "0.18em",
+              textTransform: "uppercase",
+              marginTop: 2,
+            }}
+          >
+            {date}
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
