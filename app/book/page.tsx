@@ -1,13 +1,12 @@
 "use client";
 
-import { Suspense, useEffect, useMemo, useState } from "react";
+import { Suspense, useEffect, useState } from "react";
 import { useSearchParams } from "next/navigation";
 import Link from "next/link";
 import posthog from "posthog-js";
+import BookingCalendar from "@/components/page2/BookingCalendar";
 
-const BASE_CALENDLY = process.env.NEXT_PUBLIC_CALENDLY_URL || "https://calendly.com/benitezsalescontact/30min";
-
-// Brand-themed Calendly via URL params (hex without #)
+// Legacy Calendly theme — kept for the callback fallback iframe only
 const CALENDLY_THEME = {
   background_color: "06070A",
   text_color: "F2F0E6",
@@ -51,7 +50,6 @@ function BookInner() {
   const sp = useSearchParams();
   const firstName = (sp.get("first_name") || "").replace(/[^A-Za-z\s'-]/g, "").slice(0, 40);
   const lastName = (sp.get("last_name") || "").replace(/[^A-Za-z\s'-]/g, "").slice(0, 40);
-  const fullName = [firstName, lastName].filter(Boolean).join(" ").trim();
   const email = (sp.get("email") || "").slice(0, 120);
   const phone = (sp.get("phone") || "").slice(0, 24);
 
@@ -61,18 +59,12 @@ function BookInner() {
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
-  const calendlyUrl = useMemo(() => buildCalendlyUrl(fullName, email, phone), [fullName, email, phone]);
-
-  // Direct iframe embed — no Calendly widget script. Cuts ~5–10s off load time
-  // because we skip the script fetch → onLoad → initInlineWidget pipeline and
-  // let the browser load the iframe immediately on mount.
   return (
-    <iframe
-      src={calendlyUrl}
-      title="Quantum Cipher · Book Operator Call"
-      loading="eager"
-      style={{ width: "100%", height: 760, minHeight: 760, border: 0, background: "transparent", display: "block" }}
-      allow="camera; microphone; autoplay; encrypted-media; fullscreen; picture-in-picture"
+    <BookingCalendar
+      firstName={firstName}
+      lastName={lastName}
+      email={email}
+      phone={phone}
     />
   );
 }
@@ -200,9 +192,9 @@ export default function BookPage() {
 
       {/* CALENDLY EMBED */}
       <section style={{ maxWidth: 1180, margin: "0 auto", padding: "0 48px 32px" }}>
-        <div style={{ background: "var(--bg-1)", border: "1px solid var(--line)", padding: 0, overflow: "hidden", position: "relative" }}>
+        <div style={{ background: "var(--bg-1)", border: "1px solid var(--line)", padding: "32px 36px", position: "relative" }}>
           <Suspense fallback={
-            <div style={{ display: "flex", alignItems: "center", justifyContent: "center", height: 760, color: "var(--ash)", fontFamily: "var(--font-mono)", fontSize: 11, fontWeight: 700, letterSpacing: "0.22em", textTransform: "uppercase" }}>
+            <div style={{ display: "flex", alignItems: "center", justifyContent: "center", height: 360, color: "var(--ash)", fontFamily: "var(--font-mono)", fontSize: 11, fontWeight: 700, letterSpacing: "0.22em", textTransform: "uppercase" }}>
               <span className="pulse" style={{ width: 8, height: 8, background: "var(--acid)", marginRight: 12, display: "inline-block" }} />
               · Preparing calendar ·
             </div>
