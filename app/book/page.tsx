@@ -6,6 +6,9 @@ import Link from "next/link";
 import posthog from "posthog-js";
 import BookingCalendar from "@/components/page2/BookingCalendar";
 
+// Used only by the callback fallback flow (not the main calendar)
+const BASE_CALENDLY = process.env.NEXT_PUBLIC_CALENDLY_URL || "https://calendly.com/benitezsalescontact/30min";
+
 // Legacy Calendly theme — kept for the callback fallback iframe only
 const CALENDLY_THEME = {
   background_color: "06070A",
