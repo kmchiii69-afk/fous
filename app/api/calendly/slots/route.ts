@@ -20,6 +20,15 @@ async function getEventType(): Promise<{ uri: string; uuid: string } | null> {
   const pat = process.env.CALENDLY_PAT;
   if (!pat) return null;
 
+  // If the event type URI is hardcoded (e.g. for a specific team member's event),
+  // skip the user lookup entirely and use it directly.
+  const hardcodedUri = process.env.CALENDLY_EVENT_TYPE_URI;
+  if (hardcodedUri) {
+    const uuid = hardcodedUri.split("/").pop() ?? "";
+    _eventType = { uri: hardcodedUri, uuid, t: Date.now() };
+    return _eventType;
+  }
+
   const headers = { Authorization: `Bearer ${pat}`, "Content-Type": "application/json" };
 
   const userRes = await fetch(`${CALENDLY_API}/users/me`, { headers });
@@ -39,8 +48,10 @@ async function getEventType(): Promise<{ uri: string; uuid: string } | null> {
   }
   const { collection } = await etRes.json();
 
-  // Prefer the 30-min event type; fall back to the first active one.
+  // Match by env-specified slug, then 30min slug, then duration, then first active.
+  const slug = process.env.CALENDLY_EVENT_SLUG;
   const et =
+    (slug ? (collection as any[])?.find((e) => e.slug === slug) : null) ??
     (collection as any[])?.find((e) => e.slug === "30min" || e.duration === 30) ??
     (collection as any[])?.[0];
 
